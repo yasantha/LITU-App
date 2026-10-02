@@ -23,6 +23,7 @@ dependencyResolutionManagement {
 rootProject.name = "litu-app"
 
 include(":app")
+include(":audio_pack")
 
 include(":core:model")
 include(":core:content")

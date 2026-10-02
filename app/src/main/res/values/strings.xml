@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- app_name is set per flavour in app/build.gradle.kts; the final name is open decision 1. -->
+    <string name="tagline">Your Life in the UK study coach</string>
+    <string name="reminder_channel">Daily study reminder</string>
+    <string name="reminder_channel_description">One reminder a day at the time you choose</string>
+    <string name="reminder_title">Time for a few questions</string>
+    <string name="reminder_body_goal">You\'re %1$d questions from today\'s goal.</string>
+    <string name="reminder_body_default">A short session today keeps your streak going.</string>
+</resources>
