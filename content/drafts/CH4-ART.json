@@ -1,0 +1,210 @@
+[
+  {
+    "id": "Q-CH4-ART-001",
+    "section_id": "CH4-ART",
+    "type": "single",
+    "stem": "Where is the Proms, an eight-week summer season of classical music, mainly held?",
+    "options": [
+      {
+        "label": "The Royal Albert Hall",
+        "correct": true
+      },
+      {
+        "label": "Wembley Stadium",
+        "correct": false
+      },
+      {
+        "label": "The O2 Arena",
+        "correct": false
+      },
+      {
+        "label": "Covent Garden",
+        "correct": false
+      }
+    ],
+    "explanation": "The Proms is a summer season of classical concerts held mainly at the Royal Albert Hall in London. It has run since 1895.",
+    "handbook_ref": "Chapter 4 · Arts and culture",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH4-ART-002",
+    "section_id": "CH4-ART",
+    "type": "single",
+    "stem": "Who composed 'Pomp and Circumstance'?",
+    "options": [
+      {
+        "label": "Sir Edward Elgar",
+        "correct": true
+      },
+      {
+        "label": "Benjamin Britten",
+        "correct": false
+      },
+      {
+        "label": "Henry Purcell",
+        "correct": false
+      },
+      {
+        "label": "Andrew Lloyd Webber",
+        "correct": false
+      }
+    ],
+    "explanation": "Sir Edward Elgar wrote the 'Pomp and Circumstance' marches. One is often sung as 'Land of Hope and Glory'.",
+    "handbook_ref": "Chapter 4 · Arts and culture",
+    "difficulty": 3
+  },
+  {
+    "id": "Q-CH4-ART-003",
+    "section_id": "CH4-ART",
+    "type": "single",
+    "stem": "Who wrote Oliver Twist?",
+    "options": [
+      {
+        "label": "Charles Dickens",
+        "correct": true
+      },
+      {
+        "label": "Thomas Hardy",
+        "correct": false
+      },
+      {
+        "label": "Jane Austen",
+        "correct": false
+      },
+      {
+        "label": "Sir Arthur Conan Doyle",
+        "correct": false
+      }
+    ],
+    "explanation": "Charles Dickens wrote many famous novels, including Oliver Twist and Great Expectations. They show the lives of poor people in the 19th century.",
+    "handbook_ref": "Chapter 4 · Arts and culture",
+    "difficulty": 1
+  },
+  {
+    "id": "Q-CH4-ART-004",
+    "section_id": "CH4-ART",
+    "type": "single",
+    "stem": "Who created the detective Sherlock Holmes?",
+    "options": [
+      {
+        "label": "Sir Arthur Conan Doyle",
+        "correct": true
+      },
+      {
+        "label": "Ian Fleming",
+        "correct": false
+      },
+      {
+        "label": "Charles Dickens",
+        "correct": false
+      },
+      {
+        "label": "Thomas Hardy",
+        "correct": false
+      }
+    ],
+    "explanation": "Sir Arthur Conan Doyle, a Scottish doctor and writer, created Sherlock Holmes, one of the best-known fictional detectives.",
+    "handbook_ref": "Chapter 4 · Arts and culture",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH4-ART-005",
+    "section_id": "CH4-ART",
+    "type": "single",
+    "stem": "Which prize is given each year to a contemporary British artist?",
+    "options": [
+      {
+        "label": "The Turner Prize",
+        "correct": true
+      },
+      {
+        "label": "The Man Booker Prize",
+        "correct": false
+      },
+      {
+        "label": "A BAFTA",
+        "correct": false
+      },
+      {
+        "label": "The Laurence Olivier Award",
+        "correct": false
+      }
+    ],
+    "explanation": "The Turner Prize is named after the painter J M W Turner and celebrates contemporary art. The Man Booker Prize is for fiction.",
+    "handbook_ref": "Chapter 4 · Arts and culture",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH4-ART-006",
+    "section_id": "CH4-ART",
+    "type": "single",
+    "stem": "Who designed St Paul's Cathedral after the Great Fire of London?",
+    "options": [
+      {
+        "label": "Sir Christopher Wren",
+        "correct": true
+      },
+      {
+        "label": "Sir Edwin Lutyens",
+        "correct": false
+      },
+      {
+        "label": "Capability Brown",
+        "correct": false
+      },
+      {
+        "label": "Henry Moore",
+        "correct": false
+      }
+    ],
+    "explanation": "Sir Christopher Wren rebuilt St Paul's Cathedral and many London churches after the fire of 1666.",
+    "handbook_ref": "Chapter 4 · Arts and culture",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH4-ART-007",
+    "section_id": "CH4-ART",
+    "type": "truefalse",
+    "stem": "The Eisteddfod is a Welsh festival of music, poetry and performance.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "The National Eisteddfod of Wales is a large festival of music, literature and performance, with many events in the Welsh language.",
+    "handbook_ref": "Chapter 4 · Arts and culture",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH4-ART-008",
+    "section_id": "CH4-ART",
+    "type": "single",
+    "stem": "Who wrote Pride and Prejudice?",
+    "options": [
+      {
+        "label": "Jane Austen",
+        "correct": true
+      },
+      {
+        "label": "Thomas Hardy",
+        "correct": false
+      },
+      {
+        "label": "Charles Dickens",
+        "correct": false
+      },
+      {
+        "label": "Agatha Christie",
+        "correct": false
+      }
+    ],
+    "explanation": "Jane Austen wrote Pride and Prejudice and Sense and Sensibility. Her novels are about marriage and family life.",
+    "handbook_ref": "Chapter 4 · Arts and culture",
+    "difficulty": 1
+  }
+]

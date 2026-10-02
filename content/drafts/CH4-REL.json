@@ -1,0 +1,156 @@
+[
+  {
+    "id": "Q-CH4-REL-001",
+    "section_id": "CH4-REL",
+    "type": "single",
+    "stem": "Who is the patron saint of Scotland?",
+    "options": [
+      {
+        "label": "St Andrew",
+        "correct": true
+      },
+      {
+        "label": "St David",
+        "correct": false
+      },
+      {
+        "label": "St George",
+        "correct": false
+      },
+      {
+        "label": "St Patrick",
+        "correct": false
+      }
+    ],
+    "explanation": "St Andrew is the patron saint of Scotland and St Andrew's Day is 30 November. St David is for Wales, St George for England and St Patrick for Northern Ireland.",
+    "handbook_ref": "Chapter 4 · Religion",
+    "difficulty": 1
+  },
+  {
+    "id": "Q-CH4-REL-002",
+    "section_id": "CH4-REL",
+    "type": "single",
+    "stem": "When is St David's Day, the national day of Wales?",
+    "options": [
+      {
+        "label": "1 March",
+        "correct": true
+      },
+      {
+        "label": "17 March",
+        "correct": false
+      },
+      {
+        "label": "23 April",
+        "correct": false
+      },
+      {
+        "label": "30 November",
+        "correct": false
+      }
+    ],
+    "explanation": "St David's Day is on 1 March. St Patrick's Day is 17 March, St George's Day is 23 April and St Andrew's Day is 30 November.",
+    "handbook_ref": "Chapter 4 · Religion",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH4-REL-003",
+    "section_id": "CH4-REL",
+    "type": "single",
+    "stem": "When is St George's Day?",
+    "options": [
+      {
+        "label": "23 April",
+        "correct": true
+      },
+      {
+        "label": "1 March",
+        "correct": false
+      },
+      {
+        "label": "17 March",
+        "correct": false
+      },
+      {
+        "label": "30 November",
+        "correct": false
+      }
+    ],
+    "explanation": "St George is the patron saint of England and his day is 23 April.",
+    "handbook_ref": "Chapter 4 · Religion",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH4-REL-004",
+    "section_id": "CH4-REL",
+    "type": "single",
+    "stem": "Who is the head of the Church of England?",
+    "options": [
+      {
+        "label": "The monarch",
+        "correct": true
+      },
+      {
+        "label": "The Archbishop of Canterbury",
+        "correct": false
+      },
+      {
+        "label": "The Prime Minister",
+        "correct": false
+      },
+      {
+        "label": "The Pope",
+        "correct": false
+      }
+    ],
+    "explanation": "The monarch is the head of the Church of England. The Archbishop of Canterbury is its spiritual leader.",
+    "handbook_ref": "Chapter 4 · Religion",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH4-REL-005",
+    "section_id": "CH4-REL",
+    "type": "truefalse",
+    "stem": "People in the UK are free to choose any religion, or to have no religion.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "The UK has religious freedom. People can follow any faith, change their faith or have none.",
+    "handbook_ref": "Chapter 4 · Religion",
+    "difficulty": 1
+  },
+  {
+    "id": "Q-CH4-REL-006",
+    "section_id": "CH4-REL",
+    "type": "single",
+    "stem": "What is the national church in Scotland?",
+    "options": [
+      {
+        "label": "The Church of Scotland",
+        "correct": true
+      },
+      {
+        "label": "The Church of England",
+        "correct": false
+      },
+      {
+        "label": "The Church in Wales",
+        "correct": false
+      },
+      {
+        "label": "The Roman Catholic Church",
+        "correct": false
+      }
+    ],
+    "explanation": "The Church of Scotland is a Presbyterian church. It is run by ministers and elders, not by the monarch.",
+    "handbook_ref": "Chapter 4 · Religion",
+    "difficulty": 2
+  }
+]

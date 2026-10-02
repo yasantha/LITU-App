@@ -1,0 +1,102 @@
+[
+  {
+    "id": "Q-CH5-INT-001",
+    "section_id": "CH5-INT",
+    "type": "truefalse",
+    "stem": "The UK is a permanent member of the United Nations Security Council.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "The UK is one of five permanent members of the UN Security Council, which works to keep international peace and security.",
+    "handbook_ref": "Chapter 5 · The UK and international institutions",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH5-INT-002",
+    "section_id": "CH5-INT",
+    "type": "single",
+    "stem": "What is the Commonwealth?",
+    "options": [
+      {
+        "label": "An association of countries, most once part of the British Empire",
+        "correct": true
+      },
+      {
+        "label": "A group of European countries that trade freely",
+        "correct": false
+      },
+      {
+        "label": "A military alliance of North Atlantic countries",
+        "correct": false
+      },
+      {
+        "label": "The parliament of the four UK countries",
+        "correct": false
+      }
+    ],
+    "explanation": "The Commonwealth is a voluntary association of countries. Most were once part of the British Empire, and the monarch is its head.",
+    "handbook_ref": "Chapter 5 · The UK and international institutions",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH5-INT-003",
+    "section_id": "CH5-INT",
+    "type": "single",
+    "stem": "What is NATO?",
+    "options": [
+      {
+        "label": "A group of countries that agree to defend each other",
+        "correct": true
+      },
+      {
+        "label": "A group of countries that share one currency",
+        "correct": false
+      },
+      {
+        "label": "A charity that helps refugees",
+        "correct": false
+      },
+      {
+        "label": "A court that settles trade disputes",
+        "correct": false
+      }
+    ],
+    "explanation": "The UK is a member of NATO, a group of European and North American countries that have agreed to help each other if they are attacked.",
+    "handbook_ref": "Chapter 5 · The UK and international institutions",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH5-INT-004",
+    "section_id": "CH5-INT",
+    "type": "single",
+    "stem": "Which organisation created the European Convention on Human Rights?",
+    "options": [
+      {
+        "label": "The Council of Europe",
+        "correct": true
+      },
+      {
+        "label": "The United Nations",
+        "correct": false
+      },
+      {
+        "label": "The Commonwealth",
+        "correct": false
+      },
+      {
+        "label": "NATO",
+        "correct": false
+      }
+    ],
+    "explanation": "The Council of Europe created the European Convention on Human Rights. It is separate from the European Union.",
+    "handbook_ref": "Chapter 5 · The UK and international institutions",
+    "difficulty": 3
+  }
+]

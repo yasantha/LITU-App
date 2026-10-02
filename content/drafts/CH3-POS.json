@@ -1,0 +1,283 @@
+[
+  {
+    "id": "Q-CH3-POS-001",
+    "section_id": "CH3-POS",
+    "type": "single",
+    "stem": "Who was the first woman to be Prime Minister of the UK?",
+    "options": [
+      {
+        "label": "Margaret Thatcher",
+        "correct": true
+      },
+      {
+        "label": "Barbara Castle",
+        "correct": false
+      },
+      {
+        "label": "Shirley Williams",
+        "correct": false
+      },
+      {
+        "label": "Betty Boothroyd",
+        "correct": false
+      }
+    ],
+    "explanation": "Margaret Thatcher became the UK's first woman Prime Minister in 1979. She led the government until 1990.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 1
+  },
+  {
+    "id": "Q-CH3-POS-002",
+    "section_id": "CH3-POS",
+    "type": "single",
+    "stem": "In which year did the UK join the European Economic Community?",
+    "options": [
+      {
+        "label": "1973",
+        "correct": true
+      },
+      {
+        "label": "1957",
+        "correct": false
+      },
+      {
+        "label": "1949",
+        "correct": false
+      },
+      {
+        "label": "1990",
+        "correct": false
+      }
+    ],
+    "explanation": "The UK joined the European Economic Community in 1973, after earlier attempts to join had been refused.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 3
+  },
+  {
+    "id": "Q-CH3-POS-003",
+    "section_id": "CH3-POS",
+    "type": "single",
+    "stem": "Who invented the World Wide Web?",
+    "options": [
+      {
+        "label": "Sir Tim Berners-Lee",
+        "correct": true
+      },
+      {
+        "label": "Alan Turing",
+        "correct": false
+      },
+      {
+        "label": "John Logie Baird",
+        "correct": false
+      },
+      {
+        "label": "James Goodfellow",
+        "correct": false
+      }
+    ],
+    "explanation": "Sir Tim Berners-Lee, a British scientist, created the World Wide Web. Information was first shared on it in 1990.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH3-POS-004",
+    "section_id": "CH3-POS",
+    "type": "single",
+    "stem": "Which 1998 agreement helped bring peace to Northern Ireland?",
+    "options": [
+      {
+        "label": "The Good Friday Agreement",
+        "correct": true
+      },
+      {
+        "label": "The Act of Union",
+        "correct": false
+      },
+      {
+        "label": "The Treaty of Rome",
+        "correct": false
+      },
+      {
+        "label": "The Belfast Charter",
+        "correct": false
+      }
+    ],
+    "explanation": "The Good Friday Agreement of 1998 helped end years of conflict in Northern Ireland. It led to a new Northern Ireland Assembly.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH3-POS-005",
+    "section_id": "CH3-POS",
+    "type": "single",
+    "stem": "In which country of the UK was Dolly the sheep, the first mammal cloned from an adult cell, created?",
+    "options": [
+      {
+        "label": "Scotland",
+        "correct": true
+      },
+      {
+        "label": "Wales",
+        "correct": false
+      },
+      {
+        "label": "England",
+        "correct": false
+      },
+      {
+        "label": "Northern Ireland",
+        "correct": false
+      }
+    ],
+    "explanation": "Dolly the sheep was cloned in 1996 by scientists at the Roslin Institute near Edinburgh, Scotland.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH3-POS-006",
+    "section_id": "CH3-POS",
+    "type": "truefalse",
+    "stem": "The first baby conceived by IVF, sometimes called a 'test-tube baby', was born in the UK in 1978.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "British doctors developed IVF treatment. The first IVF baby was born in Oldham, England, in 1978.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 3
+  },
+  {
+    "id": "Q-CH3-POS-007",
+    "section_id": "CH3-POS",
+    "type": "single",
+    "stem": "Which supersonic airliner was developed by Britain and France?",
+    "options": [
+      {
+        "label": "Concorde",
+        "correct": true
+      },
+      {
+        "label": "The Spitfire",
+        "correct": false
+      },
+      {
+        "label": "The Comet",
+        "correct": false
+      },
+      {
+        "label": "The Hurricane",
+        "correct": false
+      }
+    ],
+    "explanation": "Concorde was a passenger aircraft that flew faster than the speed of sound. It first flew in 1969 and carried passengers from 1976 to 2003.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH3-POS-008",
+    "section_id": "CH3-POS",
+    "type": "single",
+    "stem": "Who invented the hovercraft?",
+    "options": [
+      {
+        "label": "Sir Christopher Cockerell",
+        "correct": true
+      },
+      {
+        "label": "Sir Frank Whittle",
+        "correct": false
+      },
+      {
+        "label": "James Goodfellow",
+        "correct": false
+      },
+      {
+        "label": "Sir Peter Mansfield",
+        "correct": false
+      }
+    ],
+    "explanation": "Sir Christopher Cockerell, a British engineer, invented the hovercraft in the 1950s.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 3
+  },
+  {
+    "id": "Q-CH3-POS-009",
+    "section_id": "CH3-POS",
+    "type": "single",
+    "stem": "Who invented the cash machine, or ATM?",
+    "options": [
+      {
+        "label": "James Goodfellow",
+        "correct": true
+      },
+      {
+        "label": "John Logie Baird",
+        "correct": false
+      },
+      {
+        "label": "James Watt",
+        "correct": false
+      },
+      {
+        "label": "Tim Berners-Lee",
+        "correct": false
+      }
+    ],
+    "explanation": "James Goodfellow, a Scottish engineer, invented the cash machine in the 1960s.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 3
+  },
+  {
+    "id": "Q-CH3-POS-010",
+    "section_id": "CH3-POS",
+    "type": "single",
+    "stem": "In the 1950s and 1960s, the UK encouraged workers from which places to come and help rebuild?",
+    "options": [
+      {
+        "label": "The West Indies, India and Pakistan",
+        "correct": true
+      },
+      {
+        "label": "Australia and New Zealand",
+        "correct": false
+      },
+      {
+        "label": "Canada and the USA",
+        "correct": false
+      },
+      {
+        "label": "France and Germany",
+        "correct": false
+      }
+    ],
+    "explanation": "There was a shortage of workers after the war. People came from the West Indies, India, Pakistan and later Bangladesh to work in the UK.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH3-POS-011",
+    "section_id": "CH3-POS",
+    "type": "truefalse",
+    "stem": "After votes in 1997, Scotland and Wales got their own elected bodies, which began work in 1999.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "The Scottish Parliament and the Welsh Assembly (now the Senedd) were set up in 1999, with powers over matters such as health and education.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 2
+  }
+]

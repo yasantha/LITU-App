@@ -1,0 +1,318 @@
+[
+  {
+    "id": "Q-CH3-EAR-001",
+    "section_id": "CH3-EAR",
+    "type": "single",
+    "stem": "Where is Stonehenge?",
+    "options": [
+      {
+        "label": "Wiltshire",
+        "correct": true
+      },
+      {
+        "label": "Orkney",
+        "correct": false
+      },
+      {
+        "label": "Cornwall",
+        "correct": false
+      },
+      {
+        "label": "Kent",
+        "correct": false
+      }
+    ],
+    "explanation": "Stonehenge is a famous prehistoric monument in Wiltshire, in the south-west of England. It was probably a special place for gatherings.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 1
+  },
+  {
+    "id": "Q-CH3-EAR-002",
+    "section_id": "CH3-EAR",
+    "type": "single",
+    "stem": "Where is Skara Brae, a very well-preserved Stone Age village?",
+    "options": [
+      {
+        "label": "Orkney",
+        "correct": true
+      },
+      {
+        "label": "Shetland",
+        "correct": false
+      },
+      {
+        "label": "The Isle of Skye",
+        "correct": false
+      },
+      {
+        "label": "Anglesey",
+        "correct": false
+      }
+    ],
+    "explanation": "Skara Brae is on Orkney, off the north coast of Scotland. It is the best-preserved prehistoric village in northern Europe.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH3-EAR-003",
+    "section_id": "CH3-EAR",
+    "type": "single",
+    "stem": "In which year did the Romans, under Emperor Claudius, invade Britain?",
+    "options": [
+      {
+        "label": "AD 43",
+        "correct": true
+      },
+      {
+        "label": "55 BC",
+        "correct": false
+      },
+      {
+        "label": "AD 410",
+        "correct": false
+      },
+      {
+        "label": "AD 789",
+        "correct": false
+      }
+    ],
+    "explanation": "Julius Caesar tried to invade in 55 BC but did not stay. The Romans returned under Emperor Claudius in AD 43 and ruled for about 400 years.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 3
+  },
+  {
+    "id": "Q-CH3-EAR-004",
+    "section_id": "CH3-EAR",
+    "type": "single",
+    "stem": "Who was Boudicca?",
+    "options": [
+      {
+        "label": "Queen of the Iceni, who fought the Romans",
+        "correct": true
+      },
+      {
+        "label": "A Roman empress who ruled Britain",
+        "correct": false
+      },
+      {
+        "label": "A Saxon queen who defeated the Vikings",
+        "correct": false
+      },
+      {
+        "label": "The first queen of Scotland",
+        "correct": false
+      }
+    ],
+    "explanation": "Boudicca led the Iceni, a tribe in what is now eastern England, against the Romans. Her statue stands on Westminster Bridge in London.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH3-EAR-005",
+    "section_id": "CH3-EAR",
+    "type": "single",
+    "stem": "Why did the Romans build Hadrian's Wall?",
+    "options": [
+      {
+        "label": "To keep out the Picts in the north",
+        "correct": true
+      },
+      {
+        "label": "To defend against the Vikings",
+        "correct": false
+      },
+      {
+        "label": "To mark the border with Wales",
+        "correct": false
+      },
+      {
+        "label": "To protect London from the Saxons",
+        "correct": false
+      }
+    ],
+    "explanation": "Emperor Hadrian built the wall in the north of England to keep out the Picts, who were ancestors of the Scottish people.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH3-EAR-006",
+    "section_id": "CH3-EAR",
+    "type": "single",
+    "stem": "When did the Romans leave Britain?",
+    "options": [
+      {
+        "label": "AD 410",
+        "correct": true
+      },
+      {
+        "label": "AD 43",
+        "correct": false
+      },
+      {
+        "label": "AD 1066",
+        "correct": false
+      },
+      {
+        "label": "AD 600",
+        "correct": false
+      }
+    ],
+    "explanation": "The Roman army left Britain in AD 410 to defend other parts of the Roman Empire. They never returned.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 3
+  },
+  {
+    "id": "Q-CH3-EAR-007",
+    "section_id": "CH3-EAR",
+    "type": "single",
+    "stem": "Which burial site in Suffolk held an Anglo-Saxon king, buried with treasure in a ship?",
+    "options": [
+      {
+        "label": "Sutton Hoo",
+        "correct": true
+      },
+      {
+        "label": "Skara Brae",
+        "correct": false
+      },
+      {
+        "label": "Jorvik",
+        "correct": false
+      },
+      {
+        "label": "Lindisfarne",
+        "correct": false
+      }
+    ],
+    "explanation": "Sutton Hoo in Suffolk is the burial place of an Anglo-Saxon king. He was buried with treasure and armour, all placed inside a ship.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 3
+  },
+  {
+    "id": "Q-CH3-EAR-008",
+    "section_id": "CH3-EAR",
+    "type": "single",
+    "stem": "Who became the first Archbishop of Canterbury?",
+    "options": [
+      {
+        "label": "St Augustine",
+        "correct": true
+      },
+      {
+        "label": "St Patrick",
+        "correct": false
+      },
+      {
+        "label": "St Columba",
+        "correct": false
+      },
+      {
+        "label": "St David",
+        "correct": false
+      }
+    ],
+    "explanation": "St Augustine led missionaries from Rome who spread Christianity in the south of England. He became the first Archbishop of Canterbury.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH3-EAR-009",
+    "section_id": "CH3-EAR",
+    "type": "single",
+    "stem": "Where did the Vikings come from?",
+    "options": [
+      {
+        "label": "Denmark and Norway",
+        "correct": true
+      },
+      {
+        "label": "France and Spain",
+        "correct": false
+      },
+      {
+        "label": "Germany and the Netherlands",
+        "correct": false
+      },
+      {
+        "label": "Italy and Greece",
+        "correct": false
+      }
+    ],
+    "explanation": "The Vikings came from Denmark and Norway. They first visited Britain in AD 789 to raid coastal towns and take goods and slaves.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH3-EAR-010",
+    "section_id": "CH3-EAR",
+    "type": "single",
+    "stem": "In which year did William of Normandy win the Battle of Hastings?",
+    "options": [
+      {
+        "label": "1066",
+        "correct": true
+      },
+      {
+        "label": "1314",
+        "correct": false
+      },
+      {
+        "label": "1215",
+        "correct": false
+      },
+      {
+        "label": "1485",
+        "correct": false
+      }
+    ],
+    "explanation": "William defeated and killed the English king, Harold, at the Battle of Hastings in 1066. The battle is shown on the Bayeux Tapestry.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 1
+  },
+  {
+    "id": "Q-CH3-EAR-011",
+    "section_id": "CH3-EAR",
+    "type": "truefalse",
+    "stem": "After the Norman Conquest, William had a record made of towns, villages and land in England, called the Domesday Book.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "The Domesday Book listed who owned land and what animals they had. It still exists and gives a picture of England after the Norman Conquest.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH3-EAR-012",
+    "section_id": "CH3-EAR",
+    "type": "single",
+    "stem": "Which Anglo-Saxon king united the kingdoms and defeated the Vikings?",
+    "options": [
+      {
+        "label": "Alfred the Great",
+        "correct": true
+      },
+      {
+        "label": "Kenneth MacAlpin",
+        "correct": false
+      },
+      {
+        "label": "Harold",
+        "correct": false
+      },
+      {
+        "label": "Cnut",
+        "correct": false
+      }
+    ],
+    "explanation": "Alfred the Great brought the Anglo-Saxon kingdoms together and defeated the Vikings. Many Vikings then settled in the east and north of England.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 2
+  }
+]

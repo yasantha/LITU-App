@@ -1,0 +1,291 @@
+[
+  {
+    "id": "Q-CH3-C20-001",
+    "section_id": "CH3-C20",
+    "type": "single",
+    "stem": "When did fighting in the First World War end?",
+    "options": [
+      {
+        "label": "11 November 1918",
+        "correct": true
+      },
+      {
+        "label": "6 June 1944",
+        "correct": false
+      },
+      {
+        "label": "11 November 1914",
+        "correct": false
+      },
+      {
+        "label": "8 May 1945",
+        "correct": false
+      }
+    ],
+    "explanation": "The First World War ended at 11 am on 11 November 1918. People remember those who died on this date each year.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH3-C20-002",
+    "section_id": "CH3-C20",
+    "type": "single",
+    "stem": "On the first day of which battle in 1916 did the British suffer about 60,000 casualties?",
+    "options": [
+      {
+        "label": "The Battle of the Somme",
+        "correct": true
+      },
+      {
+        "label": "The Battle of Britain",
+        "correct": false
+      },
+      {
+        "label": "The Battle of Waterloo",
+        "correct": false
+      },
+      {
+        "label": "The Battle of Hastings",
+        "correct": false
+      }
+    ],
+    "explanation": "The Battle of the Somme in 1916 was one of the bloodiest battles of the First World War, with huge losses on the first day.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 3
+  },
+  {
+    "id": "Q-CH3-C20-003",
+    "section_id": "CH3-C20",
+    "type": "single",
+    "stem": "Who became Prime Minister in 1940 and led Britain in the Second World War?",
+    "options": [
+      {
+        "label": "Winston Churchill",
+        "correct": true
+      },
+      {
+        "label": "Clement Attlee",
+        "correct": false
+      },
+      {
+        "label": "Neville Chamberlain",
+        "correct": false
+      },
+      {
+        "label": "Margaret Thatcher",
+        "correct": false
+      }
+    ],
+    "explanation": "Winston Churchill became Prime Minister in 1940. His speeches helped people stay strong when Britain stood alone against Germany.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 1
+  },
+  {
+    "id": "Q-CH3-C20-004",
+    "section_id": "CH3-C20",
+    "type": "single",
+    "stem": "Which battle was fought in the skies over Britain in 1940?",
+    "options": [
+      {
+        "label": "The Battle of Britain",
+        "correct": true
+      },
+      {
+        "label": "The Battle of the Somme",
+        "correct": false
+      },
+      {
+        "label": "D-Day",
+        "correct": false
+      },
+      {
+        "label": "The Battle of Trafalgar",
+        "correct": false
+      }
+    ],
+    "explanation": "In the Battle of Britain, the Royal Air Force defended the country using Spitfire and Hurricane aircraft, and stopped a German invasion.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH3-C20-005",
+    "section_id": "CH3-C20",
+    "type": "single",
+    "stem": "What happened on D-Day, 6 June 1944?",
+    "options": [
+      {
+        "label": "Allied forces landed in Normandy",
+        "correct": true
+      },
+      {
+        "label": "Germany surrendered",
+        "correct": false
+      },
+      {
+        "label": "The Battle of Britain began",
+        "correct": false
+      },
+      {
+        "label": "Soldiers were rescued from Dunkirk",
+        "correct": false
+      }
+    ],
+    "explanation": "On D-Day, Allied forces landed on the beaches of Normandy in France. This began the defeat of Germany in western Europe.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH3-C20-006",
+    "section_id": "CH3-C20",
+    "type": "single",
+    "stem": "Who discovered penicillin?",
+    "options": [
+      {
+        "label": "Alexander Fleming",
+        "correct": true
+      },
+      {
+        "label": "Frank Whittle",
+        "correct": false
+      },
+      {
+        "label": "Alan Turing",
+        "correct": false
+      },
+      {
+        "label": "Tim Berners-Lee",
+        "correct": false
+      }
+    ],
+    "explanation": "Scottish scientist Alexander Fleming discovered penicillin in 1928. It was later developed into a medicine that treats many infections.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH3-C20-007",
+    "section_id": "CH3-C20",
+    "type": "single",
+    "stem": "In which year was the National Health Service (NHS) set up?",
+    "options": [
+      {
+        "label": "1948",
+        "correct": true
+      },
+      {
+        "label": "1918",
+        "correct": false
+      },
+      {
+        "label": "1945",
+        "correct": false
+      },
+      {
+        "label": "1965",
+        "correct": false
+      }
+    ],
+    "explanation": "The NHS began in 1948 under the Labour government. Aneurin (Nye) Bevan, the Minister for Health, led its creation.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH3-C20-008",
+    "section_id": "CH3-C20",
+    "type": "truefalse",
+    "stem": "In 1940, many British soldiers were rescued from the beaches of Dunkirk by small civilian boats.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Over 300,000 soldiers were rescued from Dunkirk in France. People still talk about the 'Dunkirk spirit' when facing hard times together.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH3-C20-009",
+    "section_id": "CH3-C20",
+    "type": "single",
+    "stem": "Which mathematician's ideas helped lead to the modern computer?",
+    "options": [
+      {
+        "label": "Alan Turing",
+        "correct": true
+      },
+      {
+        "label": "Isaac Newton",
+        "correct": false
+      },
+      {
+        "label": "John Logie Baird",
+        "correct": false
+      },
+      {
+        "label": "Frank Whittle",
+        "correct": false
+      }
+    ],
+    "explanation": "Alan Turing was a British mathematician. His idea of the 'Turing machine' had a big influence on computer science.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH3-C20-010",
+    "section_id": "CH3-C20",
+    "type": "single",
+    "stem": "Who invented the jet engine?",
+    "options": [
+      {
+        "label": "Sir Frank Whittle",
+        "correct": true
+      },
+      {
+        "label": "Sir Robert Watson-Watt",
+        "correct": false
+      },
+      {
+        "label": "John Logie Baird",
+        "correct": false
+      },
+      {
+        "label": "Sir Christopher Cockerell",
+        "correct": false
+      }
+    ],
+    "explanation": "Sir Frank Whittle, a British engineer, developed the jet engine in the 1930s. Sir Robert Watson-Watt developed radar.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 3
+  },
+  {
+    "id": "Q-CH3-C20-011",
+    "section_id": "CH3-C20",
+    "type": "single",
+    "stem": "Who led the Labour government that came to power in 1945?",
+    "options": [
+      {
+        "label": "Clement Attlee",
+        "correct": true
+      },
+      {
+        "label": "Winston Churchill",
+        "correct": false
+      },
+      {
+        "label": "Harold Wilson",
+        "correct": false
+      },
+      {
+        "label": "Tony Blair",
+        "correct": false
+      }
+    ],
+    "explanation": "Clement Attlee became Prime Minister in 1945. His government created the NHS and introduced a welfare state.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 3
+  }
+]

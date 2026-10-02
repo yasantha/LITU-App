@@ -1,0 +1,345 @@
+[
+  {
+    "id": "Q-CH3-TUD-001",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "Which king broke away from the Church of Rome?",
+    "options": [
+      {
+        "label": "Henry VIII",
+        "correct": true
+      },
+      {
+        "label": "Edward I",
+        "correct": false
+      },
+      {
+        "label": "Charles II",
+        "correct": false
+      },
+      {
+        "label": "James I",
+        "correct": false
+      }
+    ],
+    "explanation": "Henry VIII set up the Church of England when the Pope would not let him end his first marriage.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 1
+  },
+  {
+    "id": "Q-CH3-TUD-002",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "Which of Henry VIII's wives gave birth to his only son, Edward?",
+    "options": [
+      {
+        "label": "Jane Seymour",
+        "correct": true
+      },
+      {
+        "label": "Anne Boleyn",
+        "correct": false
+      },
+      {
+        "label": "Catherine of Aragon",
+        "correct": false
+      },
+      {
+        "label": "Catherine Parr",
+        "correct": false
+      }
+    ],
+    "explanation": "Jane Seymour gave Henry VIII the son he wanted, who became Edward VI. She died soon after the birth.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 3
+  },
+  {
+    "id": "Q-CH3-TUD-003",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "In 1588, which fleet did the English defeat?",
+    "options": [
+      {
+        "label": "The Spanish Armada",
+        "correct": true
+      },
+      {
+        "label": "The French navy",
+        "correct": false
+      },
+      {
+        "label": "The Dutch fleet",
+        "correct": false
+      },
+      {
+        "label": "The Viking fleet",
+        "correct": false
+      }
+    ],
+    "explanation": "The English defeated the Spanish Armada, a large fleet of ships sent to invade England and bring back the Catholic faith.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH3-TUD-004",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "Who was the monarch when the Spanish Armada was defeated?",
+    "options": [
+      {
+        "label": "Elizabeth I",
+        "correct": true
+      },
+      {
+        "label": "Mary I",
+        "correct": false
+      },
+      {
+        "label": "Victoria",
+        "correct": false
+      },
+      {
+        "label": "Anne",
+        "correct": false
+      }
+    ],
+    "explanation": "Elizabeth I was queen when the Spanish Armada was defeated in 1588. She was very popular and her reign is often remembered as a golden age.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH3-TUD-005",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "Where was William Shakespeare born?",
+    "options": [
+      {
+        "label": "Stratford-upon-Avon",
+        "correct": true
+      },
+      {
+        "label": "London",
+        "correct": false
+      },
+      {
+        "label": "Oxford",
+        "correct": false
+      },
+      {
+        "label": "Canterbury",
+        "correct": false
+      }
+    ],
+    "explanation": "William Shakespeare was born in Stratford-upon-Avon, England, in 1564. Many people think he is the greatest writer in the English language.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 1
+  },
+  {
+    "id": "Q-CH3-TUD-006",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "Which king of Scotland also became King of England in 1603?",
+    "options": [
+      {
+        "label": "James VI",
+        "correct": true
+      },
+      {
+        "label": "Charles I",
+        "correct": false
+      },
+      {
+        "label": "Robert the Bruce",
+        "correct": false
+      },
+      {
+        "label": "William III",
+        "correct": false
+      }
+    ],
+    "explanation": "When Elizabeth I died without children, James VI of Scotland became James I of England. He ruled both countries.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 3
+  },
+  {
+    "id": "Q-CH3-TUD-007",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "Which king was executed in 1649 after the English Civil War?",
+    "options": [
+      {
+        "label": "Charles I",
+        "correct": true
+      },
+      {
+        "label": "Charles II",
+        "correct": false
+      },
+      {
+        "label": "James II",
+        "correct": false
+      },
+      {
+        "label": "Henry VIII",
+        "correct": false
+      }
+    ],
+    "explanation": "Charles I lost the Civil War against Parliament and was executed in 1649. England became a republic for a short time.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH3-TUD-008",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "In the English Civil War, what were supporters of the king called?",
+    "options": [
+      {
+        "label": "Cavaliers",
+        "correct": true
+      },
+      {
+        "label": "Roundheads",
+        "correct": false
+      },
+      {
+        "label": "Jacobites",
+        "correct": false
+      },
+      {
+        "label": "Puritans",
+        "correct": false
+      }
+    ],
+    "explanation": "Supporters of the king were called Cavaliers. Supporters of Parliament were called Roundheads.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH3-TUD-009",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "Who became Lord Protector after the English Civil War?",
+    "options": [
+      {
+        "label": "Oliver Cromwell",
+        "correct": true
+      },
+      {
+        "label": "Robert Walpole",
+        "correct": false
+      },
+      {
+        "label": "Thomas Cromwell",
+        "correct": false
+      },
+      {
+        "label": "William of Orange",
+        "correct": false
+      }
+    ],
+    "explanation": "Oliver Cromwell led the army of Parliament and ruled England as Lord Protector until he died in 1658.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH3-TUD-010",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "In which year was there a great fire in London?",
+    "options": [
+      {
+        "label": "1666",
+        "correct": true
+      },
+      {
+        "label": "1588",
+        "correct": false
+      },
+      {
+        "label": "1605",
+        "correct": false
+      },
+      {
+        "label": "1688",
+        "correct": false
+      }
+    ],
+    "explanation": "The Great Fire of London in 1666 destroyed many buildings. Sir Christopher Wren designed the new St Paul's Cathedral.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH3-TUD-011",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "What was the Glorious Revolution of 1688?",
+    "options": [
+      {
+        "label": "William of Orange became king with no fighting in England",
+        "correct": true
+      },
+      {
+        "label": "Parliament got rid of the monarchy",
+        "correct": false
+      },
+      {
+        "label": "Scotland and England joined together",
+        "correct": false
+      },
+      {
+        "label": "Charles II came back from exile",
+        "correct": false
+      }
+    ],
+    "explanation": "Protestant leaders invited William of Orange to take the throne. James II fled to France and there was no fighting in England, so it was called glorious.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 3
+  },
+  {
+    "id": "Q-CH3-TUD-012",
+    "section_id": "CH3-TUD",
+    "type": "truefalse",
+    "stem": "The Act of Union of 1707 joined England and Scotland into the Kingdom of Great Britain.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "The Act of Union created the Kingdom of Great Britain. Scotland kept its own legal and education systems and its own church.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH3-TUD-013",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "Which law of 1679 protects people from being held in prison unlawfully?",
+    "options": [
+      {
+        "label": "The Habeas Corpus Act",
+        "correct": true
+      },
+      {
+        "label": "The Bill of Rights",
+        "correct": false
+      },
+      {
+        "label": "The Magna Carta",
+        "correct": false
+      },
+      {
+        "label": "The Act of Union",
+        "correct": false
+      }
+    ],
+    "explanation": "The Habeas Corpus Act means someone who is arrested must be brought before a court. This protects people from being held without a lawful reason.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 3
+  }
+]

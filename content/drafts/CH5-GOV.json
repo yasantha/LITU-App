@@ -1,0 +1,183 @@
+[
+  {
+    "id": "Q-CH5-GOV-001",
+    "section_id": "CH5-GOV",
+    "type": "single",
+    "stem": "What is the Prime Minister's official home in London?",
+    "options": [
+      {
+        "label": "10 Downing Street",
+        "correct": true
+      },
+      {
+        "label": "11 Downing Street",
+        "correct": false
+      },
+      {
+        "label": "Buckingham Palace",
+        "correct": false
+      },
+      {
+        "label": "Lambeth Palace",
+        "correct": false
+      }
+    ],
+    "explanation": "The Prime Minister lives and works at 10 Downing Street. The Prime Minister also has a country house called Chequers.",
+    "handbook_ref": "Chapter 5 · The government",
+    "difficulty": 1
+  },
+  {
+    "id": "Q-CH5-GOV-002",
+    "section_id": "CH5-GOV",
+    "type": "single",
+    "stem": "Which government minister is responsible for the economy?",
+    "options": [
+      {
+        "label": "The Chancellor of the Exchequer",
+        "correct": true
+      },
+      {
+        "label": "The Home Secretary",
+        "correct": false
+      },
+      {
+        "label": "The Foreign Secretary",
+        "correct": false
+      },
+      {
+        "label": "The Lord Chancellor",
+        "correct": false
+      }
+    ],
+    "explanation": "The Chancellor of the Exchequer is responsible for the economy. The Home Secretary deals with crime, policing and immigration.",
+    "handbook_ref": "Chapter 5 · The government",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH5-GOV-003",
+    "section_id": "CH5-GOV",
+    "type": "single",
+    "stem": "What is the second-largest party in the House of Commons usually called?",
+    "options": [
+      {
+        "label": "The opposition",
+        "correct": true
+      },
+      {
+        "label": "The cabinet",
+        "correct": false
+      },
+      {
+        "label": "The civil service",
+        "correct": false
+      },
+      {
+        "label": "The coalition",
+        "correct": false
+      }
+    ],
+    "explanation": "The second-largest party is the opposition. Its leader is the Leader of the Opposition, who leads a shadow cabinet.",
+    "handbook_ref": "Chapter 5 · The government",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH5-GOV-004",
+    "section_id": "CH5-GOV",
+    "type": "truefalse",
+    "stem": "Civil servants must be politically neutral.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Civil servants carry out government policy. They do not take sides and keep working for the new government after an election.",
+    "handbook_ref": "Chapter 5 · The government",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH5-GOV-005",
+    "section_id": "CH5-GOV",
+    "type": "single",
+    "stem": "What is the official record of what is said in Parliament called?",
+    "options": [
+      {
+        "label": "Hansard",
+        "correct": true
+      },
+      {
+        "label": "The Domesday Book",
+        "correct": false
+      },
+      {
+        "label": "The Gazette",
+        "correct": false
+      },
+      {
+        "label": "The Magna Carta",
+        "correct": false
+      }
+    ],
+    "explanation": "Hansard is the official report of what is said in Parliament. Anyone can read it, and debates are also broadcast.",
+    "handbook_ref": "Chapter 5 · The government",
+    "difficulty": 3
+  },
+  {
+    "id": "Q-CH5-GOV-006",
+    "section_id": "CH5-GOV",
+    "type": "single",
+    "stem": "Where does the Northern Ireland Assembly meet?",
+    "options": [
+      {
+        "label": "Stormont, in Belfast",
+        "correct": true
+      },
+      {
+        "label": "Holyrood, in Edinburgh",
+        "correct": false
+      },
+      {
+        "label": "Westminster, in London",
+        "correct": false
+      },
+      {
+        "label": "Cardiff Bay, in Cardiff",
+        "correct": false
+      }
+    ],
+    "explanation": "The Northern Ireland Assembly meets at Stormont in Belfast. It has powers over matters such as health and education.",
+    "handbook_ref": "Chapter 5 · The government",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH5-GOV-007",
+    "section_id": "CH5-GOV",
+    "type": "single",
+    "stem": "Where is the Scottish Parliament?",
+    "options": [
+      {
+        "label": "Holyrood, in Edinburgh",
+        "correct": true
+      },
+      {
+        "label": "Glasgow city centre",
+        "correct": false
+      },
+      {
+        "label": "Stormont, in Belfast",
+        "correct": false
+      },
+      {
+        "label": "Westminster, in London",
+        "correct": false
+      }
+    ],
+    "explanation": "The Scottish Parliament meets at Holyrood in Edinburgh. It can make laws for Scotland on many matters.",
+    "handbook_ref": "Chapter 5 · The government",
+    "difficulty": 2
+  }
+]

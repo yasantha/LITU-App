@@ -1,0 +1,48 @@
+[
+  {
+    "id": "Q-CH1-RES-001",
+    "section_id": "CH1-RES",
+    "type": "truefalse",
+    "stem": "People applying to settle in the UK must also show they can speak and understand English.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Most applicants for settlement or citizenship must pass the Life in the UK test and also meet the English language requirement.",
+    "handbook_ref": "Chapter 1 · Becoming a permanent resident",
+    "difficulty": 1
+  },
+  {
+    "id": "Q-CH1-RES-002",
+    "section_id": "CH1-RES",
+    "type": "single",
+    "stem": "What do most people need to pass to settle permanently or become a British citizen?",
+    "options": [
+      {
+        "label": "The Life in the UK test",
+        "correct": true
+      },
+      {
+        "label": "A driving test",
+        "correct": false
+      },
+      {
+        "label": "A university degree",
+        "correct": false
+      },
+      {
+        "label": "A first aid course",
+        "correct": false
+      }
+    ],
+    "explanation": "Most adults applying for settlement or citizenship must pass the Life in the UK test. Some people, such as those over 65, do not need to take it.",
+    "handbook_ref": "Chapter 1 · Becoming a permanent resident",
+    "difficulty": 1
+  }
+]

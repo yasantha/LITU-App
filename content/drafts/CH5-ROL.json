@@ -1,0 +1,102 @@
+[
+  {
+    "id": "Q-CH5-ROL-001",
+    "section_id": "CH5-ROL",
+    "type": "truefalse",
+    "stem": "People on the electoral register can be asked to serve on a jury.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "If you are on the electoral register you may be chosen for jury service. You must do it unless you have a good reason.",
+    "handbook_ref": "Chapter 5 · Your role in the community",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH5-ROL-002",
+    "section_id": "CH5-ROL",
+    "type": "single",
+    "stem": "What is the electoral register?",
+    "options": [
+      {
+        "label": "The official list of people who can vote",
+        "correct": true
+      },
+      {
+        "label": "A list of everyone who pays tax",
+        "correct": false
+      },
+      {
+        "label": "A record of all MPs",
+        "correct": false
+      },
+      {
+        "label": "A list of council employees",
+        "correct": false
+      }
+    ],
+    "explanation": "To vote, your name must be on the electoral register. You can register online or through your local council.",
+    "handbook_ref": "Chapter 5 · Your role in the community",
+    "difficulty": 1
+  },
+  {
+    "id": "Q-CH5-ROL-003",
+    "section_id": "CH5-ROL",
+    "type": "single",
+    "stem": "What does National Insurance help pay for?",
+    "options": [
+      {
+        "label": "State benefits and services such as the State Pension",
+        "correct": true
+      },
+      {
+        "label": "Car insurance",
+        "correct": false
+      },
+      {
+        "label": "Home insurance against fire",
+        "correct": false
+      },
+      {
+        "label": "Private health care",
+        "correct": false
+      }
+    ],
+    "explanation": "National Insurance contributions help pay for state benefits and services, such as the State Pension and the NHS.",
+    "handbook_ref": "Chapter 5 · Your role in the community",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH5-ROL-004",
+    "section_id": "CH5-ROL",
+    "type": "single",
+    "stem": "What is the minimum age to drive a car on UK roads?",
+    "options": [
+      {
+        "label": "17",
+        "correct": true
+      },
+      {
+        "label": "16",
+        "correct": false
+      },
+      {
+        "label": "18",
+        "correct": false
+      },
+      {
+        "label": "21",
+        "correct": false
+      }
+    ],
+    "explanation": "You must be at least 17 to drive a car. You need a driving licence, which you get after passing a driving test.",
+    "handbook_ref": "Chapter 5 · Your role in the community",
+    "difficulty": 1
+  }
+]

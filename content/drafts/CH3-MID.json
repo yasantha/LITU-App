@@ -1,0 +1,237 @@
+[
+  {
+    "id": "Q-CH3-MID-001",
+    "section_id": "CH3-MID",
+    "type": "single",
+    "stem": "Which Scottish king defeated the English at the Battle of Bannockburn in 1314?",
+    "options": [
+      {
+        "label": "Robert the Bruce",
+        "correct": true
+      },
+      {
+        "label": "Kenneth MacAlpin",
+        "correct": false
+      },
+      {
+        "label": "James IV",
+        "correct": false
+      },
+      {
+        "label": "Macbeth",
+        "correct": false
+      }
+    ],
+    "explanation": "Robert the Bruce defeated the English at Bannockburn in 1314. Scotland stayed unconquered by the English.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH3-MID-002",
+    "section_id": "CH3-MID",
+    "type": "single",
+    "stem": "What was the Black Death?",
+    "options": [
+      {
+        "label": "A plague that killed about a third of people in England",
+        "correct": true
+      },
+      {
+        "label": "A famine in Ireland in the 1840s",
+        "correct": false
+      },
+      {
+        "label": "A long war between England and France",
+        "correct": false
+      },
+      {
+        "label": "A great fire that destroyed London",
+        "correct": false
+      }
+    ],
+    "explanation": "The Black Death reached Britain in 1348. About one third of the population of England died, and a similar share in Scotland and Wales.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH3-MID-003",
+    "section_id": "CH3-MID",
+    "type": "single",
+    "stem": "Which king was made to agree to the Magna Carta in 1215?",
+    "options": [
+      {
+        "label": "King John",
+        "correct": true
+      },
+      {
+        "label": "Henry VIII",
+        "correct": false
+      },
+      {
+        "label": "Richard III",
+        "correct": false
+      },
+      {
+        "label": "Edward I",
+        "correct": false
+      }
+    ],
+    "explanation": "Nobles forced King John to agree to the Magna Carta in 1215. It showed that even the king had to obey the law.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH3-MID-004",
+    "section_id": "CH3-MID",
+    "type": "single",
+    "stem": "Which English king won the Battle of Agincourt in 1415?",
+    "options": [
+      {
+        "label": "Henry V",
+        "correct": true
+      },
+      {
+        "label": "Henry VIII",
+        "correct": false
+      },
+      {
+        "label": "Edward III",
+        "correct": false
+      },
+      {
+        "label": "Richard II",
+        "correct": false
+      }
+    ],
+    "explanation": "Henry V led the English to victory over the French at Agincourt in 1415, during the Hundred Years War.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 3
+  },
+  {
+    "id": "Q-CH3-MID-005",
+    "section_id": "CH3-MID",
+    "type": "single",
+    "stem": "Which battle in 1485 ended the Wars of the Roses?",
+    "options": [
+      {
+        "label": "The Battle of Bosworth Field",
+        "correct": true
+      },
+      {
+        "label": "The Battle of Hastings",
+        "correct": false
+      },
+      {
+        "label": "The Battle of Bannockburn",
+        "correct": false
+      },
+      {
+        "label": "The Battle of Culloden",
+        "correct": false
+      }
+    ],
+    "explanation": "Henry Tudor defeated King Richard III at Bosworth Field in 1485. He became King Henry VII, the first Tudor king.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH3-MID-006",
+    "section_id": "CH3-MID",
+    "type": "multi",
+    "stem": "Which TWO families fought each other in the Wars of the Roses?",
+    "options": [
+      {
+        "label": "The House of Lancaster",
+        "correct": true
+      },
+      {
+        "label": "The House of York",
+        "correct": true
+      },
+      {
+        "label": "The House of Stuart",
+        "correct": false
+      },
+      {
+        "label": "The House of Windsor",
+        "correct": false
+      }
+    ],
+    "explanation": "The Wars of the Roses were fought between the House of Lancaster, whose symbol was a red rose, and the House of York, whose symbol was a white rose.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH3-MID-007",
+    "section_id": "CH3-MID",
+    "type": "single",
+    "stem": "Who wrote The Canterbury Tales?",
+    "options": [
+      {
+        "label": "Geoffrey Chaucer",
+        "correct": true
+      },
+      {
+        "label": "William Shakespeare",
+        "correct": false
+      },
+      {
+        "label": "William Caxton",
+        "correct": false
+      },
+      {
+        "label": "Robert Burns",
+        "correct": false
+      }
+    ],
+    "explanation": "Geoffrey Chaucer wrote The Canterbury Tales, poems about pilgrims travelling to Canterbury. It was one of the first books printed in England.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH3-MID-008",
+    "section_id": "CH3-MID",
+    "type": "truefalse",
+    "stem": "William Caxton was the first person in England to print books using a printing press.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "William Caxton brought the printing press to England in the 15th century. This helped books in English reach many more people.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH3-MID-009",
+    "section_id": "CH3-MID",
+    "type": "single",
+    "stem": "The Hundred Years War was fought between England and which country?",
+    "options": [
+      {
+        "label": "France",
+        "correct": true
+      },
+      {
+        "label": "Spain",
+        "correct": false
+      },
+      {
+        "label": "Scotland",
+        "correct": false
+      },
+      {
+        "label": "The Netherlands",
+        "correct": false
+      }
+    ],
+    "explanation": "England fought a long series of wars with France, known as the Hundred Years War. It actually lasted 116 years.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2
+  }
+]

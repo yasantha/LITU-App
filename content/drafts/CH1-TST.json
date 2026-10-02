@@ -1,0 +1,48 @@
+[
+  {
+    "id": "Q-CH1-TST-001",
+    "section_id": "CH1-TST",
+    "type": "single",
+    "stem": "How many questions are there in the Life in the UK test?",
+    "options": [
+      {
+        "label": "24",
+        "correct": true
+      },
+      {
+        "label": "20",
+        "correct": false
+      },
+      {
+        "label": "30",
+        "correct": false
+      },
+      {
+        "label": "45",
+        "correct": false
+      }
+    ],
+    "explanation": "The test has 24 multiple-choice questions and you have 45 minutes to answer them.",
+    "handbook_ref": "Chapter 1 · Taking the Life in the UK test",
+    "difficulty": 1
+  },
+  {
+    "id": "Q-CH1-TST-002",
+    "section_id": "CH1-TST",
+    "type": "truefalse",
+    "stem": "To pass the Life in the UK test you need to answer at least 75% of the questions correctly.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "The pass mark is 75%, which means at least 18 of the 24 questions must be right.",
+    "handbook_ref": "Chapter 1 · Taking the Life in the UK test",
+    "difficulty": 1
+  }
+]

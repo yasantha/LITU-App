@@ -1,0 +1,183 @@
+[
+  {
+    "id": "Q-CH4-PLA-001",
+    "section_id": "CH4-PLA",
+    "type": "single",
+    "stem": "What is Big Ben?",
+    "options": [
+      {
+        "label": "The great bell in the clock at the Houses of Parliament",
+        "correct": true
+      },
+      {
+        "label": "The tower of Westminster Abbey",
+        "correct": false
+      },
+      {
+        "label": "A large clock in Trafalgar Square",
+        "correct": false
+      },
+      {
+        "label": "The main bell of St Paul's Cathedral",
+        "correct": false
+      }
+    ],
+    "explanation": "Big Ben is the nickname of the great bell in the clock tower at the Houses of Parliament. The tower was named Elizabeth Tower in 2012.",
+    "handbook_ref": "Chapter 4 · Places of interest",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH4-PLA-002",
+    "section_id": "CH4-PLA",
+    "type": "single",
+    "stem": "In which county is the Eden Project, with its huge greenhouses of plants?",
+    "options": [
+      {
+        "label": "Cornwall",
+        "correct": true
+      },
+      {
+        "label": "Devon",
+        "correct": false
+      },
+      {
+        "label": "Kent",
+        "correct": false
+      },
+      {
+        "label": "Somerset",
+        "correct": false
+      }
+    ],
+    "explanation": "The Eden Project in Cornwall has large domes holding plants from around the world. It is also an educational charity.",
+    "handbook_ref": "Chapter 4 · Places of interest",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH4-PLA-003",
+    "section_id": "CH4-PLA",
+    "type": "single",
+    "stem": "Where is the Giant's Causeway?",
+    "options": [
+      {
+        "label": "Northern Ireland",
+        "correct": true
+      },
+      {
+        "label": "Scotland",
+        "correct": false
+      },
+      {
+        "label": "Wales",
+        "correct": false
+      },
+      {
+        "label": "England",
+        "correct": false
+      }
+    ],
+    "explanation": "The Giant's Causeway is on the north-east coast of Northern Ireland. It is made of thousands of six-sided rock columns.",
+    "handbook_ref": "Chapter 4 · Places of interest",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH4-PLA-004",
+    "section_id": "CH4-PLA",
+    "type": "single",
+    "stem": "Which national park contains Windermere, the largest lake in England?",
+    "options": [
+      {
+        "label": "The Lake District",
+        "correct": true
+      },
+      {
+        "label": "Snowdonia",
+        "correct": false
+      },
+      {
+        "label": "The Peak District",
+        "correct": false
+      },
+      {
+        "label": "Dartmoor",
+        "correct": false
+      }
+    ],
+    "explanation": "The Lake District is England's largest national park. Windermere is England's largest lake.",
+    "handbook_ref": "Chapter 4 · Places of interest",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH4-PLA-005",
+    "section_id": "CH4-PLA",
+    "type": "single",
+    "stem": "What is the highest mountain in Wales?",
+    "options": [
+      {
+        "label": "Snowdon (Yr Wyddfa)",
+        "correct": true
+      },
+      {
+        "label": "Ben Nevis",
+        "correct": false
+      },
+      {
+        "label": "Scafell Pike",
+        "correct": false
+      },
+      {
+        "label": "Slieve Donard",
+        "correct": false
+      }
+    ],
+    "explanation": "Snowdon, also called Yr Wyddfa, is the highest mountain in Wales. Ben Nevis in Scotland is the highest in the UK.",
+    "handbook_ref": "Chapter 4 · Places of interest",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH4-PLA-006",
+    "section_id": "CH4-PLA",
+    "type": "single",
+    "stem": "Loch Lomond, the largest area of fresh water in mainland Britain, is in which country?",
+    "options": [
+      {
+        "label": "Scotland",
+        "correct": true
+      },
+      {
+        "label": "Wales",
+        "correct": false
+      },
+      {
+        "label": "England",
+        "correct": false
+      },
+      {
+        "label": "Northern Ireland",
+        "correct": false
+      }
+    ],
+    "explanation": "Loch Lomond is in Scotland. It is part of the Loch Lomond and the Trossachs National Park.",
+    "handbook_ref": "Chapter 4 · Places of interest",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH4-PLA-007",
+    "section_id": "CH4-PLA",
+    "type": "truefalse",
+    "stem": "The London Eye is a large observation wheel on the south bank of the River Thames.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "The London Eye opened to mark the year 2000. From the top, visitors can see across much of London.",
+    "handbook_ref": "Chapter 4 · Places of interest",
+    "difficulty": 1
+  }
+]

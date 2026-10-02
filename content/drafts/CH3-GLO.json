@@ -1,0 +1,345 @@
+[
+  {
+    "id": "Q-CH3-GLO-001",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "Who is usually thought of as the first Prime Minister?",
+    "options": [
+      {
+        "label": "Sir Robert Walpole",
+        "correct": true
+      },
+      {
+        "label": "Winston Churchill",
+        "correct": false
+      },
+      {
+        "label": "William Pitt",
+        "correct": false
+      },
+      {
+        "label": "Oliver Cromwell",
+        "correct": false
+      }
+    ],
+    "explanation": "Sir Robert Walpole was the first politician to lead the government as Prime Minister. He held the post from 1721 to 1742.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH3-GLO-002",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "In 1746, Bonnie Prince Charlie's army was defeated at which battle?",
+    "options": [
+      {
+        "label": "The Battle of Culloden",
+        "correct": true
+      },
+      {
+        "label": "The Battle of Bosworth Field",
+        "correct": false
+      },
+      {
+        "label": "The Battle of Bannockburn",
+        "correct": false
+      },
+      {
+        "label": "The Battle of Waterloo",
+        "correct": false
+      }
+    ],
+    "explanation": "Charles Edward Stuart, known as Bonnie Prince Charlie, tried to take the throne. His army was defeated at Culloden in Scotland in 1746.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 3
+  },
+  {
+    "id": "Q-CH3-GLO-003",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "Which Scottish poet wrote 'Auld Lang Syne'?",
+    "options": [
+      {
+        "label": "Robert Burns",
+        "correct": true
+      },
+      {
+        "label": "Walter Scott",
+        "correct": false
+      },
+      {
+        "label": "Robert Louis Stevenson",
+        "correct": false
+      },
+      {
+        "label": "Dylan Thomas",
+        "correct": false
+      }
+    ],
+    "explanation": "Robert Burns is Scotland's best-known poet. People around the world sing his song 'Auld Lang Syne' at New Year.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH3-GLO-004",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "Whose work on steam power helped drive the Industrial Revolution?",
+    "options": [
+      {
+        "label": "James Watt",
+        "correct": true
+      },
+      {
+        "label": "Richard Arkwright",
+        "correct": false
+      },
+      {
+        "label": "Isambard Kingdom Brunel",
+        "correct": false
+      },
+      {
+        "label": "Henry Bessemer",
+        "correct": false
+      }
+    ],
+    "explanation": "James Watt was a Scottish scientist. His improvements to steam power helped factories and machines develop quickly during the Industrial Revolution.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH3-GLO-005",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "In which year did it become illegal to trade slaves in British ships or ports?",
+    "options": [
+      {
+        "label": "1807",
+        "correct": true
+      },
+      {
+        "label": "1833",
+        "correct": false
+      },
+      {
+        "label": "1776",
+        "correct": false
+      },
+      {
+        "label": "1901",
+        "correct": false
+      }
+    ],
+    "explanation": "Parliament ended the slave trade in 1807. In 1833 the Emancipation Act ended slavery across the British Empire.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 3
+  },
+  {
+    "id": "Q-CH3-GLO-006",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "Which MP led the campaign in Parliament against the slave trade?",
+    "options": [
+      {
+        "label": "William Wilberforce",
+        "correct": true
+      },
+      {
+        "label": "Robert Walpole",
+        "correct": false
+      },
+      {
+        "label": "Winston Churchill",
+        "correct": false
+      },
+      {
+        "label": "Aneurin Bevan",
+        "correct": false
+      }
+    ],
+    "explanation": "William Wilberforce was an MP and a Christian who campaigned for many years to end the slave trade.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH3-GLO-007",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "In 1805, Admiral Nelson defeated the French and Spanish fleets at which battle?",
+    "options": [
+      {
+        "label": "The Battle of Trafalgar",
+        "correct": true
+      },
+      {
+        "label": "The Battle of Waterloo",
+        "correct": false
+      },
+      {
+        "label": "The Battle of the Somme",
+        "correct": false
+      },
+      {
+        "label": "The Battle of Agincourt",
+        "correct": false
+      }
+    ],
+    "explanation": "Admiral Nelson won the Battle of Trafalgar in 1805 but was killed in the battle. Nelson's Column in Trafalgar Square remembers him.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH3-GLO-008",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "Who defeated Napoleon at the Battle of Waterloo in 1815?",
+    "options": [
+      {
+        "label": "The Duke of Wellington",
+        "correct": true
+      },
+      {
+        "label": "Admiral Nelson",
+        "correct": false
+      },
+      {
+        "label": "Oliver Cromwell",
+        "correct": false
+      },
+      {
+        "label": "Robert Walpole",
+        "correct": false
+      }
+    ],
+    "explanation": "The Duke of Wellington defeated Napoleon at Waterloo in 1815. He later became Prime Minister.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH3-GLO-009",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "For about how long was Queen Victoria on the throne?",
+    "options": [
+      {
+        "label": "Almost 64 years",
+        "correct": true
+      },
+      {
+        "label": "About 30 years",
+        "correct": false
+      },
+      {
+        "label": "About 45 years",
+        "correct": false
+      },
+      {
+        "label": "Over 70 years",
+        "correct": false
+      }
+    ],
+    "explanation": "Queen Victoria reigned from 1837 to 1901, almost 64 years. During this time Britain became a powerful country with a large empire.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 3
+  },
+  {
+    "id": "Q-CH3-GLO-010",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "Who is famous for her nursing work during the Crimean War?",
+    "options": [
+      {
+        "label": "Florence Nightingale",
+        "correct": true
+      },
+      {
+        "label": "Emmeline Pankhurst",
+        "correct": false
+      },
+      {
+        "label": "Elizabeth Fry",
+        "correct": false
+      },
+      {
+        "label": "Jane Austen",
+        "correct": false
+      }
+    ],
+    "explanation": "Florence Nightingale cared for wounded soldiers in the Crimean War. She later set up a school for nurses in London.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH3-GLO-011",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "Which engineer built the Great Western Railway?",
+    "options": [
+      {
+        "label": "Isambard Kingdom Brunel",
+        "correct": true
+      },
+      {
+        "label": "James Watt",
+        "correct": false
+      },
+      {
+        "label": "Henry Bessemer",
+        "correct": false
+      },
+      {
+        "label": "Richard Arkwright",
+        "correct": false
+      }
+    ],
+    "explanation": "Isambard Kingdom Brunel was a great engineer. He built the Great Western Railway, tunnels, bridges and steamships.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH3-GLO-012",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "Who led the suffragettes, who campaigned for women to have the vote?",
+    "options": [
+      {
+        "label": "Emmeline Pankhurst",
+        "correct": true
+      },
+      {
+        "label": "Florence Nightingale",
+        "correct": false
+      },
+      {
+        "label": "Margaret Thatcher",
+        "correct": false
+      },
+      {
+        "label": "Jane Austen",
+        "correct": false
+      }
+    ],
+    "explanation": "Emmeline Pankhurst set up the Women's Social and Political Union. Its members, called suffragettes, campaigned hard for women's right to vote.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 1
+  },
+  {
+    "id": "Q-CH3-GLO-013",
+    "section_id": "CH3-GLO",
+    "type": "truefalse",
+    "stem": "In 1928, women got the right to vote at 21, the same age as men.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "In 1918 women over 30 got the vote. Ten years later, in 1928, women could vote at 21, the same as men.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 3
+  }
+]

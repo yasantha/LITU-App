@@ -1,0 +1,94 @@
+[
+  {
+    "id": "Q-CH4-TOD-001",
+    "section_id": "CH4-TOD",
+    "type": "single",
+    "stem": "What is the currency of the UK?",
+    "options": [
+      {
+        "label": "The pound sterling",
+        "correct": true
+      },
+      {
+        "label": "The euro",
+        "correct": false
+      },
+      {
+        "label": "The dollar",
+        "correct": false
+      },
+      {
+        "label": "The franc",
+        "correct": false
+      }
+    ],
+    "explanation": "The UK currency is the pound sterling. There are 100 pence in a pound.",
+    "handbook_ref": "Chapter 4 · The UK today",
+    "difficulty": 1
+  },
+  {
+    "id": "Q-CH4-TOD-002",
+    "section_id": "CH4-TOD",
+    "type": "truefalse",
+    "stem": "Scotland and Northern Ireland have their own banknotes, which can be used anywhere in the UK.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Banks in Scotland and Northern Ireland print their own banknotes. They are valid everywhere in the UK, although some shops may not accept them.",
+    "handbook_ref": "Chapter 4 · The UK today",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH4-TOD-003",
+    "section_id": "CH4-TOD",
+    "type": "single",
+    "stem": "Which language is spoken by many people in Wales, alongside English?",
+    "options": [
+      {
+        "label": "Welsh",
+        "correct": true
+      },
+      {
+        "label": "Gaelic",
+        "correct": false
+      },
+      {
+        "label": "Cornish",
+        "correct": false
+      },
+      {
+        "label": "Manx",
+        "correct": false
+      }
+    ],
+    "explanation": "Many people in Wales speak Welsh, and children learn it at school. In parts of Scotland some people speak Gaelic.",
+    "handbook_ref": "Chapter 4 · The UK today",
+    "difficulty": 1
+  },
+  {
+    "id": "Q-CH4-TOD-004",
+    "section_id": "CH4-TOD",
+    "type": "truefalse",
+    "stem": "Women make up about half of the workforce in Britain today.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Women in Britain have the same rights to work as men. Today they make up about half of the workforce.",
+    "handbook_ref": "Chapter 4 · The UK today",
+    "difficulty": 2
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "id": "Q-CH1-VAL-001",
+    "section_id": "CH1-VAL",
+    "type": "single",
+    "stem": "Which of these is a fundamental principle of British life?",
+    "options": [
+      {
+        "label": "Democracy",
+        "correct": true
+      },
+      {
+        "label": "Rule by the army",
+        "correct": false
+      },
+      {
+        "label": "One religion for everyone",
+        "correct": false
+      },
+      {
+        "label": "Rule by the richest families",
+        "correct": false
+      }
+    ],
+    "explanation": "Fundamental principles of British life include democracy, the rule of law, individual liberty and tolerance of different faiths and beliefs.",
+    "handbook_ref": "Chapter 1 · The values and principles of the UK",
+    "difficulty": 1
+  },
+  {
+    "id": "Q-CH1-VAL-002",
+    "section_id": "CH1-VAL",
+    "type": "truefalse",
+    "stem": "People in the UK are expected to respect the rights of others to hold their own opinions.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Tolerance is a core British value. You can disagree with someone, but you should respect their right to their own views and beliefs.",
+    "handbook_ref": "Chapter 1 · The values and principles of the UK",
+    "difficulty": 1
+  },
+  {
+    "id": "Q-CH1-VAL-003",
+    "section_id": "CH1-VAL",
+    "type": "multi",
+    "stem": "Which TWO are responsibilities of people who live in the UK?",
+    "options": [
+      {
+        "label": "Respect and obey the law",
+        "correct": true
+      },
+      {
+        "label": "Look after the area you live in",
+        "correct": true
+      },
+      {
+        "label": "Join a political party",
+        "correct": false
+      },
+      {
+        "label": "Go to a place of worship every week",
+        "correct": false
+      }
+    ],
+    "explanation": "Everyone should respect the law and look after themselves, their family and the area where they live. Joining a party or religion is a free choice.",
+    "handbook_ref": "Chapter 1 · The values and principles of the UK",
+    "difficulty": 2
+  }
+]

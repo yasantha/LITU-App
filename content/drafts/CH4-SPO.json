@@ -1,0 +1,210 @@
+[
+  {
+    "id": "Q-CH4-SPO-001",
+    "section_id": "CH4-SPO",
+    "type": "single",
+    "stem": "Where is the Grand National horse race held?",
+    "options": [
+      {
+        "label": "Aintree, near Liverpool",
+        "correct": true
+      },
+      {
+        "label": "Ascot",
+        "correct": false
+      },
+      {
+        "label": "Epsom",
+        "correct": false
+      },
+      {
+        "label": "Newmarket",
+        "correct": false
+      }
+    ],
+    "explanation": "The Grand National is a famous horse race at Aintree, near Liverpool. Royal Ascot is another well-known race meeting.",
+    "handbook_ref": "Chapter 4 · Sport",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH4-SPO-002",
+    "section_id": "CH4-SPO",
+    "type": "single",
+    "stem": "Which is the oldest tennis tournament in the world?",
+    "options": [
+      {
+        "label": "Wimbledon",
+        "correct": true
+      },
+      {
+        "label": "The US Open",
+        "correct": false
+      },
+      {
+        "label": "The French Open",
+        "correct": false
+      },
+      {
+        "label": "The Australian Open",
+        "correct": false
+      }
+    ],
+    "explanation": "The Wimbledon Championships began in 1877. It is the oldest tennis tournament in the world and the only major one played on grass.",
+    "handbook_ref": "Chapter 4 · Sport",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH4-SPO-003",
+    "section_id": "CH4-SPO",
+    "type": "single",
+    "stem": "Which town in Scotland is known as the home of golf?",
+    "options": [
+      {
+        "label": "St Andrews",
+        "correct": true
+      },
+      {
+        "label": "Gleneagles",
+        "correct": false
+      },
+      {
+        "label": "Inverness",
+        "correct": false
+      },
+      {
+        "label": "Stirling",
+        "correct": false
+      }
+    ],
+    "explanation": "Golf has been played in Scotland since the 15th century. St Andrews is known around the world as the home of golf.",
+    "handbook_ref": "Chapter 4 · Sport",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH4-SPO-004",
+    "section_id": "CH4-SPO",
+    "type": "single",
+    "stem": "Who was the first man to run a mile in under four minutes, in 1954?",
+    "options": [
+      {
+        "label": "Sir Roger Bannister",
+        "correct": true
+      },
+      {
+        "label": "Sir Steve Redgrave",
+        "correct": false
+      },
+      {
+        "label": "Sir Chris Hoy",
+        "correct": false
+      },
+      {
+        "label": "Sir Mo Farah",
+        "correct": false
+      }
+    ],
+    "explanation": "Sir Roger Bannister ran a mile in under four minutes in 1954. Nobody had done it before.",
+    "handbook_ref": "Chapter 4 · Sport",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH4-SPO-005",
+    "section_id": "CH4-SPO",
+    "type": "single",
+    "stem": "How many times had London hosted the Olympic Games by 2012?",
+    "options": [
+      {
+        "label": "Three",
+        "correct": true
+      },
+      {
+        "label": "Two",
+        "correct": false
+      },
+      {
+        "label": "One",
+        "correct": false
+      },
+      {
+        "label": "Four",
+        "correct": false
+      }
+    ],
+    "explanation": "London hosted the Olympic Games in 1908, 1948 and 2012. The 2012 Games were held mainly in Stratford, east London.",
+    "handbook_ref": "Chapter 4 · Sport",
+    "difficulty": 3
+  },
+  {
+    "id": "Q-CH4-SPO-006",
+    "section_id": "CH4-SPO",
+    "type": "single",
+    "stem": "The Paralympic Games began from work at which hospital?",
+    "options": [
+      {
+        "label": "Stoke Mandeville",
+        "correct": true
+      },
+      {
+        "label": "Great Ormond Street",
+        "correct": false
+      },
+      {
+        "label": "St Thomas'",
+        "correct": false
+      },
+      {
+        "label": "Addenbrooke's",
+        "correct": false
+      }
+    ],
+    "explanation": "Sport for disabled people was developed at Stoke Mandeville hospital in Buckinghamshire. This work led to the Paralympic Games.",
+    "handbook_ref": "Chapter 4 · Sport",
+    "difficulty": 3
+  },
+  {
+    "id": "Q-CH4-SPO-007",
+    "section_id": "CH4-SPO",
+    "type": "truefalse",
+    "stem": "Sir Steve Redgrave won rowing gold medals at five Olympic Games in a row.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Sir Steve Redgrave won gold in rowing at five Olympic Games one after another, from 1984 to 2000.",
+    "handbook_ref": "Chapter 4 · Sport",
+    "difficulty": 3
+  },
+  {
+    "id": "Q-CH4-SPO-008",
+    "section_id": "CH4-SPO",
+    "type": "single",
+    "stem": "In which sport do England and Australia compete for The Ashes?",
+    "options": [
+      {
+        "label": "Cricket",
+        "correct": true
+      },
+      {
+        "label": "Rugby",
+        "correct": false
+      },
+      {
+        "label": "Tennis",
+        "correct": false
+      },
+      {
+        "label": "Golf",
+        "correct": false
+      }
+    ],
+    "explanation": "The Ashes is a famous series of cricket matches between England and Australia.",
+    "handbook_ref": "Chapter 4 · Sport",
+    "difficulty": 2
+  }
+]

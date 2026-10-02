@@ -1,0 +1,175 @@
+[
+  {
+    "id": "Q-CH5-LAW-001",
+    "section_id": "CH5-LAW",
+    "type": "single",
+    "stem": "Who usually hears cases in a magistrates' court in England and Wales?",
+    "options": [
+      {
+        "label": "Magistrates, who are usually unpaid volunteers",
+        "correct": true
+      },
+      {
+        "label": "A judge and a jury",
+        "correct": false
+      },
+      {
+        "label": "Police officers",
+        "correct": false
+      },
+      {
+        "label": "Members of Parliament",
+        "correct": false
+      }
+    ],
+    "explanation": "Most minor criminal cases are heard by magistrates. They are usually unpaid and do not need legal qualifications.",
+    "handbook_ref": "Chapter 5 · Respecting the law",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH5-LAW-002",
+    "section_id": "CH5-LAW",
+    "type": "single",
+    "stem": "How many people sit on a jury in England, Wales and Northern Ireland?",
+    "options": [
+      {
+        "label": "12",
+        "correct": true
+      },
+      {
+        "label": "15",
+        "correct": false
+      },
+      {
+        "label": "10",
+        "correct": false
+      },
+      {
+        "label": "8",
+        "correct": false
+      }
+    ],
+    "explanation": "A jury has 12 people in England, Wales and Northern Ireland. In Scotland a jury has 15 people.",
+    "handbook_ref": "Chapter 5 · Respecting the law",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH5-LAW-003",
+    "section_id": "CH5-LAW",
+    "type": "single",
+    "stem": "In England, Wales and Northern Ireland, which court hears cases against people aged 10 to 17?",
+    "options": [
+      {
+        "label": "A youth court",
+        "correct": true
+      },
+      {
+        "label": "The Crown Court",
+        "correct": false
+      },
+      {
+        "label": "A county court",
+        "correct": false
+      },
+      {
+        "label": "The small claims court",
+        "correct": false
+      }
+    ],
+    "explanation": "Young people aged 10 to 17 accused of a crime are usually tried in a youth court. Scotland uses a Children's Hearings System.",
+    "handbook_ref": "Chapter 5 · Respecting the law",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH5-LAW-004",
+    "section_id": "CH5-LAW",
+    "type": "multi",
+    "stem": "Which TWO of these are criminal offences in the UK?",
+    "options": [
+      {
+        "label": "Carrying a weapon in public",
+        "correct": true
+      },
+      {
+        "label": "Selling tobacco to someone under 18",
+        "correct": true
+      },
+      {
+        "label": "Not paying back a loan to a friend",
+        "correct": false
+      },
+      {
+        "label": "Breaking a contract with a builder",
+        "correct": false
+      }
+    ],
+    "explanation": "Carrying a weapon and selling tobacco to under-18s are crimes. Unpaid debts and broken contracts are usually settled under civil law.",
+    "handbook_ref": "Chapter 5 · Respecting the law",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH5-LAW-005",
+    "section_id": "CH5-LAW",
+    "type": "truefalse",
+    "stem": "A disagreement about faulty goods bought from a shop is usually dealt with under civil law.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Civil law covers disputes between people or businesses, such as faulty goods, debts and housing. Criminal law covers crimes.",
+    "handbook_ref": "Chapter 5 · Respecting the law",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH5-LAW-006",
+    "section_id": "CH5-LAW",
+    "type": "single",
+    "stem": "What do Police and Crime Commissioners (PCCs) do?",
+    "options": [
+      {
+        "label": "Make sure local police are run well",
+        "correct": true
+      },
+      {
+        "label": "Decide sentences in court",
+        "correct": false
+      },
+      {
+        "label": "Write new criminal laws",
+        "correct": false
+      },
+      {
+        "label": "Train police officers",
+        "correct": false
+      }
+    ],
+    "explanation": "PCCs are elected by the public in police areas in England and Wales. They set local police priorities and make sure policing is effective.",
+    "handbook_ref": "Chapter 5 · Respecting the law",
+    "difficulty": 3
+  },
+  {
+    "id": "Q-CH5-LAW-007",
+    "section_id": "CH5-LAW",
+    "type": "truefalse",
+    "stem": "Forcing someone to marry is a criminal offence in the UK.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "A forced marriage is one where someone does not agree to it. It is a crime, and courts can also issue orders to protect people at risk.",
+    "handbook_ref": "Chapter 5 · Respecting the law",
+    "difficulty": 2
+  }
+]

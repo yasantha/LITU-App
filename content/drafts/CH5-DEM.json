@@ -1,0 +1,75 @@
+[
+  {
+    "id": "Q-CH5-DEM-001",
+    "section_id": "CH5-DEM",
+    "type": "single",
+    "stem": "What is the minimum age to vote in a UK general election?",
+    "options": [
+      {
+        "label": "18",
+        "correct": true
+      },
+      {
+        "label": "16",
+        "correct": false
+      },
+      {
+        "label": "21",
+        "correct": false
+      },
+      {
+        "label": "25",
+        "correct": false
+      }
+    ],
+    "explanation": "You must be 18 or over to vote in elections to the UK Parliament. In some elections in Scotland and Wales, people can vote at 16.",
+    "handbook_ref": "Chapter 5 · The development of British democracy",
+    "difficulty": 1
+  },
+  {
+    "id": "Q-CH5-DEM-002",
+    "section_id": "CH5-DEM",
+    "type": "single",
+    "stem": "In which year did the voting age for everyone become 18?",
+    "options": [
+      {
+        "label": "1969",
+        "correct": true
+      },
+      {
+        "label": "1928",
+        "correct": false
+      },
+      {
+        "label": "1918",
+        "correct": false
+      },
+      {
+        "label": "1945",
+        "correct": false
+      }
+    ],
+    "explanation": "The voting age was lowered from 21 to 18 for men and women in 1969.",
+    "handbook_ref": "Chapter 5 · The development of British democracy",
+    "difficulty": 3
+  },
+  {
+    "id": "Q-CH5-DEM-003",
+    "section_id": "CH5-DEM",
+    "type": "truefalse",
+    "stem": "In the 1830s and 1840s, the Chartists campaigned for every man to have the right to vote.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "The Chartists were a group who campaigned for political reform, including votes for every man and secret ballots.",
+    "handbook_ref": "Chapter 5 · The development of British democracy",
+    "difficulty": 3
+  }
+]

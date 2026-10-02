@@ -1,0 +1,183 @@
+[
+  {
+    "id": "Q-CH5-CON-001",
+    "section_id": "CH5-CON",
+    "type": "truefalse",
+    "stem": "The UK constitution is written down in a single document.",
+    "options": [
+      {
+        "label": "True",
+        "correct": false
+      },
+      {
+        "label": "False",
+        "correct": true
+      }
+    ],
+    "explanation": "The UK constitution is not written in one document, so it is often called 'unwritten'. It comes from laws, conventions and court decisions.",
+    "handbook_ref": "Chapter 5 · The British constitution",
+    "difficulty": 1
+  },
+  {
+    "id": "Q-CH5-CON-002",
+    "section_id": "CH5-CON",
+    "type": "single",
+    "stem": "What type of monarchy does the UK have?",
+    "options": [
+      {
+        "label": "A constitutional monarchy",
+        "correct": true
+      },
+      {
+        "label": "An absolute monarchy",
+        "correct": false
+      },
+      {
+        "label": "An elected monarchy",
+        "correct": false
+      },
+      {
+        "label": "A military monarchy",
+        "correct": false
+      }
+    ],
+    "explanation": "In a constitutional monarchy the king or queen does not rule the country. The elected government makes decisions.",
+    "handbook_ref": "Chapter 5 · The British constitution",
+    "difficulty": 1
+  },
+  {
+    "id": "Q-CH5-CON-003",
+    "section_id": "CH5-CON",
+    "type": "single",
+    "stem": "Who is the head of state of the UK?",
+    "options": [
+      {
+        "label": "The monarch",
+        "correct": true
+      },
+      {
+        "label": "The Prime Minister",
+        "correct": false
+      },
+      {
+        "label": "The Speaker of the House of Commons",
+        "correct": false
+      },
+      {
+        "label": "The Lord Chancellor",
+        "correct": false
+      }
+    ],
+    "explanation": "The monarch is the head of state. The Prime Minister is the head of the government.",
+    "handbook_ref": "Chapter 5 · The British constitution",
+    "difficulty": 1
+  },
+  {
+    "id": "Q-CH5-CON-004",
+    "section_id": "CH5-CON",
+    "type": "single",
+    "stem": "What does the Speaker of the House of Commons do?",
+    "options": [
+      {
+        "label": "Chairs debates and keeps order, staying neutral",
+        "correct": true
+      },
+      {
+        "label": "Leads the government",
+        "correct": false
+      },
+      {
+        "label": "Speaks for the monarch",
+        "correct": false
+      },
+      {
+        "label": "Leads the opposition",
+        "correct": false
+      }
+    ],
+    "explanation": "The Speaker is an MP chosen by other MPs. The Speaker chairs debates, keeps order and does not take sides.",
+    "handbook_ref": "Chapter 5 · The British constitution",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH5-CON-005",
+    "section_id": "CH5-CON",
+    "type": "single",
+    "stem": "Who sits in the House of Commons?",
+    "options": [
+      {
+        "label": "Members of Parliament elected by voters",
+        "correct": true
+      },
+      {
+        "label": "Peers appointed for life",
+        "correct": false
+      },
+      {
+        "label": "Senior judges",
+        "correct": false
+      },
+      {
+        "label": "Bishops of the Church of England",
+        "correct": false
+      }
+    ],
+    "explanation": "The House of Commons is made up of MPs elected by voters in their constituencies. It is the more important of the two Houses.",
+    "handbook_ref": "Chapter 5 · The British constitution",
+    "difficulty": 1
+  },
+  {
+    "id": "Q-CH5-CON-006",
+    "section_id": "CH5-CON",
+    "type": "multi",
+    "stem": "Which TWO kinds of member sit in the House of Lords?",
+    "options": [
+      {
+        "label": "Life peers",
+        "correct": true
+      },
+      {
+        "label": "Senior bishops of the Church of England",
+        "correct": true
+      },
+      {
+        "label": "Elected MPs",
+        "correct": false
+      },
+      {
+        "label": "Local councillors",
+        "correct": false
+      }
+    ],
+    "explanation": "Members of the House of Lords are not elected. They include life peers, some hereditary peers and senior bishops of the Church of England.",
+    "handbook_ref": "Chapter 5 · The British constitution",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH5-CON-007",
+    "section_id": "CH5-CON",
+    "type": "single",
+    "stem": "How often must a general election be held?",
+    "options": [
+      {
+        "label": "At least every five years",
+        "correct": true
+      },
+      {
+        "label": "Every four years",
+        "correct": false
+      },
+      {
+        "label": "Every three years",
+        "correct": false
+      },
+      {
+        "label": "Every seven years",
+        "correct": false
+      }
+    ],
+    "explanation": "A general election must be held at least every five years. MPs are elected in every constituency.",
+    "handbook_ref": "Chapter 5 · The British constitution",
+    "difficulty": 2
+  }
+]

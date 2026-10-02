@@ -1,0 +1,202 @@
+[
+  {
+    "id": "Q-CH2-UK-001",
+    "section_id": "CH2-UK",
+    "type": "single",
+    "stem": "Which of these is NOT part of the UK?",
+    "options": [
+      {
+        "label": "The Republic of Ireland",
+        "correct": true
+      },
+      {
+        "label": "Wales",
+        "correct": false
+      },
+      {
+        "label": "Scotland",
+        "correct": false
+      },
+      {
+        "label": "Northern Ireland",
+        "correct": false
+      }
+    ],
+    "explanation": "The UK is made up of England, Scotland, Wales and Northern Ireland. The Republic of Ireland is a separate, independent country.",
+    "handbook_ref": "Chapter 2 · What is the UK?",
+    "difficulty": 1
+  },
+  {
+    "id": "Q-CH2-UK-002",
+    "section_id": "CH2-UK",
+    "type": "single",
+    "stem": "Which countries make up Great Britain?",
+    "options": [
+      {
+        "label": "England, Scotland and Wales",
+        "correct": true
+      },
+      {
+        "label": "England, Scotland, Wales and Northern Ireland",
+        "correct": false
+      },
+      {
+        "label": "England and Wales only",
+        "correct": false
+      },
+      {
+        "label": "England, Wales and Northern Ireland",
+        "correct": false
+      }
+    ],
+    "explanation": "Great Britain is the island of England, Scotland and Wales. The United Kingdom adds Northern Ireland.",
+    "handbook_ref": "Chapter 2 · What is the UK?",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH2-UK-003",
+    "section_id": "CH2-UK",
+    "type": "truefalse",
+    "stem": "The Isle of Man is part of the UK.",
+    "options": [
+      {
+        "label": "True",
+        "correct": false
+      },
+      {
+        "label": "False",
+        "correct": true
+      }
+    ],
+    "explanation": "The Isle of Man and the Channel Islands are Crown dependencies. They have their own governments and are not part of the UK.",
+    "handbook_ref": "Chapter 2 · What is the UK?",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH2-UK-004",
+    "section_id": "CH2-UK",
+    "type": "multi",
+    "stem": "Which TWO are Crown dependencies?",
+    "options": [
+      {
+        "label": "The Channel Islands",
+        "correct": true
+      },
+      {
+        "label": "The Isle of Man",
+        "correct": true
+      },
+      {
+        "label": "The Isle of Wight",
+        "correct": false
+      },
+      {
+        "label": "Anglesey",
+        "correct": false
+      }
+    ],
+    "explanation": "The Channel Islands and the Isle of Man have a special link to the UK but run their own affairs. The Isle of Wight and Anglesey are part of the UK.",
+    "handbook_ref": "Chapter 2 · What is the UK?",
+    "difficulty": 2
+  },
+  {
+    "id": "Q-CH2-UK-005",
+    "section_id": "CH2-UK",
+    "type": "single",
+    "stem": "What is the capital city of Wales?",
+    "options": [
+      {
+        "label": "Cardiff",
+        "correct": true
+      },
+      {
+        "label": "Swansea",
+        "correct": false
+      },
+      {
+        "label": "Newport",
+        "correct": false
+      },
+      {
+        "label": "Bangor",
+        "correct": false
+      }
+    ],
+    "explanation": "Cardiff is the capital city of Wales. The capital of England is London, of Scotland is Edinburgh and of Northern Ireland is Belfast.",
+    "handbook_ref": "Chapter 2 · What is the UK?",
+    "difficulty": 1
+  },
+  {
+    "id": "Q-CH2-UK-006",
+    "section_id": "CH2-UK",
+    "type": "single",
+    "stem": "What is the capital city of Northern Ireland?",
+    "options": [
+      {
+        "label": "Belfast",
+        "correct": true
+      },
+      {
+        "label": "Londonderry",
+        "correct": false
+      },
+      {
+        "label": "Armagh",
+        "correct": false
+      },
+      {
+        "label": "Newry",
+        "correct": false
+      }
+    ],
+    "explanation": "Belfast is the capital of Northern Ireland. It is home to the Northern Ireland Assembly at Stormont.",
+    "handbook_ref": "Chapter 2 · What is the UK?",
+    "difficulty": 1
+  },
+  {
+    "id": "Q-CH2-UK-007",
+    "section_id": "CH2-UK",
+    "type": "single",
+    "stem": "What is the capital city of Scotland?",
+    "options": [
+      {
+        "label": "Edinburgh",
+        "correct": true
+      },
+      {
+        "label": "Glasgow",
+        "correct": false
+      },
+      {
+        "label": "Aberdeen",
+        "correct": false
+      },
+      {
+        "label": "Dundee",
+        "correct": false
+      }
+    ],
+    "explanation": "Edinburgh is the capital of Scotland. Glasgow is Scotland's largest city, but it is not the capital.",
+    "handbook_ref": "Chapter 2 · What is the UK?",
+    "difficulty": 1
+  },
+  {
+    "id": "Q-CH2-UK-008",
+    "section_id": "CH2-UK",
+    "type": "truefalse",
+    "stem": "Scotland, Wales and Northern Ireland each have their own parliament or assembly with some powers of their own.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Some powers are devolved from the UK Parliament, so Scotland, Wales and Northern Ireland can make their own decisions on matters such as health and education.",
+    "handbook_ref": "Chapter 2 · What is the UK?",
+    "difficulty": 2
+  }
+]

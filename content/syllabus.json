@@ -1,0 +1,38 @@
+{
+  "handbook_edition": "Life in the United Kingdom: A Guide for New Residents, 3rd edition",
+  "chapters": [
+    {"id": "CH1", "number": 1, "title": "Values and principles", "in_test": false, "sections": [
+      {"id": "CH1-VAL", "title": "The values and principles of the UK"},
+      {"id": "CH1-RES", "title": "Becoming a permanent resident"},
+      {"id": "CH1-TST", "title": "Taking the Life in the UK test"}
+    ]},
+    {"id": "CH2", "number": 2, "title": "What is the UK?", "in_test": true, "sections": [
+      {"id": "CH2-UK", "title": "What is the UK?"}
+    ]},
+    {"id": "CH3", "number": 3, "title": "History", "in_test": true, "sections": [
+      {"id": "CH3-EAR", "title": "Early Britain"},
+      {"id": "CH3-MID", "title": "The Middle Ages"},
+      {"id": "CH3-TUD", "title": "The Tudors and Stuarts"},
+      {"id": "CH3-GLO", "title": "A global power"},
+      {"id": "CH3-C20", "title": "The 20th century"},
+      {"id": "CH3-POS", "title": "Britain since 1945"}
+    ]},
+    {"id": "CH4", "number": 4, "title": "Modern society", "in_test": true, "sections": [
+      {"id": "CH4-TOD", "title": "The UK today"},
+      {"id": "CH4-REL", "title": "Religion"},
+      {"id": "CH4-CUS", "title": "Customs and traditions"},
+      {"id": "CH4-SPO", "title": "Sport"},
+      {"id": "CH4-ART", "title": "Arts and culture"},
+      {"id": "CH4-LEI", "title": "Leisure"},
+      {"id": "CH4-PLA", "title": "Places of interest"}
+    ]},
+    {"id": "CH5", "number": 5, "title": "Government and law", "in_test": true, "sections": [
+      {"id": "CH5-DEM", "title": "The development of British democracy"},
+      {"id": "CH5-CON", "title": "The British constitution"},
+      {"id": "CH5-GOV", "title": "The government"},
+      {"id": "CH5-INT", "title": "The UK and international institutions"},
+      {"id": "CH5-LAW", "title": "Respecting the law"},
+      {"id": "CH5-ROL", "title": "Your role in the community"}
+    ]}
+  ]
+}
