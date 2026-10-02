@@ -1,0 +1,26 @@
+*.iml
+.gradle/
+.kotlin/
+build/
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+.DS_Store
+.idea/
+.claude/settings.local.json
+
+# Signing: never commit keys (spec section 15)
+/keystore/
+keystore.properties
+*.jks
+*.keystore
+
+# Firebase config is per project (litu-dev / litu-prod); add once the projects exist
+google-services.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+content/.env
