@@ -121,7 +121,12 @@ internal fun SettingsScreen(onBack: () -> Unit, onPaywall: () -> Unit, onDataDel
         }
 
         Group("Study") {
-            Item(Icons.Rounded.CalendarMonth, "Test date", settings.testDate?.format(DateTimeFormatter.ofPattern("d MMM yyyy", Locale.UK)) ?: "Not booked", onClick = { dialog = Dialog.DATE })
+            Item(
+                Icons.Rounded.CalendarMonth,
+                "Test date",
+                settings.testDate?.format(DateTimeFormatter.ofPattern("d MMM yyyy", Locale.UK)) ?: "Not booked",
+                onClick = { dialog = Dialog.DATE },
+            )
             Item(Icons.Rounded.Flag, "Daily goal", "${settings.dailyGoal} questions", onClick = { dialog = Dialog.GOAL })
             Row(Modifier.fillMaxWidth().heightIn(min = 56.dp).padding(horizontal = 16.dp), verticalAlignment = Alignment.CenterVertically) {
                 Icon(Icons.Rounded.Notifications, null, tint = c.textPrimary)

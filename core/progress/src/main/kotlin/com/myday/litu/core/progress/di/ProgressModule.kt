@@ -31,6 +31,7 @@ abstract class ProgressModule {
     companion object {
         @Provides
         @Singleton
+        @Suppress("SpreadOperator") // Runs once at startup.
         fun provideProgressDatabase(@ApplicationContext context: Context): ProgressDatabase =
             Room.databaseBuilder(context, ProgressDatabase::class.java, ProgressDatabase.NAME)
                 .addMigrations(*ProgressDatabase.MIGRATIONS)

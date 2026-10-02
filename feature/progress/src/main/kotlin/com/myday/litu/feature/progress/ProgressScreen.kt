@@ -1,6 +1,9 @@
 package com.myday.litu.feature.progress
 
+import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.heightIn
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.padding
@@ -128,8 +131,16 @@ internal fun ProgressScreen(onMockResults: (String) -> Unit, viewModel: Progress
                 val fmt = DateTimeFormatter.ofPattern("d MMM yyyy", Locale.UK)
                 o!!.recentMocks.forEachIndexed { i, m ->
                     if (i > 0) HorizontalDivider(color = c.outline, modifier = Modifier.padding(vertical = 4.dp))
-                    Row(verticalAlignment = Alignment.CenterVertically, modifier = Modifier.padding(vertical = 4.dp)) {
-                        Text(m.finishedAt?.atZone(ZoneId.systemDefault())?.format(fmt).orEmpty(), style = LituTheme.type.body, color = c.textPrimary, modifier = Modifier.weight(1f))
+                    Row(
+                        verticalAlignment = Alignment.CenterVertically,
+                        modifier = Modifier.fillMaxWidth().heightIn(min = 48.dp).clickable { onMockResults(m.id) }.padding(vertical = 4.dp),
+                    ) {
+                        Text(
+                            m.finishedAt?.atZone(ZoneId.systemDefault())?.format(fmt).orEmpty(),
+                            style = LituTheme.type.body,
+                            color = c.textPrimary,
+                            modifier = Modifier.weight(1f),
+                        )
                         Text("${m.score ?: 0} / ${Exam.QUESTION_COUNT}", style = LituTheme.type.label, color = c.textPrimary, modifier = Modifier.width(72.dp))
                         PassFailBadge(m.passed == true)
                     }

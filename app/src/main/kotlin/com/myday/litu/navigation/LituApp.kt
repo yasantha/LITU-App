@@ -4,7 +4,6 @@ import android.content.Intent
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
-import androidx.compose.foundation.layout.BoxWithConstraints
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.Row
@@ -275,7 +274,7 @@ private fun SplashScreen(onDone: () -> Unit) {
         onDone()
     }
     val c = LituTheme.colors
-    BoxWithConstraints(Modifier.fillMaxSize().background(c.brand)) {
+    Box(Modifier.fillMaxSize().background(c.brand)) {
         Column(Modifier.align(Alignment.Center).padding(24.dp), horizontalAlignment = Alignment.CenterHorizontally, verticalArrangement = Arrangement.spacedBy(12.dp)) {
             LogoMark(200.dp)
             Text(stringResource(R.string.app_name), style = LituTheme.type.headline, color = c.onBrand)

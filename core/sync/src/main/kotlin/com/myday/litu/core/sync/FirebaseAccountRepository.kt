@@ -61,6 +61,8 @@ class FirebaseAccountRepository @Inject constructor(
         user?.let { entitlements.identify(it.uid) }
     }
 
+    // Firebase can fail in many ways here; every failure becomes a message the user can act on.
+    @Suppress("TooGenericExceptionCaught", "SwallowedException")
     override suspend fun linkGoogle(activity: Activity): AccountResult {
         val a = auth ?: return AccountResult.Failed("Backup is not available in this build.")
         val idToken = when (val r = googleIdToken(activity)) {
@@ -95,6 +97,7 @@ class FirebaseAccountRepository @Inject constructor(
         ensureSignedIn()
     }
 
+    @Suppress("TooGenericExceptionCaught", "SwallowedException")
     override suspend fun deleteAccount(): AccountResult {
         val a = auth ?: return AccountResult.Success
         val user = a.currentUser ?: return AccountResult.Success
@@ -119,6 +122,7 @@ class FirebaseAccountRepository @Inject constructor(
     }
 
     @SuppressLint("DiscouragedApi")
+    @Suppress("SwallowedException") // Cancellation is an expected outcome, not an error.
     private suspend fun googleIdToken(activity: Activity): TokenResult {
         // Generated from google-services.json by the Google Services plugin.
         val resId = context.resources.getIdentifier("default_web_client_id", "string", context.packageName)

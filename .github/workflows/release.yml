@@ -1,0 +1,59 @@
+# Spec section 15: on a version tag, build the signed prodRelease bundle with the audio pack and
+# upload it to Play internal testing with Gradle Play Publisher.
+#
+# Repository secrets:
+#   LITU_UPLOAD_KEYSTORE_BASE64   upload keystore (base64); Play App Signing holds the app key
+#   LITU_UPLOAD_STORE_PASSWORD, LITU_UPLOAD_KEY_ALIAS, LITU_UPLOAD_KEY_PASSWORD
+#   GOOGLE_SERVICES_PROD_JSON     google-services.json for litu-prod
+#   PLAY_SERVICE_ACCOUNT_JSON     Play Console service account with release permission
+#   LITU_REVENUECAT_KEY           RevenueCat public Google SDK key
+name: Release
+
+on:
+  push:
+    tags: ["v*"]
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    environment: production
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Content must be fully reviewed
+        run: python content/pipeline/validate.py --db app/src/main/assets/content/content.db --require-reviewed
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 21
+      - uses: gradle/actions/setup-gradle@v4
+      - name: Write signing key and Firebase config
+        env:
+          KEYSTORE: ${{ secrets.LITU_UPLOAD_KEYSTORE_BASE64 }}
+          GOOGLE_SERVICES: ${{ secrets.GOOGLE_SERVICES_PROD_JSON }}
+          PLAY_ACCOUNT: ${{ secrets.PLAY_SERVICE_ACCOUNT_JSON }}
+        run: |
+          echo "$KEYSTORE" | base64 --decode > upload.jks
+          mkdir -p app/src/prod
+          echo "$GOOGLE_SERVICES" > app/src/prod/google-services.json
+          echo "$PLAY_ACCOUNT" > play-service-account.json
+      - name: Test
+        run: ./gradlew :core:domain:test testDebugUnitTest :app:testProdReleaseUnitTest
+      - name: Build and upload to internal testing
+        env:
+          LITU_UPLOAD_STORE_FILE: upload.jks
+          LITU_UPLOAD_STORE_PASSWORD: ${{ secrets.LITU_UPLOAD_STORE_PASSWORD }}
+          LITU_UPLOAD_KEY_ALIAS: ${{ secrets.LITU_UPLOAD_KEY_ALIAS }}
+          LITU_UPLOAD_KEY_PASSWORD: ${{ secrets.LITU_UPLOAD_KEY_PASSWORD }}
+          LITU_REVENUECAT_KEY: ${{ secrets.LITU_REVENUECAT_KEY }}
+        run: ./gradlew bundleProdRelease publishProdReleaseBundle
+      - uses: actions/upload-artifact@v4
+        with:
+          name: prod-release-aab
+          path: app/build/outputs/bundle/prodRelease/*.aab
+      - name: Remove secrets from the runner
+        if: always()
+        run: rm -f upload.jks app/src/prod/google-services.json play-service-account.json

@@ -26,6 +26,7 @@ class SyncWorker @AssistedInject constructor(
     @Assisted params: WorkerParameters,
     private val backup: BackupRepository,
 ) : CoroutineWorker(context, params) {
+    @Suppress("TooGenericExceptionCaught") // Any failure is retried with backoff.
     override suspend fun doWork(): Result = try {
         backup.sendReports()
         backup.backupNow()

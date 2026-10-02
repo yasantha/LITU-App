@@ -5,8 +5,6 @@ import android.util.Log
 import androidx.hilt.work.HiltWorkerFactory
 import androidx.work.Configuration
 import com.google.firebase.appcheck.FirebaseAppCheck
-import com.google.firebase.appcheck.debug.DebugAppCheckProviderFactory
-import com.google.firebase.appcheck.playintegrity.PlayIntegrityAppCheckProviderFactory
 import com.myday.litu.core.billing.EntitlementRepository
 import com.myday.litu.core.config.FirebaseAvailability
 import com.myday.litu.core.domain.repository.ConfigRepository
@@ -60,7 +58,6 @@ class LituApplication : Application(), Configuration.Provider {
     /** App Check with Play Integrity (debug provider in debug builds); enforce in the console after launch. */
     private fun installAppCheck() {
         if (!FirebaseAvailability.isConfigured(this)) return
-        val factory = if (BuildConfig.DEBUG) DebugAppCheckProviderFactory.getInstance() else PlayIntegrityAppCheckProviderFactory.getInstance()
-        FirebaseAppCheck.getInstance().installAppCheckProviderFactory(factory)
+        FirebaseAppCheck.getInstance().installAppCheckProviderFactory(AppCheckFactory.get())
     }
 }
