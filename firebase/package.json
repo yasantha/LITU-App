@@ -1,0 +1,13 @@
+{
+  "name": "litu-firestore-rules-tests",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "firebase emulators:exec --config ../firebase.json --only firestore --project demo-litu 'node --test test/*.test.js'"
+  },
+  "devDependencies": {
+    "@firebase/rules-unit-testing": "^5.0.2",
+    "firebase": "^12.19.0",
+    "firebase-tools": "^15.32.1"
+  }
+}

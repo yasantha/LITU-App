@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "dev": "litu-dev",
+    "prod": "litu-prod"
+  }
+}

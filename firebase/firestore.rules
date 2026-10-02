@@ -1,0 +1,27 @@
+rules_version = '2';
+// Spec section 12.4. One backup document per user, plus create-only question reports.
+service cloud.firestore {
+  match /databases/{db}/documents {
+    match /users/{uid} {
+      allow read: if request.auth != null && request.auth.uid == uid;
+      // Rules cannot measure document bytes (request.resource.size() is not a byte count), so the
+      // spec's 900 KiB cap is enforced by bounding the shape: known fields only and capped collections.
+      // 3,000 review entries of 7 numbers, 30 mocks and 120 days stay well under Firestore's 1 MiB.
+      allow create, update: if request.auth != null && request.auth.uid == uid
+                            && request.resource.data.keys().hasOnly(['schemaVersion', 'updatedAt', 'clientUpdatedAt', 'settings', 'reviewState', 'mocks', 'dailyStats', 'streak'])
+                            && request.resource.data.get('reviewState', {}).size() <= 3000
+                            && request.resource.data.get('mocks', []).size() <= 30
+                            && request.resource.data.get('dailyStats', {}).size() <= 120;
+      // In-app account deletion removes the backup (spec S20, UK GDPR).
+      allow delete: if request.auth != null && request.auth.uid == uid;
+    }
+    match /reports/{id} {
+      allow create: if request.auth != null
+        && request.resource.data.uid == request.auth.uid
+        && request.resource.data.reason in ['wrong', 'unclear', 'typo', 'other']
+        && request.resource.data.comment is string
+        && request.resource.data.comment.size() <= 500;
+      allow read, update, delete: if false;
+    }
+  }
+}
