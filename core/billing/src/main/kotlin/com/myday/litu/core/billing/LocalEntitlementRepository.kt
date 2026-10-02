@@ -18,6 +18,7 @@ internal class LocalEntitlementRepository(
     private val cache = EntitlementCache(context)
     private val pro = MutableStateFlow(testStore && cache.isPro)
     override val isPro: StateFlow<Boolean> = pro.asStateFlow()
+    override val lostPro: Boolean get() = cache.everPro && !pro.value
 
     override suspend fun loadPlans(): PlansResult {
         if (!testStore) return PlansResult.Unavailable("Google Play billing is not available.")

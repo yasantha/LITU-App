@@ -7,7 +7,9 @@ import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.ColumnScope
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.navigationBarsPadding
+import androidx.compose.foundation.layout.statusBarsPadding
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.widthIn
 import androidx.compose.foundation.rememberScrollState
@@ -29,13 +31,14 @@ import com.myday.litu.core.designsystem.theme.LituTheme
 @Composable
 fun ScreenColumn(
     modifier: Modifier = Modifier,
-    topBar: @Composable () -> Unit = {},
+    topBar: (@Composable () -> Unit)? = null,
     bottomBar: @Composable ColumnScope.() -> Unit = {},
     spacing: androidx.compose.ui.unit.Dp = 16.dp,
     content: @Composable ColumnScope.() -> Unit,
 ) {
     Column(modifier.fillMaxSize().background(LituTheme.colors.background)) {
-        topBar()
+        // Screens without a top bar (the tabs) pad for the status bar themselves.
+        if (topBar != null) topBar() else Spacer(Modifier.statusBarsPadding())
         Box(Modifier.weight(1f).fillMaxWidth(), contentAlignment = Alignment.TopCenter) {
             Column(
                 Modifier

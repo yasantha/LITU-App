@@ -83,7 +83,7 @@ fun LituButton(
             colors = ButtonDefaults.outlinedButtonColors(contentColor = colors.primary),
         ) { content() }
         ButtonVariant.TEXT -> TextButton(
-            onClick, modifier.defaultMinSize(minHeight = LituDimens.minTouch), active, shape = LituDimens.pillShape,
+            onClick, (if (fillWidth) modifier.fillMaxWidth() else modifier).defaultMinSize(minHeight = LituDimens.minTouch), active, shape = LituDimens.pillShape,
             colors = ButtonDefaults.textButtonColors(contentColor = colors.primary),
         ) { content() }
     }

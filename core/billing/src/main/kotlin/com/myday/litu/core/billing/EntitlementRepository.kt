@@ -34,6 +34,9 @@ interface EntitlementRepository {
     /** Cached so a user with no signal keeps access; RevenueCat handles grace periods. */
     val isPro: StateFlow<Boolean>
 
+    /** True when this user had Pro before but no longer does, e.g. the trial ended (S01 routes to S06). */
+    val lostPro: Boolean
+
     suspend fun loadPlans(): PlansResult
     suspend fun purchase(activity: Activity, plan: Plan): PurchaseOutcome
     suspend fun restore(): PurchaseOutcome

@@ -30,6 +30,7 @@ internal class RevenueCatEntitlementRepository(
     private val cache = EntitlementCache(context)
     private val pro = MutableStateFlow(cache.isPro)
     override val isPro: StateFlow<Boolean> = pro.asStateFlow()
+    override val lostPro: Boolean get() = cache.everPro && !pro.value
 
     init {
         Purchases.configure(PurchasesConfiguration.Builder(context, apiKey).build())
