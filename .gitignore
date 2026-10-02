@@ -24,3 +24,7 @@ __pycache__/
 *.pyc
 .venv/
 content/.env
+
+# IDE / tooling output
+.vscode/
+bin/

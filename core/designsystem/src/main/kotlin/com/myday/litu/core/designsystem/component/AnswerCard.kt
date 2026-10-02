@@ -4,6 +4,7 @@ import androidx.compose.animation.animateColorAsState
 import androidx.compose.animation.core.tween
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.defaultMinSize
 import androidx.compose.foundation.layout.fillMaxWidth
@@ -25,6 +26,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.platform.LocalDensity
 import androidx.compose.ui.semantics.Role
 import androidx.compose.ui.semantics.semantics
 import androidx.compose.ui.semantics.stateDescription
@@ -89,16 +91,20 @@ fun AnswerCard(
             verticalAlignment = Alignment.CenterVertically,
             horizontalArrangement = Arrangement.spacedBy(12.dp),
         ) {
-            Text(
-                label,
-                style = LituTheme.type.body,
-                color = if (state == AnswerState.DISABLED) c.textSecondary else c.textPrimary,
-                modifier = Modifier.weight(1f),
-            )
+            // At large font sizes the status label moves under the answer so neither is squeezed.
+            val stacked = LocalDensity.current.fontScale > 1.3f
+            val good = state != AnswerState.WRONG
+            Column(Modifier.weight(1f)) {
+                Text(
+                    label,
+                    style = LituTheme.type.body,
+                    color = if (state == AnswerState.DISABLED) c.textSecondary else c.textPrimary,
+                )
+                if (stacked && status != null) Text(status, style = LituTheme.type.label, color = if (good) c.success else c.error)
+            }
             when (state) {
                 AnswerState.CORRECT, AnswerState.CORRECT_NOT_CHOSEN, AnswerState.WRONG -> {
-                    val good = state != AnswerState.WRONG
-                    Text(status!!, style = LituTheme.type.label, color = if (good) c.success else c.error)
+                    if (!stacked) Text(status!!, style = LituTheme.type.label, color = if (good) c.success else c.error)
                     Icon(
                         if (good) Icons.Rounded.CheckCircle else Icons.Rounded.Cancel,
                         contentDescription = null,

@@ -6,6 +6,8 @@ import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.aspectRatio
+import androidx.compose.foundation.layout.defaultMinSize
+import androidx.compose.foundation.selection.selectable
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
@@ -77,6 +79,22 @@ fun LituTopBar(
 fun ThemePicker(selected: ThemePreference, onSelect: (ThemePreference) -> Unit, modifier: Modifier = Modifier) {
     val options = listOf(ThemePreference.LIGHT to "Light", ThemePreference.DARK to "Dark", ThemePreference.SYSTEM to "System")
     val c = LituTheme.colors
+    // At large font sizes three segments cannot fit their labels; use radio rows that can grow.
+    if (androidx.compose.ui.platform.LocalDensity.current.fontScale > 1.3f) {
+        Column(modifier.fillMaxWidth()) {
+            options.forEach { (value, label) ->
+                Row(
+                    Modifier.fillMaxWidth().defaultMinSize(minHeight = LituDimens.minTouch)
+                        .selectable(selected == value, role = Role.RadioButton) { onSelect(value) },
+                    verticalAlignment = Alignment.CenterVertically,
+                ) {
+                    androidx.compose.material3.RadioButton(selected == value, onClick = null)
+                    Text(label, style = LituTheme.type.body, color = c.textPrimary, modifier = Modifier.padding(start = 8.dp))
+                }
+            }
+        }
+        return
+    }
     SingleChoiceSegmentedButtonRow(modifier.fillMaxWidth()) {
         options.forEachIndexed { i, (value, label) ->
             SegmentedButton(
@@ -91,7 +109,9 @@ fun ThemePicker(selected: ThemePreference, onSelect: (ThemePreference) -> Unit, 
                     activeBorderColor = c.primary,
                     inactiveBorderColor = c.outline,
                 ),
-                label = { Text(label, style = LituTheme.type.label) },
+                // No checkmark: fill, border and the selected state mark the choice, leaving room at 200% font.
+                icon = {},
+                label = { Text(label, style = LituTheme.type.label, maxLines = 1, softWrap = false) },
             )
         }
     }

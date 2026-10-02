@@ -11,7 +11,8 @@ import androidx.compose.foundation.layout.fillMaxHeight
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.size
-import androidx.compose.foundation.layout.width
+import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.widthIn
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.rounded.CheckCircle
@@ -61,11 +62,11 @@ fun MasteryBar(fraction: Float, color: Color, modifier: Modifier = Modifier, sho
     Row(modifier.semantics(mergeDescendants = true) { contentDescription = "$percent% mastered" }, verticalAlignment = Alignment.CenterVertically) {
         LituProgressBar(fraction, Modifier.weight(1f), color = color, height = 6.dp)
         if (showPercent) {
-            Box(Modifier.width(48.dp), contentAlignment = Alignment.CenterEnd) {
+            Box(Modifier.widthIn(min = 48.dp).padding(start = 8.dp), contentAlignment = Alignment.CenterEnd) {
                 if (percent >= 100) {
                     Icon(Icons.Rounded.CheckCircle, contentDescription = "Mastered", tint = LituTheme.colors.success, modifier = Modifier.size(18.dp))
                 } else {
-                    Text("$percent%", style = LituTheme.type.label, color = LituTheme.colors.textPrimary)
+                    Text("$percent%", style = LituTheme.type.label, color = LituTheme.colors.textPrimary, softWrap = false)
                 }
             }
         }

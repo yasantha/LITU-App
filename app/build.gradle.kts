@@ -73,6 +73,7 @@ android {
     assetPacks += listOf(":audio_pack")
 
     packaging { resources.excludes += "/META-INF/{AL2.0,LGPL2.1}" }
+    testOptions.unitTests.isIncludeAndroidResources = true
 }
 
 // Gradle Play Publisher: release.yml uploads prodRelease to the internal track.
@@ -126,6 +127,9 @@ dependencies {
 
     testImplementation(libs.junit)
     testImplementation(libs.robolectric)
+    testImplementation(libs.androidx.test.core)
+    testImplementation(libs.kotlinx.coroutines.test)
+    testImplementation(libs.androidx.room.runtime)
     testImplementation(libs.roborazzi)
     testImplementation(libs.roborazzi.compose)
     testImplementation(libs.androidx.compose.ui.test.junit4)
