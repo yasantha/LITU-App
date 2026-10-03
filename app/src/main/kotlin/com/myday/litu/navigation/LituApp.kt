@@ -277,7 +277,7 @@ private fun SplashScreen(onDone: () -> Unit) {
     Box(Modifier.fillMaxSize().background(c.brand)) {
         Column(Modifier.align(Alignment.Center).padding(24.dp), horizontalAlignment = Alignment.CenterHorizontally, verticalArrangement = Arrangement.spacedBy(12.dp)) {
             LogoMark(200.dp)
-            Text(stringResource(R.string.app_name), style = LituTheme.type.headline, color = c.onBrand)
+            Text(stringResource(R.string.app_name), style = LituTheme.type.headline, color = c.onBrand, textAlign = TextAlign.Center)
             Text(stringResource(R.string.tagline), style = LituTheme.type.body, color = c.onBrandMuted, textAlign = TextAlign.Center)
         }
         Row(Modifier.align(Alignment.BottomCenter).fillMaxWidth().navigationBarsPadding().height(6.dp)) {

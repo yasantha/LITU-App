@@ -41,11 +41,14 @@ android {
             dimension = "env"
             applicationIdSuffix = ".dev"
             versionNameSuffix = "-dev"
-            resValue("string", "app_name", "LITU Dev")
+            resValue("string", "app_name", "Life in the UK Test Prep (Dev)")
+            resValue("string", "launcher_name", "UK Test Dev")
         }
         create("prod") {
             dimension = "env"
-            resValue("string", "app_name", "LITU Prep")
+            // Contains the phrase learners search for; "Prep" keeps it clearly unofficial (spec 24).
+            resValue("string", "app_name", "Life in the UK Test Prep")
+            resValue("string", "launcher_name", "UK Test Prep")
         }
     }
 

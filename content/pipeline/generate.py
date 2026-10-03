@@ -5,7 +5,7 @@
 
 Drafts are appended to drafts/<section>.json. Rejected questions in review/review.csv that have a
 reviewer note are sent back as feedback so the next batch avoids the same problems. Nothing here
-reaches users: every draft goes through validate.py and Amila's review first.
+reaches users: every draft goes through validate.py and content review first.
 
 Needs ANTHROPIC_API_KEY (or an `ant auth login` profile). The model is open decision 3 in the spec;
 override it with --model.

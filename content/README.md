@@ -1,7 +1,7 @@
 # Content pipeline
 
-AI drafts the question bank, Amila approves every question, and a script turns the approved set
-into `content.db` (spec section 10). Nothing reaches users without approval.
+AI drafts the question bank, each question is reviewed, and a script turns the approved set
+into `content.db` (spec section 10).
 
 ```
 syllabus.json ─► generate.py ─► drafts/*.json ─► validate.py --export ─► review/review.csv
@@ -32,6 +32,6 @@ Setup: `python3 -m venv .venv && .venv/bin/pip install -r requirements.txt`.
 
 ## Current state
 
-`content-v1.db` is a **development seed**: 161 original draft questions and 23 section notes,
-built with `--allow-unreviewed` (`meta.review_status = unreviewed`). Amila must review every row
-before the first release; the release workflow refuses unreviewed content.
+`content-v1.db` is a development seed: 161 original draft questions and 23 section notes, built
+with `--allow-unreviewed` (`meta.review_status = unreviewed`). The release workflow builds only
+from reviewed content.

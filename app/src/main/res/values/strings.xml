@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- app_name is set per flavour in app/build.gradle.kts; the final name is open decision 1. -->
+    <!-- app_name (full) and launcher_name (home screen, fits under the icon) are set per flavour in app/build.gradle.kts. -->
     <string name="tagline">Your Life in the UK study coach</string>
     <string name="reminder_channel">Daily study reminder</string>
     <string name="reminder_channel_description">One reminder a day at the time you choose</string>

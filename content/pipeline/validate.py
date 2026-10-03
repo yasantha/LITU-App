@@ -5,7 +5,7 @@
     python validate.py --export         # ...and write passing drafts to review/review.csv
     python validate.py --db PATH        # check a built content.db (used in CI)
 
-The review CSV is imported into the Google Sheet Amila reviews. Existing Status, Edited text and
+The review CSV is imported into the content review Google Sheet. Existing Status, Edited text and
 Reviewer note values are kept when the CSV is regenerated.
 """
 from __future__ import annotations
