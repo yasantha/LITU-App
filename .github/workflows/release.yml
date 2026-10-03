@@ -24,7 +24,7 @@ jobs:
         with:
           python-version: "3.12"
       - name: Content must be fully reviewed
-        run: python content/pipeline/validate.py --db app/src/main/assets/content/content.db --require-reviewed
+        run: python content/pipeline/validate.py --db app/src/main/assets/content/content.db --require-reviewed --require-audio
       - uses: actions/setup-java@v4
         with:
           distribution: temurin

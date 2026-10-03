@@ -158,7 +158,7 @@ def export_review(passing: list[dict]) -> None:
     print(f"Wrote {REVIEW_CSV.relative_to(REVIEW_CSV.parent.parent)} for review (import into the Google Sheet)")
 
 
-def validate_db(path: Path, require_reviewed: bool) -> int:
+def validate_db(path: Path, require_reviewed: bool, require_audio: bool = False) -> int:
     con = sqlite3.connect(path)
     con.row_factory = sqlite3.Row
     errors = []
@@ -187,8 +187,11 @@ def validate_db(path: Path, require_reviewed: bool) -> int:
         old_ids = {r[0] for r in old.execute("SELECT id FROM question")}
         missing = old_ids - {q["id"] for q in rows}
         errors += [f"{i}: deleted (retire with active = 0 instead)" for i in sorted(missing)]
-    # Audio keys resolve, when the audio pack has been generated.
-    if (AUDIO_PACK_ASSETS / "audio").exists():
+    # Audio keys resolve once tts.py has generated the pack (it writes a manifest); releases require it.
+    manifest = AUDIO_PACK_ASSETS.parent / "audio_manifest.json"
+    if require_audio and not manifest.exists():
+        errors.append("audio pack not generated: run content/pipeline/tts.py")
+    if manifest.exists():
         for q in rows:
             if q["active"] and q["audio_key"] and not (AUDIO_PACK_ASSETS / "audio" / q["audio_key"]).exists():
                 errors.append(f"{q['id']}: audio {q['audio_key']} missing from audio_pack")
@@ -211,9 +214,10 @@ def main() -> int:
     ap.add_argument("--export", action="store_true", help="write passing drafts to review/review.csv")
     ap.add_argument("--db", type=Path, help="validate a built content.db instead of the drafts")
     ap.add_argument("--require-reviewed", action="store_true", help="fail unless every question was approved (release builds)")
+    ap.add_argument("--require-audio", action="store_true", help="fail unless the audio pack covers every question (release builds)")
     args = ap.parse_args()
     if args.db:
-        return validate_db(args.db, args.require_reviewed)
+        return validate_db(args.db, args.require_reviewed, args.require_audio)
     return validate_drafts(args.export)
 
 
