@@ -6,6 +6,7 @@ plugins {
     alias(libs.plugins.litu.hilt)
     alias(libs.plugins.kotlin.serialization)
     alias(libs.plugins.play.publisher)
+    alias(libs.plugins.baselineprofile)
 }
 
 // Firebase is configured per flavour: app/src/dev/google-services.json (litu-dev) and
@@ -76,6 +77,11 @@ android {
     testOptions.unitTests.isIncludeAndroidResources = true
 }
 
+// Baseline Profile from :benchmark (spec section 6). One profile serves both flavours.
+baselineProfile {
+    mergeIntoMain = true
+}
+
 // Gradle Play Publisher: release.yml uploads prodRelease to the internal track.
 play {
     serviceAccountCredentials.set(rootProject.file("play-service-account.json"))
@@ -118,6 +124,7 @@ dependencies {
     implementation(libs.androidx.hilt.work)
     ksp(libs.androidx.hilt.compiler)
     implementation(libs.androidx.profileinstaller)
+    baselineProfile(project(":benchmark"))
     implementation(libs.kotlinx.serialization.json)
 
     implementation(platform(libs.firebase.bom))

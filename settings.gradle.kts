@@ -24,6 +24,7 @@ rootProject.name = "litu-app"
 
 include(":app")
 include(":audio_pack")
+include(":benchmark")
 
 include(":core:model")
 include(":core:content")

@@ -47,6 +47,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Pipeline unit tests
+        run: python -m unittest discover content/tests
       - name: Validate drafts
         run: python content/pipeline/validate.py
       - name: Validate committed content.db
