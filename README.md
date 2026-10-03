@@ -105,6 +105,9 @@ section notes. The draft, build and audio steps are in [content/README.md](conte
   option letters and the explanation as separate clips; the player queues them in display order.
 - **Free tier.** The sample, the review queue and Mock 1 are free; topic, mixed and timer
   practice, notes and further mocks open the paywall.
+- **Audio.** Read-aloud uses the phone's built-in text-to-speech with an en-GB voice, so no
+  paid voice service is needed. The `audio_pack` module and `content/pipeline/tts.py` stay in
+  place: if recorded clips are added later, the app plays them automatically instead.
 - **App name.** "Life in the UK Test Prep" in the store and on the splash; "UK Test Prep" under
   the launcher icon, where longer names are cut off.
 
@@ -113,7 +116,6 @@ section notes. The draft, build and audio steps are in [content/README.md](conte
 - Package name (`com.myday.litu`), AI model and TTS voice, and final prices (spec section 25).
 - Legal pages: replace the placeholder URLs in `LegalLinks.kt` (privacy, terms, support,
   account deletion).
-- Generate the audio pack with `content/pipeline/tts.py`.
 - Create the Firebase projects, RevenueCat app and Play Console listing, then add the
   configuration above.
 - Run the benchmarks and a TalkBack pass on the low-end and mid-range reference phones.

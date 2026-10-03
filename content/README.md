@@ -17,7 +17,7 @@ audio_pack/src/main/assets/audio/ ◄── tts.py
 | 3 Check | `python pipeline/validate.py --export` | Schema, answer counts, unique IDs, lengths, near-duplicates, readability. Writes `review/review.csv`. |
 | 4 Review | Import `review.csv` into the review Google Sheet, then download it back to the same path. | `Status` is `approve`, `edit` or `reject`. For `edit`, put the new stem in `Edited text`, or a JSON object such as `{"explanation": "..."}`. |
 | 5 Build | `python pipeline/build_db.py` | Approved rows only. Writes `releases/content-v<N>.db`, appends `releases/CHANGELOG.md` and copies the database into the app. |
-| 5b Audio | `python pipeline/tts.py --voice <id>` | Needs `ELEVENLABS_API_KEY` and ffmpeg. Only new or changed text is voiced. |
+| 5b Audio (optional) | `python pipeline/tts.py --voice <id>` | Not needed: the app reads aloud with the phone's text-to-speech. Use only if recorded clips are wanted later (needs `ELEVENLABS_API_KEY` and ffmpeg). |
 | 6 Release | commit, tag, CI | `release.yml` runs `validate.py --db ... --require-reviewed`. |
 
 Setup: `python3 -m venv .venv && .venv/bin/pip install -r requirements.txt`.
