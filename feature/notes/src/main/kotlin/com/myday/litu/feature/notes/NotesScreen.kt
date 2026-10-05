@@ -40,6 +40,8 @@ import com.myday.litu.core.designsystem.component.LituTopBar
 import com.myday.litu.core.designsystem.component.LoadingBox
 import com.myday.litu.core.designsystem.component.ScreenColumn
 import com.myday.litu.core.designsystem.theme.LituTheme
+import com.myday.litu.core.domain.plan.KeyFactMatcher
+import com.myday.litu.core.domain.plan.StudyPlanUseCase
 import com.myday.litu.core.domain.repository.ContentRepository
 import com.myday.litu.core.domain.repository.SettingsRepository
 import com.myday.litu.core.model.Chapter
@@ -52,7 +54,8 @@ import kotlinx.coroutines.launch
 import kotlinx.serialization.Serializable
 import javax.inject.Inject
 
-@Serializable data class NotesRoute(val sectionId: String)
+/** @param questionId set when opened from "Read about this" after a wrong answer. */
+@Serializable data class NotesRoute(val sectionId: String, val questionId: String? = null)
 
 data class NotesState(
     val chapter: Chapter? = null,
@@ -60,7 +63,11 @@ data class NotesState(
     val note: Note? = null,
     val previous: Section? = null,
     val next: Section? = null,
+    val missed: MissedFact? = null,
 )
+
+/** The question the learner got wrong, its answer, and the key fact that explains it. */
+data class MissedFact(val stem: String, val answer: String, val fact: String?)
 
 @HiltViewModel
 class NotesViewModel @Inject constructor(
@@ -68,10 +75,13 @@ class NotesViewModel @Inject constructor(
     private val content: ContentRepository,
     private val settings: SettingsRepository,
     private val readAloud: ReadAloud,
+    private val studyPlan: StudyPlanUseCase,
 ) : ViewModel() {
     private val mutableState = MutableStateFlow(NotesState())
     val state = mutableState.asStateFlow()
     val playing = readAloud.playing
+
+    private val questionId = savedStateHandle.toRoute<NotesRoute>().questionId
 
     init {
         load(savedStateHandle.toRoute<NotesRoute>().sectionId)
@@ -82,13 +92,23 @@ class NotesViewModel @Inject constructor(
         val section = content.section(sectionId) ?: return@launch
         val siblings = content.sections(section.chapterId)
         val i = siblings.indexOfFirst { it.id == sectionId }
+        val note = content.note(sectionId)
+        val question = questionId?.let { content.question(it) }?.takeIf { it.sectionId == sectionId }
         mutableState.value = NotesState(
             chapter = content.chapter(section.chapterId),
             section = section,
-            note = content.note(sectionId),
+            note = note,
             previous = siblings.getOrNull(i - 1),
             next = siblings.getOrNull(i + 1),
+            missed = question?.let { q ->
+                MissedFact(
+                    stem = q.stem,
+                    answer = q.options.filter { it.isCorrect }.joinToString(" and ") { it.label },
+                    fact = note?.keyFacts?.let { facts -> KeyFactMatcher.bestMatch(q, facts)?.let(facts::get) },
+                )
+            },
         )
+        studyPlan.markNoteRead(sectionId)
     }
 
     fun toggleAudio() = viewModelScope.launch {
@@ -130,6 +150,14 @@ internal fun NotesScreen(onBack: () -> Unit, onTestSection: (String) -> Unit, vi
                 Text(section.title, style = LituTheme.type.headline, color = c.textPrimary)
             }
         }
+        s.missed?.let { m ->
+            LituCard(color = c.errorContainer, border = false) {
+                Text("The fact you missed", style = LituTheme.type.title, color = c.textPrimary)
+                Text(m.stem, style = LituTheme.type.body, color = c.textPrimary, modifier = Modifier.padding(top = 4.dp))
+                Text("Answer: ${m.answer}", style = LituTheme.type.label, color = c.success, modifier = Modifier.padding(top = 4.dp))
+                m.fact?.let { Text("Key fact: $it", style = LituTheme.type.body, color = c.textPrimary, modifier = Modifier.padding(top = 8.dp)) }
+            }
+        }
         val note = s.note
         if (note == null) {
             Text("Notes for this section are coming soon.", style = LituTheme.type.body, color = c.textSecondary)
@@ -143,12 +171,18 @@ internal fun NotesScreen(onBack: () -> Unit, onTestSection: (String) -> Unit, vi
                     Text("Key facts", style = LituTheme.type.title, color = c.textPrimary)
                 }
                 note.keyFacts.forEach { fact ->
-                    Text("• $fact", style = LituTheme.type.body, color = c.textPrimary, modifier = Modifier.padding(top = 6.dp))
+                    val isMissed = fact == s.missed?.fact
+                    Text(
+                        "• $fact",
+                        style = if (isMissed) LituTheme.type.label else LituTheme.type.body,
+                        color = c.textPrimary,
+                        modifier = Modifier.padding(top = 6.dp),
+                    )
                 }
             }
         }
         if (chapter?.inTest == true) {
-            LituButton("Test yourself on this section", { onTestSection(section.id) })
+            LituButton(if (s.missed != null) "Try questions on this section" else "Test yourself on this section", { onTestSection(section.id) })
         }
         Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
             s.previous?.let { p -> LituButton("Previous", { viewModel.load(p.id) }, Modifier.weight(1f), variant = ButtonVariant.SECONDARY) }

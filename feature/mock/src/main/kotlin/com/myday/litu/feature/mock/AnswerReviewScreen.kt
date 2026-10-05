@@ -75,7 +75,11 @@ class AnswerReviewViewModel @Inject constructor(
 
 /** S17: filter chips All / Wrong / Flagged; expandable answers with explanation. */
 @Composable
-internal fun AnswerReviewScreen(onBack: () -> Unit, viewModel: AnswerReviewViewModel = hiltViewModel()) {
+internal fun AnswerReviewScreen(
+    onBack: () -> Unit,
+    onReadAbout: (sectionId: String, questionId: String) -> Unit,
+    viewModel: AnswerReviewViewModel = hiltViewModel(),
+) {
     val items by viewModel.items.collectAsStateWithLifecycle()
     var filter by rememberSaveable { mutableStateOf(ReviewFilter.ALL) }
     val c = LituTheme.colors
@@ -92,12 +96,12 @@ internal fun AnswerReviewScreen(onBack: () -> Unit, viewModel: AnswerReviewViewM
             }
         }
         if (shown.isEmpty()) EmptyState(Illustration.LIBRARY, "Nothing here", "No questions match this filter.")
-        shown.forEach { AnswerItem(it) }
+        shown.forEach { AnswerItem(it) { onReadAbout(it.question.sectionId, it.question.id) } }
     }
 }
 
 @Composable
-private fun AnswerItem(item: ReviewedAnswer) {
+private fun AnswerItem(item: ReviewedAnswer, onReadAbout: () -> Unit) {
     val c = LituTheme.colors
     var expanded by rememberSaveable(item.question.id) { mutableStateOf(false) }
     LituCard(onClick = { expanded = !expanded }, modifier = Modifier.animateContentSize().semantics {
@@ -117,6 +121,12 @@ private fun AnswerItem(item: ReviewedAnswer) {
                 if (!item.correct) Text("Correct answer: $correct", style = LituTheme.type.body, color = c.success)
                 Text(item.question.explanation, style = LituTheme.type.body, color = c.textPrimary)
                 Text(item.question.handbookRef, style = LituTheme.type.caption, color = c.textSecondary)
+                if (!item.correct) {
+                    com.myday.litu.core.designsystem.component.LituButton(
+                        "Read about this", onReadAbout,
+                        variant = com.myday.litu.core.designsystem.component.ButtonVariant.TEXT, fillWidth = false,
+                    )
+                }
             }
         }
     }

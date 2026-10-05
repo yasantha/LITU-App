@@ -3,6 +3,8 @@ package com.myday.litu.feature.home
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.myday.litu.core.billing.EntitlementRepository
+import com.myday.litu.core.domain.plan.StudyPlan
+import com.myday.litu.core.domain.plan.StudyPlanUseCase
 import com.myday.litu.core.domain.readiness.ReadinessLevel
 import com.myday.litu.core.domain.repository.ConfigRepository
 import com.myday.litu.core.domain.repository.ProgressRepository
@@ -38,12 +40,14 @@ data class HomeState(
     val weakestChapterIds: List<String> = emptyList(),
     val banner: String = "",
     val isPro: Boolean = false,
+    val plan: StudyPlan? = null,
 )
 
 @HiltViewModel
 class HomeViewModel @Inject constructor(
     private val overview: ProgressOverviewUseCase,
     private val progress: ProgressRepository,
+    private val studyPlan: StudyPlanUseCase,
     observeToday: ObserveTodayUseCase,
     settings: SettingsRepository,
     config: ConfigRepository,
@@ -78,6 +82,7 @@ class HomeViewModel @Inject constructor(
                 WeakTopic(section.id, section.title, chapter.number)
             },
             weakestChapterIds = o.weakestChapters(2).map { it.id },
+            plan = studyPlan(),
         )
     }
 }

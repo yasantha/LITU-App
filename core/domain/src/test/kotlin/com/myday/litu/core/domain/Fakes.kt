@@ -49,7 +49,13 @@ class FakeContent(private val qs: List<Question>, private val chapters: List<Cha
     override suspend fun questionRefsForChapter(chapterId: String) = questionRefs().filter { it.chapterId == chapterId }
     override suspend fun questionRefsForSection(sectionId: String) = questionRefs().filter { it.sectionId == sectionId }
     override suspend fun sampleQuestionIds() = qs.take(10).map { it.id }
-    override suspend fun note(sectionId: String): Note? = null
+    override suspend fun note(sectionId: String): Note? = Note(sectionId, "Body", listOf("A fact"), null)
+}
+
+class FakePlanStore : com.myday.litu.core.domain.plan.StudyPlanStore {
+    var saved: com.myday.litu.core.domain.plan.SavedPlan? = null
+    override suspend fun load() = saved
+    override suspend fun save(plan: com.myday.litu.core.domain.plan.SavedPlan) { saved = plan }
 }
 
 class FakeProgress : ProgressRepository {

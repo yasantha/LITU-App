@@ -18,6 +18,7 @@ import kotlinx.serialization.Serializable
         TIMER -> PracticeRequest.TimerQuiz
         CHAPTER -> PracticeRequest.Chapter(arg!!)
         SECTION -> PracticeRequest.Section(arg!!)
+        SECTIONS -> PracticeRequest.Sections(arg!!.split(','), PLAN_QUESTIONS)
         else -> PracticeRequest.Chapters(arg!!.split(','))
     }
 
@@ -29,6 +30,8 @@ import kotlinx.serialization.Serializable
         const val CHAPTER = "chapter"
         const val SECTION = "section"
         const val CHAPTERS = "chapters"
+        const val SECTIONS = "sections"
+        private const val PLAN_QUESTIONS = 8
 
         fun sample() = QuestionSessionRoute(SAMPLE)
         fun mixed() = QuestionSessionRoute(MIXED)
@@ -37,6 +40,7 @@ import kotlinx.serialization.Serializable
         fun chapter(id: String) = QuestionSessionRoute(CHAPTER, id)
         fun section(id: String) = QuestionSessionRoute(SECTION, id)
         fun chapters(ids: List<String>) = QuestionSessionRoute(CHAPTERS, ids.joinToString(","))
+        fun sections(ids: List<String>) = QuestionSessionRoute(SECTIONS, ids.joinToString(","))
     }
 }
 
@@ -70,9 +74,11 @@ fun NavGraphBuilder.questionSessionScreen(
     onSampleFinished: () -> Unit,
     onPractiseAgain: (QuestionSessionRoute) -> Unit,
     onLocked: () -> Unit,
+    onReadAbout: (sectionId: String, questionId: String) -> Unit,
 ) {
     composable<QuestionSessionRoute> {
         QuestionSessionScreen(
+            onReadAbout = onReadAbout,
             onClose = onClose,
             onDone = onDone,
             onSampleFinished = onSampleFinished,

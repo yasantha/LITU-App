@@ -18,6 +18,9 @@ sealed interface PracticeRequest {
     data class Chapter(val chapterId: String) : PracticeRequest
     data class Section(val sectionId: String) : PracticeRequest
     data class Chapters(val chapterIds: List<String>) : PracticeRequest
+
+    /** A short focused session on the sections in today's study plan. */
+    data class Sections(val sectionIds: List<String>, val count: Int) : PracticeRequest
 }
 
 /** Picks the questions for a practice session. Returns question IDs in session order. */
@@ -40,6 +43,7 @@ class BuildPracticeSessionUseCase @Inject constructor(
         is PracticeRequest.Chapter -> prioritise(content.questionRefsForChapter(request.chapterId))
         is PracticeRequest.Section -> prioritise(content.questionRefsForSection(request.sectionId))
         is PracticeRequest.Chapters -> prioritise(request.chapterIds.flatMap { content.questionRefsForChapter(it) })
+        is PracticeRequest.Sections -> prioritise(request.sectionIds.flatMap { content.questionRefsForSection(it) }).take(request.count)
     }
 
     /** Due review items, oldest first, capped; orphaned IDs (not in content.db) are ignored. */

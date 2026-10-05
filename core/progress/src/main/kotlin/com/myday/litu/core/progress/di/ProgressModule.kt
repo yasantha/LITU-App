@@ -26,6 +26,9 @@ abstract class ProgressModule {
     abstract fun bindProgressRepository(impl: ProgressRepositoryImpl): ProgressRepository
 
     @Binds
+    abstract fun bindStudyPlanStore(impl: com.myday.litu.core.progress.settings.StudyPlanStoreImpl): com.myday.litu.core.domain.plan.StudyPlanStore
+
+    @Binds
     abstract fun bindSettingsRepository(impl: SettingsRepositoryImpl): SettingsRepository
 
     companion object {

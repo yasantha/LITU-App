@@ -1,6 +1,9 @@
 package com.myday.litu.feature.home
 
+import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.FlowRow
 import androidx.compose.foundation.layout.Row
@@ -13,6 +16,8 @@ import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.rounded.KeyboardArrowRight
+import androidx.compose.material.icons.automirrored.rounded.TrendingUp
+import androidx.compose.material.icons.rounded.CheckCircle
 import androidx.compose.material.icons.rounded.CalendarMonth
 import androidx.compose.material.icons.rounded.Campaign
 import androidx.compose.material.icons.rounded.LibraryBooks
@@ -29,6 +34,9 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.semantics.heading
 import androidx.compose.ui.semantics.semantics
+import androidx.compose.ui.semantics.stateDescription
+import com.myday.litu.core.domain.plan.PlanStep
+import com.myday.litu.core.domain.plan.StudyPlan
 import androidx.compose.ui.unit.dp
 import androidx.hilt.lifecycle.viewmodel.compose.hiltViewModel
 import androidx.lifecycle.compose.LifecycleResumeEffect
@@ -63,6 +71,8 @@ fun HomeScreen(
     onContinue: (weakestChapterIds: List<String>) -> Unit,
     onPractiseSection: (String) -> Unit,
     onLocked: () -> Unit,
+    onOpenNotes: (sectionId: String) -> Unit,
+    onPractiseSections: (sectionIds: List<String>) -> Unit,
     viewModel: HomeViewModel = hiltViewModel(),
 ) {
     val s by viewModel.state.collectAsStateWithLifecycle()
@@ -85,7 +95,23 @@ fun HomeScreen(
         if (s.banner.isNotBlank()) InfoBanner(s.banner, icon = Icons.Rounded.Campaign)
 
         ReadinessCard(s, onMockTests)
-        TodayCard(s, onContinue = { if (s.isPro) onContinue(s.weakestChapterIds) else onLocked() })
+        val openStep: (PlanStep) -> Unit = { step ->
+            when (step) {
+                is PlanStep.Read -> onOpenNotes(step.sectionId)
+                is PlanStep.Practise -> onPractiseSections(step.sectionIds)
+                is PlanStep.Review -> onReview()
+            }
+        }
+        TodayCard(s, onContinue = {
+            // Continue with the next step of today's plan, otherwise practise the weakest chapters.
+            val next = s.plan?.nextStep
+            when {
+                next != null -> openStep(next)
+                s.isPro -> onContinue(s.weakestChapterIds)
+                else -> onLocked()
+            }
+        })
+        s.plan?.let { PlanCard(it, openStep) }
 
         LituCard(onClick = onReview) {
             Row(verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.spacedBy(12.dp)) {
@@ -182,6 +208,55 @@ private fun TodayCard(s: HomeState, onContinue: () -> Unit) {
         LituProgressBar(t.fraction, Modifier.padding(vertical = 12.dp))
         if (t.streak.frozenDays.isNotEmpty()) FreezeChip(Modifier.padding(bottom = 12.dp))
         LituButton("Continue studying", onContinue)
+    }
+}
+
+/** Today's improvement plan for the weakest sections (read, practise, review). */
+@Composable
+private fun PlanCard(plan: StudyPlan, onStep: (PlanStep) -> Unit) {
+    val c = LituTheme.colors
+    LituCard {
+        Row(verticalAlignment = Alignment.CenterVertically) {
+            Text("Your plan for today", style = LituTheme.type.title, color = c.textPrimary, modifier = Modifier.weight(1f).semantics { heading() })
+            if (!plan.complete) Text("about ${plan.minutesLeft} min", style = LituTheme.type.caption, color = c.textSecondary)
+        }
+        when {
+            plan.testSoon -> "Your test is close, so this focuses on the chapters with the most questions."
+            plan.exploring -> "Start here: a section you have not practised much yet."
+            else -> "Built from the questions you found hardest."
+        }.let { Text(it, style = LituTheme.type.caption, color = c.textSecondary, modifier = Modifier.padding(top = 2.dp)) }
+        plan.improvements.forEach { i ->
+            Row(Modifier.padding(top = 8.dp), horizontalArrangement = Arrangement.spacedBy(8.dp), verticalAlignment = Alignment.CenterVertically) {
+                Icon(Icons.AutoMirrored.Rounded.TrendingUp, null, tint = c.success, modifier = Modifier.size(20.dp))
+                Text("${i.title}: ${i.fromPercent}% → ${i.toPercent}%. Moving on.", style = LituTheme.type.label, color = c.textPrimary)
+            }
+        }
+        plan.steps.forEachIndexed { index, step ->
+            val label = when (step) {
+                is PlanStep.Read -> "Read: ${step.title}"
+                is PlanStep.Practise -> "Practise: ${step.questions} questions on ${step.titles.joinToString(" and ")}"
+                is PlanStep.Review -> "Review: ${step.questions} questions you missed before"
+            }
+            Row(
+                Modifier.fillMaxWidth().heightIn(min = 48.dp).clickable(enabled = !step.done) { onStep(step) }.padding(top = 8.dp)
+                    .semantics(mergeDescendants = true) { stateDescription = if (step.done) "Done" else "${step.minutes} minutes" },
+                verticalAlignment = Alignment.CenterVertically,
+                horizontalArrangement = Arrangement.spacedBy(12.dp),
+            ) {
+                if (step.done) {
+                    Icon(Icons.Rounded.CheckCircle, null, tint = c.success, modifier = Modifier.size(28.dp))
+                } else {
+                    Surface(shape = CircleShape, color = c.primaryContainer, modifier = Modifier.size(28.dp)) {
+                        Box(contentAlignment = Alignment.Center) { Text("${index + 1}", style = LituTheme.type.label, color = c.textPrimary) }
+                    }
+                }
+                Text(label, style = LituTheme.type.body, color = if (step.done) c.textSecondary else c.textPrimary, modifier = Modifier.weight(1f))
+                Text(if (step.done) "Done" else "${step.minutes} min", style = LituTheme.type.caption, color = if (step.done) c.success else c.textSecondary)
+            }
+        }
+        if (plan.complete) {
+            Text("Plan complete. A new plan is ready tomorrow.", style = LituTheme.type.label, color = c.success, modifier = Modifier.padding(top = 8.dp))
+        }
     }
 }
 

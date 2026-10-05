@@ -28,6 +28,7 @@ import androidx.compose.material.icons.rounded.CheckCircle
 import androidx.compose.material.icons.rounded.Close
 import androidx.compose.material.icons.rounded.Flag
 import androidx.compose.material.icons.rounded.StopCircle
+import androidx.compose.material.icons.automirrored.rounded.MenuBook
 import androidx.compose.material.icons.automirrored.rounded.VolumeUp
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.Icon
@@ -76,6 +77,7 @@ internal fun QuestionSessionScreen(
     onSampleFinished: () -> Unit,
     onPractiseAgain: (QuestionSessionRoute) -> Unit,
     onLocked: () -> Unit,
+    onReadAbout: (sectionId: String, questionId: String) -> Unit,
     viewModel: QuestionSessionViewModel = hiltViewModel(),
 ) {
     val state by viewModel.state.collectAsStateWithLifecycle()
@@ -96,6 +98,7 @@ internal fun QuestionSessionScreen(
             onFlag = viewModel::toggleFlag,
             onAudio = viewModel::toggleAudio,
             onReport = viewModel::report,
+            onReadAbout = onReadAbout,
         )
         is SessionUiState.Summary -> if (s.isSample) {
             SampleResults(s, onSeePlans = onSampleFinished)
@@ -116,6 +119,7 @@ private fun AnsweringContent(
     onFlag: () -> Unit,
     onAudio: (explanation: Boolean) -> Unit,
     onReport: (ReportReason, String) -> Unit,
+    onReadAbout: (sectionId: String, questionId: String) -> Unit,
 ) {
     val c = LituTheme.colors
     var showReport by rememberSaveable { mutableStateOf(false) }
@@ -188,6 +192,7 @@ private fun AnsweringContent(
                 onListen = { onAudio(true) },
                 onNext = onNext,
                 onReport = { showReport = true },
+                onReadAbout = { onReadAbout(s.question.sectionId, s.question.id) },
             )
         }
     }
@@ -207,6 +212,7 @@ private fun FeedbackPanel(
     onListen: () -> Unit,
     onNext: () -> Unit,
     onReport: () -> Unit,
+    onReadAbout: () -> Unit,
 ) {
     val c = LituTheme.colors
     Surface(shape = LituDimens.sheetShape, color = c.surface, shadowElevation = 8.dp, modifier = Modifier.fillMaxWidth()) {
@@ -233,6 +239,8 @@ private fun FeedbackPanel(
             }
             Text(explanation, style = LituTheme.type.body, color = c.textPrimary)
             Text(handbookRef, style = LituTheme.type.caption, color = c.textSecondary)
+            // Learn the missed fact straight away; back returns to this question.
+            if (!correct) LituButton("Read about this", onReadAbout, variant = ButtonVariant.SECONDARY, icon = Icons.AutoMirrored.Rounded.MenuBook)
             Row(verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.spacedBy(8.dp)) {
                 LituButton("Report", onReport, variant = ButtonVariant.TEXT, icon = Icons.Outlined.Flag, fillWidth = false)
                 LituButton(if (isLast) "Finish" else "Next", onNext, Modifier.weight(1f))

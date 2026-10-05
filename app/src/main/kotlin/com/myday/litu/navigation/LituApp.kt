@@ -198,6 +198,8 @@ fun LituApp(state: AppState) {
                     onContinue = { ids -> nav.navigate(if (ids.isEmpty()) QuestionSessionRoute.mixed() else QuestionSessionRoute.chapters(ids)) },
                     onPractiseSection = { nav.navigate(QuestionSessionRoute.section(it)) },
                     onLocked = { nav.openPaywall() },
+                    onOpenNotes = { nav.navigate(NotesRoute(it)) },
+                    onPractiseSections = { nav.navigate(QuestionSessionRoute.sections(it)) },
                 )
             }
 
@@ -221,6 +223,7 @@ fun LituApp(state: AppState) {
                 },
                 onPractiseAgain = { nav.navigate(it) { popUpTo<QuestionSessionRoute> { inclusive = true } } },
                 onLocked = { nav.openPaywall { popUpTo<QuestionSessionRoute> { inclusive = true } } },
+                onReadAbout = { section, question -> nav.navigate(NotesRoute(section, question)) },
             )
             reviewScreen(
                 onBack = { nav.popBackStack() },
@@ -243,7 +246,10 @@ fun LituApp(state: AppState) {
                 onReviewAnswers = { nav.navigate(AnswerReviewRoute(it)) },
                 onPractiseChapters = { nav.navigate(QuestionSessionRoute.chapters(it)) },
             )
-            answerReviewScreen(onBack = { nav.popBackStack() })
+            answerReviewScreen(
+                onBack = { nav.popBackStack() },
+                onReadAbout = { section, question -> nav.navigate(NotesRoute(section, question)) },
+            )
 
             progressScreen(onMockResults = { nav.navigate(MockResultsRoute(it)) })
             timerScreen(onBack = { nav.popBackStack() }, onQuiz = { nav.navigate(QuestionSessionRoute.timerQuiz()) })

@@ -28,6 +28,6 @@ fun NavGraphBuilder.mockResultsScreen(
     composable<MockResultsRoute> { MockResultsScreen(onDone = onDone, onReviewAnswers = onReviewAnswers, onPractiseChapters = onPractiseChapters) }
 }
 
-fun NavGraphBuilder.answerReviewScreen(onBack: () -> Unit) {
-    composable<AnswerReviewRoute> { AnswerReviewScreen(onBack = onBack) }
+fun NavGraphBuilder.answerReviewScreen(onBack: () -> Unit, onReadAbout: (sectionId: String, questionId: String) -> Unit) {
+    composable<AnswerReviewRoute> { AnswerReviewScreen(onBack = onBack, onReadAbout = onReadAbout) }
 }

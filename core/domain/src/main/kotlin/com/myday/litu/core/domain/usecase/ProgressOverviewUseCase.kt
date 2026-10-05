@@ -35,6 +35,8 @@ data class ProgressOverview(
     val readinessHistory: List<ReadinessPoint>,
     val recentMocks: List<MockExam>,
     val weakestSections: List<SectionStat>,
+    /** Accuracy per section over the last 30 days. */
+    val sectionStats: List<SectionStat> = emptyList(),
 ) {
     fun section(id: String) = sections.firstOrNull { it.id == id }
     fun chapter(id: String) = chapters.firstOrNull { it.id == id }
@@ -91,6 +93,7 @@ class ProgressOverviewUseCase @Inject constructor(
             readinessHistory = history,
             recentMocks = mocks,
             weakestSections = WeakTopics.weakest(sectionStats),
+            sectionStats = sectionStats,
         )
     }
 
