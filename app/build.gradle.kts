@@ -29,7 +29,7 @@ android {
     namespace = "com.myday.litu"
 
     defaultConfig {
-        // Package name is open decision 1 in the spec.
+        // Final package name; it cannot change once the app is published on Google Play.
         applicationId = "com.myday.litu"
         versionCode = 1
         versionName = "1.0.0"

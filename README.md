@@ -121,7 +121,7 @@ section notes. The draft, build and audio steps are in [content/README.md](conte
 
 ## Still to do before launch
 
-- Package name (`com.myday.litu`), AI model and TTS voice, and final prices (spec section 25).
+- Final prices (spec section 25). The package name `com.myday.litu` is final.
 - AdMob: create the app and two ad units, set the IDs above, add `app-ads.txt` on the developer
   website, declare ads and advertising ID in the Play Data safety form, and cover AdMob in the
   privacy policy.
