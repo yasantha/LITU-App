@@ -45,15 +45,23 @@ class RemoteConfigRepository @Inject constructor(
         state.value = read(rc)
     }
 
-    private fun read(rc: FirebaseRemoteConfig) = AppConfig(
-        minVersionCode = rc.getLong(MIN_VERSION_CODE),
-        hiddenQuestionIds = parse<List<String>>(rc.getString(HIDDEN_QUESTION_IDS))?.toSet().orEmpty(),
-        bannerMessage = rc.getString(BANNER_MESSAGE),
-        mockChapterWeights = parse<Map<String, Double>>(rc.getString(MOCK_CHAPTER_WEIGHTS)).orEmpty(),
-        freeMockCount = rc.getLong(FREE_MOCK_COUNT).toInt(),
-        paywallVariant = rc.getString(PAYWALL_VARIANT).ifBlank { "a" },
-        adsEnabled = rc.getBoolean(ADS_ENABLED),
-    )
+    /**
+     * Values not yet fetched or set as defaults come back as zero, empty or false, which would lock
+     * Mock 1 and turn ads off. Anything that did not come from Firebase uses the in-app default.
+     */
+    private fun read(rc: FirebaseRemoteConfig): AppConfig {
+        val d = AppConfig()
+        fun has(key: String) = rc.getValue(key).source != FirebaseRemoteConfig.VALUE_SOURCE_STATIC
+        return AppConfig(
+            minVersionCode = if (has(MIN_VERSION_CODE)) rc.getLong(MIN_VERSION_CODE) else d.minVersionCode,
+            hiddenQuestionIds = parse<List<String>>(rc.getString(HIDDEN_QUESTION_IDS))?.toSet() ?: d.hiddenQuestionIds,
+            bannerMessage = rc.getString(BANNER_MESSAGE),
+            mockChapterWeights = parse<Map<String, Double>>(rc.getString(MOCK_CHAPTER_WEIGHTS)) ?: d.mockChapterWeights,
+            freeMockCount = if (has(FREE_MOCK_COUNT)) rc.getLong(FREE_MOCK_COUNT).toInt() else d.freeMockCount,
+            paywallVariant = rc.getString(PAYWALL_VARIANT).ifBlank { d.paywallVariant },
+            adsEnabled = if (has(ADS_ENABLED)) rc.getBoolean(ADS_ENABLED) else d.adsEnabled,
+        )
+    }
 
     private inline fun <reified T> parse(raw: String): T? =
         if (raw.isBlank()) null else runCatching { json.decodeFromString<T>(raw) }.getOrNull()
