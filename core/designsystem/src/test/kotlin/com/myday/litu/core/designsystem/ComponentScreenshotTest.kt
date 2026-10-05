@@ -13,6 +13,8 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalDensity
 import androidx.compose.ui.unit.Density
 import androidx.compose.ui.unit.dp
+import com.github.takahirom.roborazzi.RoborazziOptions
+import com.github.takahirom.roborazzi.ThresholdValidator
 import com.github.takahirom.roborazzi.captureRoboImage
 import com.myday.litu.core.designsystem.component.AnswerCard
 import com.myday.litu.core.designsystem.component.AnswerState
@@ -49,7 +51,11 @@ class ComponentScreenshotTest(private val variant: String) {
         fun variants() = listOf(arrayOf("light"), arrayOf("dark"), arrayOf("font200"))
     }
 
-    private fun shot(name: String, content: @Composable () -> Unit) = captureRoboImage("screenshots/${name}_$variant.png") {
+    // Mac and Linux anti-alias curved edges slightly differently; 1% tolerance ignores that while
+    // still catching layout changes.
+    private val options = RoborazziOptions(compareOptions = RoborazziOptions.CompareOptions(resultValidator = ThresholdValidator(0.01f)))
+
+    private fun shot(name: String, content: @Composable () -> Unit) = captureRoboImage("screenshots/${name}_$variant.png", options) {
         val theme = if (variant == "dark") ThemePreference.DARK else ThemePreference.LIGHT
         val base = LocalDensity.current
         CompositionLocalProvider(LocalDensity provides Density(base.density, if (variant == "font200") 2f else 1f)) {
@@ -69,7 +75,7 @@ class ComponentScreenshotTest(private val variant: String) {
     @Test fun buttonsAndBadges() = shot("buttons_badges") {
         LituButton("Continue studying", {})
         LituButton("Disabled", {}, enabled = false)
-        LituButton("Loading", {}, loading = true)
+        // The loading state is left out: its spinner never stops, so the screen never goes idle.
         LituButton("Review answers", {}, variant = ButtonVariant.SECONDARY)
         FlowRow(horizontalArrangement = Arrangement.spacedBy(8.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {
             PassFailBadge(true)
