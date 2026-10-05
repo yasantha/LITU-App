@@ -13,7 +13,7 @@ audio_pack/src/main/assets/audio/ ◄── tts.py
 | Step | Command | Notes |
 |---|---|---|
 | 1 Syllabus | edit `syllabus.json` | Chapter and section IDs are stable forever. |
-| 2 Draft | `python pipeline/generate.py --section CH3-TUD --count 40` | Needs `ANTHROPIC_API_KEY`. Rejected rows with a reviewer note are fed back. |
+| 2 Draft | `python pipeline/generate.py --section CH3-TUD --count 40` | Uses Gemini (`GEMINI_API_KEY`, free tier from Google AI Studio). `--provider claude` uses `ANTHROPIC_API_KEY`. Rejected rows with a reviewer note are fed back. |
 | 3 Check | `python pipeline/validate.py --export` | Schema, answer counts, unique IDs, lengths, near-duplicates, readability. Writes `review/review.csv`. |
 | 4 Review | Import `review.csv` into the review Google Sheet, then download it back to the same path. | `Status` is `approve`, `edit` or `reject`. For `edit`, put the new stem in `Edited text`, or a JSON object such as `{"explanation": "..."}`. |
 | 5 Build | `python pipeline/build_db.py` | Approved rows only. Writes `releases/content-v<N>.db`, appends `releases/CHANGELOG.md` and copies the database into the app. |
