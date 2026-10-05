@@ -10,6 +10,8 @@ data class AppConfig(
     val mockChapterWeights: Map<String, Double> = emptyMap(),
     val freeMockCount: Int = 1,
     val paywallVariant: String = "a",
+    /** Turns AdMob ads for free users off without an app update. */
+    val adsEnabled: Boolean = true,
 )
 
 interface ConfigRepository {

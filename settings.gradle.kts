@@ -36,6 +36,7 @@ include(":core:config")
 include(":core:audio")
 include(":core:designsystem")
 include(":core:analytics")
+include(":core:ads")
 
 include(":feature:onboarding")
 include(":feature:home")

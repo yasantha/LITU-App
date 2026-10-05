@@ -45,6 +45,7 @@ class SettingsViewModel @Inject constructor(
     private val content: ContentRepository,
     private val reminders: ReminderScheduler,
     private val appInfo: AppInfo,
+    val ads: com.myday.litu.core.ads.AdController,
 ) : ViewModel() {
     private val ui = MutableStateFlow(SettingsState(versionName = appInfo.versionName))
 

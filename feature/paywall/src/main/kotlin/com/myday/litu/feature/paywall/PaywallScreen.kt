@@ -13,6 +13,7 @@ import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.rounded.MenuBook
 import androidx.compose.material.icons.automirrored.rounded.VolumeUp
+import androidx.compose.material.icons.rounded.Block
 import androidx.compose.material.icons.rounded.Info
 import androidx.compose.material.icons.rounded.LibraryBooks
 import androidx.compose.material.icons.rounded.Replay
@@ -181,6 +182,7 @@ internal fun PaywallScreen(onClose: () -> Unit, onSubscribed: () -> Unit, viewMo
         Benefit(Icons.Rounded.LibraryBooks, "Unlimited mock tests", c.coralContainer, c.onCoralContainer)
         Benefit(Icons.Rounded.Replay, "Review every mistake", c.amberContainer, c.warning)
         Benefit(Icons.AutoMirrored.Rounded.VolumeUp, "Audio for every question", c.plumContainer, c.onPlumContainer)
+        Benefit(Icons.Rounded.Block, "No ads", c.blueContainer, c.secondary)
         s.message?.let { InfoBanner(it, icon = Icons.Rounded.Info) }
         when (val p = s.plans) {
             PlansUi.Loading -> repeat(2) { SkeletonBlock(Modifier.fillMaxWidth().height(72.dp)) }

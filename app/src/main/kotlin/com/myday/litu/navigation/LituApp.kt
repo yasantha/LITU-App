@@ -38,6 +38,10 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.platform.LocalContext
+import androidx.activity.compose.LocalActivity
+import com.myday.litu.core.ads.AdsEntryPoint
+import com.myday.litu.core.ads.BannerAd
+import dagger.hilt.android.EntryPointAccessors
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
@@ -115,12 +119,21 @@ fun LituApp(state: AppState) {
     val destination = entry?.destination
     val start = remember { state.start }
     val showBar = tabs.any { tab -> destination?.hasRoute(tab.route::class) == true }
+    val context = LocalContext.current
+    val activity = LocalActivity.current
+    val ads = remember { EntryPointAccessors.fromApplication(context.applicationContext, AdsEntryPoint::class.java).adController() }
+    // Ask for ad consent once the user reaches the main app, never during onboarding.
+    val reachedHome = destination?.hasRoute(HomeRoute::class) == true
+    LaunchedEffect(reachedHome) { if (reachedHome && !state.isPro) activity?.let(ads::requestConsent) }
+    // Interstitials only at natural breaks: leaving a finished session or mock results.
+    val homeAfterBreak = { ads.showInterstitialAtBreak(activity) { nav.goHome() } }
 
     Scaffold(
         containerColor = LituTheme.colors.background,
         contentWindowInsets = androidx.compose.foundation.layout.WindowInsets(0),
         bottomBar = {
-            if (showBar) {
+            if (showBar) Column {
+                BannerAd(ads, LituTheme.colors.surface)
                 NavigationBar(containerColor = LituTheme.colors.surface) {
                     tabs.forEach { tab ->
                         val selected = destination?.hasRoute(tab.route::class) == true
@@ -202,7 +215,7 @@ fun LituApp(state: AppState) {
             )
             questionSessionScreen(
                 onClose = { if (!nav.popBackStack()) nav.goHome() },
-                onDone = { nav.goHome() },
+                onDone = homeAfterBreak,
                 onSampleFinished = {
                     nav.navigate(PaywallRoute(PaywallSource.ONBOARDING.value)) { popUpTo<QuestionSessionRoute> { inclusive = true } }
                 },
@@ -226,7 +239,7 @@ fun LituApp(state: AppState) {
                 onLeave = { nav.popBackStack() },
             )
             mockResultsScreen(
-                onDone = { nav.goHome() },
+                onDone = homeAfterBreak,
                 onReviewAnswers = { nav.navigate(AnswerReviewRoute(it)) },
                 onPractiseChapters = { nav.navigate(QuestionSessionRoute.chapters(it)) },
             )

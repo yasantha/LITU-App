@@ -52,6 +52,7 @@ class RemoteConfigRepository @Inject constructor(
         mockChapterWeights = parse<Map<String, Double>>(rc.getString(MOCK_CHAPTER_WEIGHTS)).orEmpty(),
         freeMockCount = rc.getLong(FREE_MOCK_COUNT).toInt(),
         paywallVariant = rc.getString(PAYWALL_VARIANT).ifBlank { "a" },
+        adsEnabled = rc.getBoolean(ADS_ENABLED),
     )
 
     private inline fun <reified T> parse(raw: String): T? =
@@ -66,6 +67,7 @@ class RemoteConfigRepository @Inject constructor(
         const val MOCK_CHAPTER_WEIGHTS = "mock_chapter_weights"
         const val FREE_MOCK_COUNT = "free_mock_count"
         const val PAYWALL_VARIANT = "paywall_variant"
+        const val ADS_ENABLED = "ads_enabled"
         val DEFAULTS = mapOf<String, Any>(
             MIN_VERSION_CODE to 1L,
             HIDDEN_QUESTION_IDS to "[]",
@@ -73,6 +75,7 @@ class RemoteConfigRepository @Inject constructor(
             MOCK_CHAPTER_WEIGHTS to "",
             FREE_MOCK_COUNT to 1L,
             PAYWALL_VARIANT to "a",
+            ADS_ENABLED to true,
         )
         val json = Json { ignoreUnknownKeys = true }
     }

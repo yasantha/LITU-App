@@ -179,6 +179,10 @@ internal fun SettingsScreen(onBack: () -> Unit, onPaywall: () -> Unit, onDataDel
                 Item(null, "See plans", "Unlock the full question bank and mock tests", onClick = onPaywall)
             }
             Item(null, "Restore purchases", onClick = viewModel::restore)
+            // Required by Google for UK and EEA users who saw the ad consent form.
+            if (!s.isPro && viewModel.ads.privacyOptionsRequired()) {
+                Item(null, "Ad privacy choices", "Change how ads use your data", onClick = { activity?.let(viewModel.ads::showPrivacyOptions) })
+            }
         }
 
         Group("About") {

@@ -33,6 +33,11 @@ android {
         applicationId = "com.myday.litu"
         versionCode = 1
         versionName = "1.0.0"
+        // AdMob app ID from the AdMob console (LITU_ADMOB_APP_ID). Defaults to Google's sample app ID,
+        // which the SDK needs to start; ads stay off in release until real ad unit IDs are set.
+        manifestPlaceholders["admobAppId"] = providers.gradleProperty("LITU_ADMOB_APP_ID")
+            .orElse(providers.environmentVariable("LITU_ADMOB_APP_ID"))
+            .getOrElse("ca-app-pub-3940256099942544~3347511713")
     }
 
     flavorDimensions += "env"
@@ -104,6 +109,7 @@ dependencies {
     implementation(project(":core:audio"))
     implementation(project(":core:designsystem"))
     implementation(project(":core:analytics"))
+    implementation(project(":core:ads"))
 
     implementation(project(":feature:onboarding"))
     implementation(project(":feature:home"))
