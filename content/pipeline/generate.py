@@ -24,7 +24,7 @@ from common import (
     released_question_ids, sections_by_id, write_drafts,
 )
 
-DEFAULT_MODELS = {"gemini": "gemini-flash-latest", "claude": "claude-opus-5-5"}
+DEFAULT_MODELS = {"gemini": "gemini-3.8-flash", "claude": "claude-opus-5-5"}
 
 
 class DraftOption(BaseModel):
@@ -45,22 +45,9 @@ class DraftBatch(BaseModel):
 
 
 def draft_with_gemini(model: str, system: str, user: str) -> DraftBatch:
-    from google import genai
-    from google.genai import types
+    from gemini_util import generate_json
 
-    client = genai.Client()  # reads GEMINI_API_KEY
-    response = client.models.generate_content(
-        model=model,
-        contents=user,
-        config=types.GenerateContentConfig(
-            system_instruction=system,
-            response_mime_type="application/json",
-            response_schema=DraftBatch,
-        ),
-    )
-    if response.parsed is None:
-        sys.exit(f"Gemini returned no usable JSON: {response.text[:300] if response.text else 'empty response'}")
-    return response.parsed
+    return generate_json(model, system, user, DraftBatch, fallbacks=("gemini-3.6-flash", "gemini-3.5-flash", "gemini-3-flash-preview"))
 
 
 def draft_with_claude(model: str, system: str, user: str) -> DraftBatch:
@@ -95,7 +82,7 @@ def main() -> int:
     ap.add_argument("--section", required=True, help="section ID, e.g. CH3-TUD")
     ap.add_argument("--count", type=int, default=40)
     ap.add_argument("--provider", choices=sorted(DEFAULT_MODELS), default="gemini")
-    ap.add_argument("--model", help="defaults to gemini-flash-latest or claude-opus-5-5")
+    ap.add_argument("--model", help="defaults to gemini-3.8-flash or claude-opus-5-5")
     args = ap.parse_args()
 
     sections = sections_by_id(load_syllabus())

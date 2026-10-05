@@ -4,7 +4,7 @@ AI drafts the question bank, each question is reviewed, and a script turns the a
 into `content.db` (spec section 10).
 
 ```
-syllabus.json ─► generate.py ─► drafts/*.json ─► validate.py --export ─► review/review.csv
+syllabus.json ─► generate.py ─► verify.py ─► drafts/*.json ─► validate.py --export ─► review/review.csv
                                                                               │ (Google Sheet)
 app/src/main/assets/content/ ◄── build_db.py ◄── review/review.csv + notes/*.json
 audio_pack/src/main/assets/audio/ ◄── tts.py
@@ -14,6 +14,7 @@ audio_pack/src/main/assets/audio/ ◄── tts.py
 |---|---|---|
 | 1 Syllabus | edit `syllabus.json` | Chapter and section IDs are stable forever. |
 | 2 Draft | `python pipeline/generate.py --section CH3-TUD --count 40` | Uses Gemini (`GEMINI_API_KEY`, free tier from Google AI Studio). `--provider claude` uses `ANTHROPIC_API_KEY`. Rejected rows with a reviewer note are fed back. |
+| 3a Fact-check | `python pipeline/verify.py --all` | A second Gemini model checks each new draft against the 3rd edition handbook's facts and drops doubtful ones to `drafts/rejected/` with the reason. Catches most errors, but does not replace checking the handbook. |
 | 3 Check | `python pipeline/validate.py --export` | Schema, answer counts, unique IDs, lengths, near-duplicates, readability. Writes `review/review.csv`. |
 | 4 Review | Import `review.csv` into the review Google Sheet, then download it back to the same path. | `Status` is `approve`, `edit` or `reject`. For `edit`, put the new stem in `Edited text`, or a JSON object such as `{"explanation": "..."}`. |
 | 5 Build | `python pipeline/build_db.py` | Approved rows only. Writes `releases/content-v<N>.db`, appends `releases/CHANGELOG.md` and copies the database into the app. |
