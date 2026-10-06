@@ -820,34 +820,6 @@
     "ai_checked": true
   },
   {
-    "id": "Q-CH5-LAW-036",
-    "section_id": "CH5-LAW",
-    "type": "single",
-    "stem": "What is the minimum age at which a person can legally drive a car or motorcycle on public roads in the UK?",
-    "options": [
-      {
-        "label": "17 years old",
-        "correct": true
-      },
-      {
-        "label": "16 years old",
-        "correct": false
-      },
-      {
-        "label": "18 years old",
-        "correct": false
-      },
-      {
-        "label": "15 years old",
-        "correct": false
-      }
-    ],
-    "explanation": "You must be at least 17 years old to drive a car or ride a motorcycle on public roads. People receiving certain mobility benefits can drive from age 16.",
-    "handbook_ref": "Chapter 5 · Respecting the law",
-    "difficulty": 1,
-    "ai_checked": true
-  },
-  {
     "id": "Q-CH5-LAW-037",
     "section_id": "CH5-LAW",
     "type": "single",

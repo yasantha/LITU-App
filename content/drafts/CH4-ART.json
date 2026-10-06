@@ -214,5 +214,813 @@
     "handbook_ref": "Chapter 4 · Arts and culture",
     "difficulty": 1,
     "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-ART-009",
+    "section_id": "CH4-ART",
+    "type": "single",
+    "stem": "Who wrote 'The Canterbury Tales' in the 14th century?",
+    "options": [
+      {
+        "label": "Geoffrey Chaucer",
+        "correct": true
+      },
+      {
+        "label": "William Shakespeare",
+        "correct": false
+      },
+      {
+        "label": "John Milton",
+        "correct": false
+      },
+      {
+        "label": "Thomas Hardy",
+        "correct": false
+      }
+    ],
+    "explanation": "Geoffrey Chaucer wrote 'The Canterbury Tales' in the late 14th century. It is a famous collection of stories told by a group of pilgrims on their way to Canterbury.",
+    "handbook_ref": "Chapter 4 · Arts and culture",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-ART-010",
+    "section_id": "CH4-ART",
+    "type": "single",
+    "stem": "Which British composer wrote operas such as 'Dido and Aeneas' in the 17th century?",
+    "options": [
+      {
+        "label": "Henry Purcell",
+        "correct": true
+      },
+      {
+        "label": "Gustav Holst",
+        "correct": false
+      },
+      {
+        "label": "Benjamin Britten",
+        "correct": false
+      },
+      {
+        "label": "Edward Elgar",
+        "correct": false
+      }
+    ],
+    "explanation": "Henry Purcell was an organist at Westminster Abbey. He wrote church music, operas, and instrumental music that are still famous today.",
+    "handbook_ref": "Chapter 4 · Arts and culture",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-ART-011",
+    "section_id": "CH4-ART",
+    "type": "single",
+    "stem": "Which English landscape painter is famous for painting 'The Hay Wain'?",
+    "options": [
+      {
+        "label": "John Constable",
+        "correct": true
+      },
+      {
+        "label": "J.M.W. Turner",
+        "correct": false
+      },
+      {
+        "label": "Thomas Gainsborough",
+        "correct": false
+      },
+      {
+        "label": "David Hockney",
+        "correct": false
+      }
+    ],
+    "explanation": "John Constable was a famous landscape painter. 'The Hay Wain' is one of his most famous works, showing a rural scene in Suffolk, England.",
+    "handbook_ref": "Chapter 4 · Arts and culture",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-ART-012",
+    "section_id": "CH4-ART",
+    "type": "single",
+    "stem": "Which influential British film director made famous suspense films like 'The 39 Steps' and 'Psycho'?",
+    "options": [
+      {
+        "label": "Alfred Hitchcock",
+        "correct": true
+      },
+      {
+        "label": "David Lean",
+        "correct": false
+      },
+      {
+        "label": "Ridley Scott",
+        "correct": false
+      },
+      {
+        "label": "Danny Boyle",
+        "correct": false
+      }
+    ],
+    "explanation": "Alfred Hitchcock is widely regarded as one of the most influential filmmakers in cinema history. He was famous for his suspenseful thrillers.",
+    "handbook_ref": "Chapter 4 · Arts and culture",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-ART-013",
+    "section_id": "CH4-ART",
+    "type": "single",
+    "stem": "Who wrote the famous 20th-century novels 'Animal Farm' and 'Nineteen Eighty-Four'?",
+    "options": [
+      {
+        "label": "George Orwell",
+        "correct": true
+      },
+      {
+        "label": "Aldous Huxley",
+        "correct": false
+      },
+      {
+        "label": "William Golding",
+        "correct": false
+      },
+      {
+        "label": "Graham Greene",
+        "correct": false
+      }
+    ],
+    "explanation": "George Orwell was the pen name of Eric Blair. He wrote 'Animal Farm' and 'Nineteen Eighty-Four', which are classic political novels.",
+    "handbook_ref": "Chapter 4 · Arts and culture",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-ART-014",
+    "section_id": "CH4-ART",
+    "type": "single",
+    "stem": "Which modern British architect designed the building known as 'The Gherkin' in London?",
+    "options": [
+      {
+        "label": "Sir Norman Foster",
+        "correct": true
+      },
+      {
+        "label": "Dame Zaha Hadid",
+        "correct": false
+      },
+      {
+        "label": "Sir Edwin Lutyens",
+        "correct": false
+      },
+      {
+        "label": "Inigo Jones",
+        "correct": false
+      }
+    ],
+    "explanation": "Sir Norman Foster is a leading modern architect who designed 'The Gherkin' in London, as well as the Millennium Bridge.",
+    "handbook_ref": "Chapter 4 · Arts and culture",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-ART-015",
+    "section_id": "CH4-ART",
+    "type": "truefalse",
+    "stem": "Gilbert and Sullivan wrote comic operas in the 19th century, including 'The Mikado' and 'The Pirates of Penzance'.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Gilbert and Sullivan wrote many famous comic operas in the 19th century. Their works are still regularly performed today.",
+    "handbook_ref": "Chapter 4 · Arts and culture",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-ART-016",
+    "section_id": "CH4-ART",
+    "type": "single",
+    "stem": "Which Scottish poet wrote 'Auld Lang Syne', a song traditionally sung on New Year's Eve?",
+    "options": [
+      {
+        "label": "Robert Burns",
+        "correct": true
+      },
+      {
+        "label": "Walter Scott",
+        "correct": false
+      },
+      {
+        "label": "Lord Byron",
+        "correct": false
+      },
+      {
+        "label": "Dylan Thomas",
+        "correct": false
+      }
+    ],
+    "explanation": "Robert Burns is Scotland's national poet. His poem 'Auld Lang Syne' is sung around the world to welcome the New Year.",
+    "handbook_ref": "Chapter 4 · Arts and culture",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-ART-017",
+    "section_id": "CH4-ART",
+    "type": "multi",
+    "stem": "Which TWO of the following are famous plays written by William Shakespeare?",
+    "options": [
+      {
+        "label": "Hamlet",
+        "correct": true
+      },
+      {
+        "label": "Romeo and Juliet",
+        "correct": true
+      },
+      {
+        "label": "The Canterbury Tales",
+        "correct": false
+      },
+      {
+        "label": "Paradise Lost",
+        "correct": false
+      }
+    ],
+    "explanation": "William Shakespeare wrote famous plays like 'Hamlet' and 'Romeo and Juliet' in the late 16th and early 17th centuries.",
+    "handbook_ref": "Chapter 4 · Arts and culture",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-ART-018",
+    "section_id": "CH4-ART",
+    "type": "single",
+    "stem": "Which landscape artist is known as 'the painter of light' and has a major British art prize named after him?",
+    "options": [
+      {
+        "label": "J.M.W. Turner",
+        "correct": true
+      },
+      {
+        "label": "Joshua Reynolds",
+        "correct": false
+      },
+      {
+        "label": "Henry Moore",
+        "correct": false
+      },
+      {
+        "label": "L.S. Lowry",
+        "correct": false
+      }
+    ],
+    "explanation": "J.M.W. Turner was a highly influential artist famous for his paintings of water, light, and steam. The Turner Prize is named in his honour.",
+    "handbook_ref": "Chapter 4 · Arts and culture",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-ART-019",
+    "section_id": "CH4-ART",
+    "type": "truefalse",
+    "stem": "Henry Moore was a famous British sculptor known for his large bronze abstract sculptures.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Henry Moore was a highly influential sculptor who is especially known for his large bronze abstract sculptures of the human form.",
+    "handbook_ref": "Chapter 4 · Arts and culture",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-ART-020",
+    "section_id": "CH4-ART",
+    "type": "single",
+    "stem": "Who wrote 'Paradise Lost', an epic poem about the fall of mankind, published in 1667?",
+    "options": [
+      {
+        "label": "John Milton",
+        "correct": true
+      },
+      {
+        "label": "John Keats",
+        "correct": false
+      },
+      {
+        "label": "William Wordsworth",
+        "correct": false
+      },
+      {
+        "label": "Lord Tennyson",
+        "correct": false
+      }
+    ],
+    "explanation": "John Milton was a devout writer who wrote 'Paradise Lost', one of the most famous and influential epic poems in the English language.",
+    "handbook_ref": "Chapter 4 · Arts and culture",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-ART-021",
+    "section_id": "CH4-ART",
+    "type": "multi",
+    "stem": "Which TWO of the following are famous British film awards or film festivals?",
+    "options": [
+      {
+        "label": "The BAFTA Awards",
+        "correct": true
+      },
+      {
+        "label": "The London Film Festival",
+        "correct": true
+      },
+      {
+        "label": "The Laurence Olivier Awards",
+        "correct": false
+      },
+      {
+        "label": "The Mercury Prize",
+        "correct": false
+      }
+    ],
+    "explanation": "The BAFTA (British Academy of Film and Television Arts) awards are the UK's film industry awards. The London Film Festival is a major annual film event.",
+    "handbook_ref": "Chapter 4 · Arts and culture",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-ART-022",
+    "section_id": "CH4-ART",
+    "type": "single",
+    "stem": "Who is a famous British composer of musical theatre, known for writing 'Cats' and 'The Phantom of the Opera'?",
+    "options": [
+      {
+        "label": "Andrew Lloyd Webber",
+        "correct": true
+      },
+      {
+        "label": "Benjamin Britten",
+        "correct": false
+      },
+      {
+        "label": "Ralph Vaughan Williams",
+        "correct": false
+      },
+      {
+        "label": "Arthur Sullivan",
+        "correct": false
+      }
+    ],
+    "explanation": "Andrew Lloyd Webber has written some of the most successful musicals in history, which have been performed all over the world.",
+    "handbook_ref": "Chapter 4 · Arts and culture",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-ART-023",
+    "section_id": "CH4-ART",
+    "type": "single",
+    "stem": "Which of the Brontë sisters wrote the famous novel 'Wuthering Heights'?",
+    "options": [
+      {
+        "label": "Emily Brontë",
+        "correct": true
+      },
+      {
+        "label": "Charlotte Brontë",
+        "correct": false
+      },
+      {
+        "label": "Anne Brontë",
+        "correct": false
+      },
+      {
+        "label": "Maria Brontë",
+        "correct": false
+      }
+    ],
+    "explanation": "Emily Brontë wrote the gothic novel 'Wuthering Heights'. Her sister Charlotte wrote 'Jane Eyre'.",
+    "handbook_ref": "Chapter 4 · Arts and culture",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-ART-024",
+    "section_id": "CH4-ART",
+    "type": "single",
+    "stem": "Which of the Brontë sisters wrote the famous 1847 novel 'Jane Eyre'?",
+    "options": [
+      {
+        "label": "Charlotte Brontë",
+        "correct": true
+      },
+      {
+        "label": "Emily Brontë",
+        "correct": false
+      },
+      {
+        "label": "Anne Brontë",
+        "correct": false
+      },
+      {
+        "label": "Maria Brontë",
+        "correct": false
+      }
+    ],
+    "explanation": "Charlotte Brontë wrote the novel 'Jane Eyre' under the pen name Currer Bell. Her sister Emily wrote 'Wuthering Heights', and her sister Anne wrote 'Agnes Grey'.",
+    "handbook_ref": "Chapter 4 · Arts and culture",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-ART-025",
+    "section_id": "CH4-ART",
+    "type": "single",
+    "stem": "Which German-born composer became a British citizen and wrote the 'Messiah' in the 18th century?",
+    "options": [
+      {
+        "label": "George Frideric Handel",
+        "correct": true
+      },
+      {
+        "label": "Johann Sebastian Bach",
+        "correct": false
+      },
+      {
+        "label": "Ludwig van Beethoven",
+        "correct": false
+      },
+      {
+        "label": "Wolfgang Amadeus Mozart",
+        "correct": false
+      }
+    ],
+    "explanation": "George Frideric Handel moved to London and became a British citizen. He is famous for 'Messiah' and 'Water Music', which was written for King George I.",
+    "handbook_ref": "Chapter 4 · Arts and culture",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-ART-026",
+    "section_id": "CH4-ART",
+    "type": "single",
+    "stem": "Which British fashion designer is famous for popularising the miniskirt in the 1960s?",
+    "options": [
+      {
+        "label": "Mary Quant",
+        "correct": true
+      },
+      {
+        "label": "Vivienne Westwood",
+        "correct": false
+      },
+      {
+        "label": "Stella McCartney",
+        "correct": false
+      },
+      {
+        "label": "Alexander McQueen",
+        "correct": false
+      }
+    ],
+    "explanation": "Mary Quant was a key figure in the fashion scene of the 1960s. She is widely credited with making the miniskirt popular with young women.",
+    "handbook_ref": "Chapter 4 · Arts and culture",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-ART-027",
+    "section_id": "CH4-ART",
+    "type": "single",
+    "stem": "Which British director is famous for directing epic films such as 'Lawrence of Arabia' and 'Doctor Zhivago'?",
+    "options": [
+      {
+        "label": "David Lean",
+        "correct": true
+      },
+      {
+        "label": "Alfred Hitchcock",
+        "correct": false
+      },
+      {
+        "label": "Ridley Scott",
+        "correct": false
+      },
+      {
+        "label": "Christopher Nolan",
+        "correct": false
+      }
+    ],
+    "explanation": "Sir David Lean was an acclaimed filmmaker who won Oscars for directing 'The Bridge on the River Kwai' and 'Lawrence of Arabia'.",
+    "handbook_ref": "Chapter 4 · Arts and culture",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-ART-028",
+    "section_id": "CH4-ART",
+    "type": "single",
+    "stem": "Which 18th-century artist is famous for his portraits, especially of people in country landscapes?",
+    "options": [
+      {
+        "label": "Thomas Gainsborough",
+        "correct": true
+      },
+      {
+        "label": "John Constable",
+        "correct": false
+      },
+      {
+        "label": "J.M.W. Turner",
+        "correct": false
+      },
+      {
+        "label": "L.S. Lowry",
+        "correct": false
+      }
+    ],
+    "explanation": "Thomas Gainsborough was a portrait and landscape painter. His works are known for their natural settings and elegant subjects.",
+    "handbook_ref": "Chapter 4 · Arts and culture",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-ART-029",
+    "section_id": "CH4-ART",
+    "type": "single",
+    "stem": "Which British architect designed the Cenotaph war memorial in Whitehall, London?",
+    "options": [
+      {
+        "label": "Sir Edwin Lutyens",
+        "correct": true
+      },
+      {
+        "label": "Sir Christopher Wren",
+        "correct": false
+      },
+      {
+        "label": "Sir Norman Foster",
+        "correct": false
+      },
+      {
+        "label": "Robert Adam",
+        "correct": false
+      }
+    ],
+    "explanation": "Sir Edwin Lutyens designed the Cenotaph, which is the site of the annual National Service of Remembrance. He also designed many buildings in New Delhi, India.",
+    "handbook_ref": "Chapter 4 · Arts and culture",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-ART-030",
+    "section_id": "CH4-ART",
+    "type": "single",
+    "stem": "Who wrote the famous 19th-century comedy play 'The Importance of Being Earnest'?",
+    "options": [
+      {
+        "label": "Oscar Wilde",
+        "correct": true
+      },
+      {
+        "label": "George Bernard Shaw",
+        "correct": false
+      },
+      {
+        "label": "William Shakespeare",
+        "correct": false
+      },
+      {
+        "label": "Harold Pinter",
+        "correct": false
+      }
+    ],
+    "explanation": "Oscar Wilde was an Irish writer and poet who wrote several popular plays in late-Victorian London, including 'The Importance of Being Earnest'.",
+    "handbook_ref": "Chapter 4 · Arts and culture",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-ART-031",
+    "section_id": "CH4-ART",
+    "type": "single",
+    "stem": "Which Scottish author wrote the classic adventure novels 'Treasure Island' and 'Kidnapped'?",
+    "options": [
+      {
+        "label": "Robert Louis Stevenson",
+        "correct": true
+      },
+      {
+        "label": "Sir Walter Scott",
+        "correct": false
+      },
+      {
+        "label": "Arthur Conan Doyle",
+        "correct": false
+      },
+      {
+        "label": "J.M. Barrie",
+        "correct": false
+      }
+    ],
+    "explanation": "Robert Louis Stevenson was a famous Scottish novelist and poet. He also wrote the classic thriller 'The Strange Case of Dr Jekyll and Mr Hyde'.",
+    "handbook_ref": "Chapter 4 · Arts and culture",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-ART-032",
+    "section_id": "CH4-ART",
+    "type": "single",
+    "stem": "Which 20th-century British composer wrote 'The Young Person's Guide to the Orchestra'?",
+    "options": [
+      {
+        "label": "Benjamin Britten",
+        "correct": true
+      },
+      {
+        "label": "Gustav Holst",
+        "correct": false
+      },
+      {
+        "label": "Ralph Vaughan Williams",
+        "correct": false
+      },
+      {
+        "label": "Edward Elgar",
+        "correct": false
+      }
+    ],
+    "explanation": "Benjamin Britten is one of the most famous British classical composers of the 20th century. He also founded the Aldeburgh Festival.",
+    "handbook_ref": "Chapter 4 · Arts and culture",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-ART-033",
+    "section_id": "CH4-ART",
+    "type": "single",
+    "stem": "Which famous English poet is closely associated with the Lake District and wrote a poem about daffodils?",
+    "options": [
+      {
+        "label": "William Wordsworth",
+        "correct": true
+      },
+      {
+        "label": "John Keats",
+        "correct": false
+      },
+      {
+        "label": "Lord Byron",
+        "correct": false
+      },
+      {
+        "label": "Wilfred Owen",
+        "correct": false
+      }
+    ],
+    "explanation": "William Wordsworth was a leader of the Romantic movement in English literature. He served as Poet Laureate from 1843 until his death.",
+    "handbook_ref": "Chapter 4 · Arts and culture",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-ART-034",
+    "section_id": "CH4-ART",
+    "type": "single",
+    "stem": "Which author wrote the famous fantasy novels 'The Hobbit' and 'The Lord of the Rings'?",
+    "options": [
+      {
+        "label": "J.R.R. Tolkien",
+        "correct": true
+      },
+      {
+        "label": "C.S. Lewis",
+        "correct": false
+      },
+      {
+        "label": "Roald Dahl",
+        "correct": false
+      },
+      {
+        "label": "George Orwell",
+        "correct": false
+      }
+    ],
+    "explanation": "J.R.R. Tolkien was an English writer and university professor. His books are among the best-selling fantasy novels of all time.",
+    "handbook_ref": "Chapter 4 · Arts and culture",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-ART-035",
+    "section_id": "CH4-ART",
+    "type": "multi",
+    "stem": "Which TWO of the following are famous annual music festivals in the UK?",
+    "options": [
+      {
+        "label": "Glastonbury",
+        "correct": true
+      },
+      {
+        "label": "Glyndebourne",
+        "correct": true
+      },
+      {
+        "label": "Wimbledon",
+        "correct": false
+      },
+      {
+        "label": "Royal Ascot",
+        "correct": false
+      }
+    ],
+    "explanation": "Glastonbury is a famous pop and rock music festival held in Somerset. Glyndebourne is a world-famous festival of opera held in Sussex.",
+    "handbook_ref": "Chapter 4 · Arts and culture",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-ART-036",
+    "section_id": "CH4-ART",
+    "type": "multi",
+    "stem": "Which TWO of the following novels were written by Charles Dickens?",
+    "options": [
+      {
+        "label": "Great Expectations",
+        "correct": true
+      },
+      {
+        "label": "David Copperfield",
+        "correct": true
+      },
+      {
+        "label": "Pride and Prejudice",
+        "correct": false
+      },
+      {
+        "label": "Jane Eyre",
+        "correct": false
+      }
+    ],
+    "explanation": "Charles Dickens was a famous Victorian writer. Some of his most popular novels include 'Great Expectations', 'David Copperfield', and 'A Christmas Carol'.",
+    "handbook_ref": "Chapter 4 · Arts and culture",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-ART-037",
+    "section_id": "CH4-ART",
+    "type": "truefalse",
+    "stem": "Sir Walter Scott was a famous Scottish writer who wrote historical novels and poems.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Sir Walter Scott was a Scottish writer of the late 18th and early 19th centuries. His famous works include 'Waverley' and 'Rob Roy'.",
+    "handbook_ref": "Chapter 4 · Arts and culture",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-ART-038",
+    "section_id": "CH4-ART",
+    "type": "truefalse",
+    "stem": "The Mercury Prize is awarded every year for the best music album from the UK and Ireland.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "The Mercury Prize is a prestigious annual music award. It is given for the best music album of the year by a British or Irish artist.",
+    "handbook_ref": "Chapter 4 · Arts and culture",
+    "difficulty": 2,
+    "ai_checked": true
   }
 ]

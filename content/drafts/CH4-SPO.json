@@ -214,5 +214,673 @@
     "handbook_ref": "Chapter 4 · Sport",
     "difficulty": 2,
     "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-SPO-009",
+    "section_id": "CH4-SPO",
+    "type": "single",
+    "stem": "Which golf tournament is a famous competition played between teams from Europe and the United States?",
+    "options": [
+      {
+        "label": "The Ryder Cup",
+        "correct": true
+      },
+      {
+        "label": "The Walker Cup",
+        "correct": false
+      },
+      {
+        "label": "The Open Championship",
+        "correct": false
+      },
+      {
+        "label": "The Masters",
+        "correct": false
+      }
+    ],
+    "explanation": "The Ryder Cup is held every two years. It is played between teams of male golfers from Europe and the United States.",
+    "handbook_ref": "Chapter 4 · Sport",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-SPO-010",
+    "section_id": "CH4-SPO",
+    "type": "single",
+    "stem": "Which country won the FIFA World Cup when it was hosted in England in 1966?",
+    "options": [
+      {
+        "label": "England",
+        "correct": true
+      },
+      {
+        "label": "Germany",
+        "correct": false
+      },
+      {
+        "label": "Brazil",
+        "correct": false
+      },
+      {
+        "label": "Scotland",
+        "correct": false
+      }
+    ],
+    "explanation": "England won the football World Cup in 1966 on home soil. This remains England's only World Cup victory so far.",
+    "handbook_ref": "Chapter 4 · Sport",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-SPO-011",
+    "section_id": "CH4-SPO",
+    "type": "multi",
+    "stem": "Which TWO of the following are the main types of rugby played in the UK, each having different rules?",
+    "options": [
+      {
+        "label": "Rugby Union",
+        "correct": true
+      },
+      {
+        "label": "Rugby League",
+        "correct": true
+      },
+      {
+        "label": "Rugby Association",
+        "correct": false
+      },
+      {
+        "label": "Rugby National",
+        "correct": false
+      }
+    ],
+    "explanation": "Rugby Union and Rugby League are the two main types of rugby. They have different rules, including the number of players in a team.",
+    "handbook_ref": "Chapter 4 · Sport",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-SPO-012",
+    "section_id": "CH4-SPO",
+    "type": "single",
+    "stem": "Who was the first cyclist from the UK to win the famous Tour de France race?",
+    "options": [
+      {
+        "label": "Sir Bradley Wiggins",
+        "correct": true
+      },
+      {
+        "label": "Sir Chris Hoy",
+        "correct": false
+      },
+      {
+        "label": "Mark Cavendish",
+        "correct": false
+      },
+      {
+        "label": "Geraint Thomas",
+        "correct": false
+      }
+    ],
+    "explanation": "Sir Bradley Wiggins won the Tour de France in 2012. He also won several Olympic gold medals in cycling during his career.",
+    "handbook_ref": "Chapter 4 · Sport",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-SPO-013",
+    "section_id": "CH4-SPO",
+    "type": "single",
+    "stem": "Dame Ellen MacArthur is famous for her achievements in which of the following sports?",
+    "options": [
+      {
+        "label": "Sailing",
+        "correct": true
+      },
+      {
+        "label": "Rowing",
+        "correct": false
+      },
+      {
+        "label": "Swimming",
+        "correct": false
+      },
+      {
+        "label": "Athletics",
+        "correct": false
+      }
+    ],
+    "explanation": "In 2005, Dame Ellen MacArthur became the fastest person to sail around the world solo.",
+    "handbook_ref": "Chapter 4 · Sport",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-SPO-014",
+    "section_id": "CH4-SPO",
+    "type": "single",
+    "stem": "Which of these is a famous flat horse race held at Epsom in Surrey since 1780?",
+    "options": [
+      {
+        "label": "The Derby",
+        "correct": true
+      },
+      {
+        "label": "The Oaks",
+        "correct": false
+      },
+      {
+        "label": "The St Leger",
+        "correct": false
+      },
+      {
+        "label": "The Royal Stakes",
+        "correct": false
+      }
+    ],
+    "explanation": "The Epsom Derby is a very famous flat horse race. It is held annually in June and has been run since 1780.",
+    "handbook_ref": "Chapter 4 · Sport",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-SPO-015",
+    "section_id": "CH4-SPO",
+    "type": "truefalse",
+    "stem": "In cricket, the longest matches are called Test matches and can last for up to five days.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Test matches are the traditional form of cricket. They can last for up to five days and can still end in a draw.",
+    "handbook_ref": "Chapter 4 · Sport",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-SPO-016",
+    "section_id": "CH4-SPO",
+    "type": "single",
+    "stem": "Sir Jackie Stewart is a famous Scottish sportsman who won three world championships in which sport?",
+    "options": [
+      {
+        "label": "Formula 1 motor racing",
+        "correct": true
+      },
+      {
+        "label": "Snooker",
+        "correct": false
+      },
+      {
+        "label": "Golf",
+        "correct": false
+      },
+      {
+        "label": "Darts",
+        "correct": false
+      }
+    ],
+    "explanation": "Sir Jackie Stewart was a highly successful Formula 1 driver. He won three World Championships during his career.",
+    "handbook_ref": "Chapter 4 · Sport",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-SPO-018",
+    "section_id": "CH4-SPO",
+    "type": "single",
+    "stem": "Dame Kelly Holmes won two gold medals at the 2004 Olympic Games in Athens in which sport?",
+    "options": [
+      {
+        "label": "Athletics",
+        "correct": true
+      },
+      {
+        "label": "Swimming",
+        "correct": false
+      },
+      {
+        "label": "Sailing",
+        "correct": false
+      },
+      {
+        "label": "Gymnastics",
+        "correct": false
+      }
+    ],
+    "explanation": "Dame Kelly Holmes won Olympic gold in both the 800 metres and 1,500 metres middle-distance running events.",
+    "handbook_ref": "Chapter 4 · Sport",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-SPO-019",
+    "section_id": "CH4-SPO",
+    "type": "multi",
+    "stem": "Which TWO of the following European countries play in the annual Six Nations rugby union championship?",
+    "options": [
+      {
+        "label": "France",
+        "correct": true
+      },
+      {
+        "label": "Italy",
+        "correct": true
+      },
+      {
+        "label": "Germany",
+        "correct": false
+      },
+      {
+        "label": "Spain",
+        "correct": false
+      }
+    ],
+    "explanation": "The Six Nations championship is played by England, Ireland, Scotland, Wales, France and Italy.",
+    "handbook_ref": "Chapter 4 · Sport",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-SPO-020",
+    "section_id": "CH4-SPO",
+    "type": "single",
+    "stem": "Sir Chris Hoy is one of the UK's most successful Olympians, winning six gold medals in which sport?",
+    "options": [
+      {
+        "label": "Track cycling",
+        "correct": true
+      },
+      {
+        "label": "Rowing",
+        "correct": false
+      },
+      {
+        "label": "Sailing",
+        "correct": false
+      },
+      {
+        "label": "Swimming",
+        "correct": false
+      }
+    ],
+    "explanation": "Sir Chris Hoy is a Scottish track cyclist. He won six Olympic gold medals and eleven world championship titles.",
+    "handbook_ref": "Chapter 4 · Sport",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-SPO-021",
+    "section_id": "CH4-SPO",
+    "type": "truefalse",
+    "stem": "Royal Ascot is a famous five-day horse racing event attended by members of the Royal Family.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Royal Ascot is held in Berkshire every year. It is famous for its high fashion and is traditionally attended by the Royal Family.",
+    "handbook_ref": "Chapter 4 · Sport",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-SPO-023",
+    "section_id": "CH4-SPO",
+    "type": "single",
+    "stem": "Under what name do athletes from Great Britain and Northern Ireland compete together in the Olympic Games?",
+    "options": [
+      {
+        "label": "Great Britain",
+        "correct": true
+      },
+      {
+        "label": "United Kingdom",
+        "correct": false
+      },
+      {
+        "label": "British Isles",
+        "correct": false
+      },
+      {
+        "label": "The Royal Team",
+        "correct": false
+      }
+    ],
+    "explanation": "Athletics and sports teams from Great Britain and Northern Ireland compete together as Great Britain (often called Team GB).",
+    "handbook_ref": "Chapter 4 · Sport",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-SPO-024",
+    "section_id": "CH4-SPO",
+    "type": "single",
+    "stem": "Where is the British Grand Prix, a famous Formula 1 motor race, held every year?",
+    "options": [
+      {
+        "label": "Silverstone",
+        "correct": true
+      },
+      {
+        "label": "Brands Hatch",
+        "correct": false
+      },
+      {
+        "label": "Donington Park",
+        "correct": false
+      },
+      {
+        "label": "Ascot",
+        "correct": false
+      }
+    ],
+    "explanation": "The British Grand Prix is a major Formula 1 event held annually at Silverstone in Northamptonshire. Motor racing has a long history in the UK.",
+    "handbook_ref": "Chapter 4 · Sport",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-SPO-025",
+    "section_id": "CH4-SPO",
+    "type": "single",
+    "stem": "Which two universities compete in the famous annual boat race on the River Thames?",
+    "options": [
+      {
+        "label": "Oxford and Cambridge",
+        "correct": true
+      },
+      {
+        "label": "London and Bristol",
+        "correct": false
+      },
+      {
+        "label": "Edinburgh and Glasgow",
+        "correct": false
+      },
+      {
+        "label": "Durham and York",
+        "correct": false
+      }
+    ],
+    "explanation": "The Boat Race is an annual rowing race on the River Thames between Oxford and Cambridge universities. It has been held since 1829.",
+    "handbook_ref": "Chapter 4 · Sport",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-SPO-026",
+    "section_id": "CH4-SPO",
+    "type": "single",
+    "stem": "Baroness Tanni Grey-Thompson is one of the UK's most successful athletes. In which Paralympic sport did she win 11 gold medals?",
+    "options": [
+      {
+        "label": "Wheelchair racing",
+        "correct": true
+      },
+      {
+        "label": "Wheelchair basketball",
+        "correct": false
+      },
+      {
+        "label": "Swimming",
+        "correct": false
+      },
+      {
+        "label": "Archery",
+        "correct": false
+      }
+    ],
+    "explanation": "Baroness Tanni Grey-Thompson is a famous Paralympic athlete who won 11 gold medals in wheelchair racing. She also won the London Marathon six times.",
+    "handbook_ref": "Chapter 4 · Sport",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-SPO-027",
+    "section_id": "CH4-SPO",
+    "type": "single",
+    "stem": "How many players are there on each team in a Rugby Union match?",
+    "options": [
+      {
+        "label": "15",
+        "correct": true
+      },
+      {
+        "label": "11",
+        "correct": false
+      },
+      {
+        "label": "13",
+        "correct": false
+      },
+      {
+        "label": "18",
+        "correct": false
+      }
+    ],
+    "explanation": "Rugby Union is played by teams of 15 players, while Rugby League is played by teams of 13 players. Both types of rugby are popular in the UK.",
+    "handbook_ref": "Chapter 4 · Sport",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-SPO-028",
+    "section_id": "CH4-SPO",
+    "type": "single",
+    "stem": "In which Olympic sport has the UK won more gold medals than any other country?",
+    "options": [
+      {
+        "label": "Sailing",
+        "correct": true
+      },
+      {
+        "label": "Swimming",
+        "correct": false
+      },
+      {
+        "label": "Gymnastics",
+        "correct": false
+      },
+      {
+        "label": "Football",
+        "correct": false
+      }
+    ],
+    "explanation": "The UK has a very successful history in sailing and has won more Olympic gold medals in this sport than any other nation.",
+    "handbook_ref": "Chapter 4 · Sport",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-SPO-029",
+    "section_id": "CH4-SPO",
+    "type": "single",
+    "stem": "Which British athlete won the heptathlon gold medal at the London 2012 Olympic Games?",
+    "options": [
+      {
+        "label": "Jessica Ennis",
+        "correct": true
+      },
+      {
+        "label": "Kelly Holmes",
+        "correct": false
+      },
+      {
+        "label": "Paula Radcliffe",
+        "correct": false
+      },
+      {
+        "label": "Sally Gunnell",
+        "correct": false
+      }
+    ],
+    "explanation": "Jessica Ennis (now Jessica Ennis-Hill) won the heptathlon gold medal at the London 2012 Olympic Games. She was one of the famous stars of those Games.",
+    "handbook_ref": "Chapter 4 · Sport",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-SPO-030",
+    "section_id": "CH4-SPO",
+    "type": "single",
+    "stem": "Where is the Millennium Stadium, which hosts Welsh national rugby and football matches, located?",
+    "options": [
+      {
+        "label": "Cardiff",
+        "correct": true
+      },
+      {
+        "label": "Swansea",
+        "correct": false
+      },
+      {
+        "label": "Newport",
+        "correct": false
+      },
+      {
+        "label": "Bangor",
+        "correct": false
+      }
+    ],
+    "explanation": "The Millennium Stadium (now also known as the Principality Stadium) is located in Cardiff, Wales. It is the home of Welsh rugby and has also hosted major football matches.",
+    "handbook_ref": "Chapter 4 · Sport",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-SPO-031",
+    "section_id": "CH4-SPO",
+    "type": "single",
+    "stem": "Which golf tournament is the only Major played outside the United States?",
+    "options": [
+      {
+        "label": "The Open Championship",
+        "correct": true
+      },
+      {
+        "label": "The Masters",
+        "correct": false
+      },
+      {
+        "label": "The US Open",
+        "correct": false
+      },
+      {
+        "label": "The PGA Championship",
+        "correct": false
+      }
+    ],
+    "explanation": "The Open Championship (often called the British Open) is the oldest golf tournament in the world and the only Major played outside the US.",
+    "handbook_ref": "Chapter 4 · Sport",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-SPO-032",
+    "section_id": "CH4-SPO",
+    "type": "multi",
+    "stem": "Which TWO of the following statements about the Commonwealth Games are correct?",
+    "options": [
+      {
+        "label": "They are held every four years.",
+        "correct": true
+      },
+      {
+        "label": "Only countries from Europe can take part.",
+        "correct": false
+      },
+      {
+        "label": "They are also known as the Paralympic Games.",
+        "correct": false
+      },
+      {
+        "label": "Athletes from Commonwealth countries compete.",
+        "correct": true
+      }
+    ],
+    "explanation": "The Commonwealth Games are held every four years. Athletes from Commonwealth nations across the world compete in many different sports.",
+    "handbook_ref": "Chapter 4 · Sport",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-SPO-033",
+    "section_id": "CH4-SPO",
+    "type": "multi",
+    "stem": "Which TWO of the following are national football stadiums in the UK?",
+    "options": [
+      {
+        "label": "Wembley in London",
+        "correct": true
+      },
+      {
+        "label": "Hampden Park in Glasgow",
+        "correct": true
+      },
+      {
+        "label": "Silverstone in Northamptonshire",
+        "correct": false
+      },
+      {
+        "label": "Ascot in Berkshire",
+        "correct": false
+      }
+    ],
+    "explanation": "Wembley Stadium in London is the home of English football, and Hampden Park in Glasgow is the home of Scottish football.",
+    "handbook_ref": "Chapter 4 · Sport",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-SPO-034",
+    "section_id": "CH4-SPO",
+    "type": "truefalse",
+    "stem": "Football is the most popular sport in the UK.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Football is the UK's most popular sport. It has a massive following across all four nations, with many professional clubs.",
+    "handbook_ref": "Chapter 4 · Sport",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-SPO-035",
+    "section_id": "CH4-SPO",
+    "type": "truefalse",
+    "stem": "Lawn tennis was first played in the UK in the late 19th century.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Lawn tennis was first played in the UK in the late 19th century. The famous Wimbledon Championships began shortly after in 1877.",
+    "handbook_ref": "Chapter 4 · Sport",
+    "difficulty": 2,
+    "ai_checked": true
   }
 ]

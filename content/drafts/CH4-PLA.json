@@ -186,5 +186,709 @@
     "handbook_ref": "Chapter 4 · Places of interest",
     "difficulty": 1,
     "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-PLA-008",
+    "section_id": "CH4-PLA",
+    "type": "single",
+    "stem": "Where is the famous prehistoric monument Stonehenge located?",
+    "options": [
+      {
+        "label": "Wiltshire",
+        "correct": true
+      },
+      {
+        "label": "Cornwall",
+        "correct": false
+      },
+      {
+        "label": "Yorkshire",
+        "correct": false
+      },
+      {
+        "label": "Cumbria",
+        "correct": false
+      }
+    ],
+    "explanation": "Stonehenge is a prehistoric monument located in the English county of Wiltshire. It was built in stages starting about 5,000 years ago.",
+    "handbook_ref": "Chapter 4 · Places of interest",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-PLA-009",
+    "section_id": "CH4-PLA",
+    "type": "single",
+    "stem": "Which famous building in London was started by William the Conqueror and now keeps the Crown Jewels?",
+    "options": [
+      {
+        "label": "The Tower of London",
+        "correct": true
+      },
+      {
+        "label": "Westminster Abbey",
+        "correct": false
+      },
+      {
+        "label": "The Houses of Parliament",
+        "correct": false
+      },
+      {
+        "label": "Kensington Palace",
+        "correct": false
+      }
+    ],
+    "explanation": "The Tower of London was built by William the Conqueror after 1066. Today, visitors can see the Crown Jewels kept there.",
+    "handbook_ref": "Chapter 4 · Places of interest",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-PLA-010",
+    "section_id": "CH4-PLA",
+    "type": "single",
+    "stem": "Who built the stone wall in the north of England to keep out tribes from Scotland?",
+    "options": [
+      {
+        "label": "The Romans",
+        "correct": true
+      },
+      {
+        "label": "The Normans",
+        "correct": false
+      },
+      {
+        "label": "The Anglo-Saxons",
+        "correct": false
+      },
+      {
+        "label": "The Victorians",
+        "correct": false
+      }
+    ],
+    "explanation": "The Roman Emperor Hadrian ordered the wall to be built in AD 122. Parts of Hadrian's Wall are still standing today.",
+    "handbook_ref": "Chapter 4 · Places of interest",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-PLA-011",
+    "section_id": "CH4-PLA",
+    "type": "single",
+    "stem": "What was the first national park to be established in the UK?",
+    "options": [
+      {
+        "label": "The Peak District",
+        "correct": true
+      },
+      {
+        "label": "The Lake District",
+        "correct": false
+      },
+      {
+        "label": "Snowdonia",
+        "correct": false
+      },
+      {
+        "label": "The Yorkshire Dales",
+        "correct": false
+      }
+    ],
+    "explanation": "The Peak District, located mainly in Derbyshire, was designated as the UK's first national park in 1951. It is famous for its dales and hills.",
+    "handbook_ref": "Chapter 4 · Places of interest",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-PLA-012",
+    "section_id": "CH4-PLA",
+    "type": "single",
+    "stem": "Which historic fortress dominates the skyline of Scotland's capital city?",
+    "options": [
+      {
+        "label": "Edinburgh Castle",
+        "correct": true
+      },
+      {
+        "label": "Stirling Castle",
+        "correct": false
+      },
+      {
+        "label": "Urquhart Castle",
+        "correct": false
+      },
+      {
+        "label": "Balmoral Castle",
+        "correct": false
+      }
+    ],
+    "explanation": "Edinburgh Castle is built on an extinct volcano and dominates the city. It has played a key role in Scottish military history.",
+    "handbook_ref": "Chapter 4 · Places of interest",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-PLA-013",
+    "section_id": "CH4-PLA",
+    "type": "single",
+    "stem": "What is the popular name for the Parliament Buildings in Belfast, Northern Ireland?",
+    "options": [
+      {
+        "label": "Stormont",
+        "correct": true
+      },
+      {
+        "label": "The Guildhall",
+        "correct": false
+      },
+      {
+        "label": "The Holywood",
+        "correct": false
+      },
+      {
+        "label": "Clifton House",
+        "correct": false
+      }
+    ],
+    "explanation": "Stormont is the home of the Northern Ireland Assembly. It is located in a large park in the east of Belfast.",
+    "handbook_ref": "Chapter 4 · Places of interest",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-PLA-014",
+    "section_id": "CH4-PLA",
+    "type": "single",
+    "stem": "In which country of the UK is the Snowdonia National Park located?",
+    "options": [
+      {
+        "label": "Wales",
+        "correct": true
+      },
+      {
+        "label": "Scotland",
+        "correct": false
+      },
+      {
+        "label": "England",
+        "correct": false
+      },
+      {
+        "label": "Northern Ireland",
+        "correct": false
+      }
+    ],
+    "explanation": "Snowdonia is a national park in north Wales. It is famous for its high mountains and deep valleys.",
+    "handbook_ref": "Chapter 4 · Places of interest",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-PLA-015",
+    "section_id": "CH4-PLA",
+    "type": "single",
+    "stem": "Which famous Welsh castle, built by Edward I, is a World Heritage Site?",
+    "options": [
+      {
+        "label": "Caernarfon Castle",
+        "correct": true
+      },
+      {
+        "label": "Cardiff Castle",
+        "correct": false
+      },
+      {
+        "label": "Windsor Castle",
+        "correct": false
+      },
+      {
+        "label": "Edinburgh Castle",
+        "correct": false
+      }
+    ],
+    "explanation": "Edward I built Caernarfon Castle in north Wales in the late 13th century. It is famous for its unique polygonal towers.",
+    "handbook_ref": "Chapter 4 · Places of interest",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-PLA-016",
+    "section_id": "CH4-PLA",
+    "type": "single",
+    "stem": "Where have British monarchs been crowned since the year 1066?",
+    "options": [
+      {
+        "label": "Westminster Abbey",
+        "correct": true
+      },
+      {
+        "label": "St Paul's Cathedral",
+        "correct": false
+      },
+      {
+        "label": "Canterbury Cathedral",
+        "correct": false
+      },
+      {
+        "label": "Windsor Castle",
+        "correct": false
+      }
+    ],
+    "explanation": "Westminster Abbey in London is the traditional place of coronation for British monarchs. Many famous historical figures are also buried there.",
+    "handbook_ref": "Chapter 4 · Places of interest",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-PLA-017",
+    "section_id": "CH4-PLA",
+    "type": "single",
+    "stem": "What is Scotland's first national park, which contains a very large freshwater loch?",
+    "options": [
+      {
+        "label": "Loch Lomond and The Trossachs",
+        "correct": true
+      },
+      {
+        "label": "The Cairngorms",
+        "correct": false
+      },
+      {
+        "label": "Lake District",
+        "correct": false
+      },
+      {
+        "label": "Snowdonia",
+        "correct": false
+      }
+    ],
+    "explanation": "Loch Lomond and The Trossachs was created as Scotland's first national park in 2002. It is located in the west of the country.",
+    "handbook_ref": "Chapter 4 · Places of interest",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-PLA-018",
+    "section_id": "CH4-PLA",
+    "type": "single",
+    "stem": "Which castle is famous for being the oldest and largest occupied castle in the world?",
+    "options": [
+      {
+        "label": "Windsor Castle",
+        "correct": true
+      },
+      {
+        "label": "Edinburgh Castle",
+        "correct": false
+      },
+      {
+        "label": "Warwick Castle",
+        "correct": false
+      },
+      {
+        "label": "Dover Castle",
+        "correct": false
+      }
+    ],
+    "explanation": "Windsor Castle has been a royal residence for over 900 years. It is located just outside London.",
+    "handbook_ref": "Chapter 4 · Places of interest",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-PLA-019",
+    "section_id": "CH4-PLA",
+    "type": "multi",
+    "stem": "Which TWO of the following are famous gardens located in the UK?",
+    "options": [
+      {
+        "label": "Bodnant Garden in Wales",
+        "correct": true
+      },
+      {
+        "label": "Mount Stewart in Northern Ireland",
+        "correct": true
+      },
+      {
+        "label": "Central Park",
+        "correct": false
+      },
+      {
+        "label": "Versailles Gardens",
+        "correct": false
+      }
+    ],
+    "explanation": "Bodnant Garden in Wales is famous for its plants, and Mount Stewart in Northern Ireland has beautiful formal gardens.",
+    "handbook_ref": "Chapter 4 · Places of interest",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-PLA-020",
+    "section_id": "CH4-PLA",
+    "type": "multi",
+    "stem": "Which TWO of the following are famous tourist sights in Northern Ireland?",
+    "options": [
+      {
+        "label": "The Belfast City Hall",
+        "correct": true
+      },
+      {
+        "label": "The Carrick-a-Rede Rope Bridge",
+        "correct": true
+      },
+      {
+        "label": "Hadrian's Wall",
+        "correct": false
+      },
+      {
+        "label": "The Peak District",
+        "correct": false
+      }
+    ],
+    "explanation": "Belfast City Hall was built in 1906, and the rope bridge connects the mainland to a tiny island. Both are popular sights in Northern Ireland.",
+    "handbook_ref": "Chapter 4 · Places of interest",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-PLA-022",
+    "section_id": "CH4-PLA",
+    "type": "truefalse",
+    "stem": "The city of Derry/Londonderry in Northern Ireland is famous for having complete, unbroken stone walls around its old city.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Derry/Londonderry is the only remaining completely walled city in Ireland. The walls were built in the 17th century.",
+    "handbook_ref": "Chapter 4 · Places of interest",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-PLA-023",
+    "section_id": "CH4-PLA",
+    "type": "single",
+    "stem": "Which country of the UK contains the Cairngorms National Park, the largest national park in the country?",
+    "options": [
+      {
+        "label": "Scotland",
+        "correct": true
+      },
+      {
+        "label": "England",
+        "correct": false
+      },
+      {
+        "label": "Wales",
+        "correct": false
+      },
+      {
+        "label": "Northern Ireland",
+        "correct": false
+      }
+    ],
+    "explanation": "The Cairngorms National Park is in Scotland. It is the largest national park in the UK and has spectacular mountains and forests.",
+    "handbook_ref": "Chapter 4 · Places of interest",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-PLA-024",
+    "section_id": "CH4-PLA",
+    "type": "single",
+    "stem": "Which famous British prime minister was born at Blenheim Palace in Oxfordshire?",
+    "options": [
+      {
+        "label": "Sir Winston Churchill",
+        "correct": true
+      },
+      {
+        "label": "Clement Attlee",
+        "correct": false
+      },
+      {
+        "label": "Margaret Thatcher",
+        "correct": false
+      },
+      {
+        "label": "Harold Wilson",
+        "correct": false
+      }
+    ],
+    "explanation": "Sir Winston Churchill was born at Blenheim Palace. It is a large country house built in the early 18th century and is a World Heritage Site.",
+    "handbook_ref": "Chapter 4 · Places of interest",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-PLA-025",
+    "section_id": "CH4-PLA",
+    "type": "single",
+    "stem": "Which national park in Wales is famous for being the only one in the UK focused mainly on a coastal landscape?",
+    "options": [
+      {
+        "label": "Pembrokeshire Coast",
+        "correct": true
+      },
+      {
+        "label": "Snowdonia",
+        "correct": false
+      },
+      {
+        "label": "Brecon Beacons",
+        "correct": false
+      },
+      {
+        "label": "Peak District",
+        "correct": false
+      }
+    ],
+    "explanation": "The Pembrokeshire Coast National Park is in southwest Wales. It was established in 1952 and has beautiful cliffs, beaches and wildlife.",
+    "handbook_ref": "Chapter 4 · Places of interest",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-PLA-026",
+    "section_id": "CH4-PLA",
+    "type": "single",
+    "stem": "In which English city can you visit the famous ancient baths built by the Romans around natural hot springs?",
+    "options": [
+      {
+        "label": "Bath",
+        "correct": true
+      },
+      {
+        "label": "York",
+        "correct": false
+      },
+      {
+        "label": "Canterbury",
+        "correct": false
+      },
+      {
+        "label": "Chester",
+        "correct": false
+      }
+    ],
+    "explanation": "The Roman Baths are located in the city of Bath in Somerset. The Romans built a temple and bathing complex there over 2,000 years ago.",
+    "handbook_ref": "Chapter 4 · Places of interest",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-PLA-027",
+    "section_id": "CH4-PLA",
+    "type": "truefalse",
+    "stem": "The Lake District is the largest national park in England.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "The Lake District is the largest national park in England, covering over 2,300 square kilometres. It is famous for its beautiful lakes and fells.",
+    "handbook_ref": "Chapter 4 · Places of interest",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-PLA-028",
+    "section_id": "CH4-PLA",
+    "type": "multi",
+    "stem": "Which TWO of the following are major national museums in the UK?",
+    "options": [
+      {
+        "label": "British Museum",
+        "correct": true
+      },
+      {
+        "label": "National Museum Cardiff",
+        "correct": true
+      },
+      {
+        "label": "Louvre Museum",
+        "correct": false
+      },
+      {
+        "label": "Prado Museum",
+        "correct": false
+      }
+    ],
+    "explanation": "The British Museum in London and the National Museum Cardiff in Wales are major national museums. They hold world-famous collections of art and history.",
+    "handbook_ref": "Chapter 4 · Places of interest",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-PLA-029",
+    "section_id": "CH4-PLA",
+    "type": "single",
+    "stem": "Which large loch in Scotland is famous for the legendary monster that is said to live in its deep water?",
+    "options": [
+      {
+        "label": "Loch Ness",
+        "correct": true
+      },
+      {
+        "label": "Loch Lomond",
+        "correct": false
+      },
+      {
+        "label": "Loch Katrine",
+        "correct": false
+      },
+      {
+        "label": "Loch Tay",
+        "correct": false
+      }
+    ],
+    "explanation": "Loch Ness is a large, deep freshwater loch in the Scottish Highlands. It is world-famous because of the legend of the Loch Ness Monster, often called 'Nessie'.",
+    "handbook_ref": "Chapter 4 · Places of interest",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-PLA-030",
+    "section_id": "CH4-PLA",
+    "type": "single",
+    "stem": "What is the name of the historic outdoor theatre in London, rebuilt near its original site, where Shakespeare's plays are performed?",
+    "options": [
+      {
+        "label": "Shakespeare's Globe",
+        "correct": true
+      },
+      {
+        "label": "The Royal Opera House",
+        "correct": false
+      },
+      {
+        "label": "The National Theatre",
+        "correct": false
+      },
+      {
+        "label": "The London Coliseum",
+        "correct": false
+      }
+    ],
+    "explanation": "Shakespeare's Globe is a modern reconstruction of the original globe-shaped outdoor theatre built in 1599. It stands on the south bank of the River Thames.",
+    "handbook_ref": "Chapter 4 · Places of interest",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-PLA-031",
+    "section_id": "CH4-PLA",
+    "type": "truefalse",
+    "stem": "The Forth Bridge is a famous red railway bridge that spans the Firth of Forth in Scotland.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "The Forth Bridge is a world-famous cantilever railway bridge opened in 1890. It is a UNESCO World Heritage Site located near Edinburgh.",
+    "handbook_ref": "Chapter 4 · Places of interest",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-PLA-032",
+    "section_id": "CH4-PLA",
+    "type": "single",
+    "stem": "Which historic castle, located in the center of the Welsh capital city, has walls that date back to Roman times?",
+    "options": [
+      {
+        "label": "Cardiff Castle",
+        "correct": true
+      },
+      {
+        "label": "Edinburgh Castle",
+        "correct": false
+      },
+      {
+        "label": "Windsor Castle",
+        "correct": false
+      },
+      {
+        "label": "Caernarfon Castle",
+        "correct": false
+      }
+    ],
+    "explanation": "Cardiff Castle is located in the heart of Cardiff, the capital city of Wales. It has a rich history, with Roman forts, a Norman keep and Victorian decoration.",
+    "handbook_ref": "Chapter 4 · Places of interest",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-PLA-033",
+    "section_id": "CH4-PLA",
+    "type": "single",
+    "stem": "In which part of the UK are the Mourne Mountains located?",
+    "options": [
+      {
+        "label": "Northern Ireland",
+        "correct": true
+      },
+      {
+        "label": "Scotland",
+        "correct": false
+      },
+      {
+        "label": "Wales",
+        "correct": false
+      },
+      {
+        "label": "England",
+        "correct": false
+      }
+    ],
+    "explanation": "The Mourne Mountains are in Northern Ireland. They are known for their beautiful granite peaks and inspired the famous writer C.S. Lewis.",
+    "handbook_ref": "Chapter 4 · Places of interest",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-PLA-034",
+    "section_id": "CH4-PLA",
+    "type": "multi",
+    "stem": "Which TWO of the following historic locations are located in London?",
+    "options": [
+      {
+        "label": "Westminster Abbey",
+        "correct": true
+      },
+      {
+        "label": "The Tower of London",
+        "correct": true
+      },
+      {
+        "label": "Edinburgh Castle",
+        "correct": false
+      },
+      {
+        "label": "Stormont",
+        "correct": false
+      }
+    ],
+    "explanation": "Both Westminster Abbey and the Tower of London are located in London. Edinburgh Castle is in Scotland and Stormont is in Northern Ireland.",
+    "handbook_ref": "Chapter 4 · Places of interest",
+    "difficulty": 1,
+    "ai_checked": true
   }
 ]

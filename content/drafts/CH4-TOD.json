@@ -74,5 +74,541 @@
     "handbook_ref": "Chapter 4 · The UK today",
     "difficulty": 2,
     "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-TOD-005",
+    "section_id": "CH4-TOD",
+    "type": "single",
+    "stem": "What is the traditional national flower of Scotland?",
+    "options": [
+      {
+        "label": "Thistle",
+        "correct": true
+      },
+      {
+        "label": "Rose",
+        "correct": false
+      },
+      {
+        "label": "Daffodil",
+        "correct": false
+      },
+      {
+        "label": "Shamrock",
+        "correct": false
+      }
+    ],
+    "explanation": "The thistle is the national flower of Scotland. The rose is for England, the daffodil is for Wales, and the shamrock is for Northern Ireland.",
+    "handbook_ref": "Chapter 4 · The UK today",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-TOD-006",
+    "section_id": "CH4-TOD",
+    "type": "single",
+    "stem": "Why is the Welsh dragon not represented on the Union Flag?",
+    "options": [
+      {
+        "label": "Wales was already united with England when the first flag was made",
+        "correct": true
+      },
+      {
+        "label": "Wales did not want to be represented on the flag",
+        "correct": false
+      },
+      {
+        "label": "The dragon was considered too difficult to paint",
+        "correct": false
+      },
+      {
+        "label": "Wales had a different patron saint at that time",
+        "correct": false
+      }
+    ],
+    "explanation": "The Welsh dragon does not appear on the Union Flag because Wales was already united with England when the first Union Flag was created in 1606.",
+    "handbook_ref": "Chapter 4 · The UK today",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-TOD-007",
+    "section_id": "CH4-TOD",
+    "type": "single",
+    "stem": "How is the British Broadcasting Corporation (BBC) chiefly funded?",
+    "options": [
+      {
+        "label": "By a TV licence paid by households",
+        "correct": true
+      },
+      {
+        "label": "By selling advertising space",
+        "correct": false
+      },
+      {
+        "label": "By direct taxes from the government",
+        "correct": false
+      },
+      {
+        "label": "By public donations",
+        "correct": false
+      }
+    ],
+    "explanation": "The BBC is funded mainly by a TV licence fee paid by households. Because of this, BBC television and radio stations do not show commercial adverts.",
+    "handbook_ref": "Chapter 4 · The UK today",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-TOD-008",
+    "section_id": "CH4-TOD",
+    "type": "single",
+    "stem": "What is the minimum age to buy alcohol in a pub or shop in the UK?",
+    "options": [
+      {
+        "label": "18",
+        "correct": true
+      },
+      {
+        "label": "16",
+        "correct": false
+      },
+      {
+        "label": "21",
+        "correct": false
+      },
+      {
+        "label": "14",
+        "correct": false
+      }
+    ],
+    "explanation": "You must be at least 18 years old to buy alcohol in the UK. It is also against the law for anyone under 18 to drink alcohol in a pub.",
+    "handbook_ref": "Chapter 4 · The UK today",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-TOD-009",
+    "section_id": "CH4-TOD",
+    "type": "single",
+    "stem": "At what age can a person drink beer, wine, or cider with a meal in a pub if an adult buys it?",
+    "options": [
+      {
+        "label": "16",
+        "correct": true
+      },
+      {
+        "label": "14",
+        "correct": false
+      },
+      {
+        "label": "15",
+        "correct": false
+      },
+      {
+        "label": "17",
+        "correct": false
+      }
+    ],
+    "explanation": "People aged 16 or 17 can drink beer, wine, or cider with a meal in a pub if they are with an adult and the adult buys the drink.",
+    "handbook_ref": "Chapter 4 · The UK today",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-TOD-010",
+    "section_id": "CH4-TOD",
+    "type": "single",
+    "stem": "In the UK, what must a dog wear when it is in a public place?",
+    "options": [
+      {
+        "label": "A collar showing the owner's name and address",
+        "correct": true
+      },
+      {
+        "label": "A bright red jacket",
+        "correct": false
+      },
+      {
+        "label": "A lead of less than one metre",
+        "correct": false
+      },
+      {
+        "label": "A special muzzle",
+        "correct": false
+      }
+    ],
+    "explanation": "All dogs in public places must wear a collar showing the owner's name and address. Owners can be fined if their dog does not have this.",
+    "handbook_ref": "Chapter 4 · The UK today",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-TOD-011",
+    "section_id": "CH4-TOD",
+    "type": "single",
+    "stem": "Which type of British newspaper is generally more serious and contains more detailed news?",
+    "options": [
+      {
+        "label": "A broadsheet",
+        "correct": true
+      },
+      {
+        "label": "A tabloid",
+        "correct": false
+      },
+      {
+        "label": "A daily blog",
+        "correct": false
+      },
+      {
+        "label": "A weekly comic",
+        "correct": false
+      }
+    ],
+    "explanation": "Broadsheets (such as The Times) are larger newspapers that publish more serious and detailed news. Tabloids are smaller and focus more on celebrity news.",
+    "handbook_ref": "Chapter 4 · The UK today",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-TOD-012",
+    "section_id": "CH4-TOD",
+    "type": "single",
+    "stem": "What is the minimum age at which a person can legally drive a car or motorcycle in the UK?",
+    "options": [
+      {
+        "label": "17",
+        "correct": true
+      },
+      {
+        "label": "16",
+        "correct": false
+      },
+      {
+        "label": "18",
+        "correct": false
+      },
+      {
+        "label": "15",
+        "correct": false
+      }
+    ],
+    "explanation": "You must be at least 17 years old to drive a car or ride a motorcycle on public roads in the UK, provided you have a provisional licence.",
+    "handbook_ref": "Chapter 4 · The UK today",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-TOD-013",
+    "section_id": "CH4-TOD",
+    "type": "single",
+    "stem": "Which pop music group from Liverpool became famous worldwide in the 1960s?",
+    "options": [
+      {
+        "label": "The Beatles",
+        "correct": true
+      },
+      {
+        "label": "The Rolling Stones",
+        "correct": false
+      },
+      {
+        "label": "The Who",
+        "correct": false
+      },
+      {
+        "label": "Led Zeppelin",
+        "correct": false
+      }
+    ],
+    "explanation": "The Beatles, who came from Liverpool, became one of the most famous and successful music groups in history during the 1960s.",
+    "handbook_ref": "Chapter 4 · The UK today",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-TOD-015",
+    "section_id": "CH4-TOD",
+    "type": "single",
+    "stem": "Which ancient language, related to Welsh and Irish, is still spoken by a small number of people in Cornwall?",
+    "options": [
+      {
+        "label": "Cornish",
+        "correct": true
+      },
+      {
+        "label": "Scots",
+        "correct": false
+      },
+      {
+        "label": "Gaelic",
+        "correct": false
+      },
+      {
+        "label": "Manx",
+        "correct": false
+      }
+    ],
+    "explanation": "Cornish is a Celtic language spoken by a small number of people in Cornwall, in the south-west of England.",
+    "handbook_ref": "Chapter 4 · The UK today",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-TOD-017",
+    "section_id": "CH4-TOD",
+    "type": "multi",
+    "stem": "Which TWO of the following are national parks in England?",
+    "options": [
+      {
+        "label": "The Peak District",
+        "correct": true
+      },
+      {
+        "label": "Dartmoor",
+        "correct": true
+      },
+      {
+        "label": "Snowdonia",
+        "correct": false
+      },
+      {
+        "label": "Loch Lomond and the Trossachs",
+        "correct": false
+      }
+    ],
+    "explanation": "The Peak District and Dartmoor are national parks located in England. Snowdonia is in Wales, and Loch Lomond is in Scotland.",
+    "handbook_ref": "Chapter 4 · The UK today",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-TOD-018",
+    "section_id": "CH4-TOD",
+    "type": "truefalse",
+    "stem": "Admission to major national museums and art galleries in the UK is usually free.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Entry to major national museums and art galleries in the UK is free of charge, although visitors are often asked to make a voluntary donation.",
+    "handbook_ref": "Chapter 4 · The UK today",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-TOD-019",
+    "section_id": "CH4-TOD",
+    "type": "truefalse",
+    "stem": "The majority of people in the UK who state a religion in the census identify as Christian.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "According to census data, Christianity remains the most common religion in the UK, although many people state they have no religion.",
+    "handbook_ref": "Chapter 4 · The UK today",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-TOD-021",
+    "section_id": "CH4-TOD",
+    "type": "single",
+    "stem": "Which of these is the traditional national flower of Northern Ireland?",
+    "options": [
+      {
+        "label": "The Rose",
+        "correct": false
+      },
+      {
+        "label": "The Shamrock",
+        "correct": true
+      },
+      {
+        "label": "The Daffodil",
+        "correct": false
+      },
+      {
+        "label": "The Thistle",
+        "correct": false
+      }
+    ],
+    "explanation": "The shamrock is the symbol of Northern Ireland. It is a plant with three green leaves that is linked to the patron saint, St Patrick.",
+    "handbook_ref": "Chapter 4 · The UK today",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-TOD-022",
+    "section_id": "CH4-TOD",
+    "type": "multi",
+    "stem": "Which TWO of these languages are spoken by some people living in Scotland?",
+    "options": [
+      {
+        "label": "Gaelic",
+        "correct": true
+      },
+      {
+        "label": "Scots",
+        "correct": true
+      },
+      {
+        "label": "Welsh",
+        "correct": false
+      },
+      {
+        "label": "Cornish",
+        "correct": false
+      }
+    ],
+    "explanation": "Gaelic is a minority language spoken in parts of Scotland. Scots is a language related to English spoken by many people across the country.",
+    "handbook_ref": "Chapter 4 · The UK today",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-TOD-023",
+    "section_id": "CH4-TOD",
+    "type": "single",
+    "stem": "Which BBC radio station focuses on news, drama, and talk shows rather than music?",
+    "options": [
+      {
+        "label": "Radio 1",
+        "correct": false
+      },
+      {
+        "label": "Radio 2",
+        "correct": false
+      },
+      {
+        "label": "Radio 3",
+        "correct": false
+      },
+      {
+        "label": "Radio 4",
+        "correct": true
+      }
+    ],
+    "explanation": "BBC Radio 4 is well known for its news and talk programmes. BBC Radio 3 is a station that mainly plays classical music.",
+    "handbook_ref": "Chapter 4 · The UK today",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-TOD-024",
+    "section_id": "CH4-TOD",
+    "type": "truefalse",
+    "stem": "In a traditional British pub, people usually wait at their table for a waiter to come and take their drink order.",
+    "options": [
+      {
+        "label": "True",
+        "correct": false
+      },
+      {
+        "label": "False",
+        "correct": true
+      }
+    ],
+    "explanation": "Customers usually go to the bar to order and pay for their drinks. In many pubs, you can also order your food at the bar.",
+    "handbook_ref": "Chapter 4 · The UK today",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-TOD-025",
+    "section_id": "CH4-TOD",
+    "type": "single",
+    "stem": "What type of newspaper has small pages and often focuses on celebrity news and gossip?",
+    "options": [
+      {
+        "label": "A broadsheet",
+        "correct": false
+      },
+      {
+        "label": "A tabloid",
+        "correct": true
+      },
+      {
+        "label": "A journal",
+        "correct": false
+      },
+      {
+        "label": "A chronicle",
+        "correct": false
+      }
+    ],
+    "explanation": "Tabloids use a smaller page size and have many stories about famous people. Broadsheets are larger and focus more on serious news.",
+    "handbook_ref": "Chapter 4 · The UK today",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-TOD-026",
+    "section_id": "CH4-TOD",
+    "type": "single",
+    "stem": "What is the minimum age to enter a betting shop or a casino in the UK?",
+    "options": [
+      {
+        "label": "16 years old",
+        "correct": false
+      },
+      {
+        "label": "18 years old",
+        "correct": true
+      },
+      {
+        "label": "21 years old",
+        "correct": false
+      },
+      {
+        "label": "25 years old",
+        "correct": false
+      }
+    ],
+    "explanation": "You must be at least 18 years old to gamble or enter gambling premises. This law helps to protect children and young people.",
+    "handbook_ref": "Chapter 4 · The UK today",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-TOD-027",
+    "section_id": "CH4-TOD",
+    "type": "single",
+    "stem": "Which of these flowers is the traditional national symbol of England?",
+    "options": [
+      {
+        "label": "The Rose",
+        "correct": true
+      },
+      {
+        "label": "The Daffodil",
+        "correct": false
+      },
+      {
+        "label": "The Thistle",
+        "correct": false
+      },
+      {
+        "label": "The Shamrock",
+        "correct": false
+      }
+    ],
+    "explanation": "The rose is the national flower of England. The daffodil and the leek are the traditional symbols used for Wales.",
+    "handbook_ref": "Chapter 4 · The UK today",
+    "difficulty": 1,
+    "ai_checked": true
   }
 ]

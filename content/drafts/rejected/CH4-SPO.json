@@ -1,0 +1,58 @@
+[
+  {
+    "id": "Q-CH4-SPO-017",
+    "section_id": "CH4-SPO",
+    "type": "single",
+    "stem": "Which British distance runner won gold medals in the 5,000 and 10,000 metres at both the 2012 and 2016 Olympic Games?",
+    "options": [
+      {
+        "label": "Sir Mo Farah",
+        "correct": true
+      },
+      {
+        "label": "Sebastian Coe",
+        "correct": false
+      },
+      {
+        "label": "Steve Cram",
+        "correct": false
+      },
+      {
+        "label": "Roger Bannister",
+        "correct": false
+      }
+    ],
+    "explanation": "Sir Mo Farah was born in Somalia but moved to the UK as a child. He became one of Britain's most successful Olympic athletes.",
+    "handbook_ref": "Chapter 4 · Sport",
+    "difficulty": 1,
+    "rejected_reason": "The 3rd edition handbook does not mention Mo Farah's gold medals at the 2016 Olympic Games, as it was published prior to this event."
+  },
+  {
+    "id": "Q-CH4-SPO-022",
+    "section_id": "CH4-SPO",
+    "type": "single",
+    "stem": "Which Scottish tennis player won the men's singles title at Wimbledon in 2013 and 2016?",
+    "options": [
+      {
+        "label": "Sir Andy Murray",
+        "correct": true
+      },
+      {
+        "label": "Tim Henman",
+        "correct": false
+      },
+      {
+        "label": "Fred Perry",
+        "correct": false
+      },
+      {
+        "label": "Lewis Hamilton",
+        "correct": false
+      }
+    ],
+    "explanation": "Sir Andy Murray was the first British man to win the Wimbledon singles title since Fred Perry in 1936.",
+    "handbook_ref": "Chapter 4 · Sport",
+    "difficulty": 1,
+    "rejected_reason": "The 3rd edition handbook does not cover Andy Murray's 2016 Wimbledon victory."
+  }
+]

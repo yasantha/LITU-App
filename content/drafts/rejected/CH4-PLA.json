@@ -1,0 +1,22 @@
+[
+  {
+    "id": "Q-CH4-PLA-021",
+    "section_id": "CH4-PLA",
+    "type": "truefalse",
+    "stem": "Canterbury Cathedral is the oldest cathedral in England and the head of the worldwide Anglican Church.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Canterbury Cathedral is a famous place of pilgrimage. It has been a major Christian centre since the late 6th century.",
+    "handbook_ref": "Chapter 4 · Places of interest",
+    "difficulty": 1,
+    "rejected_reason": "The handbook describes Canterbury Cathedral as the 'mother church' of the worldwide Anglican Communion, not its 'head' (the Archbishop of Canterbury is the leader)."
+  }
+]

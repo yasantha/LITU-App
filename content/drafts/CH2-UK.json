@@ -206,5 +206,589 @@
     "handbook_ref": "Chapter 2 · What is the UK?",
     "difficulty": 2,
     "ai_checked": true
+  },
+  {
+    "id": "Q-CH2-UK-009",
+    "section_id": "CH2-UK",
+    "type": "single",
+    "stem": "What is the capital city of England?",
+    "options": [
+      {
+        "label": "London",
+        "correct": true
+      },
+      {
+        "label": "Manchester",
+        "correct": false
+      },
+      {
+        "label": "Birmingham",
+        "correct": false
+      },
+      {
+        "label": "Liverpool",
+        "correct": false
+      }
+    ],
+    "explanation": "London is the capital city of England. It is also the capital city of the whole United Kingdom.",
+    "handbook_ref": "Chapter 2 · What is the UK?",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH2-UK-010",
+    "section_id": "CH2-UK",
+    "type": "single",
+    "stem": "What is the full official name of the country?",
+    "options": [
+      {
+        "label": "The United Kingdom of Great Britain and Northern Ireland",
+        "correct": true
+      },
+      {
+        "label": "The British Federation of Great Britain",
+        "correct": false
+      },
+      {
+        "label": "The United Countries of Britain",
+        "correct": false
+      },
+      {
+        "label": "The Royal Kingdom of Great Britain and Ireland",
+        "correct": false
+      }
+    ],
+    "explanation": "The full name of the UK is the United Kingdom of Great Britain and Northern Ireland. Great Britain only includes England, Scotland and Wales.",
+    "handbook_ref": "Chapter 2 · What is the UK?",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH2-UK-011",
+    "section_id": "CH2-UK",
+    "type": "single",
+    "stem": "Which saint's cross is a red cross on a white background?",
+    "options": [
+      {
+        "label": "St George",
+        "correct": true
+      },
+      {
+        "label": "St Andrew",
+        "correct": false
+      },
+      {
+        "label": "St Patrick",
+        "correct": false
+      },
+      {
+        "label": "St David",
+        "correct": false
+      }
+    ],
+    "explanation": "St George is the patron saint of England. His flag is a red cross on a white background and is part of the Union Flag.",
+    "handbook_ref": "Chapter 2 · What is the UK?",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH2-UK-012",
+    "section_id": "CH2-UK",
+    "type": "multi",
+    "stem": "Which TWO crosses are part of the Union Flag?",
+    "options": [
+      {
+        "label": "The cross of St Andrew",
+        "correct": true
+      },
+      {
+        "label": "The cross of St Patrick",
+        "correct": true
+      },
+      {
+        "label": "The cross of St David",
+        "correct": false
+      },
+      {
+        "label": "The cross of St Edward",
+        "correct": false
+      }
+    ],
+    "explanation": "The Union Flag is made from the crosses of St George, St Andrew, and St Patrick. The Welsh dragon or the cross of St David is not included.",
+    "handbook_ref": "Chapter 2 · What is the UK?",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH2-UK-013",
+    "section_id": "CH2-UK",
+    "type": "truefalse",
+    "stem": "The Republic of Ireland is part of the United Kingdom.",
+    "options": [
+      {
+        "label": "True",
+        "correct": false
+      },
+      {
+        "label": "False",
+        "correct": true
+      }
+    ],
+    "explanation": "The Republic of Ireland is an independent country. Only Northern Ireland is part of the United Kingdom.",
+    "handbook_ref": "Chapter 2 · What is the UK?",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH2-UK-014",
+    "section_id": "CH2-UK",
+    "type": "single",
+    "stem": "Where are the Falkland Islands located?",
+    "options": [
+      {
+        "label": "In the South Atlantic",
+        "correct": true
+      },
+      {
+        "label": "In the Caribbean Sea",
+        "correct": false
+      },
+      {
+        "label": "In the Indian Ocean",
+        "correct": false
+      },
+      {
+        "label": "In the North Sea",
+        "correct": false
+      }
+    ],
+    "explanation": "The Falkland Islands are a British Overseas Territory in the South Atlantic. They are linked to the UK but are not part of it.",
+    "handbook_ref": "Chapter 2 · What is the UK?",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH2-UK-015",
+    "section_id": "CH2-UK",
+    "type": "single",
+    "stem": "What is the common name for the national flag of the United Kingdom?",
+    "options": [
+      {
+        "label": "The Union Jack",
+        "correct": true
+      },
+      {
+        "label": "The Royal Banner",
+        "correct": false
+      },
+      {
+        "label": "The British Star",
+        "correct": false
+      },
+      {
+        "label": "The United Standard",
+        "correct": false
+      }
+    ],
+    "explanation": "The national flag of the UK is called the Union Flag, but most people call it the Union Jack.",
+    "handbook_ref": "Chapter 2 · What is the UK?",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH2-UK-016",
+    "section_id": "CH2-UK",
+    "type": "single",
+    "stem": "Which cross is a white diagonal cross on a blue background?",
+    "options": [
+      {
+        "label": "The cross of St Andrew",
+        "correct": true
+      },
+      {
+        "label": "The cross of St George",
+        "correct": false
+      },
+      {
+        "label": "The cross of St Patrick",
+        "correct": false
+      },
+      {
+        "label": "The cross of St David",
+        "correct": false
+      }
+    ],
+    "explanation": "The cross of St Andrew represents Scotland. It is a white diagonal cross, also called a saltire, on a blue background.",
+    "handbook_ref": "Chapter 2 · What is the UK?",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH2-UK-017",
+    "section_id": "CH2-UK",
+    "type": "multi",
+    "stem": "Which TWO of these are British Overseas Territories?",
+    "options": [
+      {
+        "label": "St Helena",
+        "correct": true
+      },
+      {
+        "label": "Gibraltar",
+        "correct": true
+      },
+      {
+        "label": "The Isle of Wight",
+        "correct": false
+      },
+      {
+        "label": "The Shetland Islands",
+        "correct": false
+      }
+    ],
+    "explanation": "St Helena and Gibraltar are British Overseas Territories. The Isle of Wight and the Shetland Islands are part of the United Kingdom itself.",
+    "handbook_ref": "Chapter 2 · What is the UK?",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH2-UK-018",
+    "section_id": "CH2-UK",
+    "type": "single",
+    "stem": "Which city is the capital of the whole United Kingdom?",
+    "options": [
+      {
+        "label": "London",
+        "correct": true
+      },
+      {
+        "label": "Edinburgh",
+        "correct": false
+      },
+      {
+        "label": "Cardiff",
+        "correct": false
+      },
+      {
+        "label": "Belfast",
+        "correct": false
+      }
+    ],
+    "explanation": "London is the capital of the entire United Kingdom. It is also the capital city of England.",
+    "handbook_ref": "Chapter 2 · What is the UK?",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH2-UK-019",
+    "section_id": "CH2-UK",
+    "type": "truefalse",
+    "stem": "The Channel Islands are part of the United Kingdom.",
+    "options": [
+      {
+        "label": "True",
+        "correct": false
+      },
+      {
+        "label": "False",
+        "correct": true
+      }
+    ],
+    "explanation": "The Channel Islands are Crown dependencies. They are not part of the UK and have their own governments.",
+    "handbook_ref": "Chapter 2 · What is the UK?",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH2-UK-020",
+    "section_id": "CH2-UK",
+    "type": "single",
+    "stem": "Which part of the UK is NOT on the island of Great Britain?",
+    "options": [
+      {
+        "label": "Northern Ireland",
+        "correct": true
+      },
+      {
+        "label": "Scotland",
+        "correct": false
+      },
+      {
+        "label": "Wales",
+        "correct": false
+      },
+      {
+        "label": "England",
+        "correct": false
+      }
+    ],
+    "explanation": "Great Britain only refers to the island containing England, Scotland, and Wales. Northern Ireland is part of the UK but is not in Great Britain.",
+    "handbook_ref": "Chapter 2 · What is the UK?",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH2-UK-021",
+    "section_id": "CH2-UK",
+    "type": "single",
+    "stem": "St Patrick's Day is a holiday in which part of the UK?",
+    "options": [
+      {
+        "label": "Northern Ireland",
+        "correct": true
+      },
+      {
+        "label": "Scotland",
+        "correct": false
+      },
+      {
+        "label": "Wales",
+        "correct": false
+      },
+      {
+        "label": "England",
+        "correct": false
+      }
+    ],
+    "explanation": "St Patrick is the patron saint of Ireland. His feast day, March 17th, is an official holiday in Northern Ireland.",
+    "handbook_ref": "Chapter 2 · What is the UK?",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH2-UK-022",
+    "section_id": "CH2-UK",
+    "type": "single",
+    "stem": "Which of these is a British Overseas Territory in the Caribbean?",
+    "options": [
+      {
+        "label": "Montserrat",
+        "correct": true
+      },
+      {
+        "label": "Jersey",
+        "correct": false
+      },
+      {
+        "label": "Guernsey",
+        "correct": false
+      },
+      {
+        "label": "Isle of Man",
+        "correct": false
+      }
+    ],
+    "explanation": "Montserrat is a British Overseas Territory in the Caribbean. Jersey and Guernsey are Crown dependencies near the coast of France.",
+    "handbook_ref": "Chapter 2 · What is the UK?",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH2-UK-023",
+    "section_id": "CH2-UK",
+    "type": "truefalse",
+    "stem": "The Union Flag includes the dragon found on the Welsh flag.",
+    "options": [
+      {
+        "label": "True",
+        "correct": false
+      },
+      {
+        "label": "False",
+        "correct": true
+      }
+    ],
+    "explanation": "The Union Flag does not include the Welsh dragon. This is because Wales was already united with England when the first Union Flag was created.",
+    "handbook_ref": "Chapter 2 · What is the UK?",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH2-UK-024",
+    "section_id": "CH2-UK",
+    "type": "single",
+    "stem": "Who is the patron saint of England?",
+    "options": [
+      {
+        "label": "St George",
+        "correct": true
+      },
+      {
+        "label": "St David",
+        "correct": false
+      },
+      {
+        "label": "St Andrew",
+        "correct": false
+      },
+      {
+        "label": "St Patrick",
+        "correct": false
+      }
+    ],
+    "explanation": "St George is the patron saint of England and his national day is 23 April. His cross is a red cross on a white background.",
+    "handbook_ref": "Chapter 2 · What is the UK?",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH2-UK-025",
+    "section_id": "CH2-UK",
+    "type": "single",
+    "stem": "On what date is St David's Day celebrated?",
+    "options": [
+      {
+        "label": "1 March",
+        "correct": true
+      },
+      {
+        "label": "17 March",
+        "correct": false
+      },
+      {
+        "label": "23 April",
+        "correct": false
+      },
+      {
+        "label": "30 November",
+        "correct": false
+      }
+    ],
+    "explanation": "St David's Day is the national day of Wales and is on 1 March. St David is the patron saint of Wales.",
+    "handbook_ref": "Chapter 2 · What is the UK?",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH2-UK-026",
+    "section_id": "CH2-UK",
+    "type": "single",
+    "stem": "Which flower is a traditional symbol of Wales?",
+    "options": [
+      {
+        "label": "The daffodil",
+        "correct": true
+      },
+      {
+        "label": "The rose",
+        "correct": false
+      },
+      {
+        "label": "The thistle",
+        "correct": false
+      },
+      {
+        "label": "The shamrock",
+        "correct": false
+      }
+    ],
+    "explanation": "The daffodil is a traditional symbol of Wales. The leek is another plant that is used to represent the country.",
+    "handbook_ref": "Chapter 2 · What is the UK?",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH2-UK-027",
+    "section_id": "CH2-UK",
+    "type": "multi",
+    "stem": "Which TWO of these are flowers used as national symbols in the UK?",
+    "options": [
+      {
+        "label": "The thistle",
+        "correct": true
+      },
+      {
+        "label": "The shamrock",
+        "correct": true
+      },
+      {
+        "label": "The lily",
+        "correct": false
+      },
+      {
+        "label": "The tulip",
+        "correct": false
+      }
+    ],
+    "explanation": "The thistle is the national flower of Scotland and the shamrock is for Northern Ireland. The other two national flowers are the rose and the daffodil.",
+    "handbook_ref": "Chapter 2 · What is the UK?",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH2-UK-028",
+    "section_id": "CH2-UK",
+    "type": "truefalse",
+    "stem": "St Andrew is the patron saint of Scotland.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "St Andrew is the patron saint of Scotland. His feast day is 30 November and is a public holiday in Scotland.",
+    "handbook_ref": "Chapter 2 · What is the UK?",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH2-UK-029",
+    "section_id": "CH2-UK",
+    "type": "single",
+    "stem": "What is the national flower of England?",
+    "options": [
+      {
+        "label": "The rose",
+        "correct": true
+      },
+      {
+        "label": "The thistle",
+        "correct": false
+      },
+      {
+        "label": "The daffodil",
+        "correct": false
+      },
+      {
+        "label": "The shamrock",
+        "correct": false
+      }
+    ],
+    "explanation": "The rose is the national flower of England. This symbol was first used by the royal family in the 1400s.",
+    "handbook_ref": "Chapter 2 · What is the UK?",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH2-UK-030",
+    "section_id": "CH2-UK",
+    "type": "single",
+    "stem": "Which of these languages is native to parts of Scotland?",
+    "options": [
+      {
+        "label": "Gaelic",
+        "correct": true
+      },
+      {
+        "label": "Spanish",
+        "correct": false
+      },
+      {
+        "label": "French",
+        "correct": false
+      },
+      {
+        "label": "German",
+        "correct": false
+      }
+    ],
+    "explanation": "Gaelic is a language native to parts of Scotland. Besides English, many people in Wales speak the Welsh language.",
+    "handbook_ref": "Chapter 2 · What is the UK?",
+    "difficulty": 2,
+    "ai_checked": true
   }
 ]

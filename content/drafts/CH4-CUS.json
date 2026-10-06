@@ -214,5 +214,721 @@
     "handbook_ref": "Chapter 4 · Customs and traditions",
     "difficulty": 1,
     "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-CUS-009",
+    "section_id": "CH4-CUS",
+    "type": "single",
+    "stem": "When is Mothering Sunday (Mother's Day) celebrated in the UK?",
+    "options": [
+      {
+        "label": "14 February",
+        "correct": false
+      },
+      {
+        "label": "Three weeks before Easter",
+        "correct": true
+      },
+      {
+        "label": "25 December",
+        "correct": false
+      },
+      {
+        "label": "The first Sunday in May",
+        "correct": false
+      }
+    ],
+    "explanation": "Mothering Sunday is held three weeks before Easter. It is a traditional day to honor mothers and often involves giving cards or flowers.",
+    "handbook_ref": "Chapter 4 · Customs and traditions",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-CUS-010",
+    "section_id": "CH4-CUS",
+    "type": "single",
+    "stem": "On which day is St Patrick's Day celebrated?",
+    "options": [
+      {
+        "label": "1 March",
+        "correct": false
+      },
+      {
+        "label": "17 March",
+        "correct": true
+      },
+      {
+        "label": "23 April",
+        "correct": false
+      },
+      {
+        "label": "30 November",
+        "correct": false
+      }
+    ],
+    "explanation": "St Patrick is the patron saint of Northern Ireland. His feast day is 17 March and it is a public holiday in Northern Ireland.",
+    "handbook_ref": "Chapter 4 · Customs and traditions",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-CUS-011",
+    "section_id": "CH4-CUS",
+    "type": "single",
+    "stem": "Which religious festival marks the end of Ramadan, the month of fasting?",
+    "options": [
+      {
+        "label": "Eid al-Adha",
+        "correct": false
+      },
+      {
+        "label": "Eid al-Fitr",
+        "correct": true
+      },
+      {
+        "label": "Diwali",
+        "correct": false
+      },
+      {
+        "label": "Vaisakhi",
+        "correct": false
+      }
+    ],
+    "explanation": "Eid al-Fitr is a Muslim festival that celebrates the end of fasting. People often enjoy special meals and give to charity during this time.",
+    "handbook_ref": "Chapter 4 · Customs and traditions",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-CUS-012",
+    "section_id": "CH4-CUS",
+    "type": "single",
+    "stem": "What is often called the 'Festival of Lights' and is celebrated by Hindus and Sikhs?",
+    "options": [
+      {
+        "label": "Diwali",
+        "correct": true
+      },
+      {
+        "label": "Hanukkah",
+        "correct": false
+      },
+      {
+        "label": "Vaisakhi",
+        "correct": false
+      },
+      {
+        "label": "Easter",
+        "correct": false
+      }
+    ],
+    "explanation": "Diwali is a major festival for Hindus and Sikhs. It celebrates the victory of light over darkness and good over evil.",
+    "handbook_ref": "Chapter 4 · Customs and traditions",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-CUS-013",
+    "section_id": "CH4-CUS",
+    "type": "multi",
+    "stem": "Which TWO of these statements about bank holidays are correct?",
+    "options": [
+      {
+        "label": "They fall on the same dates every year",
+        "correct": false
+      },
+      {
+        "label": "Most businesses and banks close",
+        "correct": true
+      },
+      {
+        "label": "Everyone in the UK must have the day off",
+        "correct": false
+      },
+      {
+        "label": "There are several bank holidays every year",
+        "correct": true
+      }
+    ],
+    "explanation": "Bank holidays are public holidays when most banks and businesses close. They are held at different times, such as in the spring and late summer.",
+    "handbook_ref": "Chapter 4 · Customs and traditions",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-CUS-014",
+    "section_id": "CH4-CUS",
+    "type": "single",
+    "stem": "What is a 'pantomime' in British tradition?",
+    "options": [
+      {
+        "label": "A serious opera",
+        "correct": false
+      },
+      {
+        "label": "A comedy play based on a fairy tale",
+        "correct": true
+      },
+      {
+        "label": "A type of classical dance",
+        "correct": false
+      },
+      {
+        "label": "A formal dinner party",
+        "correct": false
+      }
+    ],
+    "explanation": "Pantomimes are funny plays traditionally performed at Christmas. They are often based on well-known fairy tales and involve audience participation.",
+    "handbook_ref": "Chapter 4 · Customs and traditions",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-CUS-015",
+    "section_id": "CH4-CUS",
+    "type": "truefalse",
+    "stem": "Roast turkey is a traditional food for Christmas dinner in the UK.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Many people in the UK eat roast turkey for their main Christmas meal. Other traditional items include Christmas pudding and mince pies.",
+    "handbook_ref": "Chapter 4 · Customs and traditions",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-CUS-016",
+    "section_id": "CH4-CUS",
+    "type": "single",
+    "stem": "Which tradition was popularized in the UK by Queen Victoria's husband, Prince Albert?",
+    "options": [
+      {
+        "label": "Giving chocolate eggs",
+        "correct": false
+      },
+      {
+        "label": "Putting up a Christmas tree",
+        "correct": true
+      },
+      {
+        "label": "Playing jokes on April 1st",
+        "correct": false
+      },
+      {
+        "label": "Wearing poppies",
+        "correct": false
+      }
+    ],
+    "explanation": "Prince Albert brought the tradition of the Christmas tree to the UK from Germany. It became a common custom during the 19th century.",
+    "handbook_ref": "Chapter 4 · Customs and traditions",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-CUS-017",
+    "section_id": "CH4-CUS",
+    "type": "single",
+    "stem": "Which religious group celebrates Vaisakhi to remember the founding of the Khalsa?",
+    "options": [
+      {
+        "label": "Jews",
+        "correct": false
+      },
+      {
+        "label": "Muslims",
+        "correct": false
+      },
+      {
+        "label": "Sikhs",
+        "correct": true
+      },
+      {
+        "label": "Buddhists",
+        "correct": false
+      }
+    ],
+    "explanation": "Vaisakhi is an important Sikh festival. It celebrates the founding of the Khalsa (the community of initiated Sikhs) by Guru Gobind Singh.",
+    "handbook_ref": "Chapter 4 · Customs and traditions",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-CUS-018",
+    "section_id": "CH4-CUS",
+    "type": "truefalse",
+    "stem": "Hanukkah is a Jewish festival that lasts for eight days.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Hanukkah is the Jewish Festival of Lights. It lasts for eight days and remembers the miracle of the oil in the Temple.",
+    "handbook_ref": "Chapter 4 · Customs and traditions",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-CUS-019",
+    "section_id": "CH4-CUS",
+    "type": "single",
+    "stem": "What does the Christian festival of Good Friday commemorate?",
+    "options": [
+      {
+        "label": "The birth of Jesus",
+        "correct": false
+      },
+      {
+        "label": "The death of Jesus",
+        "correct": true
+      },
+      {
+        "label": "The resurrection of Jesus",
+        "correct": false
+      },
+      {
+        "label": "The arrival of the Wise Men",
+        "correct": false
+      }
+    ],
+    "explanation": "Good Friday marks the day Jesus Christ died on the cross. It is followed by Easter Sunday, which celebrates his return to life.",
+    "handbook_ref": "Chapter 4 · Customs and traditions",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-CUS-020",
+    "section_id": "CH4-CUS",
+    "type": "single",
+    "stem": "When is Father's Day celebrated in the UK?",
+    "options": [
+      {
+        "label": "The first Sunday in March",
+        "correct": false
+      },
+      {
+        "label": "The third Sunday in June",
+        "correct": true
+      },
+      {
+        "label": "The last Sunday in August",
+        "correct": false
+      },
+      {
+        "label": "The second Sunday in November",
+        "correct": false
+      }
+    ],
+    "explanation": "Father's Day is a day to celebrate fathers and father figures. It is held on the third Sunday in June.",
+    "handbook_ref": "Chapter 4 · Customs and traditions",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-CUS-021",
+    "section_id": "CH4-CUS",
+    "type": "multi",
+    "stem": "Which TWO things are traditionally associated with Easter in the UK?",
+    "options": [
+      {
+        "label": "Carving pumpkins",
+        "correct": false
+      },
+      {
+        "label": "Giving chocolate eggs",
+        "correct": true
+      },
+      {
+        "label": "Eating hot cross buns",
+        "correct": true
+      },
+      {
+        "label": "Lighting fireworks",
+        "correct": false
+      }
+    ],
+    "explanation": "People often give chocolate eggs at Easter to represent new life. Hot cross buns, which are sweet breads with a cross on top, are also a traditional food.",
+    "handbook_ref": "Chapter 4 · Customs and traditions",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-CUS-022",
+    "section_id": "CH4-CUS",
+    "type": "truefalse",
+    "stem": "Lent is the period of 40 days before Easter when some people give up certain foods.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Lent is a time of reflection and fasting in the Christian calendar. It lasts for 40 days leading up to the celebration of Easter.",
+    "handbook_ref": "Chapter 4 · Customs and traditions",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-CUS-023",
+    "section_id": "CH4-CUS",
+    "type": "single",
+    "stem": "In Scotland, what is the tradition of 'first footing' on New Year's Day?",
+    "options": [
+      {
+        "label": "Running a race",
+        "correct": false
+      },
+      {
+        "label": "Being the first guest to enter a home",
+        "correct": true
+      },
+      {
+        "label": "Cooking a large breakfast",
+        "correct": false
+      },
+      {
+        "label": "Singing songs in the street",
+        "correct": false
+      }
+    ],
+    "explanation": "First footing is a Scottish tradition where the first person to visit a home in the New Year brings gifts like coal to bring luck.",
+    "handbook_ref": "Chapter 4 · Customs and traditions",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-CUS-024",
+    "section_id": "CH4-CUS",
+    "type": "single",
+    "stem": "When is St Andrew's Day, the national day of Scotland?",
+    "options": [
+      {
+        "label": "30 November",
+        "correct": true
+      },
+      {
+        "label": "1 March",
+        "correct": false
+      },
+      {
+        "label": "23 April",
+        "correct": false
+      },
+      {
+        "label": "17 March",
+        "correct": false
+      }
+    ],
+    "explanation": "St Andrew's Day is celebrated on 30 November. It is Scotland's national day and is a bank holiday there.",
+    "handbook_ref": "Chapter 4 · Customs and traditions",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-CUS-025",
+    "section_id": "CH4-CUS",
+    "type": "single",
+    "stem": "Which of these is the holiest day of the year in Judaism, marked by a 25-hour period of fasting?",
+    "options": [
+      {
+        "label": "Yom Kippur",
+        "correct": true
+      },
+      {
+        "label": "Rosh Hashanah",
+        "correct": false
+      },
+      {
+        "label": "Hanukkah",
+        "correct": false
+      },
+      {
+        "label": "Purim",
+        "correct": false
+      }
+    ],
+    "explanation": "Yom Kippur is the holiest day of the Jewish year. It is a day of fasting and prayer when Jewish people ask for forgiveness.",
+    "handbook_ref": "Chapter 4 · Customs and traditions",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-CUS-026",
+    "section_id": "CH4-CUS",
+    "type": "single",
+    "stem": "Which religious festival is celebrated by Buddhists to remember the birth, enlightenment and death of the Buddha?",
+    "options": [
+      {
+        "label": "Wesak",
+        "correct": true
+      },
+      {
+        "label": "Diwali",
+        "correct": false
+      },
+      {
+        "label": "Vaisakhi",
+        "correct": false
+      },
+      {
+        "label": "Eid",
+        "correct": false
+      }
+    ],
+    "explanation": "Wesak is an important festival for Buddhists. It takes place in May and is a time for people to visit temples and give gifts.",
+    "handbook_ref": "Chapter 4 · Customs and traditions",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-CUS-027",
+    "section_id": "CH4-CUS",
+    "type": "single",
+    "stem": "What sweet, fruit-filled pies are traditionally eaten at Christmas in the UK?",
+    "options": [
+      {
+        "label": "Mince pies",
+        "correct": true
+      },
+      {
+        "label": "Apple pies",
+        "correct": false
+      },
+      {
+        "label": "Pecan pies",
+        "correct": false
+      },
+      {
+        "label": "Pumpkin pies",
+        "correct": false
+      }
+    ],
+    "explanation": "Mince pies are small, sweet pastries filled with dried fruits and spices. They are a popular food during the Christmas season in the UK.",
+    "handbook_ref": "Chapter 4 · Customs and traditions",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-CUS-028",
+    "section_id": "CH4-CUS",
+    "type": "single",
+    "stem": "On what date is Remembrance Day, which commemorates those who died in wars?",
+    "options": [
+      {
+        "label": "11 November",
+        "correct": true
+      },
+      {
+        "label": "5 November",
+        "correct": false
+      },
+      {
+        "label": "25 December",
+        "correct": false
+      },
+      {
+        "label": "1 January",
+        "correct": false
+      }
+    ],
+    "explanation": "Remembrance Day is on 11 November. At 11:00 am, people observe a two-minute silence to remember those who died fighting for their country.",
+    "handbook_ref": "Chapter 4 · Customs and traditions",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-CUS-029",
+    "section_id": "CH4-CUS",
+    "type": "single",
+    "stem": "Who makes a traditional television and radio broadcast to the nation on Christmas Day?",
+    "options": [
+      {
+        "label": "The Monarch",
+        "correct": true
+      },
+      {
+        "label": "The Prime Minister",
+        "correct": false
+      },
+      {
+        "label": "The Archbishop of Canterbury",
+        "correct": false
+      },
+      {
+        "label": "The Lord Chancellor",
+        "correct": false
+      }
+    ],
+    "explanation": "The Monarch (the King or Queen) makes a speech to the UK and the Commonwealth on Christmas Day. This tradition was started by King George V in 1932.",
+    "handbook_ref": "Chapter 4 · Customs and traditions",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-CUS-030",
+    "section_id": "CH4-CUS",
+    "type": "single",
+    "stem": "What is the historical origin of the name 'Boxing Day'?",
+    "options": [
+      {
+        "label": "Giving small boxes of gifts or money to workers",
+        "correct": true
+      },
+      {
+        "label": "A traditional sport played on the day after Christmas",
+        "correct": false
+      },
+      {
+        "label": "Packing up Christmas decorations into cardboard boxes",
+        "correct": false
+      },
+      {
+        "label": "The royal family collecting charity boxes from the public",
+        "correct": false
+      }
+    ],
+    "explanation": "Boxing Day, on 26 December, traditionally got its name from the practice of giving small boxes of money or food to servants and tradespeople.",
+    "handbook_ref": "Chapter 4 · Customs and traditions",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-CUS-031",
+    "section_id": "CH4-CUS",
+    "type": "single",
+    "stem": "What is the British tradition of making a promise to behave better or stop a bad habit in the new year called?",
+    "options": [
+      {
+        "label": "New Year's resolution",
+        "correct": true
+      },
+      {
+        "label": "New Year's wish",
+        "correct": false
+      },
+      {
+        "label": "New Year's toast",
+        "correct": false
+      },
+      {
+        "label": "New Year's choice",
+        "correct": false
+      }
+    ],
+    "explanation": "A New Year's resolution is a promise that people make to improve their lives starting on 1 January. Common resolutions include eating healthier or exercising more.",
+    "handbook_ref": "Chapter 4 · Customs and traditions",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-CUS-032",
+    "section_id": "CH4-CUS",
+    "type": "truefalse",
+    "stem": "Northern Ireland has more bank holidays than England and Wales.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Northern Ireland has ten bank holidays a year, while England and Wales have eight. Scotland has nine bank holidays.",
+    "handbook_ref": "Chapter 4 · Customs and traditions",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-CUS-033",
+    "section_id": "CH4-CUS",
+    "type": "truefalse",
+    "stem": "Ash Wednesday marks the beginning of the Christian period known as Lent.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Ash Wednesday is the first day of Lent, which is a 40-day period of fasting and prayer before Easter.",
+    "handbook_ref": "Chapter 4 · Customs and traditions",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-CUS-034",
+    "section_id": "CH4-CUS",
+    "type": "multi",
+    "stem": "Which TWO of the following are Jewish festivals?",
+    "options": [
+      {
+        "label": "Rosh Hashanah",
+        "correct": true
+      },
+      {
+        "label": "Yom Kippur",
+        "correct": true
+      },
+      {
+        "label": "Wesak",
+        "correct": false
+      },
+      {
+        "label": "Diwali",
+        "correct": false
+      }
+    ],
+    "explanation": "Rosh Hashanah (the Jewish New Year) and Yom Kippur (the Day of Atonement) are two major festivals in Judaism. Wesak is Buddhist and Diwali is Hindu.",
+    "handbook_ref": "Chapter 4 · Customs and traditions",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-CUS-035",
+    "section_id": "CH4-CUS",
+    "type": "multi",
+    "stem": "Which TWO of these dates are bank holidays in all parts of the UK?",
+    "options": [
+      {
+        "label": "Christmas Day",
+        "correct": true
+      },
+      {
+        "label": "New Year's Day",
+        "correct": true
+      },
+      {
+        "label": "St George's Day",
+        "correct": false
+      },
+      {
+        "label": "St David's Day",
+        "correct": false
+      }
+    ],
+    "explanation": "Christmas Day and New Year's Day are official bank holidays in England, Wales, Scotland and Northern Ireland. National saint days are not bank holidays in all parts of the UK.",
+    "handbook_ref": "Chapter 4 · Customs and traditions",
+    "difficulty": 2,
+    "ai_checked": true
   }
 ]

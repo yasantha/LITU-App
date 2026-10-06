@@ -1,0 +1,30 @@
+[
+  {
+    "id": "Q-CH4-LEI-021",
+    "section_id": "CH4-LEI",
+    "type": "single",
+    "stem": "What is the name of the prize awarded every year for the best full-length novel written by a writer from the Commonwealth or Ireland?",
+    "options": [
+      {
+        "label": "The Man Booker Prize",
+        "correct": true
+      },
+      {
+        "label": "The Pulitzer Prize",
+        "correct": false
+      },
+      {
+        "label": "The Nobel Prize",
+        "correct": false
+      },
+      {
+        "label": "The Oscar",
+        "correct": false
+      }
+    ],
+    "explanation": "The Man Booker Prize is awarded for literature. Other famous awards for books include the Costa Book Awards and the Carnegie Medal for children.",
+    "handbook_ref": "Chapter 4 · Leisure",
+    "difficulty": 2,
+    "rejected_reason": "The prize name changed to 'The Booker Prize' in 2019 and the eligibility criteria were expanded in 2014 to include any novel written in English, making the question's facts outdated and misleading."
+  }
+]

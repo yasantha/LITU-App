@@ -1,0 +1,30 @@
+[
+  {
+    "id": "Q-CH5-ROL-012",
+    "section_id": "CH5-ROL",
+    "type": "single",
+    "stem": "Which official is responsible for investigating violent, sudden or unexplained deaths in the UK?",
+    "options": [
+      {
+        "label": "A coroner",
+        "correct": true
+      },
+      {
+        "label": "A jury foreman",
+        "correct": false
+      },
+      {
+        "label": "A police commissioner",
+        "correct": false
+      },
+      {
+        "label": "A civil servant",
+        "correct": false
+      }
+    ],
+    "explanation": "Coroners investigate sudden or violent deaths, and they can hold an inquest to find the cause. In Scotland, this is done by the Procurator Fiscal.",
+    "handbook_ref": "Chapter 5 · Your role in the community",
+    "difficulty": 3,
+    "rejected_reason": "The question asks about 'the UK' as a whole, but coroners do not operate in Scotland, where sudden or unexplained deaths are investigated by the Procurator Fiscal."
+  }
+]

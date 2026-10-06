@@ -158,5 +158,533 @@
     "handbook_ref": "Chapter 4 · Religion",
     "difficulty": 2,
     "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-REL-007",
+    "section_id": "CH4-REL",
+    "type": "single",
+    "stem": "Which Christian group is governed by a General Assembly and a Moderator?",
+    "options": [
+      {
+        "label": "The Church of England",
+        "correct": false
+      },
+      {
+        "label": "The Church of Scotland",
+        "correct": true
+      },
+      {
+        "label": "The Roman Catholic Church",
+        "correct": false
+      },
+      {
+        "label": "The Methodist Church",
+        "correct": false
+      }
+    ],
+    "explanation": "The Church of Scotland is a Presbyterian church. It is led by the Moderator of the General Assembly, who serves for one year.",
+    "handbook_ref": "Chapter 4 · Religion",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-REL-008",
+    "section_id": "CH4-REL",
+    "type": "truefalse",
+    "stem": "The Church in Wales and the Church of Ireland are 'established' churches like the Church of England.",
+    "options": [
+      {
+        "label": "True",
+        "correct": false
+      },
+      {
+        "label": "False",
+        "correct": true
+      }
+    ],
+    "explanation": "Only the Church of England and the Church of Scotland are established churches. This means they have a special legal link with the state.",
+    "handbook_ref": "Chapter 4 · Religion",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-REL-009",
+    "section_id": "CH4-REL",
+    "type": "single",
+    "stem": "Who was the founder of the Methodist Church in the 18th century?",
+    "options": [
+      {
+        "label": "George Fox",
+        "correct": false
+      },
+      {
+        "label": "John Wesley",
+        "correct": true
+      },
+      {
+        "label": "William Booth",
+        "correct": false
+      },
+      {
+        "label": "Thomas Cranmer",
+        "correct": false
+      }
+    ],
+    "explanation": "John Wesley founded the Methodist Church to reach people who did not attend the Church of England. It is now one of the largest 'Free Churches' in the UK.",
+    "handbook_ref": "Chapter 4 · Religion",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-REL-010",
+    "section_id": "CH4-REL",
+    "type": "single",
+    "stem": "Which religious group is also known as the 'Religious Society of Friends'?",
+    "options": [
+      {
+        "label": "The Salvation Army",
+        "correct": false
+      },
+      {
+        "label": "The Quakers",
+        "correct": true
+      },
+      {
+        "label": "The Baptists",
+        "correct": false
+      },
+      {
+        "label": "The Methodists",
+        "correct": false
+      }
+    ],
+    "explanation": "The Quakers were founded by George Fox in the 17th century. They are known for their commitment to peace and simple living.",
+    "handbook_ref": "Chapter 4 · Religion",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-REL-011",
+    "section_id": "CH4-REL",
+    "type": "multi",
+    "stem": "Which TWO of the following are examples of 'Free Churches' in the UK?",
+    "options": [
+      {
+        "label": "Methodist Church",
+        "correct": true
+      },
+      {
+        "label": "Church of England",
+        "correct": false
+      },
+      {
+        "label": "Baptist Church",
+        "correct": true
+      },
+      {
+        "label": "Roman Catholic Church",
+        "correct": false
+      }
+    ],
+    "explanation": "Free Churches are Christian groups that are not part of the established Church of England. Other examples include the United Reformed Church.",
+    "handbook_ref": "Chapter 4 · Religion",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-REL-012",
+    "section_id": "CH4-REL",
+    "type": "single",
+    "stem": "Who started the Salvation Army in the 19th century to help the poor?",
+    "options": [
+      {
+        "label": "John Wesley",
+        "correct": false
+      },
+      {
+        "label": "William and Catherine Booth",
+        "correct": true
+      },
+      {
+        "label": "George Fox",
+        "correct": false
+      },
+      {
+        "label": "The Pope",
+        "correct": false
+      }
+    ],
+    "explanation": "The Salvation Army is a Christian group that focuses on social work. It works in many countries to provide food and shelter to people in need.",
+    "handbook_ref": "Chapter 4 · Religion",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-REL-013",
+    "section_id": "CH4-REL",
+    "type": "truefalse",
+    "stem": "The United Kingdom is a secular society, which means that religious ideas do not govern the laws of the country.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Although there are established churches, the UK is a secular society. This means everyone is free to practice any religion or none at all.",
+    "handbook_ref": "Chapter 4 · Religion",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-REL-014",
+    "section_id": "CH4-REL",
+    "type": "single",
+    "stem": "What is another name for the Church of England?",
+    "options": [
+      {
+        "label": "The Presbyterian Church",
+        "correct": false
+      },
+      {
+        "label": "The Anglican Church",
+        "correct": true
+      },
+      {
+        "label": "The Catholic Church",
+        "correct": false
+      },
+      {
+        "label": "The Orthodox Church",
+        "correct": false
+      }
+    ],
+    "explanation": "The Church of England is often called the Anglican Church. In other countries, churches with similar beliefs are part of the Anglican Communion.",
+    "handbook_ref": "Chapter 4 · Religion",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-REL-015",
+    "section_id": "CH4-REL",
+    "type": "single",
+    "stem": "How long does the Moderator of the General Assembly of the Church of Scotland serve for?",
+    "options": [
+      {
+        "label": "One year",
+        "correct": true
+      },
+      {
+        "label": "Five years",
+        "correct": false
+      },
+      {
+        "label": "Ten years",
+        "correct": false
+      },
+      {
+        "label": "For life",
+        "correct": false
+      }
+    ],
+    "explanation": "The Moderator is the head of the Church of Scotland for a 12-month period. They represent the church at official events.",
+    "handbook_ref": "Chapter 4 · Religion",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-REL-016",
+    "section_id": "CH4-REL",
+    "type": "single",
+    "stem": "Which religious leader is the spiritual head of the Roman Catholic Church?",
+    "options": [
+      {
+        "label": "The Archbishop of Canterbury",
+        "correct": false
+      },
+      {
+        "label": "The Moderator",
+        "correct": false
+      },
+      {
+        "label": "The Pope",
+        "correct": true
+      },
+      {
+        "label": "The Chief Rabbi",
+        "correct": false
+      }
+    ],
+    "explanation": "The Roman Catholic Church has millions of members in the UK. Its worldwide leader is the Pope, who is based in the Vatican.",
+    "handbook_ref": "Chapter 4 · Religion",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-REL-017",
+    "section_id": "CH4-REL",
+    "type": "multi",
+    "stem": "Which TWO of the following statements about the Church of England are true?",
+    "options": [
+      {
+        "label": "It is the established church in England.",
+        "correct": true
+      },
+      {
+        "label": "The Monarch is the head of the church.",
+        "correct": true
+      },
+      {
+        "label": "It is a Presbyterian church.",
+        "correct": false
+      },
+      {
+        "label": "It has no links to the state.",
+        "correct": false
+      }
+    ],
+    "explanation": "The Church of England was established during the Reformation. The King or Queen holds the title 'Defender of the Faith' as its head.",
+    "handbook_ref": "Chapter 4 · Religion",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-REL-018",
+    "section_id": "CH4-REL",
+    "type": "truefalse",
+    "stem": "People in the UK are allowed to change their religion at any time.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Freedom of religion is a key part of life in the UK. People can choose their own faith, change it, or have no religion at all.",
+    "handbook_ref": "Chapter 4 · Religion",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-REL-019",
+    "section_id": "CH4-REL",
+    "type": "single",
+    "stem": "Which church in the UK is a Presbyterian church?",
+    "options": [
+      {
+        "label": "The Church of England",
+        "correct": false
+      },
+      {
+        "label": "The Church of Scotland",
+        "correct": true
+      },
+      {
+        "label": "The Roman Catholic Church",
+        "correct": false
+      },
+      {
+        "label": "The Methodist Church",
+        "correct": false
+      }
+    ],
+    "explanation": "The Church of Scotland is a Presbyterian church, which means it is governed by elders. It is one of the two established churches in the UK.",
+    "handbook_ref": "Chapter 4 · Religion",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-REL-020",
+    "section_id": "CH4-REL",
+    "type": "single",
+    "stem": "Who has the right to appoint the Archbishop of Canterbury?",
+    "options": [
+      {
+        "label": "The Pope",
+        "correct": false
+      },
+      {
+        "label": "The Prime Minister",
+        "correct": false
+      },
+      {
+        "label": "The Monarch",
+        "correct": true
+      },
+      {
+        "label": "The General Assembly",
+        "correct": false
+      }
+    ],
+    "explanation": "The Monarch is the head of the Church of England. They appoint senior church leaders on the advice of the Prime Minister.",
+    "handbook_ref": "Chapter 4 · Religion",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-REL-021",
+    "section_id": "CH4-REL",
+    "type": "single",
+    "stem": "Which Christian group grew quickly in the 18th century by preaching in the streets to working people?",
+    "options": [
+      {
+        "label": "The Quakers",
+        "correct": false
+      },
+      {
+        "label": "The Methodists",
+        "correct": true
+      },
+      {
+        "label": "The Roman Catholics",
+        "correct": false
+      },
+      {
+        "label": "The Baptists",
+        "correct": false
+      }
+    ],
+    "explanation": "Methodism began as a movement within the Church of England. John Wesley and others travelled around the country to reach people who did not go to church.",
+    "handbook_ref": "Chapter 4 · Religion",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-REL-022",
+    "section_id": "CH4-REL",
+    "type": "single",
+    "stem": "How many senior bishops of the Church of England sit in the House of Lords?",
+    "options": [
+      {
+        "label": "26",
+        "correct": true
+      },
+      {
+        "label": "12",
+        "correct": false
+      },
+      {
+        "label": "40",
+        "correct": false
+      },
+      {
+        "label": "10",
+        "correct": false
+      }
+    ],
+    "explanation": "There are 26 senior Church of England bishops who have seats in the House of Lords. This shows the church's role as the official state religion in England.",
+    "handbook_ref": "Chapter 4 · Religion",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-REL-023",
+    "section_id": "CH4-REL",
+    "type": "truefalse",
+    "stem": "The British monarch has the official title ‘Defender of the Faith’.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "The monarch is the head of the Church of England and uses the title 'Defender of the Faith'. This title has been used by monarchs for hundreds of years.",
+    "handbook_ref": "Chapter 4 · Religion",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-REL-024",
+    "section_id": "CH4-REL",
+    "type": "single",
+    "stem": "In the UK census, which of these is the largest religious group after Christians?",
+    "options": [
+      {
+        "label": "Muslims",
+        "correct": true
+      },
+      {
+        "label": "Hindus",
+        "correct": false
+      },
+      {
+        "label": "Sikhs",
+        "correct": false
+      },
+      {
+        "label": "Buddhists",
+        "correct": false
+      }
+    ],
+    "explanation": "According to census data, Islam is the second largest religion in the UK. There are also many people who say they have no religion at all.",
+    "handbook_ref": "Chapter 4 · Religion",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-REL-025",
+    "section_id": "CH4-REL",
+    "type": "multi",
+    "stem": "Which TWO of these major religions have many followers in the UK today?",
+    "options": [
+      {
+        "label": "Hinduism",
+        "correct": true
+      },
+      {
+        "label": "Judaism",
+        "correct": true
+      },
+      {
+        "label": "Shintoism",
+        "correct": false
+      },
+      {
+        "label": "Taoism",
+        "correct": false
+      }
+    ],
+    "explanation": "The UK is home to people from many faiths. Hinduism and Judaism are two of the largest non-Christian religious groups in the country.",
+    "handbook_ref": "Chapter 4 · Religion",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-REL-026",
+    "section_id": "CH4-REL",
+    "type": "single",
+    "stem": "Which of these statements about the monarch and the Church of Scotland is true?",
+    "options": [
+      {
+        "label": "The monarch is a member but not the head",
+        "correct": true
+      },
+      {
+        "label": "The monarch is the supreme governor",
+        "correct": false
+      },
+      {
+        "label": "The monarch chooses the church leaders",
+        "correct": false
+      },
+      {
+        "label": "The monarch is not allowed to join",
+        "correct": false
+      }
+    ],
+    "explanation": "The Church of Scotland is a Presbyterian church and is independent. The monarch is a member of the church but does not lead it.",
+    "handbook_ref": "Chapter 4 · Religion",
+    "difficulty": 2,
+    "ai_checked": true
   }
 ]

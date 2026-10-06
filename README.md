@@ -84,8 +84,9 @@ CI (`.github/workflows/ci.yml`) runs all but the device benchmarks on every pull
 
 ## Content
 
-The bundled `content.db` holds 161 original questions across all five handbook chapters and 23
-section notes. The draft, build and audio steps are in [content/README.md](content/README.md).
+The bundled `content.db` (content v3) holds 747 original questions across all five handbook
+chapters and 23 section notes. Every question was fact-checked by a second AI model; a human check
+against the handbook is still needed before release. The draft, build and audio steps are in [content/README.md](content/README.md).
 
 ## Releasing
 

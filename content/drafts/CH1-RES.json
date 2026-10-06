@@ -46,5 +46,109 @@
     "handbook_ref": "Chapter 1 · Becoming a permanent resident",
     "difficulty": 1,
     "ai_checked": true
+  },
+  {
+    "id": "Q-CH1-RES-003",
+    "section_id": "CH1-RES",
+    "type": "single",
+    "stem": "Which website should you use to book the official Life in the UK test?",
+    "options": [
+      {
+        "label": "The official government website",
+        "correct": true
+      },
+      {
+        "label": "The local council website",
+        "correct": false
+      },
+      {
+        "label": "Any social media website",
+        "correct": false
+      },
+      {
+        "label": "A private travel website",
+        "correct": false
+      }
+    ],
+    "explanation": "You must book the test through the official government website. There are many test centres across the UK where you can take it.",
+    "handbook_ref": "Chapter 1 · Becoming a permanent resident",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH1-RES-004",
+    "section_id": "CH1-RES",
+    "type": "truefalse",
+    "stem": "The Life in the UK test is based on information found in the official handbook.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "All questions in the test are based on the official study materials. You should read the handbook carefully to prepare for the exam.",
+    "handbook_ref": "Chapter 1 · Becoming a permanent resident",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH1-RES-005",
+    "section_id": "CH1-RES",
+    "type": "multi",
+    "stem": "Which TWO items can you usually use to prove your identity at the test centre?",
+    "options": [
+      {
+        "label": "A valid passport",
+        "correct": true
+      },
+      {
+        "label": "A biometric residence permit",
+        "correct": true
+      },
+      {
+        "label": "A supermarket loyalty card",
+        "correct": false
+      },
+      {
+        "label": "A library card",
+        "correct": false
+      }
+    ],
+    "explanation": "You must bring a valid form of ID, such as a passport or a residence permit. If you do not have the right ID, you cannot take the test.",
+    "handbook_ref": "Chapter 1 · Becoming a permanent resident",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH1-RES-006",
+    "section_id": "CH1-RES",
+    "type": "single",
+    "stem": "Who is usually not required to take the Life in the UK test?",
+    "options": [
+      {
+        "label": "People aged 65 and over",
+        "correct": true
+      },
+      {
+        "label": "People aged 18 to 60",
+        "correct": false
+      },
+      {
+        "label": "People aged 25 to 35",
+        "correct": false
+      },
+      {
+        "label": "People aged 40 to 50",
+        "correct": false
+      }
+    ],
+    "explanation": "People under 18 and those aged 65 or over do not normally need to take the test. This applies to both settlement and citizenship applications.",
+    "handbook_ref": "Chapter 1 · Becoming a permanent resident",
+    "difficulty": 2,
+    "ai_checked": true
   }
 ]

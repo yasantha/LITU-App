@@ -102,5 +102,569 @@
     "handbook_ref": "Chapter 4 · Leisure",
     "difficulty": 1,
     "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-LEI-005",
+    "section_id": "CH4-LEI",
+    "type": "single",
+    "stem": "What is 'Laverbread', a traditional food from Wales?",
+    "options": [
+      {
+        "label": "A type of seaweed",
+        "correct": true
+      },
+      {
+        "label": "A spicy meat pie",
+        "correct": false
+      },
+      {
+        "label": "A fruit cake",
+        "correct": false
+      },
+      {
+        "label": "A local cheese",
+        "correct": false
+      }
+    ],
+    "explanation": "Laverbread is a traditional Welsh dish made from seaweed. It is often fried with oatmeal and served with bacon for breakfast.",
+    "handbook_ref": "Chapter 4 · Leisure",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-LEI-006",
+    "section_id": "CH4-LEI",
+    "type": "single",
+    "stem": "In England and Wales, how long can large shops open for on a Sunday?",
+    "options": [
+      {
+        "label": "Up to six hours",
+        "correct": true
+      },
+      {
+        "label": "Up to ten hours",
+        "correct": false
+      },
+      {
+        "label": "Up to twelve hours",
+        "correct": false
+      },
+      {
+        "label": "They must stay closed",
+        "correct": false
+      }
+    ],
+    "explanation": "In England and Wales, large shops (over 280 square metres) can only open for a maximum of six hours on Sundays. Small shops have no opening time limits.",
+    "handbook_ref": "Chapter 4 · Leisure",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-LEI-007",
+    "section_id": "CH4-LEI",
+    "type": "truefalse",
+    "stem": "The National Trust is a charity that works to protect historic houses and nature.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "The National Trust was founded in 1895. It has more than four million members and looks after many historic buildings and natural areas across the UK.",
+    "handbook_ref": "Chapter 4 · Leisure",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-LEI-008",
+    "section_id": "CH4-LEI",
+    "type": "multi",
+    "stem": "Which TWO of the following rock bands became famous in the 1960s and 1970s?",
+    "options": [
+      {
+        "label": "The Rolling Stones",
+        "correct": true
+      },
+      {
+        "label": "The Who",
+        "correct": true
+      },
+      {
+        "label": "The Beach Boys",
+        "correct": false
+      },
+      {
+        "label": "ABBA",
+        "correct": false
+      }
+    ],
+    "explanation": "The Rolling Stones and The Who are two of the most famous rock bands in history. They became world-famous during the 1960s and continue to be popular.",
+    "handbook_ref": "Chapter 4 · Leisure",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-LEI-009",
+    "section_id": "CH4-LEI",
+    "type": "single",
+    "stem": "Where was the popular dish 'Chicken Tikka Masala' first created?",
+    "options": [
+      {
+        "label": "In the United Kingdom",
+        "correct": true
+      },
+      {
+        "label": "In India",
+        "correct": false
+      },
+      {
+        "label": "In Pakistan",
+        "correct": false
+      },
+      {
+        "label": "In Bangladesh",
+        "correct": false
+      }
+    ],
+    "explanation": "Chicken Tikka Masala is an Indian-style dish that was actually invented in the UK. It is now considered one of the most popular meals in the country.",
+    "handbook_ref": "Chapter 4 · Leisure",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-LEI-010",
+    "section_id": "CH4-LEI",
+    "type": "single",
+    "stem": "Which BBC radio station is mostly for a younger audience and plays pop music?",
+    "options": [
+      {
+        "label": "Radio 1",
+        "correct": true
+      },
+      {
+        "label": "Radio 2",
+        "correct": false
+      },
+      {
+        "label": "Radio 3",
+        "correct": false
+      },
+      {
+        "label": "Radio 4",
+        "correct": false
+      }
+    ],
+    "explanation": "BBC Radio 1 plays modern pop and rock music and is aimed at younger listeners. Radio 3 is known for classical music and Radio 4 for news and talk.",
+    "handbook_ref": "Chapter 4 · Leisure",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-LEI-011",
+    "section_id": "CH4-LEI",
+    "type": "single",
+    "stem": "The artist David Hockney is famous for which type of modern art?",
+    "options": [
+      {
+        "label": "Pop art",
+        "correct": true
+      },
+      {
+        "label": "Abstract sculpture",
+        "correct": false
+      },
+      {
+        "label": "Wood carving",
+        "correct": false
+      },
+      {
+        "label": "Black and white photography",
+        "correct": false
+      }
+    ],
+    "explanation": "David Hockney was an important part of the 1960s pop art movement. He remains one of the most influential and popular British artists of the modern era.",
+    "handbook_ref": "Chapter 4 · Leisure",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-LEI-012",
+    "section_id": "CH4-LEI",
+    "type": "single",
+    "stem": "Which of these is one of the most popular hobbies in the UK?",
+    "options": [
+      {
+        "label": "Gardening",
+        "correct": true
+      },
+      {
+        "label": "Skydiving",
+        "correct": false
+      },
+      {
+        "label": "Deep-sea fishing",
+        "correct": false
+      },
+      {
+        "label": "Mountain climbing",
+        "correct": false
+      }
+    ],
+    "explanation": "Gardening is a very popular hobby in the UK. Many people who do not have their own garden can rent a small piece of land called an allotment.",
+    "handbook_ref": "Chapter 4 · Leisure",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-LEI-013",
+    "section_id": "CH4-LEI",
+    "type": "multi",
+    "stem": "Which TWO of the following are the largest youth organisations in the UK?",
+    "options": [
+      {
+        "label": "The Scout Association",
+        "correct": true
+      },
+      {
+        "label": "Girlguiding",
+        "correct": true
+      },
+      {
+        "label": "The Cadet Force",
+        "correct": false
+      },
+      {
+        "label": "The Youth Hostel Association",
+        "correct": false
+      }
+    ],
+    "explanation": "The Scout Association and Girlguiding UK are the two largest youth groups in the UK. They help young people learn new skills and participate in outdoor activities.",
+    "handbook_ref": "Chapter 4 · Leisure",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-LEI-014",
+    "section_id": "CH4-LEI",
+    "type": "single",
+    "stem": "Which artist is famous for creating works that use animals preserved in chemicals?",
+    "options": [
+      {
+        "label": "Damien Hirst",
+        "correct": true
+      },
+      {
+        "label": "Henry Moore",
+        "correct": false
+      },
+      {
+        "label": "David Hockney",
+        "correct": false
+      },
+      {
+        "label": "John Constable",
+        "correct": false
+      }
+    ],
+    "explanation": "Damien Hirst is a leading member of the 'Young British Artists' group. He is famous for work that includes animals preserved in liquid.",
+    "handbook_ref": "Chapter 4 · Leisure",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-LEI-015",
+    "section_id": "CH4-LEI",
+    "type": "single",
+    "stem": "On which day of the week do many shops in town centres stay open late?",
+    "options": [
+      {
+        "label": "Thursday",
+        "correct": true
+      },
+      {
+        "label": "Monday",
+        "correct": false
+      },
+      {
+        "label": "Wednesday",
+        "correct": false
+      },
+      {
+        "label": "Friday",
+        "correct": false
+      }
+    ],
+    "explanation": "Many shops in town centres stay open later than usual on Thursday evenings. This is often called 'late-night shopping'.",
+    "handbook_ref": "Chapter 4 · Leisure",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-LEI-016",
+    "section_id": "CH4-LEI",
+    "type": "truefalse",
+    "stem": "Volunteering is when people work for no pay to help their local community.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Volunteering is a great way to help the community and meet new people. Many charities and groups in the UK rely on volunteers to do their work.",
+    "handbook_ref": "Chapter 4 · Leisure",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-LEI-017",
+    "section_id": "CH4-LEI",
+    "type": "single",
+    "stem": "What name is given to large cinemas that have many screens showing different films?",
+    "options": [
+      {
+        "label": "Multiplexes",
+        "correct": true
+      },
+      {
+        "label": "Art houses",
+        "correct": false
+      },
+      {
+        "label": "Studios",
+        "correct": false
+      },
+      {
+        "label": "Stages",
+        "correct": false
+      }
+    ],
+    "explanation": "Most towns and cities in the UK have a large cinema called a multiplex. These buildings have several screens showing many different films at the same time.",
+    "handbook_ref": "Chapter 4 · Leisure",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-LEI-018",
+    "section_id": "CH4-LEI",
+    "type": "single",
+    "stem": "In which part of London is the National Gallery located?",
+    "options": [
+      {
+        "label": "Trafalgar Square",
+        "correct": true
+      },
+      {
+        "label": "Piccadilly Circus",
+        "correct": false
+      },
+      {
+        "label": "Hyde Park",
+        "correct": false
+      },
+      {
+        "label": "Covent Garden",
+        "correct": false
+      }
+    ],
+    "explanation": "The National Gallery is a famous art museum in Trafalgar Square, London. It houses a collection of more than 2,000 Western European paintings.",
+    "handbook_ref": "Chapter 4 · Leisure",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-LEI-019",
+    "section_id": "CH4-LEI",
+    "type": "single",
+    "stem": "Which city hosts the largest arts festival in the world every summer?",
+    "options": [
+      {
+        "label": "Edinburgh",
+        "correct": true
+      },
+      {
+        "label": "Cardiff",
+        "correct": false
+      },
+      {
+        "label": "Belfast",
+        "correct": false
+      },
+      {
+        "label": "London",
+        "correct": false
+      }
+    ],
+    "explanation": "The Edinburgh Festival is held every August in Scotland's capital. It is the largest arts festival in the world and includes many theatre and comedy shows.",
+    "handbook_ref": "Chapter 4 · Leisure",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-LEI-020",
+    "section_id": "CH4-LEI",
+    "type": "single",
+    "stem": "Which part of England is famous for the 'Cornish Pasty', which is a pastry filled with meat and vegetables?",
+    "options": [
+      {
+        "label": "Cornwall",
+        "correct": true
+      },
+      {
+        "label": "Yorkshire",
+        "correct": false
+      },
+      {
+        "label": "Kent",
+        "correct": false
+      },
+      {
+        "label": "Norfolk",
+        "correct": false
+      }
+    ],
+    "explanation": "The Cornish Pasty comes from Cornwall in the South West of England. It was originally made as a portable meal for miners to take to work.",
+    "handbook_ref": "Chapter 4 · Leisure",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-LEI-022",
+    "section_id": "CH4-LEI",
+    "type": "single",
+    "stem": "Which area in London is world-famous for its many theatres and musical shows?",
+    "options": [
+      {
+        "label": "The West End",
+        "correct": true
+      },
+      {
+        "label": "The East End",
+        "correct": false
+      },
+      {
+        "label": "The City",
+        "correct": false
+      },
+      {
+        "label": "The Docklands",
+        "correct": false
+      }
+    ],
+    "explanation": "The West End is the centre of the theatre industry in London. Many world-famous musicals and plays have been running there for decades.",
+    "handbook_ref": "Chapter 4 · Leisure",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-LEI-023",
+    "section_id": "CH4-LEI",
+    "type": "multi",
+    "stem": "Which TWO of the following are examples of traditional British desserts or puddings?",
+    "options": [
+      {
+        "label": "Apple crumble",
+        "correct": true
+      },
+      {
+        "label": "Bread and butter pudding",
+        "correct": true
+      },
+      {
+        "label": "Crepes",
+        "correct": false
+      },
+      {
+        "label": "Gelato",
+        "correct": false
+      }
+    ],
+    "explanation": "Apple crumble and bread and butter pudding are classic British desserts. They are often served with custard, which is a sweet, yellow sauce.",
+    "handbook_ref": "Chapter 4 · Leisure",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-LEI-024",
+    "section_id": "CH4-LEI",
+    "type": "truefalse",
+    "stem": "Many people in the UK rent a small piece of land called an 'allotment' to grow their own fruit and vegetables.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Allotments are popular with people who do not have a garden at home. They are a great way to spend time outdoors and grow fresh food.",
+    "handbook_ref": "Chapter 4 · Leisure",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-LEI-025",
+    "section_id": "CH4-LEI",
+    "type": "single",
+    "stem": "Which of these is a traditional British meal of tea, sandwiches, and small cakes often served in the late afternoon?",
+    "options": [
+      {
+        "label": "Afternoon tea",
+        "correct": true
+      },
+      {
+        "label": "Brunch",
+        "correct": false
+      },
+      {
+        "label": "Supper",
+        "correct": false
+      },
+      {
+        "label": "High lunch",
+        "correct": false
+      }
+    ],
+    "explanation": "Afternoon tea is a famous British tradition. It usually includes scones with jam and cream, along with a selection of finger sandwiches.",
+    "handbook_ref": "Chapter 4 · Leisure",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-LEI-026",
+    "section_id": "CH4-LEI",
+    "type": "single",
+    "stem": "Which of these is a famous type of cheese that was first made in a village in Somerset, England?",
+    "options": [
+      {
+        "label": "Cheddar",
+        "correct": true
+      },
+      {
+        "label": "Camembert",
+        "correct": false
+      },
+      {
+        "label": "Brie",
+        "correct": false
+      },
+      {
+        "label": "Edam",
+        "correct": false
+      }
+    ],
+    "explanation": "Cheddar is the most popular type of cheese in the UK. It was originally made in the village of Cheddar in the county of Somerset.",
+    "handbook_ref": "Chapter 4 · Leisure",
+    "difficulty": 1,
+    "ai_checked": true
   }
 ]

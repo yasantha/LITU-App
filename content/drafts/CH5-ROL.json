@@ -102,5 +102,569 @@
     "handbook_ref": "Chapter 5 · Your role in the community",
     "difficulty": 1,
     "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-ROL-005",
+    "section_id": "CH5-ROL",
+    "type": "single",
+    "stem": "What is one way people can help support their local school in the UK?",
+    "options": [
+      {
+        "label": "By becoming a school governor",
+        "correct": true
+      },
+      {
+        "label": "By hiring the teachers",
+        "correct": false
+      },
+      {
+        "label": "By choosing the national curriculum",
+        "correct": false
+      },
+      {
+        "label": "By setting the local education tax",
+        "correct": false
+      }
+    ],
+    "explanation": "Parents and other people in the community can volunteer as school governors. They help to manage the school's budget and plan its future.",
+    "handbook_ref": "Chapter 5 · Your role in the community",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-ROL-006",
+    "section_id": "CH5-ROL",
+    "type": "single",
+    "stem": "What is the age of criminal responsibility in England, Wales and Northern Ireland?",
+    "options": [
+      {
+        "label": "10 years old",
+        "correct": true
+      },
+      {
+        "label": "12 years old",
+        "correct": false
+      },
+      {
+        "label": "14 years old",
+        "correct": false
+      },
+      {
+        "label": "16 years old",
+        "correct": false
+      }
+    ],
+    "explanation": "Children aged 10 and over can be prosecuted in England, Wales and Northern Ireland. In Scotland, the age of criminal responsibility is 12.",
+    "handbook_ref": "Chapter 5 · Your role in the community",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-ROL-007",
+    "section_id": "CH5-ROL",
+    "type": "single",
+    "stem": "What is the name of the system used to pay tax automatically from your salary?",
+    "options": [
+      {
+        "label": "PAYE (Pay As You Earn)",
+        "correct": true
+      },
+      {
+        "label": "VAT (Value Added Tax)",
+        "correct": false
+      },
+      {
+        "label": "Council Tax",
+        "correct": false
+      },
+      {
+        "label": "National Insurance",
+        "correct": false
+      }
+    ],
+    "explanation": "Under the PAYE system, employers take tax directly from their employees' pay. People who are self-employed must pay tax through Self Assessment.",
+    "handbook_ref": "Chapter 5 · Your role in the community",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-ROL-008",
+    "section_id": "CH5-ROL",
+    "type": "multi",
+    "stem": "Which TWO of these are well-known volunteering or charity groups in the UK?",
+    "options": [
+      {
+        "label": "The National Trust",
+        "correct": true
+      },
+      {
+        "label": "Rotary Clubs",
+        "correct": true
+      },
+      {
+        "label": "The Civil Service",
+        "correct": false
+      },
+      {
+        "label": "The Cabinet Office",
+        "correct": false
+      }
+    ],
+    "explanation": "The National Trust helps protect historic places and nature, while Rotary Clubs perform local community service. Volunteering is a great way to support the community.",
+    "handbook_ref": "Chapter 5 · Your role in the community",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-ROL-009",
+    "section_id": "CH5-ROL",
+    "type": "single",
+    "stem": "In Scotland, who is responsible for deciding whether to present a criminal case to court?",
+    "options": [
+      {
+        "label": "The Procurator Fiscal",
+        "correct": true
+      },
+      {
+        "label": "The Crown Prosecution Service",
+        "correct": false
+      },
+      {
+        "label": "The Chief Constable",
+        "correct": false
+      },
+      {
+        "label": "The local magistrates",
+        "correct": false
+      }
+    ],
+    "explanation": "In Scotland, the Procurator Fiscal decides whether to prosecute someone. In England and Wales, this job is done by the Crown Prosecution Service (CPS).",
+    "handbook_ref": "Chapter 5 · Your role in the community",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-ROL-010",
+    "section_id": "CH5-ROL",
+    "type": "truefalse",
+    "stem": "All households in the UK are encouraged to recycle their waste to protect the environment.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Recycling is an important part of looking after the environment. Local councils collect recyclable waste like paper, plastic and glass.",
+    "handbook_ref": "Chapter 5 · Your role in the community",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-ROL-011",
+    "section_id": "CH5-ROL",
+    "type": "single",
+    "stem": "Where can you go to donate blood to help people in hospitals?",
+    "options": [
+      {
+        "label": "To a blood donation session",
+        "correct": true
+      },
+      {
+        "label": "To a local police station",
+        "correct": false
+      },
+      {
+        "label": "To a post office",
+        "correct": false
+      },
+      {
+        "label": "To a town hall",
+        "correct": false
+      }
+    ],
+    "explanation": "Giving blood is a vital way to support the community and save lives. Blood donor sessions are run regularly across the UK.",
+    "handbook_ref": "Chapter 5 · Your role in the community",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-ROL-013",
+    "section_id": "CH5-ROL",
+    "type": "single",
+    "stem": "Which of these is one of the fundamental principles of British life?",
+    "options": [
+      {
+        "label": "Individual liberty",
+        "correct": true
+      },
+      {
+        "label": "Compulsory military service",
+        "correct": false
+      },
+      {
+        "label": "A state-controlled press",
+        "correct": false
+      },
+      {
+        "label": "Freedom from paying local taxes",
+        "correct": false
+      }
+    ],
+    "explanation": "The fundamental principles of British life include democracy, individual liberty, the rule of law, and mutual respect and tolerance.",
+    "handbook_ref": "Chapter 5 · Your role in the community",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-ROL-014",
+    "section_id": "CH5-ROL",
+    "type": "truefalse",
+    "stem": "It is illegal to collect money for charity in a public place in the UK without a licence.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "To collect money for charity in a public place, you must have a street collection permit from the local council or the police.",
+    "handbook_ref": "Chapter 5 · Your role in the community",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-ROL-015",
+    "section_id": "CH5-ROL",
+    "type": "single",
+    "stem": "Which animal welfare charity is the oldest in the UK?",
+    "options": [
+      {
+        "label": "RSPCA",
+        "correct": true
+      },
+      {
+        "label": "PDSA",
+        "correct": false
+      },
+      {
+        "label": "Blue Cross",
+        "correct": false
+      },
+      {
+        "label": "Dogs Trust",
+        "correct": false
+      }
+    ],
+    "explanation": "The Royal Society for the Prevention of Cruelty to Animals (RSPCA) is the oldest animal welfare charity in the UK. It was founded in 1824.",
+    "handbook_ref": "Chapter 5 · Your role in the community",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-ROL-016",
+    "section_id": "CH5-ROL",
+    "type": "multi",
+    "stem": "Which TWO of these are common roles that volunteers do in the UK?",
+    "options": [
+      {
+        "label": "Working in a charity shop",
+        "correct": true
+      },
+      {
+        "label": "Helping the elderly with shopping",
+        "correct": true
+      },
+      {
+        "label": "Serving on a professional court jury for pay",
+        "correct": false
+      },
+      {
+        "label": "Writing national laws for Parliament",
+        "correct": false
+      }
+    ],
+    "explanation": "Many people volunteer by helping vulnerable neighbours or working in charity shops. Volunteering is a good way to gain new skills.",
+    "handbook_ref": "Chapter 5 · Your role in the community",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-ROL-017",
+    "section_id": "CH5-ROL",
+    "type": "single",
+    "stem": "If you are self-employed, how do you pay your income tax?",
+    "options": [
+      {
+        "label": "By completing a Self Assessment tax return",
+        "correct": true
+      },
+      {
+        "label": "Through automatic PAYE from a bank account",
+        "correct": false
+      },
+      {
+        "label": "By purchasing tax stamps at a post office",
+        "correct": false
+      },
+      {
+        "label": "By paying a flat cash fee to the local council",
+        "correct": false
+      }
+    ],
+    "explanation": "Self-employed people must keep records of their income and expenses, and complete a Self Assessment tax return each year.",
+    "handbook_ref": "Chapter 5 · Your role in the community",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-ROL-018",
+    "section_id": "CH5-ROL",
+    "type": "single",
+    "stem": "What is a PTA in the context of UK schools?",
+    "options": [
+      {
+        "label": "Parent-Teacher Association",
+        "correct": true
+      },
+      {
+        "label": "Public Teaching Academy",
+        "correct": false
+      },
+      {
+        "label": "Primary Tuition Authority",
+        "correct": false
+      },
+      {
+        "label": "Professional Training Agreement",
+        "correct": false
+      }
+    ],
+    "explanation": "A Parent-Teacher Association (PTA) is a group of parents and teachers who organise activities to raise extra money for a school.",
+    "handbook_ref": "Chapter 5 · Your role in the community",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-ROL-019",
+    "section_id": "CH5-ROL",
+    "type": "single",
+    "stem": "Which of these is a well-known youth organisation where volunteers help young people learn skills?",
+    "options": [
+      {
+        "label": "The Scout Association",
+        "correct": true
+      },
+      {
+        "label": "The National Trust",
+        "correct": false
+      },
+      {
+        "label": "The Magistrates' Association",
+        "correct": false
+      },
+      {
+        "label": "The Electoral Commission",
+        "correct": false
+      }
+    ],
+    "explanation": "Organizations like the Scout Association and Girlguiding rely on adult volunteers to run activities and teach skills to young people.",
+    "handbook_ref": "Chapter 5 · Your role in the community",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-ROL-020",
+    "section_id": "CH5-ROL",
+    "type": "single",
+    "stem": "What is the name of the tax paid to your local council to help fund services like rubbish collection and street lighting?",
+    "options": [
+      {
+        "label": "Council Tax",
+        "correct": true
+      },
+      {
+        "label": "Value Added Tax",
+        "correct": false
+      },
+      {
+        "label": "National Insurance",
+        "correct": false
+      },
+      {
+        "label": "Income Tax",
+        "correct": false
+      }
+    ],
+    "explanation": "Council Tax is a tax paid by households to local councils. This money is used to pay for local services like rubbish collection, libraries, and street lighting.",
+    "handbook_ref": "Chapter 5 · Your role in the community",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-ROL-021",
+    "section_id": "CH5-ROL",
+    "type": "single",
+    "stem": "What is the minimum level of car insurance required by law to drive on public roads in the UK?",
+    "options": [
+      {
+        "label": "Third-party insurance",
+        "correct": true
+      },
+      {
+        "label": "Fully comprehensive insurance",
+        "correct": false
+      },
+      {
+        "label": "Breakdown insurance",
+        "correct": false
+      },
+      {
+        "label": "Personal injury insurance",
+        "correct": false
+      }
+    ],
+    "explanation": "To drive a car in the UK, you must have at least third-party insurance. This covers any damage or injury you cause to other people or their property.",
+    "handbook_ref": "Chapter 5 · Your role in the community",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-ROL-022",
+    "section_id": "CH5-ROL",
+    "type": "single",
+    "stem": "Which government agency must you notify if you buy or sell a car in the UK?",
+    "options": [
+      {
+        "label": "Driver and Vehicle Licensing Agency (DVLA)",
+        "correct": true
+      },
+      {
+        "label": "HM Revenue and Customs (HMRC)",
+        "correct": false
+      },
+      {
+        "label": "The Home Office",
+        "correct": false
+      },
+      {
+        "label": "The local council office",
+        "correct": false
+      }
+    ],
+    "explanation": "All vehicles in the UK must be registered with the Driver and Vehicle Licensing Agency (DVLA). You must notify them if you buy, sell, or modify a vehicle.",
+    "handbook_ref": "Chapter 5 · Your role in the community",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-ROL-023",
+    "section_id": "CH5-ROL",
+    "type": "single",
+    "stem": "What is a Neighbourhood Watch scheme in the UK?",
+    "options": [
+      {
+        "label": "A group of local people who work with police to prevent crime",
+        "correct": true
+      },
+      {
+        "label": "A government service that cleans local streets",
+        "correct": false
+      },
+      {
+        "label": "A private security company hired by local councils",
+        "correct": false
+      },
+      {
+        "label": "A school club that teaches children about road safety",
+        "correct": false
+      }
+    ],
+    "explanation": "Neighbourhood Watch schemes are run by local volunteers who work with the police. They help reduce crime and make their communities safer.",
+    "handbook_ref": "Chapter 5 · Your role in the community",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-ROL-024",
+    "section_id": "CH5-ROL",
+    "type": "single",
+    "stem": "What is the role of a school governor or member of a school board in the UK?",
+    "options": [
+      {
+        "label": "To help set the school's direction and manage its budget",
+        "correct": true
+      },
+      {
+        "label": "To teach lessons when a regular teacher is absent",
+        "correct": false
+      },
+      {
+        "label": "To inspect all schools in the country for safety",
+        "correct": false
+      },
+      {
+        "label": "To cook healthy meals for the students",
+        "correct": false
+      }
+    ],
+    "explanation": "School governors are volunteers from the local community who help set the school's direction and monitor its budget. They work closely with the headteacher.",
+    "handbook_ref": "Chapter 5 · Your role in the community",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-ROL-025",
+    "section_id": "CH5-ROL",
+    "type": "multi",
+    "stem": "Which TWO of these UK charities focus on protecting nature and historic buildings?",
+    "options": [
+      {
+        "label": "The National Trust",
+        "correct": true
+      },
+      {
+        "label": "The Royal Society for the Protection of Birds (RSPB)",
+        "correct": true
+      },
+      {
+        "label": "The British Red Cross",
+        "correct": false
+      },
+      {
+        "label": "Shelter",
+        "correct": false
+      }
+    ],
+    "explanation": "The National Trust and the RSPB are major conservation charities in the UK. Many people volunteer for them to help protect historic places and wildlife.",
+    "handbook_ref": "Chapter 5 · Your role in the community",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-ROL-026",
+    "section_id": "CH5-ROL",
+    "type": "truefalse",
+    "stem": "In the UK, you can be fined up to £1,000 if you do not attend jury service and do not have a good reason.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Jury service is a public duty. If you do not attend without a valid excuse, you are committing an offence and can be fined.",
+    "handbook_ref": "Chapter 5 · Your role in the community",
+    "difficulty": 2,
+    "ai_checked": true
   }
 ]

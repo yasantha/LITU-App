@@ -74,5 +74,221 @@
     "handbook_ref": "Chapter 1 · The values and principles of the UK",
     "difficulty": 2,
     "ai_checked": true
+  },
+  {
+    "id": "Q-CH1-VAL-004",
+    "section_id": "CH1-VAL",
+    "type": "single",
+    "stem": "What does the principle of 'the rule of law' mean for people living in the UK?",
+    "options": [
+      {
+        "label": "Only the police have to follow the law",
+        "correct": false
+      },
+      {
+        "label": "Everyone, including the government, must follow the law",
+        "correct": true
+      },
+      {
+        "label": "The laws only apply to British citizens",
+        "correct": false
+      },
+      {
+        "label": "Rich people are allowed to ignore some laws",
+        "correct": false
+      }
+    ],
+    "explanation": "The rule of law means that everyone is equal before the law. No person or group, no matter how powerful, is above the law in the UK.",
+    "handbook_ref": "Chapter 1 · The values and principles of the UK",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH1-VAL-005",
+    "section_id": "CH1-VAL",
+    "type": "single",
+    "stem": "The UK is a democratic country. What does this mean for its people?",
+    "options": [
+      {
+        "label": "One leader makes all the decisions",
+        "correct": false
+      },
+      {
+        "label": "People have a say in how the country is run",
+        "correct": true
+      },
+      {
+        "label": "There are no laws to follow",
+        "correct": false
+      },
+      {
+        "label": "Only certain families can vote",
+        "correct": false
+      }
+    ],
+    "explanation": "A democracy is a system where the citizens help choose how they are governed. This usually happens by voting for people to represent them.",
+    "handbook_ref": "Chapter 1 · The values and principles of the UK",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH1-VAL-006",
+    "section_id": "CH1-VAL",
+    "type": "multi",
+    "stem": "Which TWO of these are important rights for everyone living in the UK?",
+    "options": [
+      {
+        "label": "The right to a fair trial",
+        "correct": true
+      },
+      {
+        "label": "The right to a free car from the government",
+        "correct": false
+      },
+      {
+        "label": "Freedom of speech",
+        "correct": true
+      },
+      {
+        "label": "The right to choose which laws to follow",
+        "correct": false
+      }
+    ],
+    "explanation": "Rights in the UK include the freedom to express your views and the right to a fair legal process if you are accused of a crime.",
+    "handbook_ref": "Chapter 1 · The values and principles of the UK",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH1-VAL-007",
+    "section_id": "CH1-VAL",
+    "type": "truefalse",
+    "stem": "When a person becomes a British citizen, they must make a pledge to respect the UK's laws and values.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "New citizens make a formal promise to be loyal to the United Kingdom and to respect its democratic rights and freedoms.",
+    "handbook_ref": "Chapter 1 · The values and principles of the UK",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH1-VAL-008",
+    "section_id": "CH1-VAL",
+    "type": "single",
+    "stem": "What is the main reason that new residents are encouraged to learn about British life and history?",
+    "options": [
+      {
+        "label": "To help them join in and integrate into society",
+        "correct": true
+      },
+      {
+        "label": "To help them find a lower tax rate",
+        "correct": false
+      },
+      {
+        "label": "To make them stay in one city",
+        "correct": false
+      },
+      {
+        "label": "To stop them from travelling abroad",
+        "correct": false
+      }
+    ],
+    "explanation": "The UK wants new citizens to be able to play a full part in the community. Knowing about the country's values makes this easier.",
+    "handbook_ref": "Chapter 1 · The values and principles of the UK",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH1-VAL-009",
+    "section_id": "CH1-VAL",
+    "type": "single",
+    "stem": "What does 'individual liberty' mean as a value in the UK?",
+    "options": [
+      {
+        "label": "The right to do anything, even if it hurts others",
+        "correct": false
+      },
+      {
+        "label": "The freedom to live your life as you choose within the law",
+        "correct": true
+      },
+      {
+        "label": "The right to be given a free house by the state",
+        "correct": false
+      },
+      {
+        "label": "The freedom to ignore the police",
+        "correct": false
+      }
+    ],
+    "explanation": "Individual liberty means you have the personal freedom to live your own life, provided you respect the law and the rights of others.",
+    "handbook_ref": "Chapter 1 · The values and principles of the UK",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH1-VAL-010",
+    "section_id": "CH1-VAL",
+    "type": "single",
+    "stem": "In the UK, what is 'tolerance of those with different faiths and beliefs'?",
+    "options": [
+      {
+        "label": "A rule that everyone must have the same religion",
+        "correct": false
+      },
+      {
+        "label": "Accepting that others have the right to their own beliefs",
+        "correct": true
+      },
+      {
+        "label": "A law that says nobody can have a religion",
+        "correct": false
+      },
+      {
+        "label": "Giving more power to people with specific beliefs",
+        "correct": false
+      }
+    ],
+    "explanation": "Tolerance means respecting that people follow different religions or no religion at all. This is a basic principle of British life.",
+    "handbook_ref": "Chapter 1 · The values and principles of the UK",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH1-VAL-011",
+    "section_id": "CH1-VAL",
+    "type": "single",
+    "stem": "Why is it important for people in the UK to help out in their local community?",
+    "options": [
+      {
+        "label": "It is the only way to get a passport",
+        "correct": false
+      },
+      {
+        "label": "It helps to build a better and stronger society",
+        "correct": true
+      },
+      {
+        "label": "It is required by law for all adults every week",
+        "correct": false
+      },
+      {
+        "label": "It allows people to choose their own taxes",
+        "correct": false
+      }
+    ],
+    "explanation": "Participation in community life, such as volunteering, helps people feel connected and makes the local area a better place for everyone.",
+    "handbook_ref": "Chapter 1 · The values and principles of the UK",
+    "difficulty": 1,
+    "ai_checked": true
   }
 ]

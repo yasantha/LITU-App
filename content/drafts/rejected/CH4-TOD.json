@@ -18,5 +18,90 @@
     "handbook_ref": "Chapter 4 · The UK today",
     "difficulty": 2,
     "rejected_reason": "The explanation claims the notes are valid everywhere in the UK, but legally they are not legal tender even in their home countries; shops are not obliged to accept them."
+  },
+  {
+    "id": "Q-CH4-TOD-016",
+    "section_id": "CH4-TOD",
+    "type": "multi",
+    "stem": "Which TWO patron saints have their crosses represented on the Union Flag?",
+    "options": [
+      {
+        "label": "St George",
+        "correct": true
+      },
+      {
+        "label": "St Andrew",
+        "correct": true
+      },
+      {
+        "label": "St David",
+        "correct": false
+      },
+      {
+        "label": "St Jude",
+        "correct": false
+      }
+    ],
+    "explanation": "The Union Flag is made of the crosses of St George (England), St Andrew (Scotland), and St Patrick (Ireland). St David's cross is not represented on it.",
+    "handbook_ref": "Chapter 4 · The UK today",
+    "difficulty": 2,
+    "rejected_reason": "The question asks for two options, but the flag incorporates three (St George, St Andrew, and St Patrick)."
+  },
+  {
+    "id": "Q-CH4-TOD-020",
+    "section_id": "CH4-TOD",
+    "type": "single",
+    "stem": "According to the 2011 Census, approximately what was the total population of the United Kingdom?",
+    "options": [
+      {
+        "label": "44 million",
+        "correct": false
+      },
+      {
+        "label": "54 million",
+        "correct": false
+      },
+      {
+        "label": "64 million",
+        "correct": true
+      },
+      {
+        "label": "74 million",
+        "correct": false
+      }
+    ],
+    "explanation": "The UK population was over 64 million in 2011. It grew by about 7 million people in the ten years before that census.",
+    "handbook_ref": "Chapter 4 · The UK today",
+    "difficulty": 3,
+    "rejected_reason": "The handbook states that in 2011 the total population was just over 63 million, not 64 million. Furthermore, the explanation incorrectly states the population grew by 7 million, while the handbook says it grew by 7%."
+  },
+  {
+    "id": "Q-CH4-TOD-014",
+    "section_id": "CH4-TOD",
+    "type": "single",
+    "stem": "Which city is the capital city of Northern Ireland?",
+    "options": [
+      {
+        "label": "Belfast",
+        "correct": true
+      },
+      {
+        "label": "Derry",
+        "correct": false
+      },
+      {
+        "label": "Dublin",
+        "correct": false
+      },
+      {
+        "label": "Cardiff",
+        "correct": false
+      }
+    ],
+    "explanation": "Belfast is the capital city of Northern Ireland. London is the capital of England, Edinburgh is the capital of Scotland, and Cardiff is the capital of Wales.",
+    "handbook_ref": "Chapter 4 · The UK today",
+    "difficulty": 1,
+    "ai_checked": true,
+    "rejected_reason": "Duplicate of Q-CH2-UK-006"
   }
 ]
