@@ -55,7 +55,11 @@ import androidx.navigation.compose.currentBackStackEntryAsState
 import androidx.navigation.compose.rememberNavController
 import com.myday.litu.AppState
 import com.myday.litu.R
+import com.myday.litu.RatingEntryPoint
 import com.myday.litu.StartDestination
+import com.myday.litu.core.domain.usecase.GoodMoment
+import androidx.compose.runtime.rememberCoroutineScope
+import kotlinx.coroutines.launch
 import com.myday.litu.core.analytics.PaywallSource
 import com.myday.litu.core.designsystem.component.LituButton
 import com.myday.litu.core.designsystem.icon.LogoMark
@@ -127,6 +131,9 @@ fun LituApp(state: AppState) {
     LaunchedEffect(reachedHome) { if (reachedHome && !state.isPro) activity?.let(ads::requestConsent) }
     // Interstitials only at natural breaks: leaving a finished session or mock results.
     val homeAfterBreak = { ads.showInterstitialAtBreak(activity) { nav.goHome() } }
+    val rating = remember { EntryPointAccessors.fromApplication(context.applicationContext, RatingEntryPoint::class.java).ratingPrompt() }
+    val scope = rememberCoroutineScope()
+    val goodMoment = { moment: GoodMoment -> activity?.let { a -> scope.launch { rating.maybeAsk(a, moment) } }; Unit }
 
     Scaffold(
         containerColor = LituTheme.colors.background,
@@ -200,6 +207,7 @@ fun LituApp(state: AppState) {
                     onLocked = { nav.openPaywall() },
                     onOpenNotes = { nav.navigate(NotesRoute(it)) },
                     onPractiseSections = { nav.navigate(QuestionSessionRoute.sections(it)) },
+                    onWeekStreak = { goodMoment(GoodMoment.WEEK_STREAK) },
                 )
             }
 
@@ -245,6 +253,7 @@ fun LituApp(state: AppState) {
                 onDone = homeAfterBreak,
                 onReviewAnswers = { nav.navigate(AnswerReviewRoute(it)) },
                 onPractiseChapters = { nav.navigate(QuestionSessionRoute.chapters(it)) },
+                onPassed = { goodMoment(GoodMoment.PASSED_MOCK) },
             )
             answerReviewScreen(
                 onBack = { nav.popBackStack() },

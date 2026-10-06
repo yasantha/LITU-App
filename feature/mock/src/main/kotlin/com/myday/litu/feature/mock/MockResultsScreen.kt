@@ -99,12 +99,15 @@ internal fun MockResultsScreen(
     onDone: () -> Unit,
     onReviewAnswers: (String) -> Unit,
     onPractiseChapters: (List<String>) -> Unit,
+    onPassed: () -> Unit,
     viewModel: MockResultsViewModel = hiltViewModel(),
 ) {
     val s by viewModel.state.collectAsStateWithLifecycle()
     val c = LituTheme.colors
     BackHandler(onBack = onDone)
     if (!s.loaded) return LoadingBox()
+    // A passed mock is a good moment to ask for a rating (once; the app limits how often).
+    androidx.compose.runtime.LaunchedEffect(s.passed) { if (s.passed) onPassed() }
     val mockId = viewModel.mockId
     ScreenColumn(
         topBar = { LituTopBar("", nav = TopBarNav.CLOSE, onNav = onDone) },

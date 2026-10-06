@@ -133,6 +133,7 @@ dependencies {
     implementation(libs.androidx.hilt.work)
     ksp(libs.androidx.hilt.compiler)
     implementation(libs.androidx.profileinstaller)
+    implementation(libs.play.review)
     baselineProfile(project(":benchmark"))
     implementation(libs.kotlinx.serialization.json)
 

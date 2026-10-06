@@ -24,8 +24,11 @@ fun NavGraphBuilder.mockResultsScreen(
     onDone: () -> Unit,
     onReviewAnswers: (String) -> Unit,
     onPractiseChapters: (List<String>) -> Unit,
+    onPassed: () -> Unit,
 ) {
-    composable<MockResultsRoute> { MockResultsScreen(onDone = onDone, onReviewAnswers = onReviewAnswers, onPractiseChapters = onPractiseChapters) }
+    composable<MockResultsRoute> {
+        MockResultsScreen(onDone = onDone, onReviewAnswers = onReviewAnswers, onPractiseChapters = onPractiseChapters, onPassed = onPassed)
+    }
 }
 
 fun NavGraphBuilder.answerReviewScreen(onBack: () -> Unit, onReadAbout: (sectionId: String, questionId: String) -> Unit) {

@@ -37,6 +37,7 @@ detekt = "1.23.8"
 playPublisher = "4.1.1"
 profileinstaller = "1.4.1"
 playServicesAds = "25.5.0"
+playReview = "2.0.2"
 ump = "4.0.0"
 benchmark = "1.5.0"
 uiautomator = "2.4.0"
@@ -77,6 +78,7 @@ androidx-work-testing = { group = "androidx.work", name = "work-testing", versio
 androidx-core-splashscreen = { group = "androidx.core", name = "core-splashscreen", version.ref = "splashscreen" }
 androidx-benchmark-macro = { group = "androidx.benchmark", name = "benchmark-macro-junit4", version.ref = "benchmark" }
 androidx-uiautomator = { group = "androidx.test.uiautomator", name = "uiautomator", version.ref = "uiautomator" }
+play-review = { group = "com.google.android.play", name = "review-ktx", version.ref = "playReview" }
 play-services-ads = { group = "com.google.android.gms", name = "play-services-ads", version.ref = "playServicesAds" }
 ump = { group = "com.google.android.ump", name = "user-messaging-platform", version.ref = "ump" }
 androidx-profileinstaller = { group = "androidx.profileinstaller", name = "profileinstaller", version.ref = "profileinstaller" }

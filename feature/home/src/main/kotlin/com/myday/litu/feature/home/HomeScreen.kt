@@ -73,6 +73,7 @@ fun HomeScreen(
     onLocked: () -> Unit,
     onOpenNotes: (sectionId: String) -> Unit,
     onPractiseSections: (sectionIds: List<String>) -> Unit,
+    onWeekStreak: () -> Unit,
     viewModel: HomeViewModel = hiltViewModel(),
 ) {
     val s by viewModel.state.collectAsStateWithLifecycle()
@@ -81,6 +82,8 @@ fun HomeScreen(
         onPauseOrDispose { }
     }
     val c = LituTheme.colors
+    val weekStreak = s.todayProgress.streak.current >= 7
+    androidx.compose.runtime.LaunchedEffect(weekStreak) { if (weekStreak) onWeekStreak() }
     ScreenColumn(Modifier.padding(top = 16.dp)) {
         Row(verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.spacedBy(12.dp)) {
             LogoTile(44.dp)
