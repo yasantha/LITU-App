@@ -7,6 +7,7 @@
 #   GOOGLE_SERVICES_PROD_JSON     google-services.json for litu-prod
 #   PLAY_SERVICE_ACCOUNT_JSON     Play Console service account with release permission
 #   LITU_REVENUECAT_KEY           RevenueCat public Google SDK key
+#   LITU_ADMOB_APP_ID, LITU_ADMOB_BANNER_ID, LITU_ADMOB_INTERSTITIAL_ID   AdMob app and ad unit IDs
 name: Release
 
 on:
@@ -49,6 +50,9 @@ jobs:
           LITU_UPLOAD_KEY_ALIAS: ${{ secrets.LITU_UPLOAD_KEY_ALIAS }}
           LITU_UPLOAD_KEY_PASSWORD: ${{ secrets.LITU_UPLOAD_KEY_PASSWORD }}
           LITU_REVENUECAT_KEY: ${{ secrets.LITU_REVENUECAT_KEY }}
+          LITU_ADMOB_APP_ID: ${{ secrets.LITU_ADMOB_APP_ID }}
+          LITU_ADMOB_BANNER_ID: ${{ secrets.LITU_ADMOB_BANNER_ID }}
+          LITU_ADMOB_INTERSTITIAL_ID: ${{ secrets.LITU_ADMOB_INTERSTITIAL_ID }}
         run: ./gradlew bundleProdRelease publishProdReleaseBundle
       - uses: actions/upload-artifact@v7
         with:
