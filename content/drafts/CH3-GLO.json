@@ -24,7 +24,8 @@
     ],
     "explanation": "Sir Robert Walpole was the first politician to lead the government as Prime Minister. He held the post from 1721 to 1742.",
     "handbook_ref": "Chapter 3 · A global power",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-GLO-002",
@@ -51,7 +52,8 @@
     ],
     "explanation": "Charles Edward Stuart, known as Bonnie Prince Charlie, tried to take the throne. His army was defeated at Culloden in Scotland in 1746.",
     "handbook_ref": "Chapter 3 · A global power",
-    "difficulty": 3
+    "difficulty": 3,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-GLO-003",
@@ -78,7 +80,8 @@
     ],
     "explanation": "Robert Burns is Scotland's best-known poet. People around the world sing his song 'Auld Lang Syne' at New Year.",
     "handbook_ref": "Chapter 3 · A global power",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-GLO-004",
@@ -105,7 +108,8 @@
     ],
     "explanation": "James Watt was a Scottish scientist. His improvements to steam power helped factories and machines develop quickly during the Industrial Revolution.",
     "handbook_ref": "Chapter 3 · A global power",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-GLO-005",
@@ -132,7 +136,8 @@
     ],
     "explanation": "Parliament ended the slave trade in 1807. In 1833 the Emancipation Act ended slavery across the British Empire.",
     "handbook_ref": "Chapter 3 · A global power",
-    "difficulty": 3
+    "difficulty": 3,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-GLO-006",
@@ -159,7 +164,8 @@
     ],
     "explanation": "William Wilberforce was an MP and a Christian who campaigned for many years to end the slave trade.",
     "handbook_ref": "Chapter 3 · A global power",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-GLO-007",
@@ -186,7 +192,8 @@
     ],
     "explanation": "Admiral Nelson won the Battle of Trafalgar in 1805 but was killed in the battle. Nelson's Column in Trafalgar Square remembers him.",
     "handbook_ref": "Chapter 3 · A global power",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-GLO-008",
@@ -213,7 +220,8 @@
     ],
     "explanation": "The Duke of Wellington defeated Napoleon at Waterloo in 1815. He later became Prime Minister.",
     "handbook_ref": "Chapter 3 · A global power",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-GLO-009",
@@ -240,7 +248,8 @@
     ],
     "explanation": "Queen Victoria reigned from 1837 to 1901, almost 64 years. During this time Britain became a powerful country with a large empire.",
     "handbook_ref": "Chapter 3 · A global power",
-    "difficulty": 3
+    "difficulty": 3,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-GLO-010",
@@ -267,7 +276,8 @@
     ],
     "explanation": "Florence Nightingale cared for wounded soldiers in the Crimean War. She later set up a school for nurses in London.",
     "handbook_ref": "Chapter 3 · A global power",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-GLO-011",
@@ -294,7 +304,8 @@
     ],
     "explanation": "Isambard Kingdom Brunel was a great engineer. He built the Great Western Railway, tunnels, bridges and steamships.",
     "handbook_ref": "Chapter 3 · A global power",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-GLO-012",
@@ -321,7 +332,8 @@
     ],
     "explanation": "Emmeline Pankhurst set up the Women's Social and Political Union. Its members, called suffragettes, campaigned hard for women's right to vote.",
     "handbook_ref": "Chapter 3 · A global power",
-    "difficulty": 1
+    "difficulty": 1,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-GLO-013",
@@ -340,6 +352,1183 @@
     ],
     "explanation": "In 1918 women over 30 got the vote. Ten years later, in 1928, women could vote at 21, the same as men.",
     "handbook_ref": "Chapter 3 · A global power",
-    "difficulty": 3
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-014",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "Which two countries were officially united by the Act of Union in 1707?",
+    "options": [
+      {
+        "label": "England and Scotland",
+        "correct": true
+      },
+      {
+        "label": "England and Ireland",
+        "correct": false
+      },
+      {
+        "label": "Scotland and Wales",
+        "correct": false
+      },
+      {
+        "label": "Wales and Ireland",
+        "correct": false
+      }
+    ],
+    "explanation": "The Act of Union in 1707 united the kingdoms of England and Scotland into a single kingdom named Great Britain. They already shared a monarch before this.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-015",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "Which Scottish thinker wrote a famous book about economics during the Enlightenment?",
+    "options": [
+      {
+        "label": "Adam Smith",
+        "correct": true
+      },
+      {
+        "label": "David Hume",
+        "correct": false
+      },
+      {
+        "label": "James Watt",
+        "correct": false
+      },
+      {
+        "label": "Robert Burns",
+        "correct": false
+      }
+    ],
+    "explanation": "Adam Smith was an influential thinker of the Scottish Enlightenment. His book 'The Wealth of Nations' developed ideas about trade and economics.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-016",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "Which businessman developed new machinery for spinning thread during the Industrial Revolution?",
+    "options": [
+      {
+        "label": "Richard Arkwright",
+        "correct": true
+      },
+      {
+        "label": "Isambard Kingdom Brunel",
+        "correct": false
+      },
+      {
+        "label": "George Stephenson",
+        "correct": false
+      },
+      {
+        "label": "James Watt",
+        "correct": false
+      }
+    ],
+    "explanation": "Richard Arkwright developed efficient ways of spinning cotton thread using water power. He is famous for his work in the early factories.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-017",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "In which year did the American colonies declare their independence from Great Britain?",
+    "options": [
+      {
+        "label": "1776",
+        "correct": true
+      },
+      {
+        "label": "1789",
+        "correct": false
+      },
+      {
+        "label": "1801",
+        "correct": false
+      },
+      {
+        "label": "1815",
+        "correct": false
+      }
+    ],
+    "explanation": "The American colonies declared their independence in 1776. After a war, Great Britain officially recognised their independence in 1783.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-018",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "Which country was united with Great Britain by the Act of Union in 1800?",
+    "options": [
+      {
+        "label": "Ireland",
+        "correct": true
+      },
+      {
+        "label": "Scotland",
+        "correct": false
+      },
+      {
+        "label": "Wales",
+        "correct": false
+      },
+      {
+        "label": "Canada",
+        "correct": false
+      }
+    ],
+    "explanation": "The Act of Union 1800 created the United Kingdom of Great Britain and Ireland. This act took official effect on 1 January 1801.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-019",
+    "section_id": "CH3-GLO",
+    "type": "truefalse",
+    "stem": "During the Victorian era, the British Empire grew to become the largest empire the world had ever seen.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "During the 19th century, the British Empire expanded greatly. By the end of the Victorian era, it covered more than a quarter of the world's land.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-020",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "Who was Mary Seacole?",
+    "options": [
+      {
+        "label": "A Jamaican nurse who helped British soldiers",
+        "correct": true
+      },
+      {
+        "label": "A leader of the campaign to end the slave trade",
+        "correct": false
+      },
+      {
+        "label": "The first female Member of Parliament",
+        "correct": false
+      },
+      {
+        "label": "A famous writer of Victorian novels",
+        "correct": false
+      }
+    ],
+    "explanation": "Mary Seacole was a Jamaican-born nurse who travelled to the Crimea to care for sick and wounded British soldiers. She is remembered alongside Florence Nightingale.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-021",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "What medal was introduced during the Crimean War to reward soldiers for extreme bravery?",
+    "options": [
+      {
+        "label": "The Victoria Cross",
+        "correct": true
+      },
+      {
+        "label": "The George Cross",
+        "correct": false
+      },
+      {
+        "label": "The Order of the Bath",
+        "correct": false
+      },
+      {
+        "label": "The Military Merit Medal",
+        "correct": false
+      }
+    ],
+    "explanation": "The Victoria Cross was introduced during the Crimean War. It remains the highest award for bravery in the British armed forces.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-022",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "Where was the Great Exhibition of 1851 held?",
+    "options": [
+      {
+        "label": "The Crystal Palace",
+        "correct": true
+      },
+      {
+        "label": "Wembley Stadium",
+        "correct": false
+      },
+      {
+        "label": "The British Museum",
+        "correct": false
+      },
+      {
+        "label": "The Tower of London",
+        "correct": false
+      }
+    ],
+    "explanation": "The Great Exhibition of 1851 was held in Hyde Park inside a massive glass building called the Crystal Palace. It showed off modern industry and science.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-023",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "Who led the National Union of Women's Suffrage Societies and campaigned for votes for women using peaceful, legal methods?",
+    "options": [
+      {
+        "label": "Millicent Fawcett",
+        "correct": true
+      },
+      {
+        "label": "Emmeline Pankhurst",
+        "correct": false
+      },
+      {
+        "label": "Florence Nightingale",
+        "correct": false
+      },
+      {
+        "label": "Mary Seacole",
+        "correct": false
+      }
+    ],
+    "explanation": "Millicent Fawcett led the suffragists, who used peaceful and legal methods to campaign for women's votes. This was different from the militant suffragettes.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-024",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "Between 1899 and 1902, Britain fought a war in South Africa against settlers of Dutch origin. What is this war called?",
+    "options": [
+      {
+        "label": "The Boer War",
+        "correct": true
+      },
+      {
+        "label": "The Crimean War",
+        "correct": false
+      },
+      {
+        "label": "The Seven Years War",
+        "correct": false
+      },
+      {
+        "label": "The Peninsular War",
+        "correct": false
+      }
+    ],
+    "explanation": "The Boer War (1899-1902) was fought in South Africa between the British and Dutch settlers, known as Boers. It was a difficult conflict that caused much debate in Britain.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-025",
+    "section_id": "CH3-GLO",
+    "type": "multi",
+    "stem": "Which TWO countries fought alongside Britain against Russia in the Crimean War?",
+    "options": [
+      {
+        "label": "France",
+        "correct": true
+      },
+      {
+        "label": "Turkey",
+        "correct": true
+      },
+      {
+        "label": "Germany",
+        "correct": false
+      },
+      {
+        "label": "Spain",
+        "correct": false
+      }
+    ],
+    "explanation": "The Crimean War (1853-1856) saw Britain, France, and Turkey (the Ottoman Empire) fight together against Russia. It was the first war to be covered by modern photojournalism.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-026",
+    "section_id": "CH3-GLO",
+    "type": "multi",
+    "stem": "Which TWO changes occurred in Britain during the Industrial Revolution?",
+    "options": [
+      {
+        "label": "People moved from the countryside to towns",
+        "correct": true
+      },
+      {
+        "label": "Machinery replaced many hand tools",
+        "correct": true
+      },
+      {
+        "label": "Most people started working in farming",
+        "correct": false
+      },
+      {
+        "label": "Roads and canals were completely shut down",
+        "correct": false
+      }
+    ],
+    "explanation": "The Industrial Revolution saw Britain transition from an agricultural country to an industrial one. People moved to cities for factory work, and machines speeded up production.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-027",
+    "section_id": "CH3-GLO",
+    "type": "truefalse",
+    "stem": "The Chartists campaigned during the 19th century to get the vote for all working-class men.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "In the 1830s and 1840s, the Chartists campaigned for several political reforms, including votes for all men and secret ballots.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-028",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "What cheap postal system was introduced in Britain in 1840?",
+    "options": [
+      {
+        "label": "The Penny Post",
+        "correct": true
+      },
+      {
+        "label": "The Royal Mail Express",
+        "correct": false
+      },
+      {
+        "label": "The Shilling Stamp",
+        "correct": false
+      },
+      {
+        "label": "The Free Post",
+        "correct": false
+      }
+    ],
+    "explanation": "The penny post was introduced in 1840. It allowed people to send a letter anywhere in the country for just one penny, making communication cheap and easy.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-029",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "During the reign of George II, which famous song was sung in public for the first time?",
+    "options": [
+      {
+        "label": "God Save the King",
+        "correct": true
+      },
+      {
+        "label": "Rule Britannia",
+        "correct": false
+      },
+      {
+        "label": "Auld Lang Syne",
+        "correct": false
+      },
+      {
+        "label": "Jerusalem",
+        "correct": false
+      }
+    ],
+    "explanation": "'God Save the King' was first sung during the time of George II. It later became the national anthem of the United Kingdom.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-030",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "Who helped Bonnie Prince Charlie escape from Scotland after his army was defeated in 1746?",
+    "options": [
+      {
+        "label": "Mary Kingsley",
+        "correct": false
+      },
+      {
+        "label": "Flora MacDonald",
+        "correct": true
+      },
+      {
+        "label": "Elizabeth Fry",
+        "correct": false
+      },
+      {
+        "label": "Millicent Fawcett",
+        "correct": false
+      }
+    ],
+    "explanation": "Flora MacDonald was a Scottish woman who helped the prince hide from the government. He eventually escaped to France.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-031",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "Lord Shaftesbury is remembered for his work to improve the lives of which group of people?",
+    "options": [
+      {
+        "label": "Soldiers in the army",
+        "correct": false
+      },
+      {
+        "label": "Wealthy landowners",
+        "correct": false
+      },
+      {
+        "label": "Foreign explorers",
+        "correct": false
+      },
+      {
+        "label": "Children working in factories",
+        "correct": true
+      }
+    ],
+    "explanation": "Lord Shaftesbury worked to stop children from working in dangerous mines. He also helped limit the hours they could work in factories.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-032",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "In the 1760s, Captain James Cook led an expedition to map the coast of which country?",
+    "options": [
+      {
+        "label": "Australia",
+        "correct": true
+      },
+      {
+        "label": "Canada",
+        "correct": false
+      },
+      {
+        "label": "India",
+        "correct": false
+      },
+      {
+        "label": "South Africa",
+        "correct": false
+      }
+    ],
+    "explanation": "Captain Cook mapped the coast of Australia and also visited New Zealand. These areas later became part of the British Empire.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-033",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "In which year did the Emancipation Act abolish slavery in all British colonies?",
+    "options": [
+      {
+        "label": "1776",
+        "correct": false
+      },
+      {
+        "label": "1807",
+        "correct": false
+      },
+      {
+        "label": "1833",
+        "correct": true
+      },
+      {
+        "label": "1851",
+        "correct": false
+      }
+    ],
+    "explanation": "While the slave trade was made illegal in 1807, slavery itself was not abolished in the colonies until 1833. Many people were freed as a result.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-034",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "What was the main result of the Reform Act of 1832?",
+    "options": [
+      {
+        "label": "It gave women the vote",
+        "correct": false
+      },
+      {
+        "label": "It gave more people the right to vote",
+        "correct": true
+      },
+      {
+        "label": "It ended the monarchy",
+        "correct": false
+      },
+      {
+        "label": "It made all schools free",
+        "correct": false
+      }
+    ],
+    "explanation": "The 1832 Reform Act increased the number of people who could vote. It also changed how seats in Parliament were shared between different towns.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-035",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "Why did the British government repeal the Corn Laws in 1846?",
+    "options": [
+      {
+        "label": "To make bread cheaper",
+        "correct": true
+      },
+      {
+        "label": "To help farmers earn more money",
+        "correct": false
+      },
+      {
+        "label": "To start a war with France",
+        "correct": false
+      },
+      {
+        "label": "To build more railways",
+        "correct": false
+      }
+    ],
+    "explanation": "The Corn Laws were taxes on imported corn. Removing them made food cheaper for workers in the growing cities.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-036",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "Which Victorian woman is famous for her travels in West Africa and her work as an explorer?",
+    "options": [
+      {
+        "label": "Florence Nightingale",
+        "correct": false
+      },
+      {
+        "label": "Mary Kingsley",
+        "correct": true
+      },
+      {
+        "label": "Emmeline Pankhurst",
+        "correct": false
+      },
+      {
+        "label": "Queen Victoria",
+        "correct": false
+      }
+    ],
+    "explanation": "Mary Kingsley was a writer and explorer. She traveled through West Africa and wrote about the people and cultures she found there.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-037",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "Which famous poet wrote about the Crimean War in 'The Charge of the Light Brigade'?",
+    "options": [
+      {
+        "label": "Robert Burns",
+        "correct": false
+      },
+      {
+        "label": "William Shakespeare",
+        "correct": false
+      },
+      {
+        "label": "Alfred Lord Tennyson",
+        "correct": true
+      },
+      {
+        "label": "John Milton",
+        "correct": false
+      }
+    ],
+    "explanation": "Alfred Lord Tennyson was a popular Victorian poet. His poem describes a famous battle during the Crimean War.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-038",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "Which person is known for their work to improve conditions for people in British prisons?",
+    "options": [
+      {
+        "label": "Elizabeth Fry",
+        "correct": true
+      },
+      {
+        "label": "Isambard Kingdom Brunel",
+        "correct": false
+      },
+      {
+        "label": "Richard Arkwright",
+        "correct": false
+      },
+      {
+        "label": "Bonnie Prince Charlie",
+        "correct": false
+      }
+    ],
+    "explanation": "Elizabeth Fry was a reformer who visited women in prison. She worked hard to make sure prisoners were treated more kindly.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-039",
+    "section_id": "CH3-GLO",
+    "type": "multi",
+    "stem": "Which TWO of these transport systems were greatly developed during the Industrial Revolution?",
+    "options": [
+      {
+        "label": "Canals",
+        "correct": true
+      },
+      {
+        "label": "Airplanes",
+        "correct": false
+      },
+      {
+        "label": "Railways",
+        "correct": true
+      },
+      {
+        "label": "Motorways",
+        "correct": false
+      }
+    ],
+    "explanation": "Canals were built to move heavy goods like coal. Later, the railway system grew quickly and connected many British cities.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-040",
+    "section_id": "CH3-GLO",
+    "type": "multi",
+    "stem": "Which TWO of these were demands made by the Chartists in the 1830s and 1840s?",
+    "options": [
+      {
+        "label": "A vote for all men",
+        "correct": true
+      },
+      {
+        "label": "A secret ballot",
+        "correct": true
+      },
+      {
+        "label": "Votes for women",
+        "correct": false
+      },
+      {
+        "label": "Ending the monarchy",
+        "correct": false
+      }
+    ],
+    "explanation": "The Chartists wanted every man to have the vote. They also wanted the secret ballot to stop people from being bullied into voting for a certain person.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-041",
+    "section_id": "CH3-GLO",
+    "type": "truefalse",
+    "stem": "In the 18th century, new ideas about politics, science, and philosophy led to a movement called the Enlightenment.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "The Enlightenment was a time when many people started to use reason and science to understand the world, rather than just tradition.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-042",
+    "section_id": "CH3-GLO",
+    "type": "truefalse",
+    "stem": "During the Victorian era, the lives of the poor in cities were often dirty and overcrowded.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "As more people moved to cities for factory work, housing became a problem. Many families lived in small, unhealthy homes with no clean water.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-043",
+    "section_id": "CH3-GLO",
+    "type": "truefalse",
+    "stem": "Prince Albert was Queen Victoria's husband and helped to organize the Great Exhibition of 1851.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Prince Albert was a German prince who married Queen Victoria. He was very interested in art, science, and industry.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-044",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "During the 18th century, which products were brought from the Americas to Britain as part of the slave trade?",
+    "options": [
+      {
+        "label": "Sugar and tobacco",
+        "correct": true
+      },
+      {
+        "label": "Silk and tea",
+        "correct": false
+      },
+      {
+        "label": "Spices and porcelain",
+        "correct": false
+      },
+      {
+        "label": "Wheat and potatoes",
+        "correct": false
+      }
+    ],
+    "explanation": "Under the triangular trade, ships carried British goods to West Africa, enslaved people to the Americas, and sugar, tobacco, and cotton back to Britain.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-045",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "Which British trade organisation fought battles to gain control of large parts of India in the 18th century?",
+    "options": [
+      {
+        "label": "The East India Company",
+        "correct": true
+      },
+      {
+        "label": "The Royal African Company",
+        "correct": false
+      },
+      {
+        "label": "The Hudson's Bay Company",
+        "correct": false
+      },
+      {
+        "label": "The Virginia Company",
+        "correct": false
+      }
+    ],
+    "explanation": "The East India Company was set up to trade with Asia. It gained control of huge parts of India after defeating local rulers and French forces.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-046",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "Which former slave became a famous writer and travelled around Britain speaking out against the slave trade?",
+    "options": [
+      {
+        "label": "Olaudah Equiano",
+        "correct": true
+      },
+      {
+        "label": "Ignatius Sancho",
+        "correct": false
+      },
+      {
+        "label": "Frederick Douglass",
+        "correct": false
+      },
+      {
+        "label": "William Wilberforce",
+        "correct": false
+      }
+    ],
+    "explanation": "Olaudah Equiano was an enslaved African who bought his freedom. His autobiography became a best-seller and helped people see the evils of slavery.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-047",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "Many French Protestants came to England as refugees after 1685. What were these people called?",
+    "options": [
+      {
+        "label": "Huguenots",
+        "correct": true
+      },
+      {
+        "label": "Jacobites",
+        "correct": false
+      },
+      {
+        "label": "Puritans",
+        "correct": false
+      },
+      {
+        "label": "Cavaliers",
+        "correct": false
+      }
+    ],
+    "explanation": "The Huguenots were French Protestants who fled persecution in France. Many of them were skilled workers, such as silk weavers, who settled in London.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-048",
+    "section_id": "CH3-GLO",
+    "type": "truefalse",
+    "stem": "The Act of Union in 1707 created a single Kingdom of Great Britain, with one parliament for England, Wales, and Scotland.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "The Act of Union officially joined England, Wales, and Scotland together under one parliament in Westminster, London.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-049",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "What was the name of the Scottish supporters who wanted to restore James II and his family to the British throne?",
+    "options": [
+      {
+        "label": "Jacobites",
+        "correct": true
+      },
+      {
+        "label": "Chartists",
+        "correct": false
+      },
+      {
+        "label": "Cavaliers",
+        "correct": false
+      },
+      {
+        "label": "Suffragettes",
+        "correct": false
+      }
+    ],
+    "explanation": "The Jacobites supported the exiled King James II and his descendants, including Bonnie Prince Charlie. Their rebellion was finally defeated in 1746.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-050",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "Which 18th-century British designer is famous for creating natural-looking parks and gardens around stately homes?",
+    "options": [
+      {
+        "label": "Lancelot 'Capability' Brown",
+        "correct": true
+      },
+      {
+        "label": "Sir Christopher Wren",
+        "correct": false
+      },
+      {
+        "label": "William Morris",
+        "correct": false
+      },
+      {
+        "label": "Thomas Chippendale",
+        "correct": false
+      }
+    ],
+    "explanation": "Lancelot 'Capability' Brown is often called Britain's greatest landscape designer. He designed over 170 gardens, including those at Blenheim Palace.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-051",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "Who wrote 'A Dictionary of the English Language', which was published in 1755 and remained famous for over a century?",
+    "options": [
+      {
+        "label": "Samuel Johnson",
+        "correct": true
+      },
+      {
+        "label": "William Shakespeare",
+        "correct": false
+      },
+      {
+        "label": "Charles Dickens",
+        "correct": false
+      },
+      {
+        "label": "Jonathan Swift",
+        "correct": false
+      }
+    ],
+    "explanation": "Samuel Johnson wrote the dictionary, which took him nine years to complete. It was one of the most influential dictionaries in English history.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-052",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "What was the name of the ship on which Admiral Nelson died during the Battle of Trafalgar?",
+    "options": [
+      {
+        "label": "HMS Victory",
+        "correct": true
+      },
+      {
+        "label": "HMS Beagle",
+        "correct": false
+      },
+      {
+        "label": "The Mary Rose",
+        "correct": false
+      },
+      {
+        "label": "The Mayflower",
+        "correct": false
+      }
+    ],
+    "explanation": "Admiral Horatio Nelson was fatally wounded on his flagship, HMS Victory, during the British naval victory against the French and Spanish in 1805.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-053",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "What new technology was developed in Victorian Britain to let people send messages almost instantly across the country?",
+    "options": [
+      {
+        "label": "The electric telegraph",
+        "correct": true
+      },
+      {
+        "label": "The penny post",
+        "correct": false
+      },
+      {
+        "label": "The steam engine",
+        "correct": false
+      },
+      {
+        "label": "The mobile phone",
+        "correct": false
+      }
+    ],
+    "explanation": "The electric telegraph allowed messages to be sent quickly along wires. By the late 19th century, cables were laid under the sea to connect countries.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-054",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "In the 19th century, what was the name of the political movement that wanted Ireland to have its own parliament again?",
+    "options": [
+      {
+        "label": "The Home Rule movement",
+        "correct": true
+      },
+      {
+        "label": "The Chartist movement",
+        "correct": false
+      },
+      {
+        "label": "The Abolitionist movement",
+        "correct": false
+      },
+      {
+        "label": "The Suffragist movement",
+        "correct": false
+      }
+    ],
+    "explanation": "The Home Rule movement campaigned for Ireland to govern itself while remaining part of the UK. Nationalist MPs led by Charles Stewart Parnell supported this.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-055",
+    "section_id": "CH3-GLO",
+    "type": "multi",
+    "stem": "Which TWO of the following scientists or doctors made important discoveries in Victorian Britain?",
+    "options": [
+      {
+        "label": "Charles Darwin",
+        "correct": true
+      },
+      {
+        "label": "Joseph Lister",
+        "correct": true
+      },
+      {
+        "label": "Isaac Newton",
+        "correct": false
+      },
+      {
+        "label": "Alexander Fleming",
+        "correct": false
+      }
+    ],
+    "explanation": "Charles Darwin introduced the theory of evolution, and Joseph Lister developed antiseptic surgery. Isaac Newton lived earlier, and Alexander Fleming lived later.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-056",
+    "section_id": "CH3-GLO",
+    "type": "multi",
+    "stem": "Which TWO of these methods were used by the Suffragettes (WSPU) to protest for women's right to vote?",
+    "options": [
+      {
+        "label": "Chaining themselves to railings",
+        "correct": true
+      },
+      {
+        "label": "Going on hunger strikes",
+        "correct": true
+      },
+      {
+        "label": "Voting in local elections",
+        "correct": false
+      },
+      {
+        "label": "Writing polite letters to the King",
+        "correct": false
+      }
+    ],
+    "explanation": "The Suffragettes, led by Emmeline Pankhurst, used direct and often violent action, such as hunger strikes and chaining themselves to railings, to get attention.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-057",
+    "section_id": "CH3-GLO",
+    "type": "truefalse",
+    "stem": "The first formal petition to parliament to end the slave trade was organized by a religious group called the Quakers.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "In 1783, the Quakers set up the first formal petition against the slave trade. This marked the start of the organized campaign to abolish slavery.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 3,
+    "ai_checked": true
   }
 ]

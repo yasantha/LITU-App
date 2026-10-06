@@ -1,0 +1,30 @@
+[
+  {
+    "id": "Q-CH3-POS-012",
+    "section_id": "CH3-POS",
+    "type": "single",
+    "stem": "Which government department was created in 1948 to provide free healthcare for everyone?",
+    "options": [
+      {
+        "label": "The National Health Service (NHS)",
+        "correct": true
+      },
+      {
+        "label": "The National Care Department",
+        "correct": false
+      },
+      {
+        "label": "The Social Security Ministry",
+        "correct": false
+      },
+      {
+        "label": "The Medical Aid Trust",
+        "correct": false
+      }
+    ],
+    "explanation": "The National Health Service (NHS) was established in 1948 by Aneurin Bevan, the Minister for Health in Clement Attlee's Labour government.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 1,
+    "rejected_reason": "The National Health Service (NHS) is not a government department, but a publicly funded healthcare system. The question's wording is factually incorrect."
+  }
+]

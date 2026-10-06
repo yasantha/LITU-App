@@ -1,0 +1,88 @@
+[
+  {
+    "id": "Q-CH5-CON-006",
+    "section_id": "CH5-CON",
+    "type": "multi",
+    "stem": "Which TWO kinds of member sit in the House of Lords?",
+    "options": [
+      {
+        "label": "Life peers",
+        "correct": true
+      },
+      {
+        "label": "Senior bishops of the Church of England",
+        "correct": true
+      },
+      {
+        "label": "Elected MPs",
+        "correct": false
+      },
+      {
+        "label": "Local councillors",
+        "correct": false
+      }
+    ],
+    "explanation": "Members of the House of Lords are not elected. They include life peers, some hereditary peers and senior bishops of the Church of England.",
+    "handbook_ref": "Chapter 5 · The British constitution",
+    "difficulty": 2,
+    "rejected_reason": "The question asks for two, but the explanation mentions hereditary peers, making the choice list incomplete for a multiple-choice question."
+  },
+  {
+    "id": "Q-CH5-CON-030",
+    "section_id": "CH5-CON",
+    "type": "single",
+    "stem": "What is the minimum age required to vote in a UK general election?",
+    "options": [
+      {
+        "label": "18",
+        "correct": true
+      },
+      {
+        "label": "16",
+        "correct": false
+      },
+      {
+        "label": "20",
+        "correct": false
+      },
+      {
+        "label": "21",
+        "correct": false
+      }
+    ],
+    "explanation": "To vote in a UK general election, a person must be at least 18 years old on election day. They must also be registered on the electoral register.",
+    "handbook_ref": "Chapter 5 · The British constitution",
+    "difficulty": 1,
+    "ai_checked": true,
+    "rejected_reason": "Duplicate of Q-CH5-DEM-001"
+  },
+  {
+    "id": "Q-CH5-CON-036",
+    "section_id": "CH5-CON",
+    "type": "single",
+    "stem": "What is the Commonwealth?",
+    "options": [
+      {
+        "label": "A voluntary group of independent member countries",
+        "correct": true
+      },
+      {
+        "label": "A court that decides legal appeals in Europe",
+        "correct": false
+      },
+      {
+        "label": "A council department that builds local housing",
+        "correct": false
+      },
+      {
+        "label": "A committee of senior police officers in London",
+        "correct": false
+      }
+    ],
+    "explanation": "The Commonwealth is a voluntary association of independent countries, most of which were once part of the British Empire. They work together to promote democracy and development.",
+    "handbook_ref": "Chapter 5 · The British constitution",
+    "difficulty": 1,
+    "ai_checked": true,
+    "rejected_reason": "Duplicate of Q-CH5-INT-002"
+  }
+]

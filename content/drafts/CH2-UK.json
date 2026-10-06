@@ -24,7 +24,8 @@
     ],
     "explanation": "The UK is made up of England, Scotland, Wales and Northern Ireland. The Republic of Ireland is a separate, independent country.",
     "handbook_ref": "Chapter 2 · What is the UK?",
-    "difficulty": 1
+    "difficulty": 1,
+    "ai_checked": true
   },
   {
     "id": "Q-CH2-UK-002",
@@ -51,7 +52,8 @@
     ],
     "explanation": "Great Britain is the island of England, Scotland and Wales. The United Kingdom adds Northern Ireland.",
     "handbook_ref": "Chapter 2 · What is the UK?",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH2-UK-003",
@@ -70,7 +72,8 @@
     ],
     "explanation": "The Isle of Man and the Channel Islands are Crown dependencies. They have their own governments and are not part of the UK.",
     "handbook_ref": "Chapter 2 · What is the UK?",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH2-UK-004",
@@ -97,7 +100,8 @@
     ],
     "explanation": "The Channel Islands and the Isle of Man have a special link to the UK but run their own affairs. The Isle of Wight and Anglesey are part of the UK.",
     "handbook_ref": "Chapter 2 · What is the UK?",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH2-UK-005",
@@ -124,7 +128,8 @@
     ],
     "explanation": "Cardiff is the capital city of Wales. The capital of England is London, of Scotland is Edinburgh and of Northern Ireland is Belfast.",
     "handbook_ref": "Chapter 2 · What is the UK?",
-    "difficulty": 1
+    "difficulty": 1,
+    "ai_checked": true
   },
   {
     "id": "Q-CH2-UK-006",
@@ -151,7 +156,8 @@
     ],
     "explanation": "Belfast is the capital of Northern Ireland. It is home to the Northern Ireland Assembly at Stormont.",
     "handbook_ref": "Chapter 2 · What is the UK?",
-    "difficulty": 1
+    "difficulty": 1,
+    "ai_checked": true
   },
   {
     "id": "Q-CH2-UK-007",
@@ -178,7 +184,8 @@
     ],
     "explanation": "Edinburgh is the capital of Scotland. Glasgow is Scotland's largest city, but it is not the capital.",
     "handbook_ref": "Chapter 2 · What is the UK?",
-    "difficulty": 1
+    "difficulty": 1,
+    "ai_checked": true
   },
   {
     "id": "Q-CH2-UK-008",
@@ -197,6 +204,7 @@
     ],
     "explanation": "Some powers are devolved from the UK Parliament, so Scotland, Wales and Northern Ireland can make their own decisions on matters such as health and education.",
     "handbook_ref": "Chapter 2 · What is the UK?",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   }
 ]

@@ -24,7 +24,8 @@
     ],
     "explanation": "Robert the Bruce defeated the English at Bannockburn in 1314. Scotland stayed unconquered by the English.",
     "handbook_ref": "Chapter 3 · The Middle Ages",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-MID-002",
@@ -51,7 +52,8 @@
     ],
     "explanation": "The Black Death reached Britain in 1348. About one third of the population of England died, and a similar share in Scotland and Wales.",
     "handbook_ref": "Chapter 3 · The Middle Ages",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-MID-003",
@@ -78,7 +80,8 @@
     ],
     "explanation": "Nobles forced King John to agree to the Magna Carta in 1215. It showed that even the king had to obey the law.",
     "handbook_ref": "Chapter 3 · The Middle Ages",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-MID-004",
@@ -105,7 +108,8 @@
     ],
     "explanation": "Henry V led the English to victory over the French at Agincourt in 1415, during the Hundred Years War.",
     "handbook_ref": "Chapter 3 · The Middle Ages",
-    "difficulty": 3
+    "difficulty": 3,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-MID-005",
@@ -132,7 +136,8 @@
     ],
     "explanation": "Henry Tudor defeated King Richard III at Bosworth Field in 1485. He became King Henry VII, the first Tudor king.",
     "handbook_ref": "Chapter 3 · The Middle Ages",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-MID-006",
@@ -159,7 +164,8 @@
     ],
     "explanation": "The Wars of the Roses were fought between the House of Lancaster, whose symbol was a red rose, and the House of York, whose symbol was a white rose.",
     "handbook_ref": "Chapter 3 · The Middle Ages",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-MID-007",
@@ -186,7 +192,8 @@
     ],
     "explanation": "Geoffrey Chaucer wrote The Canterbury Tales, poems about pilgrims travelling to Canterbury. It was one of the first books printed in England.",
     "handbook_ref": "Chapter 3 · The Middle Ages",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-MID-008",
@@ -205,7 +212,8 @@
     ],
     "explanation": "William Caxton brought the printing press to England in the 15th century. This helped books in English reach many more people.",
     "handbook_ref": "Chapter 3 · The Middle Ages",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-MID-009",
@@ -232,6 +240,1059 @@
     ],
     "explanation": "England fought a long series of wars with France, known as the Hundred Years War. It actually lasted 116 years.",
     "handbook_ref": "Chapter 3 · The Middle Ages",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-010",
+    "section_id": "CH3-MID",
+    "type": "single",
+    "stem": "Who became King of England after winning the Battle of Hastings in 1066?",
+    "options": [
+      {
+        "label": "William the Conqueror",
+        "correct": true
+      },
+      {
+        "label": "King Harold",
+        "correct": false
+      },
+      {
+        "label": "Edward the Confessor",
+        "correct": false
+      },
+      {
+        "label": "Richard the Lionheart",
+        "correct": false
+      }
+    ],
+    "explanation": "William the Conqueror became king after his victory at Hastings. This marked the start of the Norman period in English history.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-011",
+    "section_id": "CH3-MID",
+    "type": "single",
+    "stem": "What was the purpose of the Domesday Book, created in 1085?",
+    "options": [
+      {
+        "label": "To record the land and animals owned",
+        "correct": true
+      },
+      {
+        "label": "To write down the law of the land",
+        "correct": false
+      },
+      {
+        "label": "To record the history of the kings",
+        "correct": false
+      },
+      {
+        "label": "To collect famous stories and poems",
+        "correct": false
+      }
+    ],
+    "explanation": "William the Conqueror ordered a survey of England to see how much the land was worth. This helped him collect taxes correctly.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-012",
+    "section_id": "CH3-MID",
+    "type": "single",
+    "stem": "In the Middle Ages, which group of people formed the House of Lords in Parliament?",
+    "options": [
+      {
+        "label": "Bishops and noblemen",
+        "correct": true
+      },
+      {
+        "label": "Knights and merchants",
+        "correct": false
+      },
+      {
+        "label": "Farmers and workers",
+        "correct": false
+      },
+      {
+        "label": "Soldiers and sailors",
+        "correct": false
+      }
+    ],
+    "explanation": "Parliament was divided into two houses. The House of Lords was for senior church leaders and important landowners.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-013",
+    "section_id": "CH3-MID",
+    "type": "multi",
+    "stem": "Which TWO things did the Normans introduce to England after the year 1066?",
+    "options": [
+      {
+        "label": "A new ruling class",
+        "correct": true
+      },
+      {
+        "label": "The first Parliament",
+        "correct": false
+      },
+      {
+        "label": "The French language",
+        "correct": true
+      },
+      {
+        "label": "The printing press",
+        "correct": false
+      }
+    ],
+    "explanation": "The Normans brought their own leaders and the French language. These changes had a huge effect on how England was run.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-014",
+    "section_id": "CH3-MID",
+    "type": "truefalse",
+    "stem": "After the Norman Conquest, the English language was only used by the kings and the nobility.",
+    "options": [
+      {
+        "label": "True",
+        "correct": false
+      },
+      {
+        "label": "False",
+        "correct": true
+      }
+    ],
+    "explanation": "False. The kings and nobility spoke French, but the common people continued to speak English. Over time, the languages mixed.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-015",
+    "section_id": "CH3-MID",
+    "type": "single",
+    "stem": "King Edward I introduced a law in 1284 to bring Wales under English rule. What was it called?",
+    "options": [
+      {
+        "label": "The Statute of Rhuddlan",
+        "correct": true
+      },
+      {
+        "label": "The Magna Carta",
+        "correct": false
+      },
+      {
+        "label": "The Bill of Rights",
+        "correct": false
+      },
+      {
+        "label": "The Act of Union",
+        "correct": false
+      }
+    ],
+    "explanation": "The Statute of Rhuddlan attached Wales to England. Edward I also built many impressive castles in Wales to maintain his control.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-016",
+    "section_id": "CH3-MID",
+    "type": "single",
+    "stem": "By 1400, what was the main language used for official documents and literature in England?",
+    "options": [
+      {
+        "label": "English",
+        "correct": true
+      },
+      {
+        "label": "French",
+        "correct": false
+      },
+      {
+        "label": "Latin",
+        "correct": false
+      },
+      {
+        "label": "Spanish",
+        "correct": false
+      }
+    ],
+    "explanation": "By 1400, English was the main language again. It had changed a lot because it had many new words from French.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-017",
+    "section_id": "CH3-MID",
+    "type": "single",
+    "stem": "Why did King Edward I build many large castles in Wales?",
+    "options": [
+      {
+        "label": "To defend his new territory",
+        "correct": true
+      },
+      {
+        "label": "To store the Domesday Book",
+        "correct": false
+      },
+      {
+        "label": "To host the House of Lords",
+        "correct": false
+      },
+      {
+        "label": "To hide from the Black Death",
+        "correct": false
+      }
+    ],
+    "explanation": "Edward I built castles like Caernarfon and Conwy. These helped him keep control over Wales after he conquered it.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-018",
+    "section_id": "CH3-MID",
+    "type": "multi",
+    "stem": "Which TWO groups of people were represented in the early House of Commons?",
+    "options": [
+      {
+        "label": "Knights",
+        "correct": true
+      },
+      {
+        "label": "Bishops",
+        "correct": false
+      },
+      {
+        "label": "Wealthy people from towns",
+        "correct": true
+      },
+      {
+        "label": "Noblemen",
+        "correct": false
+      }
+    ],
+    "explanation": "The House of Commons represented less powerful people than the House of Lords. This included knights and town leaders.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-019",
+    "section_id": "CH3-MID",
+    "type": "truefalse",
+    "stem": "In the Middle Ages, the English king also ruled parts of France.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "True. For a long time, the kings of England controlled large areas of land in France as well as England.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-020",
+    "section_id": "CH3-MID",
+    "type": "single",
+    "stem": "What happened to the Norman and Anglo-Saxon people by the end of the Middle Ages?",
+    "options": [
+      {
+        "label": "They had mixed into one people",
+        "correct": true
+      },
+      {
+        "label": "They lived in different countries",
+        "correct": false
+      },
+      {
+        "label": "They still spoke different languages",
+        "correct": false
+      },
+      {
+        "label": "The Normans left England",
+        "correct": false
+      }
+    ],
+    "explanation": "After several hundred years, the two groups had married and mixed together. They became the English people we know today.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-021",
+    "section_id": "CH3-MID",
+    "type": "single",
+    "stem": "In 1381, there was a protest against new taxes and the laws for workers. What is this event called?",
+    "options": [
+      {
+        "label": "The Peasants' Revolt",
+        "correct": true
+      },
+      {
+        "label": "The Battle of Hastings",
+        "correct": false
+      },
+      {
+        "label": "The War of the Roses",
+        "correct": false
+      },
+      {
+        "label": "The Norman Conquest",
+        "correct": false
+      }
+    ],
+    "explanation": "The Peasants' Revolt was led by Wat Tyler. It was a protest against a poll tax and rules that kept people poor.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-022",
+    "section_id": "CH3-MID",
+    "type": "single",
+    "stem": "Which king became the first ruler of the House of Tudor?",
+    "options": [
+      {
+        "label": "Henry VII",
+        "correct": true
+      },
+      {
+        "label": "Richard III",
+        "correct": false
+      },
+      {
+        "label": "Edward I",
+        "correct": false
+      },
+      {
+        "label": "Henry V",
+        "correct": false
+      }
+    ],
+    "explanation": "Henry VII became king after the Battle of Bosworth Field. He was the first king of the Tudor dynasty.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-023",
+    "section_id": "CH3-MID",
+    "type": "truefalse",
+    "stem": "The Middle Ages ended when the House of Tudor came to power in 1485.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "True. The victory of Henry VII at the Battle of Bosworth Field is often seen as the end of the Middle Ages.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-024",
+    "section_id": "CH3-MID",
+    "type": "single",
+    "stem": "What was the symbol of the House of Lancaster during the Wars of the Roses?",
+    "options": [
+      {
+        "label": "A red rose",
+        "correct": true
+      },
+      {
+        "label": "A white rose",
+        "correct": false
+      },
+      {
+        "label": "A gold lion",
+        "correct": false
+      },
+      {
+        "label": "A green leaf",
+        "correct": false
+      }
+    ],
+    "explanation": "The House of Lancaster used a red rose as their symbol. The House of York used a white rose.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-025",
+    "section_id": "CH3-MID",
+    "type": "single",
+    "stem": "Under the feudal system, what did the king give to his lords in return for their military service?",
+    "options": [
+      {
+        "label": "Land",
+        "correct": true
+      },
+      {
+        "label": "Money",
+        "correct": false
+      },
+      {
+        "label": "Ships",
+        "correct": false
+      },
+      {
+        "label": "Gold",
+        "correct": false
+      }
+    ],
+    "explanation": "In the feudal system, the King owned all the land. He gave land to his nobles in exchange for their promise to fight for him and provide soldiers.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-026",
+    "section_id": "CH3-MID",
+    "type": "single",
+    "stem": "During the Wars of the Roses, which flower was the symbol of the House of York?",
+    "options": [
+      {
+        "label": "A red rose",
+        "correct": false
+      },
+      {
+        "label": "A white rose",
+        "correct": true
+      },
+      {
+        "label": "A yellow lily",
+        "correct": false
+      },
+      {
+        "label": "A blue thistle",
+        "correct": false
+      }
+    ],
+    "explanation": "The House of York used a white rose and the House of Lancaster used a red rose. The wars between them are named after these floral symbols.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-027",
+    "section_id": "CH3-MID",
+    "type": "single",
+    "stem": "The word 'Parliament' comes from a word in which language?",
+    "options": [
+      {
+        "label": "German",
+        "correct": false
+      },
+      {
+        "label": "Latin",
+        "correct": false
+      },
+      {
+        "label": "French",
+        "correct": true
+      },
+      {
+        "label": "Spanish",
+        "correct": false
+      }
+    ],
+    "explanation": "The word comes from the French word 'parler', which means 'to speak'. It was a place where the King talked with his nobles and church leaders.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-028",
+    "section_id": "CH3-MID",
+    "type": "single",
+    "stem": "About how much of the population in Britain died because of the Black Death?",
+    "options": [
+      {
+        "label": "One tenth",
+        "correct": false
+      },
+      {
+        "label": "One third",
+        "correct": true
+      },
+      {
+        "label": "One half",
+        "correct": false
+      },
+      {
+        "label": "Three quarters",
+        "correct": false
+      }
+    ],
+    "explanation": "The Black Death was a plague that arrived in 1348. It killed about one third of the population, which led to a big shortage of workers.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-029",
+    "section_id": "CH3-MID",
+    "type": "single",
+    "stem": "During the Middle Ages, what was the area around Dublin under English control called?",
+    "options": [
+      {
+        "label": "The Border",
+        "correct": false
+      },
+      {
+        "label": "The Pale",
+        "correct": true
+      },
+      {
+        "label": "The Kingdom",
+        "correct": false
+      },
+      {
+        "label": "The Shire",
+        "correct": false
+      }
+    ],
+    "explanation": "By the year 1200, the English ruled a small area of Ireland near Dublin. This area was known as 'the Pale'.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-030",
+    "section_id": "CH3-MID",
+    "type": "multi",
+    "stem": "Which TWO languages were mainly used by the ruling classes and for official writing after the Norman Conquest?",
+    "options": [
+      {
+        "label": "French",
+        "correct": true
+      },
+      {
+        "label": "Latin",
+        "correct": true
+      },
+      {
+        "label": "German",
+        "correct": false
+      },
+      {
+        "label": "Greek",
+        "correct": false
+      }
+    ],
+    "explanation": "After 1066, French was the language of the King and the nobility. Latin was used by the Church and for official government documents.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-032",
+    "section_id": "CH3-MID",
+    "type": "single",
+    "stem": "In the Middle Ages, judges developed a system based on previous decisions. What is this system called?",
+    "options": [
+      {
+        "label": "Parliamentary Law",
+        "correct": false
+      },
+      {
+        "label": "Common Law",
+        "correct": true
+      },
+      {
+        "label": "The Bible",
+        "correct": false
+      },
+      {
+        "label": "The Royal Decree",
+        "correct": false
+      }
+    ],
+    "explanation": "Common law is based on the decisions made by judges in the past. This system was used in England and Wales to make the law the same everywhere.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-033",
+    "section_id": "CH3-MID",
+    "type": "single",
+    "stem": "What historical event is shown on the Bayeux Tapestry?",
+    "options": [
+      {
+        "label": "The signing of Magna Carta",
+        "correct": false
+      },
+      {
+        "label": "The Norman Conquest",
+        "correct": true
+      },
+      {
+        "label": "The Black Death",
+        "correct": false
+      },
+      {
+        "label": "The Wars of the Roses",
+        "correct": false
+      }
+    ],
+    "explanation": "The Bayeux Tapestry is a long piece of embroidery. It tells the story of the Battle of Hastings in 1066 and how William the Conqueror became king.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-034",
+    "section_id": "CH3-MID",
+    "type": "single",
+    "stem": "In 1320, Scottish lords wrote a letter to the Pope saying Scotland was independent. What was it called?",
+    "options": [
+      {
+        "label": "The Statute of Rhuddlan",
+        "correct": false
+      },
+      {
+        "label": "The Declaration of Arbroath",
+        "correct": true
+      },
+      {
+        "label": "The Treaty of Paris",
+        "correct": false
+      },
+      {
+        "label": "The Great Charter",
+        "correct": false
+      }
+    ],
+    "explanation": "Scottish lords did not want to be ruled by England. The Declaration of Arbroath claimed that Scotland was a separate country with its own king.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-035",
+    "section_id": "CH3-MID",
+    "type": "truefalse",
+    "stem": "During the Middle Ages, many people believed that the King was chosen by God.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "This was a common belief at the time. People thought the King had a special duty to protect the people and lead the country.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-036",
+    "section_id": "CH3-MID",
+    "type": "single",
+    "stem": "Which saint became the patron saint of England during the Middle Ages?",
+    "options": [
+      {
+        "label": "St Andrew",
+        "correct": false
+      },
+      {
+        "label": "St David",
+        "correct": false
+      },
+      {
+        "label": "St George",
+        "correct": true
+      },
+      {
+        "label": "St Patrick",
+        "correct": false
+      }
+    ],
+    "explanation": "St George is the patron saint of England. His symbol is a red cross on a white background, which is still the flag of England today.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-037",
+    "section_id": "CH3-MID",
+    "type": "single",
+    "stem": "Many great cathedrals were built in the Middle Ages. What is this style of architecture called?",
+    "options": [
+      {
+        "label": "Modern",
+        "correct": false
+      },
+      {
+        "label": "Gothic",
+        "correct": true
+      },
+      {
+        "label": "Victorian",
+        "correct": false
+      },
+      {
+        "label": "Romanesque",
+        "correct": false
+      }
+    ],
+    "explanation": "Cathedrals like Lincoln and Salisbury were built in the Gothic style. This style is famous for its high ceilings and pointed arches.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-038",
+    "section_id": "CH3-MID",
+    "type": "multi",
+    "stem": "Which TWO things happened because so many people died during the Black Death?",
+    "options": [
+      {
+        "label": "A shortage of workers",
+        "correct": true
+      },
+      {
+        "label": "Lower wages for workers",
+        "correct": false
+      },
+      {
+        "label": "A demand for higher wages",
+        "correct": true
+      },
+      {
+        "label": "More land for the king",
+        "correct": false
+      }
+    ],
+    "explanation": "Because there were fewer workers, the people who survived could ask for more money. This change helped the social status of the lower classes.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-039",
+    "section_id": "CH3-MID",
+    "type": "single",
+    "stem": "In the Middle Ages, who gave advice to the King on important matters like taxes?",
+    "options": [
+      {
+        "label": "The Peasant Council",
+        "correct": false
+      },
+      {
+        "label": "The King's Council",
+        "correct": true
+      },
+      {
+        "label": "The Trade Unions",
+        "correct": false
+      },
+      {
+        "label": "The Sheriff",
+        "correct": false
+      }
+    ],
+    "explanation": "The King's Council was a group of powerful nobles and church leaders. They helped the King make decisions and eventually became the House of Lords.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-040",
+    "section_id": "CH3-MID",
+    "type": "single",
+    "stem": "Which Scottish hero led a rebellion against King Edward I of England in the late 13th century?",
+    "options": [
+      {
+        "label": "William Wallace",
+        "correct": true
+      },
+      {
+        "label": "Robert the Bruce",
+        "correct": false
+      },
+      {
+        "label": "Owen Glendower",
+        "correct": false
+      },
+      {
+        "label": "Dermot of Leinster",
+        "correct": false
+      }
+    ],
+    "explanation": "William Wallace led the Scottish resistance against English rule and won the Battle of Stirling Bridge in 1297. His story was later made famous in many legends.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-041",
+    "section_id": "CH3-MID",
+    "type": "single",
+    "stem": "What was the main idea established by the Magna Carta in 1215?",
+    "options": [
+      {
+        "label": "The king must obey the law",
+        "correct": true
+      },
+      {
+        "label": "The king has absolute power",
+        "correct": false
+      },
+      {
+        "label": "Parliament is abolished",
+        "correct": false
+      },
+      {
+        "label": "All land belongs to the peasants",
+        "correct": false
+      }
+    ],
+    "explanation": "The Magna Carta limited the power of the king. It established the principle that everyone, including the monarch, is subject to the law.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-042",
+    "section_id": "CH3-MID",
+    "type": "single",
+    "stem": "Who led a major rebellion in Wales against English rule in the early 1400s?",
+    "options": [
+      {
+        "label": "Owain Glyndŵr",
+        "correct": true
+      },
+      {
+        "label": "William Wallace",
+        "correct": false
+      },
+      {
+        "label": "Robert the Bruce",
+        "correct": false
+      },
+      {
+        "label": "Llywelyn the Great",
+        "correct": false
+      }
+    ],
+    "explanation": "Owain Glyndŵr led a national Welsh rebellion against King Henry IV. He is still remembered today as a national hero in Wales.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-043",
+    "section_id": "CH3-MID",
+    "type": "truefalse",
+    "stem": "During the Middle Ages, England's first two universities, Oxford and Cambridge, were founded.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Oxford and Cambridge universities were established during the 12th and 13th centuries. They became famous centres of learning.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-044",
+    "section_id": "CH3-MID",
+    "type": "single",
+    "stem": "What was the most important product exported from England during the Middle Ages?",
+    "options": [
+      {
+        "label": "Wool",
+        "correct": true
+      },
+      {
+        "label": "Coal",
+        "correct": false
+      },
+      {
+        "label": "Silk",
+        "correct": false
+      },
+      {
+        "label": "Spices",
+        "correct": false
+      }
+    ],
+    "explanation": "The wool trade was the main source of wealth for England during this period. English wool was highly valued across Europe.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-045",
+    "section_id": "CH3-MID",
+    "type": "multi",
+    "stem": "Which TWO facts are true about the Norman involvement in Ireland during the 12th century?",
+    "options": [
+      {
+        "label": "Normans first went to Ireland in 1169",
+        "correct": true
+      },
+      {
+        "label": "They built castles to secure their land",
+        "correct": true
+      },
+      {
+        "label": "They quickly conquered the whole island",
+        "correct": false
+      },
+      {
+        "label": "The Pope banned Normans from Ireland",
+        "correct": false
+      }
+    ],
+    "explanation": "Norman lords first landed in Ireland in 1169. They helped an Irish king and stayed to build castles and gain land for themselves.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-046",
+    "section_id": "CH3-MID",
+    "type": "single",
+    "stem": "What was the main purpose of the Crusades during the Middle Ages?",
+    "options": [
+      {
+        "label": "To win back the Holy Land",
+        "correct": true
+      },
+      {
+        "label": "To find new trade routes to Asia",
+        "correct": false
+      },
+      {
+        "label": "To conquer France",
+        "correct": false
+      },
+      {
+        "label": "To build new cathedrals",
+        "correct": false
+      }
+    ],
+    "explanation": "The Crusades were holy wars fought by European Christians. Their main goal was to take control of Jerusalem and the Holy Land.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-047",
+    "section_id": "CH3-MID",
+    "type": "multi",
+    "stem": "Which TWO statements describe how the English language changed by the late Middle Ages?",
+    "options": [
+      {
+        "label": "Many French words were adopted",
+        "correct": true
+      },
+      {
+        "label": "It became the language of the law courts",
+        "correct": true
+      },
+      {
+        "label": "It was banned by the Pope",
+        "correct": false
+      },
+      {
+        "label": "It stopped being used completely",
+        "correct": false
+      }
+    ],
+    "explanation": "By the late Middle Ages, Anglo-Saxon and Norman French had merged. Many French words entered English, and it became the official language of law and parliament.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-048",
+    "section_id": "CH3-MID",
+    "type": "single",
+    "stem": "What type of schools were first established in many English towns during the Middle Ages?",
+    "options": [
+      {
+        "label": "Grammar schools",
+        "correct": true
+      },
+      {
+        "label": "State primary schools",
+        "correct": false
+      },
+      {
+        "label": "Comprehensive schools",
+        "correct": false
+      },
+      {
+        "label": "Online schools",
+        "correct": false
+      }
+    ],
+    "explanation": "Many grammar schools were founded in this period. They originally taught Latin grammar to boys from wealthy families.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-049",
+    "section_id": "CH3-MID",
+    "type": "single",
+    "stem": "Which Irish king invited Norman lords to Ireland in 1169 to help him fight his enemies?",
+    "options": [
+      {
+        "label": "Dermot of Leinster",
+        "correct": true
+      },
+      {
+        "label": "Brian Boru",
+        "correct": false
+      },
+      {
+        "label": "Robert the Bruce",
+        "correct": false
+      },
+      {
+        "label": "Owen Glendower",
+        "correct": false
+      }
+    ],
+    "explanation": "Dermot of Leinster, an Irish king, asked Norman knights to help him. This led to the Norman settlement and English influence in Ireland.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 3,
+    "ai_checked": true
   }
 ]

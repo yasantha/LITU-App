@@ -24,26 +24,8 @@
     ],
     "explanation": "The UK currency is the pound sterling. There are 100 pence in a pound.",
     "handbook_ref": "Chapter 4 · The UK today",
-    "difficulty": 1
-  },
-  {
-    "id": "Q-CH4-TOD-002",
-    "section_id": "CH4-TOD",
-    "type": "truefalse",
-    "stem": "Scotland and Northern Ireland have their own banknotes, which can be used anywhere in the UK.",
-    "options": [
-      {
-        "label": "True",
-        "correct": true
-      },
-      {
-        "label": "False",
-        "correct": false
-      }
-    ],
-    "explanation": "Banks in Scotland and Northern Ireland print their own banknotes. They are valid everywhere in the UK, although some shops may not accept them.",
-    "handbook_ref": "Chapter 4 · The UK today",
-    "difficulty": 2
+    "difficulty": 1,
+    "ai_checked": true
   },
   {
     "id": "Q-CH4-TOD-003",
@@ -70,7 +52,8 @@
     ],
     "explanation": "Many people in Wales speak Welsh, and children learn it at school. In parts of Scotland some people speak Gaelic.",
     "handbook_ref": "Chapter 4 · The UK today",
-    "difficulty": 1
+    "difficulty": 1,
+    "ai_checked": true
   },
   {
     "id": "Q-CH4-TOD-004",
@@ -89,6 +72,7 @@
     ],
     "explanation": "Women in Britain have the same rights to work as men. Today they make up about half of the workforce.",
     "handbook_ref": "Chapter 4 · The UK today",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   }
 ]

@@ -24,7 +24,8 @@
     ],
     "explanation": "Margaret Thatcher became the UK's first woman Prime Minister in 1979. She led the government until 1990.",
     "handbook_ref": "Chapter 3 · Britain since 1945",
-    "difficulty": 1
+    "difficulty": 1,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-POS-002",
@@ -51,7 +52,8 @@
     ],
     "explanation": "The UK joined the European Economic Community in 1973, after earlier attempts to join had been refused.",
     "handbook_ref": "Chapter 3 · Britain since 1945",
-    "difficulty": 3
+    "difficulty": 3,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-POS-003",
@@ -78,7 +80,8 @@
     ],
     "explanation": "Sir Tim Berners-Lee, a British scientist, created the World Wide Web. Information was first shared on it in 1990.",
     "handbook_ref": "Chapter 3 · Britain since 1945",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-POS-004",
@@ -105,7 +108,8 @@
     ],
     "explanation": "The Good Friday Agreement of 1998 helped end years of conflict in Northern Ireland. It led to a new Northern Ireland Assembly.",
     "handbook_ref": "Chapter 3 · Britain since 1945",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-POS-005",
@@ -132,7 +136,8 @@
     ],
     "explanation": "Dolly the sheep was cloned in 1996 by scientists at the Roslin Institute near Edinburgh, Scotland.",
     "handbook_ref": "Chapter 3 · Britain since 1945",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-POS-006",
@@ -151,7 +156,8 @@
     ],
     "explanation": "British doctors developed IVF treatment. The first IVF baby was born in Oldham, England, in 1978.",
     "handbook_ref": "Chapter 3 · Britain since 1945",
-    "difficulty": 3
+    "difficulty": 3,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-POS-007",
@@ -178,7 +184,8 @@
     ],
     "explanation": "Concorde was a passenger aircraft that flew faster than the speed of sound. It first flew in 1969 and carried passengers from 1976 to 2003.",
     "handbook_ref": "Chapter 3 · Britain since 1945",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-POS-008",
@@ -205,7 +212,8 @@
     ],
     "explanation": "Sir Christopher Cockerell, a British engineer, invented the hovercraft in the 1950s.",
     "handbook_ref": "Chapter 3 · Britain since 1945",
-    "difficulty": 3
+    "difficulty": 3,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-POS-009",
@@ -232,7 +240,8 @@
     ],
     "explanation": "James Goodfellow, a Scottish engineer, invented the cash machine in the 1960s.",
     "handbook_ref": "Chapter 3 · Britain since 1945",
-    "difficulty": 3
+    "difficulty": 3,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-POS-010",
@@ -259,7 +268,8 @@
     ],
     "explanation": "There was a shortage of workers after the war. People came from the West Indies, India, Pakistan and later Bangladesh to work in the UK.",
     "handbook_ref": "Chapter 3 · Britain since 1945",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-POS-011",
@@ -278,6 +288,1059 @@
     ],
     "explanation": "The Scottish Parliament and the Welsh Assembly (now the Senedd) were set up in 1999, with powers over matters such as health and education.",
     "handbook_ref": "Chapter 3 · Britain since 1945",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-POS-013",
+    "section_id": "CH3-POS",
+    "type": "single",
+    "stem": "In 1956, British and French forces tried to take control of a canal in which country, leading to a major political crisis?",
+    "options": [
+      {
+        "label": "Egypt",
+        "correct": true
+      },
+      {
+        "label": "Panama",
+        "correct": false
+      },
+      {
+        "label": "Turkey",
+        "correct": false
+      },
+      {
+        "label": "Greece",
+        "correct": false
+      }
+    ],
+    "explanation": "The Suez Crisis of 1956 happened when Britain and France invaded Egypt to control the Suez Canal. It showed that Britain was no longer a global superpower.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-POS-014",
+    "section_id": "CH3-POS",
+    "type": "single",
+    "stem": "In 1982, Britain went to war with Argentina over which islands in the South Atlantic?",
+    "options": [
+      {
+        "label": "The Falkland Islands",
+        "correct": true
+      },
+      {
+        "label": "The Shetland Islands",
+        "correct": false
+      },
+      {
+        "label": "The Channel Islands",
+        "correct": false
+      },
+      {
+        "label": "The Cayman Islands",
+        "correct": false
+      }
+    ],
+    "explanation": "The Falklands War began after Argentina invaded the islands in April 1982. British forces successfully took back control of the islands.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-POS-015",
+    "section_id": "CH3-POS",
+    "type": "multi",
+    "stem": "Which TWO social changes became law in the UK during the 1960s?",
+    "options": [
+      {
+        "label": "Decriminalisation of homosexuality",
+        "correct": true
+      },
+      {
+        "label": "Abolition of the death penalty",
+        "correct": true
+      },
+      {
+        "label": "Votes for women over 21",
+        "correct": false
+      },
+      {
+        "label": "Introduction of the state pension",
+        "correct": false
+      }
+    ],
+    "explanation": "During the 1960s, Parliament passed laws that decriminalised homosexuality (for men over 21) and ended the death penalty for murder in Great Britain.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-POS-016",
+    "section_id": "CH3-POS",
+    "type": "truefalse",
+    "stem": "In 1971, the UK changed its currency so that there were 100 pence in every pound.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "On 'Decimal Day' in February 1971, the UK officially changed to decimal currency. Before this, there were 240 pence (or 20 shillings) in a pound.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-POS-017",
+    "section_id": "CH3-POS",
+    "type": "single",
+    "stem": "Which British scientist co-developed the MRI scanner, used in hospitals to take pictures inside the body?",
+    "options": [
+      {
+        "label": "Sir Peter Mansfield",
+        "correct": true
+      },
+      {
+        "label": "Sir Alexander Fleming",
+        "correct": false
+      },
+      {
+        "label": "John Logie Baird",
+        "correct": false
+      },
+      {
+        "label": "Francis Crick",
+        "correct": false
+      }
+    ],
+    "explanation": "Sir Peter Mansfield helped develop the MRI (Magnetic Resonance Imaging) scanner, which has saved many lives. He won a Nobel Prize for this work in 2003.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-POS-018",
+    "section_id": "CH3-POS",
+    "type": "single",
+    "stem": "Who was the Prime Minister that led the Labour government elected immediately after the end of World War II in 1945?",
+    "options": [
+      {
+        "label": "Clement Attlee",
+        "correct": true
+      },
+      {
+        "label": "Winston Churchill",
+        "correct": false
+      },
+      {
+        "label": "Harold Macmillan",
+        "correct": false
+      },
+      {
+        "label": "Anthony Eden",
+        "correct": false
+      }
+    ],
+    "explanation": "Clement Attlee won a landslide victory in July 1945. His government introduced major social reforms, including the National Health Service.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-POS-019",
+    "section_id": "CH3-POS",
+    "type": "truefalse",
+    "stem": "Nine countries, including India and Pakistan, became independent from British rule between 1947 and 1948.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "After the Second World War, the British Empire began to break up. India, Pakistan, and seven other nations gained their independence in 1947 and 1948.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-POS-020",
+    "section_id": "CH3-POS",
+    "type": "single",
+    "stem": "In which year was the coronation of Queen Elizabeth II held?",
+    "options": [
+      {
+        "label": "1953",
+        "correct": true
+      },
+      {
+        "label": "1945",
+        "correct": false
+      },
+      {
+        "label": "1960",
+        "correct": false
+      },
+      {
+        "label": "1966",
+        "correct": false
+      }
+    ],
+    "explanation": "Queen Elizabeth II came to the throne in 1952 when her father died, but her coronation took place the following year in 1953.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-POS-021",
+    "section_id": "CH3-POS",
+    "type": "single",
+    "stem": "What law passed in 1970 made it illegal to pay women less than men for doing the same job?",
+    "options": [
+      {
+        "label": "The Equal Pay Act",
+        "correct": true
+      },
+      {
+        "label": "The Gender Equality Bill",
+        "correct": false
+      },
+      {
+        "label": "The Fair Wage Agreement",
+        "correct": false
+      },
+      {
+        "label": "The Sex Discrimination Order",
+        "correct": false
+      }
+    ],
+    "explanation": "The Equal Pay Act 1970 gave women the legal right to receive the same pay and working conditions as men doing the same or similar work.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-POS-022",
+    "section_id": "CH3-POS",
+    "type": "multi",
+    "stem": "Which TWO public services were disrupted by major strikes during the 'Winter of Discontent' in late 1978 and early 1979?",
+    "options": [
+      {
+        "label": "Waste collection",
+        "correct": true
+      },
+      {
+        "label": "Gravedigging",
+        "correct": true
+      },
+      {
+        "label": "Military flights",
+        "correct": false
+      },
+      {
+        "label": "Television broadcasting",
+        "correct": false
+      }
+    ],
+    "explanation": "During the Winter of Discontent, strikes by public sector workers left rubbish uncollected in the streets and meant some graves could not be dug.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-POS-023",
+    "section_id": "CH3-POS",
+    "type": "single",
+    "stem": "Which political leader became Prime Minister in 1997 after branding his party as 'New Labour'?",
+    "options": [
+      {
+        "label": "Tony Blair",
+        "correct": true
+      },
+      {
+        "label": "Gordon Brown",
+        "correct": false
+      },
+      {
+        "label": "John Major",
+        "correct": false
+      },
+      {
+        "label": "Neil Kinnock",
+        "correct": false
+      }
+    ],
+    "explanation": "Tony Blair led the Labour Party to a landslide election victory in 1997 under the slogan 'New Labour'.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-POS-024",
+    "section_id": "CH3-POS",
+    "type": "single",
+    "stem": "In 1984, the government of Margaret Thatcher faced a major year-long strike by workers from which industry?",
+    "options": [
+      {
+        "label": "Coal mining",
+        "correct": true
+      },
+      {
+        "label": "Steel manufacturing",
+        "correct": false
+      },
+      {
+        "label": "Railway transport",
+        "correct": false
+      },
+      {
+        "label": "Postal services",
+        "correct": false
+      }
+    ],
+    "explanation": "The 1984-1985 miners' strike was a major industrial dispute over the closure of coal mines, which ended in defeat for the miners' union.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-POS-025",
+    "section_id": "CH3-POS",
+    "type": "multi",
+    "stem": "Which TWO of these places were built as part of the 'new towns' program started by the government in 1946?",
+    "options": [
+      {
+        "label": "Milton Keynes",
+        "correct": true
+      },
+      {
+        "label": "Stevenage",
+        "correct": true
+      },
+      {
+        "label": "Manchester",
+        "correct": false
+      },
+      {
+        "label": "Birmingham",
+        "correct": false
+      }
+    ],
+    "explanation": "The New Towns Act 1946 led to the creation of completely new, planned communities like Stevenage, Milton Keynes, and Cwmbran to rebuild post-war Britain.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-POS-026",
+    "section_id": "CH3-POS",
+    "type": "single",
+    "stem": "In 1960, which Prime Minister gave a famous speech about the 'wind of change' blowing through Africa, referring to decolonisation?",
+    "options": [
+      {
+        "label": "Harold Macmillan",
+        "correct": true
+      },
+      {
+        "label": "Winston Churchill",
+        "correct": false
+      },
+      {
+        "label": "Edward Heath",
+        "correct": false
+      },
+      {
+        "label": "James Callaghan",
+        "correct": false
+      }
+    ],
+    "explanation": "Harold Macmillan's 'wind of change' speech in South Africa in 1960 recognised that African nations wanted and would get independence from the Empire.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-POS-027",
+    "section_id": "CH3-POS",
+    "type": "single",
+    "stem": "Who succeeded Margaret Thatcher as Prime Minister in 1990?",
+    "options": [
+      {
+        "label": "John Major",
+        "correct": true
+      },
+      {
+        "label": "Tony Blair",
+        "correct": false
+      },
+      {
+        "label": "Harold Wilson",
+        "correct": false
+      },
+      {
+        "label": "James Callaghan",
+        "correct": false
+      }
+    ],
+    "explanation": "John Major served as Prime Minister from 1990 to 1997. He was leader of the Conservative Party during this time.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-POS-028",
+    "section_id": "CH3-POS",
+    "type": "single",
+    "stem": "In which year did scientists Francis Crick and James Watson discover the structure of the DNA molecule?",
+    "options": [
+      {
+        "label": "1953",
+        "correct": true
+      },
+      {
+        "label": "1963",
+        "correct": false
+      },
+      {
+        "label": "1973",
+        "correct": false
+      },
+      {
+        "label": "1983",
+        "correct": false
+      }
+    ],
+    "explanation": "The structure of DNA was discovered in 1953. This work took place at the University of Cambridge.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-POS-029",
+    "section_id": "CH3-POS",
+    "type": "truefalse",
+    "stem": "The UK was one of the original members of NATO, which was signed in 1949.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "The UK was a founder member of the North Atlantic Treaty Organisation (NATO) in 1949. This is an alliance of nations committed to mutual defence.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-POS-030",
+    "section_id": "CH3-POS",
+    "type": "single",
+    "stem": "What famous radio telescope, built in Cheshire in 1957, was the biggest in the world at that time?",
+    "options": [
+      {
+        "label": "Jodrell Bank",
+        "correct": true
+      },
+      {
+        "label": "Greenwich Observatory",
+        "correct": false
+      },
+      {
+        "label": "Royal Observatory",
+        "correct": false
+      },
+      {
+        "label": "Eden Project",
+        "correct": false
+      }
+    ],
+    "explanation": "Sir Bernard Lovell built the Jodrell Bank radio telescope in Cheshire. For many years, it was the largest radio telescope in the world.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-POS-031",
+    "section_id": "CH3-POS",
+    "type": "multi",
+    "stem": "Which TWO countries did British forces fight in during the 2000s as part of international campaigns against terrorism?",
+    "options": [
+      {
+        "label": "Iraq",
+        "correct": true
+      },
+      {
+        "label": "Afghanistan",
+        "correct": true
+      },
+      {
+        "label": "Vietnam",
+        "correct": false
+      },
+      {
+        "label": "Argentina",
+        "correct": false
+      }
+    ],
+    "explanation": "British forces operated alongside global allies in Afghanistan from 2001 and Iraq from 2003 to help fight international terrorism.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-POS-032",
+    "section_id": "CH3-POS",
+    "type": "single",
+    "stem": "Which Prime Minister's government established the Open University in 1969 to offer higher education to more people?",
+    "options": [
+      {
+        "label": "Harold Wilson",
+        "correct": true
+      },
+      {
+        "label": "Edward Heath",
+        "correct": false
+      },
+      {
+        "label": "James Callaghan",
+        "correct": false
+      },
+      {
+        "label": "Clement Attlee",
+        "correct": false
+      }
+    ],
+    "explanation": "Harold Wilson's Labour government introduced the Open University in 1969. It allowed people to study for degrees through distance learning.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-POS-033",
+    "section_id": "CH3-POS",
+    "type": "truefalse",
+    "stem": "In 1975, the UK held a national referendum and voted to stay in the European Common Market.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "The UK joined the European Economic Community (Common Market) in 1973. In 1975, a referendum was held, and the public voted to remain a member.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-POS-034",
+    "section_id": "CH3-POS",
+    "type": "single",
+    "stem": "Following the general election in 2010, which two political parties formed a coalition government?",
+    "options": [
+      {
+        "label": "Conservatives and Liberal Democrats",
+        "correct": true
+      },
+      {
+        "label": "Labour and Liberal Democrats",
+        "correct": false
+      },
+      {
+        "label": "Conservatives and UKIP",
+        "correct": false
+      },
+      {
+        "label": "Labour and the Scottish National Party",
+        "correct": false
+      }
+    ],
+    "explanation": "No single political party won a majority in the 2010 election. The Conservatives and the Liberal Democrats agreed to form a coalition government.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-POS-035",
+    "section_id": "CH3-POS",
+    "type": "single",
+    "stem": "What famous ship arrived in Britain in 1948, bringing people from the West Indies to help rebuild the country?",
+    "options": [
+      {
+        "label": "Empire Windrush",
+        "correct": true
+      },
+      {
+        "label": "Queen Mary",
+        "correct": false
+      },
+      {
+        "label": "Titanic",
+        "correct": false
+      },
+      {
+        "label": "Cutty Sark",
+        "correct": false
+      }
+    ],
+    "explanation": "The Empire Windrush brought passengers from Jamaica in 1948. Many people from the Commonwealth came to live and work in the UK after World War II.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-POS-036",
+    "section_id": "CH3-POS",
+    "type": "single",
+    "stem": "Who became Prime Minister in 2007 after Tony Blair resigned?",
+    "options": [
+      {
+        "label": "Gordon Brown",
+        "correct": true
+      },
+      {
+        "label": "David Cameron",
+        "correct": false
+      },
+      {
+        "label": "Theresa May",
+        "correct": false
+      },
+      {
+        "label": "John Major",
+        "correct": false
+      }
+    ],
+    "explanation": "Gordon Brown served as Prime Minister from 2007 until the general election in 2010. He belonged to the Labour Party.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-POS-037",
+    "section_id": "CH3-POS",
+    "type": "single",
+    "stem": "In 2012, which major international sporting event did London host for the third time?",
+    "options": [
+      {
+        "label": "The Olympic Games",
+        "correct": true
+      },
+      {
+        "label": "The FIFA World Cup",
+        "correct": false
+      },
+      {
+        "label": "The Commonwealth Games",
+        "correct": false
+      },
+      {
+        "label": "The Rugby World Cup",
+        "correct": false
+      }
+    ],
+    "explanation": "London hosted the Olympic Games in 2012. It was the third time the city had hosted the games, having previously done so in 1908 and 1948.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-POS-038",
+    "section_id": "CH3-POS",
+    "type": "multi",
+    "stem": "Which TWO of these Jubilees did Queen Elizabeth II celebrate to mark 25 years and 50 years on the throne?",
+    "options": [
+      {
+        "label": "Silver Jubilee",
+        "correct": true
+      },
+      {
+        "label": "Golden Jubilee",
+        "correct": true
+      },
+      {
+        "label": "Diamond Jubilee",
+        "correct": false
+      },
+      {
+        "label": "Platinum Jubilee",
+        "correct": false
+      }
+    ],
+    "explanation": "Queen Elizabeth II celebrated her Silver Jubilee (25 years) in 1977 and her Golden Jubilee (50 years) in 2002. She later celebrated her Diamond Jubilee in 2012.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-POS-039",
+    "section_id": "CH3-POS",
+    "type": "single",
+    "stem": "What famous report in 1942 recommended the creation of a welfare state to fight poverty and unemployment in Britain?",
+    "options": [
+      {
+        "label": "The Beveridge Report",
+        "correct": true
+      },
+      {
+        "label": "The Butler Report",
+        "correct": false
+      },
+      {
+        "label": "The Macmillan Report",
+        "correct": false
+      },
+      {
+        "label": "The Attlee Report",
+        "correct": false
+      }
+    ],
+    "explanation": "William Beveridge wrote the report in 1942, recommending that the government fight five 'giant evils'. This led to major post-war reforms.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-POS-040",
+    "section_id": "CH3-POS",
+    "type": "single",
+    "stem": "In 1969, why were British troops sent to Northern Ireland?",
+    "options": [
+      {
+        "label": "To keep peace between Protestant and Catholic communities",
+        "correct": true
+      },
+      {
+        "label": "To defend the border against an invasion from Ireland",
+        "correct": false
+      },
+      {
+        "label": "To rebuild roads and schools after a natural disaster",
+        "correct": false
+      },
+      {
+        "label": "To train the local police force in modern fighting methods",
+        "correct": false
+      }
+    ],
+    "explanation": "British troops were sent to Northern Ireland in 1969 to maintain order after serious sectarian rioting broke out between the two communities.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-POS-041",
+    "section_id": "CH3-POS",
+    "type": "single",
+    "stem": "Which conflict in 1991 did British forces play a major role in, helping to liberate Kuwait?",
+    "options": [
+      {
+        "label": "The Gulf War",
+        "correct": true
+      },
+      {
+        "label": "The Korean War",
+        "correct": false
+      },
+      {
+        "label": "The Suez Crisis",
+        "correct": false
+      },
+      {
+        "label": "The Falklands War",
+        "correct": false
+      }
+    ],
+    "explanation": "In 1991, British troops joined an international coalition in the Gulf War. They successfully liberated Kuwait from Iraqi occupation.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-POS-042",
+    "section_id": "CH3-POS",
+    "type": "single",
+    "stem": "In which year was the Festival of Britain held to celebrate the country's recovery after World War II?",
+    "options": [
+      {
+        "label": "1948",
+        "correct": false
+      },
+      {
+        "label": "1951",
+        "correct": true
+      },
+      {
+        "label": "1955",
+        "correct": false
+      },
+      {
+        "label": "1961",
+        "correct": false
+      }
+    ],
+    "explanation": "The Festival of Britain was held in 1951, exactly 100 years after the Great Exhibition of 1851. It aimed to show Britain's progress in science, technology, and the arts after the war.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-POS-043",
+    "section_id": "CH3-POS",
+    "type": "single",
+    "stem": "During the 1980s, the government led by Margaret Thatcher worked to privatise state-owned businesses. What does \"privatise\" mean?",
+    "options": [
+      {
+        "label": "Sell them to private buyers",
+        "correct": true
+      },
+      {
+        "label": "Close them down permanently",
+        "correct": false
+      },
+      {
+        "label": "Merge them into one big department",
+        "correct": false
+      },
+      {
+        "label": "Move them to other countries",
+        "correct": false
+      }
+    ],
+    "explanation": "The Conservative government under Margaret Thatcher privatised many state-run national industries, such as gas, electricity, and telecommunications, by selling them to private buyers.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-POS-044",
+    "section_id": "CH3-POS",
+    "type": "truefalse",
+    "stem": "Queen Elizabeth II became queen in 1952 following the death of her father, King George VI.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Although her coronation took place in 1953, Elizabeth II officially became Queen in 1952 when her father, King George VI, passed away.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-POS-045",
+    "section_id": "CH3-POS",
+    "type": "single",
+    "stem": "Who won the Nobel Peace Prize in 1976 for their work to end the violence in Northern Ireland?",
+    "options": [
+      {
+        "label": "John Hume and David Trimble",
+        "correct": false
+      },
+      {
+        "label": "Mairead Corrigan and Betty Williams",
+        "correct": true
+      },
+      {
+        "label": "Tony Blair and Bertie Ahern",
+        "correct": false
+      },
+      {
+        "label": "Harold Wilson and Edward Heath",
+        "correct": false
+      }
+    ],
+    "explanation": "Mairead Corrigan and Betty Williams founded the Northern Ireland Peace Movement (Peace People) and were awarded the Nobel Peace Prize in 1976 for their peace efforts.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-POS-046",
+    "section_id": "CH3-POS",
+    "type": "multi",
+    "stem": "Which TWO popular British rock bands became world-famous during the cultural movement known as the \"Swinging Sixties\"?",
+    "options": [
+      {
+        "label": "The Beatles",
+        "correct": true
+      },
+      {
+        "label": "The Rolling Stones",
+        "correct": true
+      },
+      {
+        "label": "Coldplay",
+        "correct": false
+      },
+      {
+        "label": "Oasis",
+        "correct": false
+      }
+    ],
+    "explanation": "The Beatles and The Rolling Stones were key parts of the cultural boom of the 1960s, known as the \"Swinging Sixties\", which made British music popular worldwide.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-POS-047",
+    "section_id": "CH3-POS",
+    "type": "single",
+    "stem": "In 2012, Queen Elizabeth II celebrated her Diamond Jubilee. How many years on the throne did this mark?",
+    "options": [
+      {
+        "label": "50 years",
+        "correct": false
+      },
+      {
+        "label": "60 years",
+        "correct": true
+      },
+      {
+        "label": "70 years",
+        "correct": false
+      },
+      {
+        "label": "75 years",
+        "correct": false
+      }
+    ],
+    "explanation": "A Diamond Jubilee marks 60 years of a monarch's reign. Queen Elizabeth II celebrated this milestone in 2012, the same year London hosted the Olympic Games.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-POS-048",
+    "section_id": "CH3-POS",
+    "type": "single",
+    "stem": "In 2013, the UK Parliament passed a law that allowed same-sex couples to do what in England and Wales?",
+    "options": [
+      {
+        "label": "Marry each other",
+        "correct": true
+      },
+      {
+        "label": "Adopt children",
+        "correct": false
+      },
+      {
+        "label": "Jointly open a bank account",
+        "correct": false
+      },
+      {
+        "label": "Vote in general elections",
+        "correct": false
+      }
+    ],
+    "explanation": "The Marriage (Same Sex Couples) Act was passed by Parliament in 2013, making same-sex marriage legal in England and Wales. Equal marriage laws were passed in Scotland in 2014.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-POS-049",
+    "section_id": "CH3-POS",
+    "type": "multi",
+    "stem": "The UK is one of five permanent members of the United Nations (UN) Security Council. Which TWO other countries are also permanent members?",
+    "options": [
+      {
+        "label": "United States",
+        "correct": true
+      },
+      {
+        "label": "France",
+        "correct": true
+      },
+      {
+        "label": "Germany",
+        "correct": false
+      },
+      {
+        "label": "Japan",
+        "correct": false
+      }
+    ],
+    "explanation": "The UN Security Council has five permanent members with veto power: the UK, the United States, France, China, and Russia. It was established after World War II.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-POS-050",
+    "section_id": "CH3-POS",
+    "type": "single",
+    "stem": "Which British Prime Minister led the UK into the European Economic Community (EEC) in 1973?",
+    "options": [
+      {
+        "label": "Harold Wilson",
+        "correct": false
+      },
+      {
+        "label": "Edward Heath",
+        "correct": true
+      },
+      {
+        "label": "James Callaghan",
+        "correct": false
+      },
+      {
+        "label": "Margaret Thatcher",
+        "correct": false
+      }
+    ],
+    "explanation": "Edward Heath was the Conservative Prime Minister who successfully negotiated the UK's entry into the European Economic Community (EEC) in 1973.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-POS-051",
+    "section_id": "CH3-POS",
+    "type": "single",
+    "stem": "As the British Empire dismantled after World War II, most of the newly independent countries joined which international organisation?",
+    "options": [
+      {
+        "label": "The Commonwealth",
+        "correct": true
+      },
+      {
+        "label": "The European Union",
+        "correct": false
+      },
+      {
+        "label": "The League of Nations",
+        "correct": false
+      },
+      {
+        "label": "The United Nations Security Council",
+        "correct": false
+      }
+    ],
+    "explanation": "As Britain granted independence to its colonies, a voluntary association of independent countries called the Commonwealth was formed, with the British monarch as its head.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 1,
+    "ai_checked": true
   }
 ]

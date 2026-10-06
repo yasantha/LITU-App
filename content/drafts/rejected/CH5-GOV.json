@@ -1,0 +1,117 @@
+[
+  {
+    "id": "Q-CH5-GOV-019",
+    "section_id": "CH5-GOV",
+    "type": "single",
+    "stem": "What is the main purpose of the Council of Europe?",
+    "options": [
+      {
+        "label": "To manage the Euro currency",
+        "correct": false
+      },
+      {
+        "label": "To protect human rights",
+        "correct": true
+      },
+      {
+        "label": "To control trade",
+        "correct": false
+      },
+      {
+        "label": "To provide military defence",
+        "correct": false
+      }
+    ],
+    "explanation": "The Council of Europe protects human rights and democracy. It is separate from the EU and has 47 member states.",
+    "handbook_ref": "Chapter 5 · The government",
+    "difficulty": 2,
+    "rejected_reason": "The explanation contains a factual error: the Council of Europe has 46 member states, not 47, since Russia was expelled in 2022."
+  },
+  {
+    "id": "Q-CH5-GOV-014",
+    "section_id": "CH5-GOV",
+    "type": "single",
+    "stem": "Who is the ceremonial head of the Commonwealth?",
+    "options": [
+      {
+        "label": "The UN Secretary-General",
+        "correct": false
+      },
+      {
+        "label": "The UK Prime Minister",
+        "correct": false
+      },
+      {
+        "label": "The Monarch",
+        "correct": true
+      },
+      {
+        "label": "The US President",
+        "correct": false
+      }
+    ],
+    "explanation": "The King is the head of the Commonwealth. This is a group of countries that work together to promote democracy and peace.",
+    "handbook_ref": "Chapter 5 · The government",
+    "difficulty": 2,
+    "ai_checked": true,
+    "rejected_reason": "Duplicate of Q-CH5-INT-005"
+  },
+  {
+    "id": "Q-CH5-GOV-025",
+    "section_id": "CH5-GOV",
+    "type": "single",
+    "stem": "What must happen before a proposed bill can become an Act of Parliament?",
+    "options": [
+      {
+        "label": "It must receive Royal Assent",
+        "correct": true
+      },
+      {
+        "label": "It must be approved by the Supreme Court",
+        "correct": false
+      },
+      {
+        "label": "It must be signed by all Members of Parliament",
+        "correct": false
+      },
+      {
+        "label": "It must be approved in a national referendum",
+        "correct": false
+      }
+    ],
+    "explanation": "Before a bill becomes an Act of Parliament, it must be approved by both Houses and receive Royal Assent from the monarch.",
+    "handbook_ref": "Chapter 5 · The government",
+    "difficulty": 2,
+    "ai_checked": true,
+    "rejected_reason": "Duplicate of Q-CH5-CON-018"
+  },
+  {
+    "id": "Q-CH5-GOV-029",
+    "section_id": "CH5-GOV",
+    "type": "single",
+    "stem": "What is held if an MP dies or resigns before the next general election?",
+    "options": [
+      {
+        "label": "A by-election",
+        "correct": true
+      },
+      {
+        "label": "A local referendum",
+        "correct": false
+      },
+      {
+        "label": "A primary election",
+        "correct": false
+      },
+      {
+        "label": "An advisory vote",
+        "correct": false
+      }
+    ],
+    "explanation": "If a Member of Parliament dies or steps down between general elections, a by-election is held to choose a new representative for that seat.",
+    "handbook_ref": "Chapter 5 · The government",
+    "difficulty": 2,
+    "ai_checked": true,
+    "rejected_reason": "Duplicate of Q-CH5-DEM-021"
+  }
+]

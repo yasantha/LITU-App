@@ -1,0 +1,30 @@
+[
+  {
+    "id": "Q-CH5-INT-009",
+    "section_id": "CH5-INT",
+    "type": "single",
+    "stem": "How many countries are members of the Council of Europe?",
+    "options": [
+      {
+        "label": "12 countries",
+        "correct": false
+      },
+      {
+        "label": "28 countries",
+        "correct": false
+      },
+      {
+        "label": "47 countries",
+        "correct": true
+      },
+      {
+        "label": "100 countries",
+        "correct": false
+      }
+    ],
+    "explanation": "The Council of Europe has 47 member states. It is a separate organisation from the European Union and focuses on human rights.",
+    "handbook_ref": "Chapter 5 · The UK and international institutions",
+    "difficulty": 3,
+    "rejected_reason": "The number of member states in the Council of Europe has changed; Russia was expelled in 2022 and there are now 46 members."
+  }
+]

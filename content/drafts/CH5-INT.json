@@ -16,7 +16,8 @@
     ],
     "explanation": "The UK is one of five permanent members of the UN Security Council, which works to keep international peace and security.",
     "handbook_ref": "Chapter 5 · The UK and international institutions",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH5-INT-002",
@@ -43,7 +44,8 @@
     ],
     "explanation": "The Commonwealth is a voluntary association of countries. Most were once part of the British Empire, and the monarch is its head.",
     "handbook_ref": "Chapter 5 · The UK and international institutions",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH5-INT-003",
@@ -70,7 +72,8 @@
     ],
     "explanation": "The UK is a member of NATO, a group of European and North American countries that have agreed to help each other if they are attacked.",
     "handbook_ref": "Chapter 5 · The UK and international institutions",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH5-INT-004",
@@ -97,6 +100,459 @@
     ],
     "explanation": "The Council of Europe created the European Convention on Human Rights. It is separate from the European Union.",
     "handbook_ref": "Chapter 5 · The UK and international institutions",
-    "difficulty": 3
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-INT-005",
+    "section_id": "CH5-INT",
+    "type": "single",
+    "stem": "Who is the ceremonial head of the Commonwealth?",
+    "options": [
+      {
+        "label": "The British Monarch",
+        "correct": true
+      },
+      {
+        "label": "The Prime Minister",
+        "correct": false
+      },
+      {
+        "label": "The Secretary of State",
+        "correct": false
+      },
+      {
+        "label": "The President of the UN",
+        "correct": false
+      }
+    ],
+    "explanation": "The Monarch is the ceremonial head of the Commonwealth. Most member countries were once ruled by Britain but are now independent.",
+    "handbook_ref": "Chapter 5 · The UK and international institutions",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-INT-006",
+    "section_id": "CH5-INT",
+    "type": "single",
+    "stem": "How often are the Commonwealth Games held?",
+    "options": [
+      {
+        "label": "Every 2 years",
+        "correct": false
+      },
+      {
+        "label": "Every 4 years",
+        "correct": true
+      },
+      {
+        "label": "Every 5 years",
+        "correct": false
+      },
+      {
+        "label": "Every 10 years",
+        "correct": false
+      }
+    ],
+    "explanation": "The Commonwealth Games take place every four years. Athletes from all member countries come together to compete in various sports.",
+    "handbook_ref": "Chapter 5 · The UK and international institutions",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-INT-007",
+    "section_id": "CH5-INT",
+    "type": "single",
+    "stem": "How many member countries are there in the United Nations Security Council in total?",
+    "options": [
+      {
+        "label": "5 members",
+        "correct": false
+      },
+      {
+        "label": "10 members",
+        "correct": false
+      },
+      {
+        "label": "15 members",
+        "correct": true
+      },
+      {
+        "label": "25 members",
+        "correct": false
+      }
+    ],
+    "explanation": "The Security Council has 15 members. There are five permanent members and ten other members who are elected for two-year terms.",
+    "handbook_ref": "Chapter 5 · The UK and international institutions",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-INT-008",
+    "section_id": "CH5-INT",
+    "type": "multi",
+    "stem": "Which TWO of these are values that all Commonwealth member countries agree to follow?",
+    "options": [
+      {
+        "label": "Democracy",
+        "correct": true
+      },
+      {
+        "label": "Rule of law",
+        "correct": true
+      },
+      {
+        "label": "Using the same currency",
+        "correct": false
+      },
+      {
+        "label": "Having the same religion",
+        "correct": false
+      }
+    ],
+    "explanation": "The Commonwealth is based on shared values like democracy and the rule of law. It also works to support human rights and development.",
+    "handbook_ref": "Chapter 5 · The UK and international institutions",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-INT-010",
+    "section_id": "CH5-INT",
+    "type": "single",
+    "stem": "In which city is the European Court of Human Rights located?",
+    "options": [
+      {
+        "label": "London",
+        "correct": false
+      },
+      {
+        "label": "Brussels",
+        "correct": false
+      },
+      {
+        "label": "Strasbourg",
+        "correct": true
+      },
+      {
+        "label": "Geneva",
+        "correct": false
+      }
+    ],
+    "explanation": "The European Court of Human Rights is in Strasbourg, France. It was set up to make sure countries follow the Human Rights Convention.",
+    "handbook_ref": "Chapter 5 · The UK and international institutions",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-INT-011",
+    "section_id": "CH5-INT",
+    "type": "truefalse",
+    "stem": "Joining the Commonwealth is a voluntary choice for a country.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Membership of the Commonwealth is voluntary. Countries choose to join to work together on common goals and values.",
+    "handbook_ref": "Chapter 5 · The UK and international institutions",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-INT-012",
+    "section_id": "CH5-INT",
+    "type": "single",
+    "stem": "In the United Nations General Assembly, how many votes does each country have?",
+    "options": [
+      {
+        "label": "One vote",
+        "correct": true
+      },
+      {
+        "label": "Two votes",
+        "correct": false
+      },
+      {
+        "label": "Votes based on population",
+        "correct": false
+      },
+      {
+        "label": "Votes based on wealth",
+        "correct": false
+      }
+    ],
+    "explanation": "In the General Assembly, every member country has one vote. This assembly is where all UN members can discuss global issues.",
+    "handbook_ref": "Chapter 5 · The UK and international institutions",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-INT-013",
+    "section_id": "CH5-INT",
+    "type": "multi",
+    "stem": "Which TWO of these international groups is the UK a member of?",
+    "options": [
+      {
+        "label": "The G7",
+        "correct": true
+      },
+      {
+        "label": "The G20",
+        "correct": true
+      },
+      {
+        "label": "The African Union",
+        "correct": false
+      },
+      {
+        "label": "The Arab League",
+        "correct": false
+      }
+    ],
+    "explanation": "The UK is part of the G7 and G20. These groups involve the world's largest economies discussing money and security matters.",
+    "handbook_ref": "Chapter 5 · The UK and international institutions",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-INT-014",
+    "section_id": "CH5-INT",
+    "type": "single",
+    "stem": "What was the European Union (EU) called when it was first created?",
+    "options": [
+      {
+        "label": "The European Economic Community",
+        "correct": true
+      },
+      {
+        "label": "The Council of Europe",
+        "correct": false
+      },
+      {
+        "label": "The European Peace Project",
+        "correct": false
+      },
+      {
+        "label": "The Trade Union",
+        "correct": false
+      }
+    ],
+    "explanation": "The EU began as the European Economic Community (EEC). It was originally formed by six countries to help trade after World War II.",
+    "handbook_ref": "Chapter 5 · The UK and international institutions",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-INT-015",
+    "section_id": "CH5-INT",
+    "type": "truefalse",
+    "stem": "The Council of Europe has the power to make laws that all member countries must follow.",
+    "options": [
+      {
+        "label": "True",
+        "correct": false
+      },
+      {
+        "label": "False",
+        "correct": true
+      }
+    ],
+    "explanation": "The Council of Europe cannot make laws. Instead, it creates agreements for countries to follow regarding human rights and democracy.",
+    "handbook_ref": "Chapter 5 · The UK and international institutions",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-INT-016",
+    "section_id": "CH5-INT",
+    "type": "single",
+    "stem": "What is the main purpose of the Organisation for Economic Cooperation and Development (OECD)?",
+    "options": [
+      {
+        "label": "To lead military missions",
+        "correct": false
+      },
+      {
+        "label": "To promote economic growth",
+        "correct": true
+      },
+      {
+        "label": "To run the Olympic Games",
+        "correct": false
+      },
+      {
+        "label": "To manage the world's banks",
+        "correct": false
+      }
+    ],
+    "explanation": "The OECD aims to improve the economy and social well-being of people around the world. The UK was a founding member in 1961.",
+    "handbook_ref": "Chapter 5 · The UK and international institutions",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-INT-017",
+    "section_id": "CH5-INT",
+    "type": "single",
+    "stem": "What is the main rule of NATO regarding a member country being attacked?",
+    "options": [
+      {
+        "label": "Other members must stay neutral",
+        "correct": false
+      },
+      {
+        "label": "Members can choose to help or not",
+        "correct": false
+      },
+      {
+        "label": "An attack on one is an attack on all",
+        "correct": true
+      },
+      {
+        "label": "The UN must give permission to help",
+        "correct": false
+      }
+    ],
+    "explanation": "NATO is built on the idea of collective defence. This means if one member is attacked, all other members will help defend them.",
+    "handbook_ref": "Chapter 5 · The UK and international institutions",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-INT-018",
+    "section_id": "CH5-INT",
+    "type": "multi",
+    "stem": "Which TWO of these are agencies that are part of the United Nations?",
+    "options": [
+      {
+        "label": "UNICEF",
+        "correct": true
+      },
+      {
+        "label": "WHO",
+        "correct": true
+      },
+      {
+        "label": "NATO",
+        "correct": false
+      },
+      {
+        "label": "The Commonwealth",
+        "correct": false
+      }
+    ],
+    "explanation": "UNICEF (for children) and WHO (for health) are both UN agencies. The UN has many departments that work on specific global problems.",
+    "handbook_ref": "Chapter 5 · The UK and international institutions",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-INT-019",
+    "section_id": "CH5-INT",
+    "type": "single",
+    "stem": "Who is the official that leads the work of the Commonwealth?",
+    "options": [
+      {
+        "label": "The Secretary-General",
+        "correct": true
+      },
+      {
+        "label": "The Foreign Secretary",
+        "correct": false
+      },
+      {
+        "label": "The Lord Chancellor",
+        "correct": false
+      },
+      {
+        "label": "The Speaker",
+        "correct": false
+      }
+    ],
+    "explanation": "The Commonwealth Secretariat is led by the Secretary-General. They help manage the meetings and work of the whole organisation.",
+    "handbook_ref": "Chapter 5 · The UK and international institutions",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-INT-020",
+    "section_id": "CH5-INT",
+    "type": "single",
+    "stem": "The UK is a member of the G7. What is the main purpose of this group?",
+    "options": [
+      {
+        "label": "To discuss global issues like the economy",
+        "correct": true
+      },
+      {
+        "label": "To manage the Commonwealth Games",
+        "correct": false
+      },
+      {
+        "label": "To create laws for all member states",
+        "correct": false
+      },
+      {
+        "label": "To select the leader of the United Nations",
+        "correct": false
+      }
+    ],
+    "explanation": "The G7 is a group of countries with large, developed economies. The leaders of these countries meet every year to talk about important issues like the environment and security.",
+    "handbook_ref": "Chapter 5 · The UK and international institutions",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-INT-021",
+    "section_id": "CH5-INT",
+    "type": "single",
+    "stem": "Where is the International Court of Justice located?",
+    "options": [
+      {
+        "label": "The Hague, Netherlands",
+        "correct": true
+      },
+      {
+        "label": "New York, USA",
+        "correct": false
+      },
+      {
+        "label": "Brussels, Belgium",
+        "correct": false
+      },
+      {
+        "label": "Paris, France",
+        "correct": false
+      }
+    ],
+    "explanation": "The International Court of Justice is one of the main parts of the United Nations. It is based in the city of The Hague.",
+    "handbook_ref": "Chapter 5 · The UK and international institutions",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-INT-022",
+    "section_id": "CH5-INT",
+    "type": "truefalse",
+    "stem": "The United Nations (UN) was set up after the Second World War to help keep world peace.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "The UN was created in 1945 to help countries solve problems by talking rather than fighting. It also works to protect human rights across the world.",
+    "handbook_ref": "Chapter 5 · The UK and international institutions",
+    "difficulty": 1,
+    "ai_checked": true
   }
 ]

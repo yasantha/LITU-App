@@ -1,0 +1,30 @@
+[
+  {
+    "id": "Q-CH3-C20-036",
+    "section_id": "CH3-C20",
+    "type": "single",
+    "stem": "In which year did the UK decimalise its currency, replacing shillings?",
+    "options": [
+      {
+        "label": "1971",
+        "correct": true
+      },
+      {
+        "label": "1965",
+        "correct": false
+      },
+      {
+        "label": "1979",
+        "correct": false
+      },
+      {
+        "label": "1983",
+        "correct": false
+      }
+    ],
+    "explanation": "The UK decimalised its currency on 15 February 1971. This made 100 pence equal to one pound instead of 240 old pennies.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 3,
+    "rejected_reason": "The decimalisation of British currency in 1971 is not covered in the 3rd edition of the official handbook."
+  }
+]

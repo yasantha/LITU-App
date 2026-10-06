@@ -24,7 +24,8 @@
     ],
     "explanation": "Fundamental principles of British life include democracy, the rule of law, individual liberty and tolerance of different faiths and beliefs.",
     "handbook_ref": "Chapter 1 · The values and principles of the UK",
-    "difficulty": 1
+    "difficulty": 1,
+    "ai_checked": true
   },
   {
     "id": "Q-CH1-VAL-002",
@@ -43,7 +44,8 @@
     ],
     "explanation": "Tolerance is a core British value. You can disagree with someone, but you should respect their right to their own views and beliefs.",
     "handbook_ref": "Chapter 1 · The values and principles of the UK",
-    "difficulty": 1
+    "difficulty": 1,
+    "ai_checked": true
   },
   {
     "id": "Q-CH1-VAL-003",
@@ -70,6 +72,7 @@
     ],
     "explanation": "Everyone should respect the law and look after themselves, their family and the area where they live. Joining a party or religion is a free choice.",
     "handbook_ref": "Chapter 1 · The values and principles of the UK",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   }
 ]

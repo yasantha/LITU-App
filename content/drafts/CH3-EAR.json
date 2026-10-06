@@ -24,7 +24,8 @@
     ],
     "explanation": "Stonehenge is a famous prehistoric monument in Wiltshire, in the south-west of England. It was probably a special place for gatherings.",
     "handbook_ref": "Chapter 3 · Early Britain",
-    "difficulty": 1
+    "difficulty": 1,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-EAR-002",
@@ -51,7 +52,8 @@
     ],
     "explanation": "Skara Brae is on Orkney, off the north coast of Scotland. It is the best-preserved prehistoric village in northern Europe.",
     "handbook_ref": "Chapter 3 · Early Britain",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-EAR-003",
@@ -78,7 +80,8 @@
     ],
     "explanation": "Julius Caesar tried to invade in 55 BC but did not stay. The Romans returned under Emperor Claudius in AD 43 and ruled for about 400 years.",
     "handbook_ref": "Chapter 3 · Early Britain",
-    "difficulty": 3
+    "difficulty": 3,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-EAR-004",
@@ -105,7 +108,8 @@
     ],
     "explanation": "Boudicca led the Iceni, a tribe in what is now eastern England, against the Romans. Her statue stands on Westminster Bridge in London.",
     "handbook_ref": "Chapter 3 · Early Britain",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-EAR-005",
@@ -132,7 +136,8 @@
     ],
     "explanation": "Emperor Hadrian built the wall in the north of England to keep out the Picts, who were ancestors of the Scottish people.",
     "handbook_ref": "Chapter 3 · Early Britain",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-EAR-006",
@@ -159,7 +164,8 @@
     ],
     "explanation": "The Roman army left Britain in AD 410 to defend other parts of the Roman Empire. They never returned.",
     "handbook_ref": "Chapter 3 · Early Britain",
-    "difficulty": 3
+    "difficulty": 3,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-EAR-007",
@@ -186,7 +192,8 @@
     ],
     "explanation": "Sutton Hoo in Suffolk is the burial place of an Anglo-Saxon king. He was buried with treasure and armour, all placed inside a ship.",
     "handbook_ref": "Chapter 3 · Early Britain",
-    "difficulty": 3
+    "difficulty": 3,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-EAR-008",
@@ -213,7 +220,8 @@
     ],
     "explanation": "St Augustine led missionaries from Rome who spread Christianity in the south of England. He became the first Archbishop of Canterbury.",
     "handbook_ref": "Chapter 3 · Early Britain",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-EAR-009",
@@ -240,7 +248,8 @@
     ],
     "explanation": "The Vikings came from Denmark and Norway. They first visited Britain in AD 789 to raid coastal towns and take goods and slaves.",
     "handbook_ref": "Chapter 3 · Early Britain",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-EAR-010",
@@ -267,7 +276,8 @@
     ],
     "explanation": "William defeated and killed the English king, Harold, at the Battle of Hastings in 1066. The battle is shown on the Bayeux Tapestry.",
     "handbook_ref": "Chapter 3 · Early Britain",
-    "difficulty": 1
+    "difficulty": 1,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-EAR-011",
@@ -286,7 +296,8 @@
     ],
     "explanation": "The Domesday Book listed who owned land and what animals they had. It still exists and gives a picture of England after the Norman Conquest.",
     "handbook_ref": "Chapter 3 · Early Britain",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-EAR-012",
@@ -313,6 +324,1087 @@
     ],
     "explanation": "Alfred the Great brought the Anglo-Saxon kingdoms together and defeated the Vikings. Many Vikings then settled in the east and north of England.",
     "handbook_ref": "Chapter 3 · Early Britain",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-EAR-013",
+    "section_id": "CH3-EAR",
+    "type": "single",
+    "stem": "About when did the first farmers arrive in Britain?",
+    "options": [
+      {
+        "label": "6,000 years ago",
+        "correct": true
+      },
+      {
+        "label": "10,000 years ago",
+        "correct": false
+      },
+      {
+        "label": "2,000 years ago",
+        "correct": false
+      },
+      {
+        "label": "15,000 years ago",
+        "correct": false
+      }
+    ],
+    "explanation": "The first farmers arrived in Britain about 6,000 years ago. This marked the start of the Neolithic period, when people began to build permanent homes.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-EAR-014",
+    "section_id": "CH3-EAR",
+    "type": "single",
+    "stem": "Which metal was mixed with copper to make bronze in early Britain?",
+    "options": [
+      {
+        "label": "Tin",
+        "correct": true
+      },
+      {
+        "label": "Gold",
+        "correct": false
+      },
+      {
+        "label": "Lead",
+        "correct": false
+      },
+      {
+        "label": "Iron",
+        "correct": false
+      }
+    ],
+    "explanation": "Around 2,100 BC, people in Britain learned to make bronze by mixing copper and tin. This period is known as the Bronze Age.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-EAR-015",
+    "section_id": "CH3-EAR",
+    "type": "single",
+    "stem": "What shape were the houses that people lived in during the Bronze Age?",
+    "options": [
+      {
+        "label": "Round",
+        "correct": true
+      },
+      {
+        "label": "Square",
+        "correct": false
+      },
+      {
+        "label": "L-shaped",
+        "correct": false
+      },
+      {
+        "label": "Triangular",
+        "correct": false
+      }
+    ],
+    "explanation": "During the Bronze Age, people lived in roundhouses. These homes were built with wooden poles, mud, and thatched roofs.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-EAR-016",
+    "section_id": "CH3-EAR",
+    "type": "single",
+    "stem": "In which English county is Maiden Castle, a huge Iron Age hill fort, located?",
+    "options": [
+      {
+        "label": "Dorset",
+        "correct": true
+      },
+      {
+        "label": "Kent",
+        "correct": false
+      },
+      {
+        "label": "Yorkshire",
+        "correct": false
+      },
+      {
+        "label": "Cornwall",
+        "correct": false
+      }
+    ],
+    "explanation": "Maiden Castle is one of the largest and most famous Iron Age hill forts in Europe. It is located in Dorset, in the south of England.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-EAR-017",
+    "section_id": "CH3-EAR",
+    "type": "single",
+    "stem": "Who led the first, unsuccessful Roman invasions of Britain in 55 and 54 BC?",
+    "options": [
+      {
+        "label": "Julius Caesar",
+        "correct": true
+      },
+      {
+        "label": "Emperor Claudius",
+        "correct": false
+      },
+      {
+        "label": "Augustus",
+        "correct": false
+      },
+      {
+        "label": "Nero",
+        "correct": false
+      }
+    ],
+    "explanation": "Julius Caesar led Roman armies to Britain in 55 and 54 BC, but he did not conquer the island. The successful invasion happened nearly 100 years later.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-EAR-018",
+    "section_id": "CH3-EAR",
+    "type": "single",
+    "stem": "Which language family was spoken by the people living in Britain during the Iron Age?",
+    "options": [
+      {
+        "label": "Celtic",
+        "correct": true
+      },
+      {
+        "label": "Latin",
+        "correct": false
+      },
+      {
+        "label": "French",
+        "correct": false
+      },
+      {
+        "label": "Germanic",
+        "correct": false
+      }
+    ],
+    "explanation": "People in Iron Age Britain spoke Celtic languages. Today, modern languages like Welsh and Gaelic are part of this Celtic language family.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-EAR-019",
+    "section_id": "CH3-EAR",
+    "type": "single",
+    "stem": "Which Christian missionary travelled from Ireland to Scotland and founded a monastery on the island of Iona?",
+    "options": [
+      {
+        "label": "St Columba",
+        "correct": true
+      },
+      {
+        "label": "St Augustine",
+        "correct": false
+      },
+      {
+        "label": "St Patrick",
+        "correct": false
+      },
+      {
+        "label": "St David",
+        "correct": false
+      }
+    ],
+    "explanation": "St Columba was an Irish monk who founded a famous monastery on Iona, an island off the coast of Scotland. He helped convert the Picts to Christianity.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-EAR-020",
+    "section_id": "CH3-EAR",
+    "type": "single",
+    "stem": "Where did Saint Patrick go as a missionary to spread Christianity, later becoming its patron saint?",
+    "options": [
+      {
+        "label": "Ireland",
+        "correct": true
+      },
+      {
+        "label": "Wales",
+        "correct": false
+      },
+      {
+        "label": "Scotland",
+        "correct": false
+      },
+      {
+        "label": "England",
+        "correct": false
+      }
+    ],
+    "explanation": "Saint Patrick was born in Britain but went to Ireland as a missionary. He is now celebrated as the patron saint of Ireland.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-EAR-021",
+    "section_id": "CH3-EAR",
+    "type": "single",
+    "stem": "Which holy island off the northeast coast of England was raided by the Vikings in 793 AD?",
+    "options": [
+      {
+        "label": "Lindisfarne",
+        "correct": true
+      },
+      {
+        "label": "Iona",
+        "correct": false
+      },
+      {
+        "label": "Wight",
+        "correct": false
+      },
+      {
+        "label": "Anglesey",
+        "correct": false
+      }
+    ],
+    "explanation": "The Vikings raided the monastery at Lindisfarne in 793 AD. This event is often seen as the start of the Viking Age in Britain.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-EAR-022",
+    "section_id": "CH3-EAR",
+    "type": "single",
+    "stem": "Which Danish king ruled England from 1016 to 1035 after years of conflict between Anglo-Saxons and Vikings?",
+    "options": [
+      {
+        "label": "King Cnut",
+        "correct": true
+      },
+      {
+        "label": "King Alfred",
+        "correct": false
+      },
+      {
+        "label": "King Harold",
+        "correct": false
+      },
+      {
+        "label": "King Arthur",
+        "correct": false
+      }
+    ],
+    "explanation": "King Cnut (also known as Canute) was a Danish king who became the sole ruler of England in 1016. His reign brought a period of peace.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-EAR-023",
+    "section_id": "CH3-EAR",
+    "type": "single",
+    "stem": "What is the Bayeux Tapestry?",
+    "options": [
+      {
+        "label": "An embroidery showing the Norman Conquest",
+        "correct": true
+      },
+      {
+        "label": "A collection of old Anglo-Saxon laws",
+        "correct": false
+      },
+      {
+        "label": "A map of Roman roads in Britain",
+        "correct": false
+      },
+      {
+        "label": "A book of Viking religious stories",
+        "correct": false
+      }
+    ],
+    "explanation": "The Bayeux Tapestry is a long piece of embroidery made soon after 1066. It tells the story of the Norman Conquest of England.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-EAR-024",
+    "section_id": "CH3-EAR",
+    "type": "multi",
+    "stem": "Which TWO Germanic tribes invaded and settled in Britain after the Roman army left?",
+    "options": [
+      {
+        "label": "Saxons",
+        "correct": true
+      },
+      {
+        "label": "Angles",
+        "correct": true
+      },
+      {
+        "label": "Normans",
+        "correct": false
+      },
+      {
+        "label": "Romans",
+        "correct": false
+      }
+    ],
+    "explanation": "After the Romans left in 410 AD, tribes from northern Europe invaded Britain. These included the Angles, Saxons, and Jutes.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-EAR-025",
+    "section_id": "CH3-EAR",
+    "type": "multi",
+    "stem": "Which TWO of these were brought or heavily developed by the Romans during their rule in Britain?",
+    "options": [
+      {
+        "label": "The building of a road network",
+        "correct": true
+      },
+      {
+        "label": "The introduction of new plants and animals",
+        "correct": true
+      },
+      {
+        "label": "The use of Celtic languages",
+        "correct": false
+      },
+      {
+        "label": "The building of the first hill forts",
+        "correct": false
+      }
+    ],
+    "explanation": "The Romans built a massive network of roads and introduced new crops, peas, and animals like rabbits to Britain. Hill forts were built earlier during the Iron Age.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-EAR-026",
+    "section_id": "CH3-EAR",
+    "type": "truefalse",
+    "stem": "The Anglo-Saxons spoke a language that became the basis for modern English.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "The Anglo-Saxons spoke dialects that developed into Old English. Many common words we use today come from this language.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-EAR-027",
+    "section_id": "CH3-EAR",
+    "type": "truefalse",
+    "stem": "After the Norman Conquest of 1066, Norman French became the language of the king's court and the ruling class in England.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Following the Norman Conquest, Norman French became the language of government, parliament, and the upper classes. Many French words entered the English language as a result.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-EAR-028",
+    "section_id": "CH3-EAR",
+    "type": "single",
+    "stem": "When did Britain become an island separate from the continent of Europe?",
+    "options": [
+      {
+        "label": "About 10,000 years ago",
+        "correct": true
+      },
+      {
+        "label": "About 2,000 years ago",
+        "correct": false
+      },
+      {
+        "label": "About 25,000 years ago",
+        "correct": false
+      },
+      {
+        "label": "About 50,000 years ago",
+        "correct": false
+      }
+    ],
+    "explanation": "Britain became an island around 10,000 years ago after the end of the last Ice Age, when rising sea levels created the English Channel.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-EAR-029",
+    "section_id": "CH3-EAR",
+    "type": "single",
+    "stem": "Which Anglo-Saxon king built a great wall of earth along the border with Wales?",
+    "options": [
+      {
+        "label": "King Offa",
+        "correct": true
+      },
+      {
+        "label": "King Alfred",
+        "correct": false
+      },
+      {
+        "label": "King Cnut",
+        "correct": false
+      },
+      {
+        "label": "King Harold",
+        "correct": false
+      }
+    ],
+    "explanation": "King Offa of Mercia built a massive earthwork dyke along the Welsh border. Parts of Offa's Dyke can still be seen today.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-EAR-030",
+    "section_id": "CH3-EAR",
+    "type": "single",
+    "stem": "What was the name of the area in eastern and northern England where Viking laws applied?",
+    "options": [
+      {
+        "label": "The Danelaw",
+        "correct": true
+      },
+      {
+        "label": "Wessex",
+        "correct": false
+      },
+      {
+        "label": "Mercia",
+        "correct": false
+      },
+      {
+        "label": "Normandy",
+        "correct": false
+      }
+    ],
+    "explanation": "The region ruled by Viking laws was known as the Danelaw. King Alfred defeated the Vikings and agreed to split England with them.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-EAR-031",
+    "section_id": "CH3-EAR",
+    "type": "single",
+    "stem": "Which king united the Gaelic and Pictish kingdoms to create Scotland in the 9th century?",
+    "options": [
+      {
+        "label": "Kenneth MacAlpin",
+        "correct": true
+      },
+      {
+        "label": "Robert the Bruce",
+        "correct": false
+      },
+      {
+        "label": "Malcolm III",
+        "correct": false
+      },
+      {
+        "label": "William Wallace",
+        "correct": false
+      }
+    ],
+    "explanation": "In Scotland, Kenneth MacAlpin united the Scots and the Picts into one kingdom during the 9th century, laying the foundation for modern Scotland.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-EAR-032",
+    "section_id": "CH3-EAR",
+    "type": "single",
+    "stem": "Under the feudal system introduced by William the Conqueror, what was given in return for land?",
+    "options": [
+      {
+        "label": "Military service",
+        "correct": true
+      },
+      {
+        "label": "Foreign silk",
+        "correct": false
+      },
+      {
+        "label": "Gold coins",
+        "correct": false
+      },
+      {
+        "label": "Sailing ships",
+        "correct": false
+      }
+    ],
+    "explanation": "Under the feudal system, the king gave land to his lords in exchange for military service and loyalty.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-EAR-033",
+    "section_id": "CH3-EAR",
+    "type": "single",
+    "stem": "Approximately how long did the Roman period in Britain last?",
+    "options": [
+      {
+        "label": "About 400 years",
+        "correct": true
+      },
+      {
+        "label": "About 100 years",
+        "correct": false
+      },
+      {
+        "label": "About 800 years",
+        "correct": false
+      },
+      {
+        "label": "About 1,200 years",
+        "correct": false
+      }
+    ],
+    "explanation": "The Romans ruled Britain for nearly 400 years, from AD 43 until they left in AD 410 to defend Rome.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-EAR-034",
+    "section_id": "CH3-EAR",
+    "type": "single",
+    "stem": "During the Bronze Age, what circular earth mounds were built to bury important people?",
+    "options": [
+      {
+        "label": "Round barrows",
+        "correct": true
+      },
+      {
+        "label": "Hill forts",
+        "correct": false
+      },
+      {
+        "label": "Martello towers",
+        "correct": false
+      },
+      {
+        "label": "Crannogs",
+        "correct": false
+      }
+    ],
+    "explanation": "Bronze Age people buried their dead in round barrows with pottery, metal objects, and ornaments.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-EAR-035",
+    "section_id": "CH3-EAR",
+    "type": "single",
+    "stem": "What name did the Romans give to the ancient tribes in northern Scotland who painted their bodies?",
+    "options": [
+      {
+        "label": "Picts",
+        "correct": true
+      },
+      {
+        "label": "Normans",
+        "correct": false
+      },
+      {
+        "label": "Saxons",
+        "correct": false
+      },
+      {
+        "label": "Jutes",
+        "correct": false
+      }
+    ],
+    "explanation": "The Romans called the people in northern Scotland the Picts, which means 'painted people', because they decorated their bodies.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-EAR-036",
+    "section_id": "CH3-EAR",
+    "type": "single",
+    "stem": "Which English king was killed at the Battle of Hastings in 1066?",
+    "options": [
+      {
+        "label": "King Harold",
+        "correct": true
+      },
+      {
+        "label": "King Alfred",
+        "correct": false
+      },
+      {
+        "label": "King Offa",
+        "correct": false
+      },
+      {
+        "label": "King Cnut",
+        "correct": false
+      }
+    ],
+    "explanation": "King Harold was killed at the Battle of Hastings in 1066, leading to the conquest of England by William, Duke of Normandy.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-EAR-037",
+    "section_id": "CH3-EAR",
+    "type": "single",
+    "stem": "What major development in money occurred in Britain during the Iron Age?",
+    "options": [
+      {
+        "label": "People minted the first coins",
+        "correct": true
+      },
+      {
+        "label": "Paper banknotes were printed",
+        "correct": false
+      },
+      {
+        "label": "Cheques were invented",
+        "correct": false
+      },
+      {
+        "label": "All money was banned",
+        "correct": false
+      }
+    ],
+    "explanation": "During the Iron Age, people in Britain began minting their own coins, often stamped with the names of local kings.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-EAR-038",
+    "section_id": "CH3-EAR",
+    "type": "multi",
+    "stem": "Which TWO armies fought each other at the Battle of Hastings in 1066?",
+    "options": [
+      {
+        "label": "The Anglo-Saxons",
+        "correct": true
+      },
+      {
+        "label": "The Normans",
+        "correct": true
+      },
+      {
+        "label": "The Romans",
+        "correct": false
+      },
+      {
+        "label": "The Celts",
+        "correct": false
+      }
+    ],
+    "explanation": "The Battle of Hastings was fought in 1066 between the Anglo-Saxon army led by King Harold and the Norman invaders led by William, Duke of Normandy.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-EAR-039",
+    "section_id": "CH3-EAR",
+    "type": "multi",
+    "stem": "In which TWO parts of the United Kingdom are Celtic languages still spoken today?",
+    "options": [
+      {
+        "label": "Wales",
+        "correct": true
+      },
+      {
+        "label": "Scotland",
+        "correct": true
+      },
+      {
+        "label": "England",
+        "correct": false
+      },
+      {
+        "label": "Isle of Wight",
+        "correct": false
+      }
+    ],
+    "explanation": "Celtic languages survived in western and northern regions. Today, Welsh is spoken in Wales and Gaelic is spoken in Scotland.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-EAR-040",
+    "section_id": "CH3-EAR",
+    "type": "multi",
+    "stem": "Which TWO of these were introduced or made in Britain during the Iron Age?",
+    "options": [
+      {
+        "label": "Hill forts",
+        "correct": true
+      },
+      {
+        "label": "Iron weapons",
+        "correct": true
+      },
+      {
+        "label": "Stonehenge",
+        "correct": false
+      },
+      {
+        "label": "Concrete roads",
+        "correct": false
+      }
+    ],
+    "explanation": "During the Iron Age, people learned how to work with iron to make weapons and tools, and built hilltop forts for defence. Stonehenge was built earlier.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-EAR-041",
+    "section_id": "CH3-EAR",
+    "type": "truefalse",
+    "stem": "The Romans successfully conquered all of Scotland and kept control of it throughout their rule.",
+    "options": [
+      {
+        "label": "True",
+        "correct": false
+      },
+      {
+        "label": "False",
+        "correct": true
+      }
+    ],
+    "explanation": "The Romans were unable to conquer the tribes in northern Scotland. They built Hadrian's Wall and Antonine's Wall to mark their northern border.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-EAR-042",
+    "section_id": "CH3-EAR",
+    "type": "truefalse",
+    "stem": "The Domesday Book was written in Anglo-Saxon English.",
+    "options": [
+      {
+        "label": "True",
+        "correct": false
+      },
+      {
+        "label": "False",
+        "correct": true
+      }
+    ],
+    "explanation": "The Domesday Book was written in Latin, which was the official language used for public documents in England after the Norman Conquest.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-EAR-043",
+    "section_id": "CH3-EAR",
+    "type": "single",
+    "stem": "Who was the first recorded Christian martyr in Britain?",
+    "options": [
+      {
+        "label": "St Alban",
+        "correct": true
+      },
+      {
+        "label": "St Augustine",
+        "correct": false
+      },
+      {
+        "label": "St Columba",
+        "correct": false
+      },
+      {
+        "label": "St Patrick",
+        "correct": false
+      }
+    ],
+    "explanation": "St Alban was a Roman soldier who became a Christian. He was executed by the Romans for his faith and became Britain's first Christian martyr.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-EAR-044",
+    "section_id": "CH3-EAR",
+    "type": "single",
+    "stem": "Where was William the Conqueror crowned King of England on Christmas Day 1066?",
+    "options": [
+      {
+        "label": "Westminster Abbey",
+        "correct": true
+      },
+      {
+        "label": "Canterbury Cathedral",
+        "correct": false
+      },
+      {
+        "label": "York Minster",
+        "correct": false
+      },
+      {
+        "label": "Winchester Cathedral",
+        "correct": false
+      }
+    ],
+    "explanation": "William the Conqueror was crowned at Westminster Abbey in London. This tradition of crowning monarchs there continues today.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-EAR-045",
+    "section_id": "CH3-EAR",
+    "type": "single",
+    "stem": "How did the first people in Britain get their food during the Stone Age?",
+    "options": [
+      {
+        "label": "By hunting animals and gathering wild plants",
+        "correct": true
+      },
+      {
+        "label": "By importing grain from mainland Europe",
+        "correct": false
+      },
+      {
+        "label": "By growing wheat in large open fields",
+        "correct": false
+      },
+      {
+        "label": "By keeping herds of cows in wooden barns",
+        "correct": false
+      }
+    ],
+    "explanation": "The earliest people in Britain were hunter-gatherers. They followed herds of wild animals like deer and horses, and collected wild fruit and nuts.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-EAR-046",
+    "section_id": "CH3-EAR",
+    "type": "single",
+    "stem": "In which year did Saint Augustine arrive in Britain to spread Christianity to the Anglo-Saxons?",
+    "options": [
+      {
+        "label": "597 AD",
+        "correct": true
+      },
+      {
+        "label": "410 AD",
+        "correct": false
+      },
+      {
+        "label": "793 AD",
+        "correct": false
+      },
+      {
+        "label": "1066 AD",
+        "correct": false
+      }
+    ],
+    "explanation": "Pope Gregory the Great sent Saint Augustine to Britain in 597 AD. He became the first Archbishop of Canterbury and helped convert the south of England.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-EAR-047",
+    "section_id": "CH3-EAR",
+    "type": "single",
+    "stem": "Around how many years ago did the Bronze Age begin in Britain?",
+    "options": [
+      {
+        "label": "4,000 years ago",
+        "correct": true
+      },
+      {
+        "label": "2,000 years ago",
+        "correct": false
+      },
+      {
+        "label": "6,000 years ago",
+        "correct": false
+      },
+      {
+        "label": "10,000 years ago",
+        "correct": false
+      }
+    ],
+    "explanation": "The Bronze Age started around 4,000 years ago (2,000 BC) when people learned to make bronze. The Stone Age came before it, and the Iron Age came after.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-EAR-048",
+    "section_id": "CH3-EAR",
+    "type": "single",
+    "stem": "What was the main occupation for most people living in Britain during the Iron Age?",
+    "options": [
+      {
+        "label": "Farming",
+        "correct": true
+      },
+      {
+        "label": "Mining coal",
+        "correct": false
+      },
+      {
+        "label": "Building stone roads",
+        "correct": false
+      },
+      {
+        "label": "Writing books",
+        "correct": false
+      }
+    ],
+    "explanation": "Most people in the Iron Age were farmers. Others were craft workers, like potters and metalworkers, or warriors who defended their tribes.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-EAR-049",
+    "section_id": "CH3-EAR",
+    "type": "single",
+    "stem": "Which Anglo-Saxon kingdom did King Alfred the Great rule?",
+    "options": [
+      {
+        "label": "Wessex",
+        "correct": true
+      },
+      {
+        "label": "Mercia",
+        "correct": false
+      },
+      {
+        "label": "Northumbria",
+        "correct": false
+      },
+      {
+        "label": "East Anglia",
+        "correct": false
+      }
+    ],
+    "explanation": "King Alfred the Great was the ruler of Wessex, the only Anglo-Saxon kingdom that successfully resisted the Viking invasions.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-EAR-050",
+    "section_id": "CH3-EAR",
+    "type": "multi",
+    "stem": "Which TWO of the following were Anglo-Saxon kingdoms in Britain?",
+    "options": [
+      {
+        "label": "Wessex",
+        "correct": true
+      },
+      {
+        "label": "Mercia",
+        "correct": true
+      },
+      {
+        "label": "Normandy",
+        "correct": false
+      },
+      {
+        "label": "Brittany",
+        "correct": false
+      }
+    ],
+    "explanation": "The Anglo-Saxons established several kingdoms in Britain, including Wessex, Mercia, Northumbria, and Kent. Normandy and Brittany are regions in France.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-EAR-051",
+    "section_id": "CH3-EAR",
+    "type": "multi",
+    "stem": "Which TWO modern British cities were first established as important towns by the Romans?",
+    "options": [
+      {
+        "label": "London",
+        "correct": true
+      },
+      {
+        "label": "York",
+        "correct": true
+      },
+      {
+        "label": "Edinburgh",
+        "correct": false
+      },
+      {
+        "label": "Cardiff",
+        "correct": false
+      }
+    ],
+    "explanation": "The Romans established many cities during their 400-year rule, including London (Londinium) and York (Eboracum), which were connected by roads.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-EAR-052",
+    "section_id": "CH3-EAR",
+    "type": "truefalse",
+    "stem": "The Norman Conquest of 1066 was the last successful foreign invasion of England.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "The Norman Conquest of 1066 was the last successful invasion of England. Since then, no foreign army has successfully conquered the country.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 1,
+    "ai_checked": true
   }
 ]

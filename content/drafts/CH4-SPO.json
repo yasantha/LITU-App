@@ -24,7 +24,8 @@
     ],
     "explanation": "The Grand National is a famous horse race at Aintree, near Liverpool. Royal Ascot is another well-known race meeting.",
     "handbook_ref": "Chapter 4 · Sport",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH4-SPO-002",
@@ -51,7 +52,8 @@
     ],
     "explanation": "The Wimbledon Championships began in 1877. It is the oldest tennis tournament in the world and the only major one played on grass.",
     "handbook_ref": "Chapter 4 · Sport",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH4-SPO-003",
@@ -78,7 +80,8 @@
     ],
     "explanation": "Golf has been played in Scotland since the 15th century. St Andrews is known around the world as the home of golf.",
     "handbook_ref": "Chapter 4 · Sport",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH4-SPO-004",
@@ -105,7 +108,8 @@
     ],
     "explanation": "Sir Roger Bannister ran a mile in under four minutes in 1954. Nobody had done it before.",
     "handbook_ref": "Chapter 4 · Sport",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH4-SPO-005",
@@ -132,7 +136,8 @@
     ],
     "explanation": "London hosted the Olympic Games in 1908, 1948 and 2012. The 2012 Games were held mainly in Stratford, east London.",
     "handbook_ref": "Chapter 4 · Sport",
-    "difficulty": 3
+    "difficulty": 3,
+    "ai_checked": true
   },
   {
     "id": "Q-CH4-SPO-006",
@@ -159,7 +164,8 @@
     ],
     "explanation": "Sport for disabled people was developed at Stoke Mandeville hospital in Buckinghamshire. This work led to the Paralympic Games.",
     "handbook_ref": "Chapter 4 · Sport",
-    "difficulty": 3
+    "difficulty": 3,
+    "ai_checked": true
   },
   {
     "id": "Q-CH4-SPO-007",
@@ -178,7 +184,8 @@
     ],
     "explanation": "Sir Steve Redgrave won gold in rowing at five Olympic Games one after another, from 1984 to 2000.",
     "handbook_ref": "Chapter 4 · Sport",
-    "difficulty": 3
+    "difficulty": 3,
+    "ai_checked": true
   },
   {
     "id": "Q-CH4-SPO-008",
@@ -205,6 +212,7 @@
     ],
     "explanation": "The Ashes is a famous series of cricket matches between England and Australia.",
     "handbook_ref": "Chapter 4 · Sport",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   }
 ]

@@ -24,7 +24,8 @@
     ],
     "explanation": "Most minor criminal cases are heard by magistrates. They are usually unpaid and do not need legal qualifications.",
     "handbook_ref": "Chapter 5 · Respecting the law",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH5-LAW-002",
@@ -51,7 +52,8 @@
     ],
     "explanation": "A jury has 12 people in England, Wales and Northern Ireland. In Scotland a jury has 15 people.",
     "handbook_ref": "Chapter 5 · Respecting the law",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH5-LAW-003",
@@ -78,7 +80,8 @@
     ],
     "explanation": "Young people aged 10 to 17 accused of a crime are usually tried in a youth court. Scotland uses a Children's Hearings System.",
     "handbook_ref": "Chapter 5 · Respecting the law",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH5-LAW-004",
@@ -105,7 +108,8 @@
     ],
     "explanation": "Carrying a weapon and selling tobacco to under-18s are crimes. Unpaid debts and broken contracts are usually settled under civil law.",
     "handbook_ref": "Chapter 5 · Respecting the law",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH5-LAW-005",
@@ -124,7 +128,8 @@
     ],
     "explanation": "Civil law covers disputes between people or businesses, such as faulty goods, debts and housing. Criminal law covers crimes.",
     "handbook_ref": "Chapter 5 · Respecting the law",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH5-LAW-006",
@@ -151,7 +156,8 @@
     ],
     "explanation": "PCCs are elected by the public in police areas in England and Wales. They set local police priorities and make sure policing is effective.",
     "handbook_ref": "Chapter 5 · Respecting the law",
-    "difficulty": 3
+    "difficulty": 3,
+    "ai_checked": true
   },
   {
     "id": "Q-CH5-LAW-007",
@@ -170,6 +176,807 @@
     ],
     "explanation": "A forced marriage is one where someone does not agree to it. It is a crime, and courts can also issue orders to protect people at risk.",
     "handbook_ref": "Chapter 5 · Respecting the law",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-LAW-008",
+    "section_id": "CH5-LAW",
+    "type": "single",
+    "stem": "How many people sit on a jury in a criminal trial in Scotland?",
+    "options": [
+      {
+        "label": "10",
+        "correct": false
+      },
+      {
+        "label": "12",
+        "correct": false
+      },
+      {
+        "label": "15",
+        "correct": true
+      },
+      {
+        "label": "20",
+        "correct": false
+      }
+    ],
+    "explanation": "In Scotland, a criminal trial jury has 15 members. In England, Wales and Northern Ireland, a jury has 12 members.",
+    "handbook_ref": "Chapter 5 · Respecting the law",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-LAW-009",
+    "section_id": "CH5-LAW",
+    "type": "single",
+    "stem": "Which verdict can a Scottish jury give that is NOT available in England and Wales?",
+    "options": [
+      {
+        "label": "Not proven",
+        "correct": true
+      },
+      {
+        "label": "Guilty with reason",
+        "correct": false
+      },
+      {
+        "label": "Dismissed",
+        "correct": false
+      },
+      {
+        "label": "Conditional",
+        "correct": false
+      }
+    ],
+    "explanation": "Scottish criminal courts can give three verdicts: guilty, not guilty, or not proven. Courts in England and Wales only use guilty or not guilty.",
+    "handbook_ref": "Chapter 5 · Respecting the law",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-LAW-011",
+    "section_id": "CH5-LAW",
+    "type": "single",
+    "stem": "Which court hears serious criminal cases in England, Wales and Northern Ireland?",
+    "options": [
+      {
+        "label": "County Court",
+        "correct": false
+      },
+      {
+        "label": "Crown Court",
+        "correct": true
+      },
+      {
+        "label": "High Court",
+        "correct": false
+      },
+      {
+        "label": "Youth Court",
+        "correct": false
+      }
+    ],
+    "explanation": "Serious criminal cases in England, Wales and Northern Ireland are decided in the Crown Court before a judge and a jury.",
+    "handbook_ref": "Chapter 5 · Respecting the law",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-LAW-012",
+    "section_id": "CH5-LAW",
+    "type": "multi",
+    "stem": "Which TWO of these are disputes covered by civil law?",
+    "options": [
+      {
+        "label": "A disagreement between neighbours about property borders",
+        "correct": true
+      },
+      {
+        "label": "Robbing a local convenience store",
+        "correct": false
+      },
+      {
+        "label": "A dispute over an employment contract",
+        "correct": true
+      },
+      {
+        "label": "Driving a motor vehicle without insurance",
+        "correct": false
+      }
+    ],
+    "explanation": "Civil law covers private legal disputes like property boundary conflicts and breach of contract. Driving without insurance and robbery are criminal offences.",
+    "handbook_ref": "Chapter 5 · Respecting the law",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-LAW-014",
+    "section_id": "CH5-LAW",
+    "type": "truefalse",
+    "stem": "In the UK, the police service is independent of government control.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "UK police officers are independent of political parties and government control. They must enforce the law without bias.",
+    "handbook_ref": "Chapter 5 · Respecting the law",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-LAW-015",
+    "section_id": "CH5-LAW",
+    "type": "single",
+    "stem": "In Northern Ireland, minor criminal cases are heard in which court?",
+    "options": [
+      {
+        "label": "High Court",
+        "correct": false
+      },
+      {
+        "label": "Sheriff Court",
+        "correct": false
+      },
+      {
+        "label": "Magistrates' Court",
+        "correct": true
+      },
+      {
+        "label": "Crown Court",
+        "correct": false
+      }
+    ],
+    "explanation": "Minor criminal offences in Northern Ireland are dealt with in Magistrates' Courts, similar to England and Wales.",
+    "handbook_ref": "Chapter 5 · Respecting the law",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-LAW-016",
+    "section_id": "CH5-LAW",
+    "type": "single",
+    "stem": "Which court deals with most civil law cases in England and Wales?",
+    "options": [
+      {
+        "label": "Crown Court",
+        "correct": false
+      },
+      {
+        "label": "County Court",
+        "correct": true
+      },
+      {
+        "label": "High Court of Justiciary",
+        "correct": false
+      },
+      {
+        "label": "Magistrates' Court",
+        "correct": false
+      }
+    ],
+    "explanation": "The County Court handles most civil disputes in England and Wales, such as unpaid debts and housing problems.",
+    "handbook_ref": "Chapter 5 · Respecting the law",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-LAW-017",
+    "section_id": "CH5-LAW",
+    "type": "multi",
+    "stem": "Which TWO rights do you have if you are arrested and taken to a police station?",
+    "options": [
+      {
+        "label": "Free legal advice from a solicitor",
+        "correct": true
+      },
+      {
+        "label": "The right to choose your police officer",
+        "correct": false
+      },
+      {
+        "label": "The right to go home whenever you choose",
+        "correct": false
+      },
+      {
+        "label": "Having someone told where you are",
+        "correct": true
+      }
+    ],
+    "explanation": "If you are arrested, you have the right to get free legal advice and to have a friend or family member told about your arrest.",
+    "handbook_ref": "Chapter 5 · Respecting the law",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-LAW-018",
+    "section_id": "CH5-LAW",
+    "type": "single",
+    "stem": "What is the maximum limit for a small claim in England and Wales?",
+    "options": [
+      {
+        "label": "£3,000",
+        "correct": false
+      },
+      {
+        "label": "£5,000",
+        "correct": false
+      },
+      {
+        "label": "£10,000",
+        "correct": true
+      },
+      {
+        "label": "£20,000",
+        "correct": false
+      }
+    ],
+    "explanation": "In England and Wales, the small claims procedure handles simple civil claims up to £10,000.",
+    "handbook_ref": "Chapter 5 · Respecting the law",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-LAW-019",
+    "section_id": "CH5-LAW",
+    "type": "single",
+    "stem": "What is a main role of Police Community Support Officers (PCSOs)?",
+    "options": [
+      {
+        "label": "To try serious criminal cases in court",
+        "correct": false
+      },
+      {
+        "label": "To patrol streets and prevent crime",
+        "correct": true
+      },
+      {
+        "label": "To write laws for local councils",
+        "correct": false
+      },
+      {
+        "label": "To conduct international police investigations",
+        "correct": false
+      }
+    ],
+    "explanation": "PCSOs work on the streets to support regular police officers, answer local questions, and deter minor crime.",
+    "handbook_ref": "Chapter 5 · Respecting the law",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-LAW-020",
+    "section_id": "CH5-LAW",
+    "type": "truefalse",
+    "stem": "UK judges must follow instructions given directly by government ministers.",
+    "options": [
+      {
+        "label": "True",
+        "correct": false
+      },
+      {
+        "label": "False",
+        "correct": true
+      }
+    ],
+    "explanation": "Judges in the UK are completely independent of the government. Ministers cannot tell judges how to rule on legal cases.",
+    "handbook_ref": "Chapter 5 · Respecting the law",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-LAW-021",
+    "section_id": "CH5-LAW",
+    "type": "single",
+    "stem": "Which court hears the most serious criminal cases in Scotland?",
+    "options": [
+      {
+        "label": "High Court of Justiciary",
+        "correct": true
+      },
+      {
+        "label": "County Court",
+        "correct": false
+      },
+      {
+        "label": "Crown Court",
+        "correct": false
+      },
+      {
+        "label": "Magistrates' Court",
+        "correct": false
+      }
+    ],
+    "explanation": "The High Court of Justiciary in Scotland hears the most serious criminal offences, such as murder.",
+    "handbook_ref": "Chapter 5 · Respecting the law",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-LAW-022",
+    "section_id": "CH5-LAW",
+    "type": "single",
+    "stem": "What financial help may be available to pay for legal costs if you have a low income?",
+    "options": [
+      {
+        "label": "Legal Aid",
+        "correct": true
+      },
+      {
+        "label": "Crown Grant",
+        "correct": false
+      },
+      {
+        "label": "Court Relief",
+        "correct": false
+      },
+      {
+        "label": "Council Tax Benefit",
+        "correct": false
+      }
+    ],
+    "explanation": "Legal Aid is a government scheme that can help cover legal expenses for people who qualify based on income and need.",
+    "handbook_ref": "Chapter 5 · Respecting the law",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-LAW-023",
+    "section_id": "CH5-LAW",
+    "type": "single",
+    "stem": "Who should you contact if you want to make a complaint about the police in Scotland?",
+    "options": [
+      {
+        "label": "The Police Investigations and Review Commissioner",
+        "correct": true
+      },
+      {
+        "label": "The Independent Office for Police Conduct",
+        "correct": false
+      },
+      {
+        "label": "The Police Ombudsman",
+        "correct": false
+      },
+      {
+        "label": "The Scottish Parliament",
+        "correct": false
+      }
+    ],
+    "explanation": "In Scotland, complaints about the police are handled by the Police Investigations and Review Commissioner (PIRC). This helps to ensure that investigations are fair and independent.",
+    "handbook_ref": "Chapter 5 · Respecting the law",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-LAW-024",
+    "section_id": "CH5-LAW",
+    "type": "single",
+    "stem": "What is the main purpose of the organisation called Crimestoppers?",
+    "options": [
+      {
+        "label": "To let people report crimes anonymously",
+        "correct": true
+      },
+      {
+        "label": "To provide free legal defence in court",
+        "correct": false
+      },
+      {
+        "label": "To help victims of crime find housing",
+        "correct": false
+      },
+      {
+        "label": "To train new police officers",
+        "correct": false
+      }
+    ],
+    "explanation": "Crimestoppers is an independent charity. You can contact them by phone or online to report details of a crime without giving your name.",
+    "handbook_ref": "Chapter 5 · Respecting the law",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-LAW-026",
+    "section_id": "CH5-LAW",
+    "type": "single",
+    "stem": "In the UK, how old must a car be before it needs an MOT test to show it is safe to drive?",
+    "options": [
+      {
+        "label": "Three years old",
+        "correct": true
+      },
+      {
+        "label": "One year old",
+        "correct": false
+      },
+      {
+        "label": "Five years old",
+        "correct": false
+      },
+      {
+        "label": "Ten years old",
+        "correct": false
+      }
+    ],
+    "explanation": "Cars must have an MOT test every year once they are three years old. It is a criminal offence to drive a car without a valid MOT certificate.",
+    "handbook_ref": "Chapter 5 · Respecting the law",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-LAW-027",
+    "section_id": "CH5-LAW",
+    "type": "multi",
+    "stem": "Which TWO of these are the main types of lawyers working in the UK?",
+    "options": [
+      {
+        "label": "Solicitors",
+        "correct": true
+      },
+      {
+        "label": "Barristers",
+        "correct": true
+      },
+      {
+        "label": "Magistrates",
+        "correct": false
+      },
+      {
+        "label": "Coroners",
+        "correct": false
+      }
+    ],
+    "explanation": "Solicitors and barristers are the two main types of lawyers in the UK. Solicitors give general advice, while barristers represent people in higher courts.",
+    "handbook_ref": "Chapter 5 · Respecting the law",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-LAW-029",
+    "section_id": "CH5-LAW",
+    "type": "truefalse",
+    "stem": "If you are summoned for jury service in the UK, you must attend unless you have a valid reason to be excused.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Jury service is a compulsory civic duty. If you are chosen and fail to attend without a good reason, you can be prosecuted and fined.",
+    "handbook_ref": "Chapter 5 · Respecting the law",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-LAW-030",
+    "section_id": "CH5-LAW",
+    "type": "single",
+    "stem": "What is the UK law regarding Female Genital Mutilation (FGM)?",
+    "options": [
+      {
+        "label": "It is a serious criminal offence",
+        "correct": true
+      },
+      {
+        "label": "It is allowed with parental consent",
+        "correct": false
+      },
+      {
+        "label": "It is a civil matter, not a criminal one",
+        "correct": false
+      },
+      {
+        "label": "It is legal for adults over 18",
+        "correct": false
+      }
+    ],
+    "explanation": "FGM is illegal in the UK. It is also against the law to take a girl abroad for FGM, and doing so carries a heavy prison sentence.",
+    "handbook_ref": "Chapter 5 · Respecting the law",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-LAW-031",
+    "section_id": "CH5-LAW",
+    "type": "single",
+    "stem": "Which organisation gives free, confidential, and independent advice on legal and financial matters?",
+    "options": [
+      {
+        "label": "Citizens Advice",
+        "correct": true
+      },
+      {
+        "label": "The Law Society",
+        "correct": false
+      },
+      {
+        "label": "The Home Office",
+        "correct": false
+      },
+      {
+        "label": "The County Court",
+        "correct": false
+      }
+    ],
+    "explanation": "Citizens Advice is a charity that helps people resolve their legal, money, and other problems by providing free information and advice.",
+    "handbook_ref": "Chapter 5 · Respecting the law",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-LAW-032",
+    "section_id": "CH5-LAW",
+    "type": "multi",
+    "stem": "Which TWO of these are taxes paid by people in the UK?",
+    "options": [
+      {
+        "label": "National Insurance",
+        "correct": true
+      },
+      {
+        "label": "Council Tax",
+        "correct": true
+      },
+      {
+        "label": "Crown Tax",
+        "correct": false
+      },
+      {
+        "label": "National Border Duty",
+        "correct": false
+      }
+    ],
+    "explanation": "National Insurance helps pay for state benefits and pensions. Council Tax is paid to local governments to fund local services like schools and waste collection.",
+    "handbook_ref": "Chapter 5 · Respecting the law",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-LAW-033",
+    "section_id": "CH5-LAW",
+    "type": "single",
+    "stem": "Which telephone number should you use to contact the police for non-emergency situations?",
+    "options": [
+      {
+        "label": "101",
+        "correct": true
+      },
+      {
+        "label": "999",
+        "correct": false
+      },
+      {
+        "label": "111",
+        "correct": false
+      },
+      {
+        "label": "112",
+        "correct": false
+      }
+    ],
+    "explanation": "You should call 101 to report minor crimes or ask the police for advice when it is not an emergency. You should call 999 only in an emergency.",
+    "handbook_ref": "Chapter 5 · Respecting the law",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-LAW-034",
+    "section_id": "CH5-LAW",
+    "type": "single",
+    "stem": "Under UK law, what is the penalty for buying alcohol for someone who is under the age of 18?",
+    "options": [
+      {
+        "label": "You can be prosecuted and fined",
+        "correct": true
+      },
+      {
+        "label": "You will only receive a verbal warning",
+        "correct": false
+      },
+      {
+        "label": "There is no penalty if you are a parent",
+        "correct": false
+      },
+      {
+        "label": "You will lose your driving licence",
+        "correct": false
+      }
+    ],
+    "explanation": "It is a criminal offence to buy alcohol for anyone under 18 years old. This is sometimes called proxy purchasing.",
+    "handbook_ref": "Chapter 5 · Respecting the law",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-LAW-035",
+    "section_id": "CH5-LAW",
+    "type": "truefalse",
+    "stem": "In Northern Ireland, complaints about the conduct of police officers are investigated by the Police Ombudsman.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "The Police Ombudsman for Northern Ireland is an independent body that investigates complaints about the police service to ensure fair treatment.",
+    "handbook_ref": "Chapter 5 · Respecting the law",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-LAW-036",
+    "section_id": "CH5-LAW",
+    "type": "single",
+    "stem": "What is the minimum age at which a person can legally drive a car or motorcycle on public roads in the UK?",
+    "options": [
+      {
+        "label": "17 years old",
+        "correct": true
+      },
+      {
+        "label": "16 years old",
+        "correct": false
+      },
+      {
+        "label": "18 years old",
+        "correct": false
+      },
+      {
+        "label": "15 years old",
+        "correct": false
+      }
+    ],
+    "explanation": "You must be at least 17 years old to drive a car or ride a motorcycle on public roads. People receiving certain mobility benefits can drive from age 16.",
+    "handbook_ref": "Chapter 5 · Respecting the law",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-LAW-037",
+    "section_id": "CH5-LAW",
+    "type": "single",
+    "stem": "What should you do if you notice suspicious behaviour that might be linked to terrorism?",
+    "options": [
+      {
+        "label": "Report it to the police immediately",
+        "correct": true
+      },
+      {
+        "label": "Post about it on social media first",
+        "correct": false
+      },
+      {
+        "label": "Investigate the situation yourself",
+        "correct": false
+      },
+      {
+        "label": "Do nothing unless a crime happens",
+        "correct": false
+      }
+    ],
+    "explanation": "Everyone has a responsibility to help prevent terrorism. You should report any suspicious activity to the police or the anti-terrorist hotline.",
+    "handbook_ref": "Chapter 5 · Respecting the law",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-LAW-038",
+    "section_id": "CH5-LAW",
+    "type": "single",
+    "stem": "Which court in Scotland deals with minor criminal cases?",
+    "options": [
+      {
+        "label": "Justice of the Peace Court",
+        "correct": true
+      },
+      {
+        "label": "Crown Court",
+        "correct": false
+      },
+      {
+        "label": "Youth Court",
+        "correct": false
+      },
+      {
+        "label": "County Court",
+        "correct": false
+      }
+    ],
+    "explanation": "Minor criminal cases in Scotland are heard in a Justice of the Peace Court. More serious criminal cases are dealt with in the Sheriff Court or the High Court of Justiciary.",
+    "handbook_ref": "Chapter 5 · Respecting the law",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-LAW-039",
+    "section_id": "CH5-LAW",
+    "type": "single",
+    "stem": "Which court deals with most civil law cases in Scotland?",
+    "options": [
+      {
+        "label": "The Sheriff Court",
+        "correct": true
+      },
+      {
+        "label": "The County Court",
+        "correct": false
+      },
+      {
+        "label": "The High Court",
+        "correct": false
+      },
+      {
+        "label": "The Magistrates' Court",
+        "correct": false
+      }
+    ],
+    "explanation": "In Scotland, most civil cases are dealt with in the Sheriff Court. In England and Wales, most civil cases are heard in the County Court.",
+    "handbook_ref": "Chapter 5 · Respecting the law",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-LAW-040",
+    "section_id": "CH5-LAW",
+    "type": "truefalse",
+    "stem": "You only need a TV licence if you watch programmes on a traditional television set.",
+    "options": [
+      {
+        "label": "True",
+        "correct": false
+      },
+      {
+        "label": "False",
+        "correct": true
+      }
+    ],
+    "explanation": "This is false. You need a TV licence to watch or record live TV programmes on any device, including laptops, mobile phones, and tablets.",
+    "handbook_ref": "Chapter 5 · Respecting the law",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-LAW-041",
+    "section_id": "CH5-LAW",
+    "type": "multi",
+    "stem": "Which TWO details must a police officer tell you before they search you?",
+    "options": [
+      {
+        "label": "Their name and police station",
+        "correct": true
+      },
+      {
+        "label": "The reason for the search",
+        "correct": true
+      },
+      {
+        "label": "The name of the Chief Constable",
+        "correct": false
+      },
+      {
+        "label": "Their home address",
+        "correct": false
+      }
+    ],
+    "explanation": "Before a police officer searches you, they must tell you their name, police station, and why they are searching you. You also have the right to a record of the search.",
+    "handbook_ref": "Chapter 5 · Respecting the law",
+    "difficulty": 2,
+    "ai_checked": true
   }
 ]

@@ -16,7 +16,8 @@
     ],
     "explanation": "Most applicants for settlement or citizenship must pass the Life in the UK test and also meet the English language requirement.",
     "handbook_ref": "Chapter 1 · Becoming a permanent resident",
-    "difficulty": 1
+    "difficulty": 1,
+    "ai_checked": true
   },
   {
     "id": "Q-CH1-RES-002",
@@ -43,6 +44,7 @@
     ],
     "explanation": "Most adults applying for settlement or citizenship must pass the Life in the UK test. Some people, such as those over 65, do not need to take it.",
     "handbook_ref": "Chapter 1 · Becoming a permanent resident",
-    "difficulty": 1
+    "difficulty": 1,
+    "ai_checked": true
   }
 ]

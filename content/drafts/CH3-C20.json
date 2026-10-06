@@ -24,7 +24,8 @@
     ],
     "explanation": "The First World War ended at 11 am on 11 November 1918. People remember those who died on this date each year.",
     "handbook_ref": "Chapter 3 · The 20th century",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-C20-002",
@@ -51,7 +52,8 @@
     ],
     "explanation": "The Battle of the Somme in 1916 was one of the bloodiest battles of the First World War, with huge losses on the first day.",
     "handbook_ref": "Chapter 3 · The 20th century",
-    "difficulty": 3
+    "difficulty": 3,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-C20-003",
@@ -78,7 +80,8 @@
     ],
     "explanation": "Winston Churchill became Prime Minister in 1940. His speeches helped people stay strong when Britain stood alone against Germany.",
     "handbook_ref": "Chapter 3 · The 20th century",
-    "difficulty": 1
+    "difficulty": 1,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-C20-004",
@@ -105,7 +108,8 @@
     ],
     "explanation": "In the Battle of Britain, the Royal Air Force defended the country using Spitfire and Hurricane aircraft, and stopped a German invasion.",
     "handbook_ref": "Chapter 3 · The 20th century",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-C20-005",
@@ -132,7 +136,8 @@
     ],
     "explanation": "On D-Day, Allied forces landed on the beaches of Normandy in France. This began the defeat of Germany in western Europe.",
     "handbook_ref": "Chapter 3 · The 20th century",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-C20-006",
@@ -159,7 +164,8 @@
     ],
     "explanation": "Scottish scientist Alexander Fleming discovered penicillin in 1928. It was later developed into a medicine that treats many infections.",
     "handbook_ref": "Chapter 3 · The 20th century",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-C20-007",
@@ -186,7 +192,8 @@
     ],
     "explanation": "The NHS began in 1948 under the Labour government. Aneurin (Nye) Bevan, the Minister for Health, led its creation.",
     "handbook_ref": "Chapter 3 · The 20th century",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-C20-008",
@@ -205,7 +212,8 @@
     ],
     "explanation": "Over 300,000 soldiers were rescued from Dunkirk in France. People still talk about the 'Dunkirk spirit' when facing hard times together.",
     "handbook_ref": "Chapter 3 · The 20th century",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-C20-009",
@@ -232,7 +240,8 @@
     ],
     "explanation": "Alan Turing was a British mathematician. His idea of the 'Turing machine' had a big influence on computer science.",
     "handbook_ref": "Chapter 3 · The 20th century",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-C20-010",
@@ -259,7 +268,8 @@
     ],
     "explanation": "Sir Frank Whittle, a British engineer, developed the jet engine in the 1930s. Sir Robert Watson-Watt developed radar.",
     "handbook_ref": "Chapter 3 · The 20th century",
-    "difficulty": 3
+    "difficulty": 3,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-C20-011",
@@ -286,6 +296,1043 @@
     ],
     "explanation": "Clement Attlee became Prime Minister in 1945. His government created the NHS and introduced a welfare state.",
     "handbook_ref": "Chapter 3 · The 20th century",
-    "difficulty": 3
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-012",
+    "section_id": "CH3-C20",
+    "type": "single",
+    "stem": "In which country was the Boer War (1899-1902) fought?",
+    "options": [
+      {
+        "label": "South Africa",
+        "correct": true
+      },
+      {
+        "label": "India",
+        "correct": false
+      },
+      {
+        "label": "Egypt",
+        "correct": false
+      },
+      {
+        "label": "Canada",
+        "correct": false
+      }
+    ],
+    "explanation": "The Boer War was fought in South Africa between the British and Dutch settlers. It was a long war that made people think more about the health of the British army.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-013",
+    "section_id": "CH3-C20",
+    "type": "single",
+    "stem": "Who was the leader of the suffragettes, who fought for women's right to vote?",
+    "options": [
+      {
+        "label": "Emmeline Pankhurst",
+        "correct": true
+      },
+      {
+        "label": "Florence Nightingale",
+        "correct": false
+      },
+      {
+        "label": "Queen Victoria",
+        "correct": false
+      },
+      {
+        "label": "Elizabeth Fry",
+        "correct": false
+      }
+    ],
+    "explanation": "Emmeline Pankhurst led the movement for women's suffrage. In 1918, some women were finally given the right to vote in the UK.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-014",
+    "section_id": "CH3-C20",
+    "type": "truefalse",
+    "stem": "In 1918, women over the age of 30 were given the right to vote.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "The 1918 law gave the vote to women over 30 who owned property. It took until 1928 for women to have the same voting rights as men.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-015",
+    "section_id": "CH3-C20",
+    "type": "multi",
+    "stem": "Which TWO countries were part of the 'Allied Powers' during the Second World War?",
+    "options": [
+      {
+        "label": "Germany",
+        "correct": false
+      },
+      {
+        "label": "Soviet Union",
+        "correct": true
+      },
+      {
+        "label": "Japan",
+        "correct": false
+      },
+      {
+        "label": "United States",
+        "correct": true
+      }
+    ],
+    "explanation": "The Soviet Union and the United States were both part of the Allies. They worked with Britain to defeat Germany and its partners.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-016",
+    "section_id": "CH3-C20",
+    "type": "single",
+    "stem": "The Second World War began in 1939 when Hitler's army invaded which country?",
+    "options": [
+      {
+        "label": "France",
+        "correct": false
+      },
+      {
+        "label": "Poland",
+        "correct": true
+      },
+      {
+        "label": "Russia",
+        "correct": false
+      },
+      {
+        "label": "Belgium",
+        "correct": false
+      }
+    ],
+    "explanation": "Britain declared war on Germany after Hitler invaded Poland. This was the start of a conflict that lasted until 1945.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-017",
+    "section_id": "CH3-C20",
+    "type": "single",
+    "stem": "What is the term for the nightly bombing of British cities by the German air force in 1940 and 1941?",
+    "options": [
+      {
+        "label": "The Blitz",
+        "correct": true
+      },
+      {
+        "label": "The Great Fire",
+        "correct": false
+      },
+      {
+        "label": "The Cold War",
+        "correct": false
+      },
+      {
+        "label": "The Great Strike",
+        "correct": false
+      }
+    ],
+    "explanation": "The Blitz comes from the German word for 'lightning'. It caused a lot of damage to cities like London, Coventry, and Belfast.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-018",
+    "section_id": "CH3-C20",
+    "type": "single",
+    "stem": "In 1942, who wrote a famous report about how to fight 'want, disease, ignorance, squalor and idleness'?",
+    "options": [
+      {
+        "label": "William Beveridge",
+        "correct": true
+      },
+      {
+        "label": "Winston Churchill",
+        "correct": false
+      },
+      {
+        "label": "Clement Attlee",
+        "correct": false
+      },
+      {
+        "label": "Aneurin Bevan",
+        "correct": false
+      }
+    ],
+    "explanation": "The Beveridge Report suggested that the government should look after people from birth to old age. This led to the creation of the welfare state.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-019",
+    "section_id": "CH3-C20",
+    "type": "single",
+    "stem": "In 1948, a famous ship brought people from the West Indies to help rebuild Britain. What was its name?",
+    "options": [
+      {
+        "label": "Empire Windrush",
+        "correct": true
+      },
+      {
+        "label": "Mayflower",
+        "correct": false
+      },
+      {
+        "label": "Mary Rose",
+        "correct": false
+      },
+      {
+        "label": "Titanic",
+        "correct": false
+      }
+    ],
+    "explanation": "The Empire Windrush brought hundreds of people to live and work in the UK. This started a period of migration from Commonwealth countries.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-020",
+    "section_id": "CH3-C20",
+    "type": "single",
+    "stem": "Who became the first female Prime Minister of the UK in 1979?",
+    "options": [
+      {
+        "label": "Margaret Thatcher",
+        "correct": true
+      },
+      {
+        "label": "Theresa May",
+        "correct": false
+      },
+      {
+        "label": "Mary Robinson",
+        "correct": false
+      },
+      {
+        "label": "Nicola Sturgeon",
+        "correct": false
+      }
+    ],
+    "explanation": "Margaret Thatcher led the Conservative Party and served as Prime Minister for 11 years. She is known for changing the British economy.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-021",
+    "section_id": "CH3-C20",
+    "type": "truefalse",
+    "stem": "The United Kingdom joined the European Economic Community (now the EU) in 1973.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "The UK joined the EEC in 1973 to improve trade with its neighbors. It remained a member for several decades.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-022",
+    "section_id": "CH3-C20",
+    "type": "single",
+    "stem": "In 1998, which agreement brought a path to peace in Northern Ireland?",
+    "options": [
+      {
+        "label": "The Good Friday Agreement",
+        "correct": true
+      },
+      {
+        "label": "The Magna Carta",
+        "correct": false
+      },
+      {
+        "label": "The Treaty of Versailles",
+        "correct": false
+      },
+      {
+        "label": "The Bill of Rights",
+        "correct": false
+      }
+    ],
+    "explanation": "The Good Friday Agreement followed many years of conflict called 'the Troubles'. It created a new assembly for Northern Ireland.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-023",
+    "section_id": "CH3-C20",
+    "type": "multi",
+    "stem": "Which TWO scientists are famous for discovering the structure of DNA in 1953?",
+    "options": [
+      {
+        "label": "Francis Crick",
+        "correct": true
+      },
+      {
+        "label": "Isaac Newton",
+        "correct": false
+      },
+      {
+        "label": "James Watson",
+        "correct": true
+      },
+      {
+        "label": "Charles Darwin",
+        "correct": false
+      }
+    ],
+    "explanation": "Crick and Watson worked at Cambridge University to find the 'double helix' shape of DNA. This helped people understand how living things are made.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-024",
+    "section_id": "CH3-C20",
+    "type": "single",
+    "stem": "In the 1960s, new laws were passed to make which of these legal?",
+    "options": [
+      {
+        "label": "Abortion",
+        "correct": true
+      },
+      {
+        "label": "Child labour",
+        "correct": false
+      },
+      {
+        "label": "Slavery",
+        "correct": false
+      },
+      {
+        "label": "Voting at age 12",
+        "correct": false
+      }
+    ],
+    "explanation": "The 1960s was a time of social change. Laws about abortion and divorce were changed to give people more freedom.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-025",
+    "section_id": "CH3-C20",
+    "type": "truefalse",
+    "stem": "During the 1970s, the UK experienced high inflation and many strikes by workers.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Economic problems in the 1970s led to many arguments between the government and trade unions. This caused several large strikes.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-026",
+    "section_id": "CH3-C20",
+    "type": "multi",
+    "stem": "Which TWO of these were major British industries at the start of the 20th century?",
+    "options": [
+      {
+        "label": "Shipbuilding",
+        "correct": true
+      },
+      {
+        "label": "Computer coding",
+        "correct": false
+      },
+      {
+        "label": "Coal mining",
+        "correct": true
+      },
+      {
+        "label": "Tourism",
+        "correct": false
+      }
+    ],
+    "explanation": "At the beginning of the 1900s, Britain was a world leader in making ships and mining coal. These industries employed millions of people.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-027",
+    "section_id": "CH3-C20",
+    "type": "single",
+    "stem": "Who invented the World Wide Web in 1989?",
+    "options": [
+      {
+        "label": "Sir Tim Berners-Lee",
+        "correct": true
+      },
+      {
+        "label": "Sir Peter Mansfield",
+        "correct": false
+      },
+      {
+        "label": "Alan Turing",
+        "correct": false
+      },
+      {
+        "label": "Sir Frank Whittle",
+        "correct": false
+      }
+    ],
+    "explanation": "Sir Tim Berners-Lee invented the World Wide Web in 1989. This technology changed the way information is shared globally.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-028",
+    "section_id": "CH3-C20",
+    "type": "single",
+    "stem": "In which year were women in the UK given the vote on the same terms as men?",
+    "options": [
+      {
+        "label": "1928",
+        "correct": true
+      },
+      {
+        "label": "1918",
+        "correct": false
+      },
+      {
+        "label": "1935",
+        "correct": false
+      },
+      {
+        "label": "1945",
+        "correct": false
+      }
+    ],
+    "explanation": "In 1928, women were given equal voting rights with men, allowing them to vote at age 21. In 1918, only women over 30 could vote.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-029",
+    "section_id": "CH3-C20",
+    "type": "single",
+    "stem": "Who developed radar technology in Britain to track enemy aircraft?",
+    "options": [
+      {
+        "label": "Sir Robert Watson-Watt",
+        "correct": true
+      },
+      {
+        "label": "Sir Christopher Cockerell",
+        "correct": false
+      },
+      {
+        "label": "Alexander Fleming",
+        "correct": false
+      },
+      {
+        "label": "Sir Bernard Lovell",
+        "correct": false
+      }
+    ],
+    "explanation": "Sir Robert Watson-Watt developed radar in the 1930s. Radar warned Britain of incoming enemy planes during the Second World War.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-030",
+    "section_id": "CH3-C20",
+    "type": "single",
+    "stem": "What happened to Ireland after the Anglo-Irish Treaty of 1921?",
+    "options": [
+      {
+        "label": "It was divided into two separate parts",
+        "correct": true
+      },
+      {
+        "label": "It became a territory of France",
+        "correct": false
+      },
+      {
+        "label": "It was fully absorbed into Great Britain",
+        "correct": false
+      },
+      {
+        "label": "It joined the United States",
+        "correct": false
+      }
+    ],
+    "explanation": "The treaty divided Ireland into Northern Ireland and the Irish Free State. Northern Ireland chose to stay part of the United Kingdom.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-031",
+    "section_id": "CH3-C20",
+    "type": "single",
+    "stem": "Where was the world's first 'test-tube baby' born in 1978?",
+    "options": [
+      {
+        "label": "Oldham, England",
+        "correct": true
+      },
+      {
+        "label": "Edinburgh, Scotland",
+        "correct": false
+      },
+      {
+        "label": "Cardiff, Wales",
+        "correct": false
+      },
+      {
+        "label": "Belfast, Northern Ireland",
+        "correct": false
+      }
+    ],
+    "explanation": "Louise Brown was born in Oldham in 1978. She was the first human born through in-vitro fertilisation (IVF) treatment.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-032",
+    "section_id": "CH3-C20",
+    "type": "single",
+    "stem": "Which country invaded the Falkland Islands in 1982, causing a conflict with the UK?",
+    "options": [
+      {
+        "label": "Argentina",
+        "correct": true
+      },
+      {
+        "label": "Spain",
+        "correct": false
+      },
+      {
+        "label": "Brazil",
+        "correct": false
+      },
+      {
+        "label": "Chile",
+        "correct": false
+      }
+    ],
+    "explanation": "Argentina invaded the Falkland Islands in 1982. British forces travelled to the South Atlantic and successfully reclaimed the islands.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-033",
+    "section_id": "CH3-C20",
+    "type": "single",
+    "stem": "Which country worked with the UK to develop the supersonic airliner Concorde?",
+    "options": [
+      {
+        "label": "France",
+        "correct": true
+      },
+      {
+        "label": "Germany",
+        "correct": false
+      },
+      {
+        "label": "The United States",
+        "correct": false
+      },
+      {
+        "label": "Italy",
+        "correct": false
+      }
+    ],
+    "explanation": "Britain and France worked together to build Concorde. It flew passengers faster than the speed of sound until retiring in 2003.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-034",
+    "section_id": "CH3-C20",
+    "type": "single",
+    "stem": "Which event triggered the start of the First World War in 1914?",
+    "options": [
+      {
+        "label": "The assassination of Archduke Franz Ferdinand",
+        "correct": true
+      },
+      {
+        "label": "The sinking of the Lusitania ship",
+        "correct": false
+      },
+      {
+        "label": "The invasion of Poland by Germany",
+        "correct": false
+      },
+      {
+        "label": "The Russian Revolution",
+        "correct": false
+      }
+    ],
+    "explanation": "The First World War began in 1914 after Archduke Franz Ferdinand of Austria-Hungary was assassinated in Sarajevo.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-035",
+    "section_id": "CH3-C20",
+    "type": "single",
+    "stem": "Who invented the hovercraft in 1955?",
+    "options": [
+      {
+        "label": "Sir Christopher Cockerell",
+        "correct": true
+      },
+      {
+        "label": "Sir Frank Whittle",
+        "correct": false
+      },
+      {
+        "label": "Sir Bernard Lovell",
+        "correct": false
+      },
+      {
+        "label": "Donald Campbell",
+        "correct": false
+      }
+    ],
+    "explanation": "Sir Christopher Cockerell invented the hovercraft in 1955. It travels over land and water on a cushion of air.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-037",
+    "section_id": "CH3-C20",
+    "type": "multi",
+    "stem": "Which TWO countries gained independence from the British Empire in 1947?",
+    "options": [
+      {
+        "label": "India",
+        "correct": true
+      },
+      {
+        "label": "Pakistan",
+        "correct": true
+      },
+      {
+        "label": "Kenya",
+        "correct": false
+      },
+      {
+        "label": "Canada",
+        "correct": false
+      }
+    ],
+    "explanation": "In 1947, British India was partitioned into two independent nations: India and Pakistan. This marked a major change in the British Empire.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-038",
+    "section_id": "CH3-C20",
+    "type": "multi",
+    "stem": "Which TWO international organisations did the UK help create after the Second World War?",
+    "options": [
+      {
+        "label": "The United Nations",
+        "correct": true
+      },
+      {
+        "label": "NATO",
+        "correct": true
+      },
+      {
+        "label": "The League of Nations",
+        "correct": false
+      },
+      {
+        "label": "The African Union",
+        "correct": false
+      }
+    ],
+    "explanation": "The UK was a founding member of the United Nations in 1945 and NATO in 1949 to help maintain global peace and security.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-039",
+    "section_id": "CH3-C20",
+    "type": "truefalse",
+    "stem": "The Jarrow March of 1936 was a protest by workers against high unemployment and poverty.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "In 1936, 200 men marched from Jarrow in north-east England to London to protest the high unemployment caused by the Great Depression.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-040",
+    "section_id": "CH3-C20",
+    "type": "truefalse",
+    "stem": "In 1996, scientists in Scotland successfully cloned a mammal for the first time.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "In 1996, Dolly the sheep was cloned at the Roslin Institute near Edinburgh. This was the first mammal cloned from an adult cell.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-041",
+    "section_id": "CH3-C20",
+    "type": "truefalse",
+    "stem": "British soldiers were sent to Northern Ireland in 1969 to help keep order between communities.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "In 1969, the British government sent the army to Northern Ireland to keep peace between the two communities during the Troubles.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-042",
+    "section_id": "CH3-C20",
+    "type": "single",
+    "stem": "In 1919, which peace treaty officially ended the First World War?",
+    "options": [
+      {
+        "label": "The Treaty of Versailles",
+        "correct": true
+      },
+      {
+        "label": "The Treaty of Utrecht",
+        "correct": false
+      },
+      {
+        "label": "The Treaty of Rome",
+        "correct": false
+      },
+      {
+        "label": "The Treaty of Ghent",
+        "correct": false
+      }
+    ],
+    "explanation": "The Treaty of Versailles was signed in 1919 to officially end the First World War. It set the peace terms between Germany and the victorious Allied powers.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-043",
+    "section_id": "CH3-C20",
+    "type": "single",
+    "stem": "In 1922, which major public broadcasting company was set up in the UK to start radio broadcasts?",
+    "options": [
+      {
+        "label": "The BBC",
+        "correct": true
+      },
+      {
+        "label": "ITV",
+        "correct": false
+      },
+      {
+        "label": "Channel 4",
+        "correct": false
+      },
+      {
+        "label": "Sky",
+        "correct": false
+      }
+    ],
+    "explanation": "The British Broadcasting Company (now Corporation), or BBC, was set up in 1922. It started the world's first regular daily radio broadcasts.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-044",
+    "section_id": "CH3-C20",
+    "type": "single",
+    "stem": "Who was the British King during the First World War?",
+    "options": [
+      {
+        "label": "King George V",
+        "correct": true
+      },
+      {
+        "label": "King Edward VII",
+        "correct": false
+      },
+      {
+        "label": "King George VI",
+        "correct": false
+      },
+      {
+        "label": "King William IV",
+        "correct": false
+      }
+    ],
+    "explanation": "King George V was the British monarch during the First World War. He changed the royal family name from Saxe-Coburg-Gotha to Windsor.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-045",
+    "section_id": "CH3-C20",
+    "type": "multi",
+    "stem": "Which TWO of these empires collapsed as a direct result of the First World War?",
+    "options": [
+      {
+        "label": "The Austro-Hungarian Empire",
+        "correct": true
+      },
+      {
+        "label": "The Ottoman Empire",
+        "correct": true
+      },
+      {
+        "label": "The British Empire",
+        "correct": false
+      },
+      {
+        "label": "The French Empire",
+        "correct": false
+      }
+    ],
+    "explanation": "The First World War led to the fall of several major empires, including the Austro-Hungarian Empire and the Ottoman Empire.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-046",
+    "section_id": "CH3-C20",
+    "type": "truefalse",
+    "stem": "During the Second World War, the British government evacuated children from cities to the countryside to keep them safe from bombing.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "During the war, millions of children, pregnant women, and schoolteachers were evacuated from big cities to safer rural areas.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-047",
+    "section_id": "CH3-C20",
+    "type": "single",
+    "stem": "What was the name of the armed rebellion against British rule that took place in Dublin during Easter 1916?",
+    "options": [
+      {
+        "label": "The Easter Rising",
+        "correct": true
+      },
+      {
+        "label": "The Glorious Revolution",
+        "correct": false
+      },
+      {
+        "label": "The Jacobite Rebellion",
+        "correct": false
+      },
+      {
+        "label": "The Irish Famine",
+        "correct": false
+      }
+    ],
+    "explanation": "The Easter Rising of 1916 was an armed rebellion in Dublin by Irish nationalists. It was a key event leading to the creation of the Irish Free State.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-048",
+    "section_id": "CH3-C20",
+    "type": "single",
+    "stem": "In 1951, what national event was held to celebrate British recovery and achievements after the Second World War?",
+    "options": [
+      {
+        "label": "The Festival of Britain",
+        "correct": true
+      },
+      {
+        "label": "The Great Exhibition",
+        "correct": false
+      },
+      {
+        "label": "The Millennium Dome Exhibition",
+        "correct": false
+      },
+      {
+        "label": "The British Empire Exhibition",
+        "correct": false
+      }
+    ],
+    "explanation": "The Festival of Britain was held in 1951, exactly 100 years after the Great Exhibition. It celebrated British recovery and achievements in science, technology, and the arts.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-049",
+    "section_id": "CH3-C20",
+    "type": "single",
+    "stem": "Which Scottish inventor gave the world's first public demonstration of moving television images in 1926?",
+    "options": [
+      {
+        "label": "John Logie Baird",
+        "correct": true
+      },
+      {
+        "label": "Alexander Graham Bell",
+        "correct": false
+      },
+      {
+        "label": "James Watt",
+        "correct": false
+      },
+      {
+        "label": "Charles Babbage",
+        "correct": false
+      }
+    ],
+    "explanation": "John Logie Baird demonstrated the first television system in 1926. This led to the development of television broadcasting.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-050",
+    "section_id": "CH3-C20",
+    "type": "multi",
+    "stem": "Which TWO countries were enemy powers (Axis powers) that the UK fought against during the Second World War?",
+    "options": [
+      {
+        "label": "Germany",
+        "correct": true
+      },
+      {
+        "label": "Italy",
+        "correct": true
+      },
+      {
+        "label": "France",
+        "correct": false
+      },
+      {
+        "label": "The Soviet Union",
+        "correct": false
+      }
+    ],
+    "explanation": "Britain and its allies fought against the Axis powers, which included Germany, Italy, and Japan. France and the Soviet Union were Allies.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-051",
+    "section_id": "CH3-C20",
+    "type": "single",
+    "stem": "An economic crash in 1929 in which country led to the Great Depression of the 1930s in Britain?",
+    "options": [
+      {
+        "label": "The United States",
+        "correct": true
+      },
+      {
+        "label": "Germany",
+        "correct": false
+      },
+      {
+        "label": "France",
+        "correct": false
+      },
+      {
+        "label": "Russia",
+        "correct": false
+      }
+    ],
+    "explanation": "The Wall Street Crash of 1929 in the United States caused a worldwide economic slump known as the Great Depression, which led to mass unemployment in Britain.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 1,
+    "ai_checked": true
   }
 ]

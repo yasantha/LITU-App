@@ -1,0 +1,126 @@
+[
+  {
+    "id": "Q-CH5-LAW-010",
+    "section_id": "CH5-LAW",
+    "type": "truefalse",
+    "stem": "In Scotland, the age of criminal responsibility is lower than in England and Wales.",
+    "options": [
+      {
+        "label": "True",
+        "correct": false
+      },
+      {
+        "label": "False",
+        "correct": true
+      }
+    ],
+    "explanation": "In Scotland, the age of criminal responsibility is 12 years old. In England, Wales and Northern Ireland, children can be held responsible at age 10.",
+    "handbook_ref": "Chapter 5 · Respecting the law",
+    "difficulty": 3,
+    "rejected_reason": "The age of criminal responsibility in Scotland was raised to 12 in 2021, but the 3rd edition handbook states it is 8. This conflict makes the question misleading."
+  },
+  {
+    "id": "Q-CH5-LAW-013",
+    "section_id": "CH5-LAW",
+    "type": "single",
+    "stem": "What is the highest court of appeal in the UK for civil and criminal cases?",
+    "options": [
+      {
+        "label": "Crown Court",
+        "correct": false
+      },
+      {
+        "label": "High Court",
+        "correct": false
+      },
+      {
+        "label": "Supreme Court",
+        "correct": true
+      },
+      {
+        "label": "Central Criminal Court",
+        "correct": false
+      }
+    ],
+    "explanation": "The Supreme Court is the highest court of appeal in the UK. It hears civil and criminal appeals from across the country.",
+    "handbook_ref": "Chapter 5 · Respecting the law",
+    "difficulty": 1,
+    "rejected_reason": "The Supreme Court does not hear criminal appeals from Scotland, so calling it the highest court of appeal for civil and criminal cases in the UK is inaccurate."
+  },
+  {
+    "id": "Q-CH5-LAW-025",
+    "section_id": "CH5-LAW",
+    "type": "truefalse",
+    "stem": "It is illegal to smoke in a private car if there is a child under the age of 18 in the vehicle.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "To protect children from secondhand smoke, it is a criminal offence to smoke in a private vehicle when someone under the age of 18 is present.",
+    "handbook_ref": "Chapter 5 · Respecting the law",
+    "difficulty": 2,
+    "rejected_reason": "This specific law (smoking in cars with children) was introduced in 2015/2016 and is not covered in the 3rd edition (2013) handbook."
+  },
+  {
+    "id": "Q-CH5-LAW-028",
+    "section_id": "CH5-LAW",
+    "type": "single",
+    "stem": "What is the maximum limit for a small claim in Northern Ireland?",
+    "options": [
+      {
+        "label": "£3,000",
+        "correct": true
+      },
+      {
+        "label": "£5,000",
+        "correct": false
+      },
+      {
+        "label": "£10,000",
+        "correct": false
+      },
+      {
+        "label": "£1,500",
+        "correct": false
+      }
+    ],
+    "explanation": "The small claims procedure is an informal way to settle minor disputes. The maximum limit is £3,000 in Northern Ireland and £5,000 in Scotland.",
+    "handbook_ref": "Chapter 5 · Respecting the law",
+    "difficulty": 3,
+    "rejected_reason": "The small claims limit in Northern Ireland has changed since the handbook's publication (it is now &pound;5,000), making the correct answer based on the 3rd edition misleading."
+  },
+  {
+    "id": "Q-CH5-LAW-042",
+    "section_id": "CH5-LAW",
+    "type": "single",
+    "stem": "What is the maximum limit for a financial claim using the Simple Procedure in Scotland?",
+    "options": [
+      {
+        "label": "£5,000",
+        "correct": true
+      },
+      {
+        "label": "£3,000",
+        "correct": false
+      },
+      {
+        "label": "£10,000",
+        "correct": false
+      },
+      {
+        "label": "£1,500",
+        "correct": false
+      }
+    ],
+    "explanation": "In Scotland, the Simple Procedure is used for small financial claims up to the value of £5,000. In England and Wales, the limit for a small claim is £10,000.",
+    "handbook_ref": "Chapter 5 · Respecting the law",
+    "difficulty": 3,
+    "rejected_reason": "The 3rd edition handbook (p. 130) states that a 'small claims procedure' is used in Scotland for claims up to £3,000. 'Simple Procedure' and the £5,000 limit are later legal changes not reflected in the official study material."
+  }
+]

@@ -16,7 +16,8 @@
     ],
     "explanation": "If you are on the electoral register you may be chosen for jury service. You must do it unless you have a good reason.",
     "handbook_ref": "Chapter 5 · Your role in the community",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH5-ROL-002",
@@ -43,7 +44,8 @@
     ],
     "explanation": "To vote, your name must be on the electoral register. You can register online or through your local council.",
     "handbook_ref": "Chapter 5 · Your role in the community",
-    "difficulty": 1
+    "difficulty": 1,
+    "ai_checked": true
   },
   {
     "id": "Q-CH5-ROL-003",
@@ -70,7 +72,8 @@
     ],
     "explanation": "National Insurance contributions help pay for state benefits and services, such as the State Pension and the NHS.",
     "handbook_ref": "Chapter 5 · Your role in the community",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH5-ROL-004",
@@ -97,6 +100,7 @@
     ],
     "explanation": "You must be at least 17 to drive a car. You need a driving licence, which you get after passing a driving test.",
     "handbook_ref": "Chapter 5 · Your role in the community",
-    "difficulty": 1
+    "difficulty": 1,
+    "ai_checked": true
   }
 ]

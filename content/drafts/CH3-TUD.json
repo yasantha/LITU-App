@@ -24,7 +24,8 @@
     ],
     "explanation": "Henry VIII set up the Church of England when the Pope would not let him end his first marriage.",
     "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
-    "difficulty": 1
+    "difficulty": 1,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-TUD-002",
@@ -51,7 +52,8 @@
     ],
     "explanation": "Jane Seymour gave Henry VIII the son he wanted, who became Edward VI. She died soon after the birth.",
     "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
-    "difficulty": 3
+    "difficulty": 3,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-TUD-003",
@@ -78,7 +80,8 @@
     ],
     "explanation": "The English defeated the Spanish Armada, a large fleet of ships sent to invade England and bring back the Catholic faith.",
     "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-TUD-004",
@@ -105,7 +108,8 @@
     ],
     "explanation": "Elizabeth I was queen when the Spanish Armada was defeated in 1588. She was very popular and her reign is often remembered as a golden age.",
     "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-TUD-005",
@@ -132,7 +136,8 @@
     ],
     "explanation": "William Shakespeare was born in Stratford-upon-Avon, England, in 1564. Many people think he is the greatest writer in the English language.",
     "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
-    "difficulty": 1
+    "difficulty": 1,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-TUD-006",
@@ -159,7 +164,8 @@
     ],
     "explanation": "When Elizabeth I died without children, James VI of Scotland became James I of England. He ruled both countries.",
     "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
-    "difficulty": 3
+    "difficulty": 3,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-TUD-007",
@@ -186,7 +192,8 @@
     ],
     "explanation": "Charles I lost the Civil War against Parliament and was executed in 1649. England became a republic for a short time.",
     "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-TUD-008",
@@ -213,7 +220,8 @@
     ],
     "explanation": "Supporters of the king were called Cavaliers. Supporters of Parliament were called Roundheads.",
     "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-TUD-009",
@@ -240,7 +248,8 @@
     ],
     "explanation": "Oliver Cromwell led the army of Parliament and ruled England as Lord Protector until he died in 1658.",
     "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-TUD-010",
@@ -267,7 +276,8 @@
     ],
     "explanation": "The Great Fire of London in 1666 destroyed many buildings. Sir Christopher Wren designed the new St Paul's Cathedral.",
     "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-TUD-011",
@@ -294,7 +304,8 @@
     ],
     "explanation": "Protestant leaders invited William of Orange to take the throne. James II fled to France and there was no fighting in England, so it was called glorious.",
     "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
-    "difficulty": 3
+    "difficulty": 3,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-TUD-012",
@@ -313,7 +324,8 @@
     ],
     "explanation": "The Act of Union created the Kingdom of Great Britain. Scotland kept its own legal and education systems and its own church.",
     "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH3-TUD-013",
@@ -340,6 +352,1135 @@
     ],
     "explanation": "The Habeas Corpus Act means someone who is arrested must be brought before a court. This protects people from being held without a lawful reason.",
     "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
-    "difficulty": 3
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-014",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "Which queen tried to make England a Catholic country again after King Edward VI died?",
+    "options": [
+      {
+        "label": "Mary I",
+        "correct": true
+      },
+      {
+        "label": "Elizabeth I",
+        "correct": false
+      },
+      {
+        "label": "Queen Anne",
+        "correct": false
+      },
+      {
+        "label": "Queen Victoria",
+        "correct": false
+      }
+    ],
+    "explanation": "Queen Mary I was very religious and wanted the country to be Catholic. She killed many Protestants, so people called her 'Bloody Mary'.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-015",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "In 1620, a group of people called the Pilgrims left for North America on which ship?",
+    "options": [
+      {
+        "label": "The Mayflower",
+        "correct": true
+      },
+      {
+        "label": "The Golden Hind",
+        "correct": false
+      },
+      {
+        "label": "The Mary Rose",
+        "correct": false
+      },
+      {
+        "label": "The Victory",
+        "correct": false
+      }
+    ],
+    "explanation": "The Pilgrims were looking for religious freedom. They sailed on the Mayflower and started a colony in what is now the United States.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-016",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "Who was a famous scientist during the Stuart period who discovered how gravity works?",
+    "options": [
+      {
+        "label": "Sir Isaac Newton",
+        "correct": true
+      },
+      {
+        "label": "Charles Darwin",
+        "correct": false
+      },
+      {
+        "label": "Alexander Fleming",
+        "correct": false
+      },
+      {
+        "label": "John Logie Baird",
+        "correct": false
+      }
+    ],
+    "explanation": "Sir Isaac Newton was born in Lincolnshire. His work on gravity and light changed the way people understood the world.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-017",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "What was the name of the new English Bible published during the reign of King James I?",
+    "options": [
+      {
+        "label": "King James Bible",
+        "correct": true
+      },
+      {
+        "label": "The Great Bible",
+        "correct": false
+      },
+      {
+        "label": "The Latin Bible",
+        "correct": false
+      },
+      {
+        "label": "The English Prayer Book",
+        "correct": false
+      }
+    ],
+    "explanation": "King James I asked for a new translation of the Bible into English. This version is still famous and used by many people today.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-018",
+    "section_id": "CH3-TUD",
+    "type": "multi",
+    "stem": "Henry VIII had six wives. Which TWO of these wives were executed?",
+    "options": [
+      {
+        "label": "Anne Boleyn",
+        "correct": true
+      },
+      {
+        "label": "Catherine Howard",
+        "correct": true
+      },
+      {
+        "label": "Catherine of Aragon",
+        "correct": false
+      },
+      {
+        "label": "Anne of Cleves",
+        "correct": false
+      }
+    ],
+    "explanation": "Both Anne Boleyn and Catherine Howard were charged with being unfaithful to the King. They were executed at the Tower of London.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-019",
+    "section_id": "CH3-TUD",
+    "type": "truefalse",
+    "stem": "In 1665, a terrible disease called the Great Plague killed thousands of people in London.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "The Great Plague was a serious illness that spread quickly in 1665. It was the last major outbreak of this disease in London.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-020",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "Which battle in Ireland was won by King William III in 1690?",
+    "options": [
+      {
+        "label": "The Battle of the Boyne",
+        "correct": true
+      },
+      {
+        "label": "The Battle of Hastings",
+        "correct": false
+      },
+      {
+        "label": "The Battle of Bosworth",
+        "correct": false
+      },
+      {
+        "label": "The Battle of Culloden",
+        "correct": false
+      }
+    ],
+    "explanation": "William III defeated the former king James II at the Battle of the Boyne in 1690. This victory is still commemorated today in Northern Ireland.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-021",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "Which architect designed the new St Paul's Cathedral after the Great Fire of London?",
+    "options": [
+      {
+        "label": "Sir Christopher Wren",
+        "correct": true
+      },
+      {
+        "label": "Inigo Jones",
+        "correct": false
+      },
+      {
+        "label": "Robert Adam",
+        "correct": false
+      },
+      {
+        "label": "John Nash",
+        "correct": false
+      }
+    ],
+    "explanation": "Sir Christopher Wren designed the new St Paul's Cathedral after the old church burned down in 1666. It took over 30 years to build.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-022",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "Which monarch was invited back to rule when the monarchy was restored in 1660?",
+    "options": [
+      {
+        "label": "Charles II",
+        "correct": true
+      },
+      {
+        "label": "James II",
+        "correct": false
+      },
+      {
+        "label": "William III",
+        "correct": false
+      },
+      {
+        "label": "George I",
+        "correct": false
+      }
+    ],
+    "explanation": "Parliament invited Charles II to return from exile in 1660. This return of the royal family is known as the Restoration.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-023",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "Which English explorer was one of the first commanders to sail around the world?",
+    "options": [
+      {
+        "label": "Sir Francis Drake",
+        "correct": true
+      },
+      {
+        "label": "Captain James Cook",
+        "correct": false
+      },
+      {
+        "label": "Sir Walter Raleigh",
+        "correct": false
+      },
+      {
+        "label": "Horatio Nelson",
+        "correct": false
+      }
+    ],
+    "explanation": "Sir Francis Drake sailed around the world on his ship, the Golden Hind. He was also a leading commander against the Spanish Armada.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-024",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "Why was Mary, Queen of Scots, executed in 1587?",
+    "options": [
+      {
+        "label": "She was suspected of plotting against Queen Elizabeth I",
+        "correct": true
+      },
+      {
+        "label": "She refused to pay taxes to the English government",
+        "correct": false
+      },
+      {
+        "label": "She led a French army to attack London",
+        "correct": false
+      },
+      {
+        "label": "She surrendered Scotland to the Spanish king",
+        "correct": false
+      }
+    ],
+    "explanation": "Elizabeth I kept Mary in prison for nearly 20 years. Mary was executed because people believed she was plotting to take the English throne.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-025",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "What important rule did the Bill of Rights of 1689 establish?",
+    "options": [
+      {
+        "label": "The monarch could not collect taxes without Parliament",
+        "correct": true
+      },
+      {
+        "label": "Every adult citizen gained the right to vote",
+        "correct": false
+      },
+      {
+        "label": "England and Scotland became separate nations",
+        "correct": false
+      },
+      {
+        "label": "The monarch could appoint judges without approval",
+        "correct": false
+      }
+    ],
+    "explanation": "The Bill of Rights reduced royal power. It confirmed that the king or queen could not make laws or collect taxes without Parliament's consent.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-026",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "Who was the Spanish princess who became the first wife of King Henry VIII?",
+    "options": [
+      {
+        "label": "Catherine of Aragon",
+        "correct": true
+      },
+      {
+        "label": "Anne of Cleves",
+        "correct": false
+      },
+      {
+        "label": "Catherine Parr",
+        "correct": false
+      },
+      {
+        "label": "Kathryn Howard",
+        "correct": false
+      }
+    ],
+    "explanation": "Catherine of Aragon was Henry VIII's first wife and mother of Queen Mary I. Henry divorced her because she did not give him a male heir.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-027",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "During the reign of which king was Wales formally united with England?",
+    "options": [
+      {
+        "label": "Henry VIII",
+        "correct": true
+      },
+      {
+        "label": "Edward I",
+        "correct": false
+      },
+      {
+        "label": "Henry VII",
+        "correct": false
+      },
+      {
+        "label": "Charles I",
+        "correct": false
+      }
+    ],
+    "explanation": "Laws passed during the rule of Henry VIII united Wales with England and gave Welsh representatives seats in the English Parliament.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-028",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "Which 17th-century author wrote the famous epic poem Paradise Lost?",
+    "options": [
+      {
+        "label": "John Milton",
+        "correct": true
+      },
+      {
+        "label": "Geoffrey Chaucer",
+        "correct": false
+      },
+      {
+        "label": "William Blake",
+        "correct": false
+      },
+      {
+        "label": "Lord Byron",
+        "correct": false
+      }
+    ],
+    "explanation": "John Milton was a famous English writer during the Stuart period. He published Paradise Lost in 1667.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-029",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "In which year did Guy Fawkes and other plotters try to blow up Parliament?",
+    "options": [
+      {
+        "label": "1605",
+        "correct": true
+      },
+      {
+        "label": "1588",
+        "correct": false
+      },
+      {
+        "label": "1642",
+        "correct": false
+      },
+      {
+        "label": "1689",
+        "correct": false
+      }
+    ],
+    "explanation": "The Gunpowder Plot took place in 1605. Catholics planned to blow up King James I and Parliament, but the plot was discovered in time.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-030",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "What nickname was given to people who fought for Parliament in the Civil War?",
+    "options": [
+      {
+        "label": "Roundheads",
+        "correct": true
+      },
+      {
+        "label": "Jacobites",
+        "correct": false
+      },
+      {
+        "label": "Chartists",
+        "correct": false
+      },
+      {
+        "label": "Suffragettes",
+        "correct": false
+      }
+    ],
+    "explanation": "Supporters of Parliament were called Roundheads because many cut their hair short. The king's supporters were called Cavaliers.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-031",
+    "section_id": "CH3-TUD",
+    "type": "multi",
+    "stem": "Which TWO battles were fought during the English Civil War?",
+    "options": [
+      {
+        "label": "The Battle of Marston Moor",
+        "correct": true
+      },
+      {
+        "label": "The Battle of Naseby",
+        "correct": true
+      },
+      {
+        "label": "The Battle of Waterloo",
+        "correct": false
+      },
+      {
+        "label": "The Battle of Trafalgar",
+        "correct": false
+      }
+    ],
+    "explanation": "Parliament's army won key victories against the king at Marston Moor in 1644 and Naseby in 1645. Waterloo and Trafalgar were fought much later.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-032",
+    "section_id": "CH3-TUD",
+    "type": "multi",
+    "stem": "Which TWO monarchs belonged to the Tudor royal family?",
+    "options": [
+      {
+        "label": "Henry VII",
+        "correct": true
+      },
+      {
+        "label": "Elizabeth I",
+        "correct": true
+      },
+      {
+        "label": "James I",
+        "correct": false
+      },
+      {
+        "label": "Charles II",
+        "correct": false
+      }
+    ],
+    "explanation": "Henry VII started the Tudor line in 1485, and Elizabeth I was the last Tudor ruler. James I and Charles II were from the House of Stuart.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-033",
+    "section_id": "CH3-TUD",
+    "type": "truefalse",
+    "stem": "Queen Elizabeth I chose never to marry during her reign.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Elizabeth I never married and was called the Virgin Queen. She ruled England successfully on her own for 45 years.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-034",
+    "section_id": "CH3-TUD",
+    "type": "truefalse",
+    "stem": "Oliver Cromwell was crowned King of England after the Civil War ended.",
+    "options": [
+      {
+        "label": "True",
+        "correct": false
+      },
+      {
+        "label": "False",
+        "correct": true
+      }
+    ],
+    "explanation": "Cromwell was offered the crown but turned it down. He governed as Lord Protector from 1653 until his death in 1658.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-035",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "Which battle in 1485 ended the Wars of the Roses and put Henry VII on the throne?",
+    "options": [
+      {
+        "label": "Battle of Hastings",
+        "correct": false
+      },
+      {
+        "label": "Battle of Bosworth Field",
+        "correct": true
+      },
+      {
+        "label": "Battle of Agincourt",
+        "correct": false
+      },
+      {
+        "label": "Battle of Waterloo",
+        "correct": false
+      }
+    ],
+    "explanation": "Henry VII defeated Richard III at the Battle of Bosworth Field in 1485. This victory marked the start of the Tudor dynasty.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-036",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "Which of Henry VIII's wives survived him and lived after his death?",
+    "options": [
+      {
+        "label": "Anne of Cleves",
+        "correct": false
+      },
+      {
+        "label": "Catherine Parr",
+        "correct": true
+      },
+      {
+        "label": "Catherine Howard",
+        "correct": false
+      },
+      {
+        "label": "Jane Seymour",
+        "correct": false
+      }
+    ],
+    "explanation": "Catherine Parr was Henry VIII's sixth and final wife. She survived him when he died in 1547 and later married again.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-037",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "During the reign of King Edward VI, which book was written for use in the Church of England?",
+    "options": [
+      {
+        "label": "The Book of Common Prayer",
+        "correct": true
+      },
+      {
+        "label": "The King James Bible",
+        "correct": false
+      },
+      {
+        "label": "The Pilgrim's Progress",
+        "correct": false
+      },
+      {
+        "label": "The Canterbury Tales",
+        "correct": false
+      }
+    ],
+    "explanation": "The Book of Common Prayer was written during the reign of King Edward VI. It was created to help people worship in English rather than Latin.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-038",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "Which explorer sent people to establish the first English colonies in North America under Elizabeth I?",
+    "options": [
+      {
+        "label": "Sir Francis Drake",
+        "correct": false
+      },
+      {
+        "label": "Sir Walter Raleigh",
+        "correct": true
+      },
+      {
+        "label": "Christopher Columbus",
+        "correct": false
+      },
+      {
+        "label": "Henry Hudson",
+        "correct": false
+      }
+    ],
+    "explanation": "Sir Walter Raleigh was an explorer who tried to build English colonies in North America. He is also famous for bringing tobacco and potatoes to England.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-039",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "What did King Charles II do for the theatre when he came to the throne in 1660?",
+    "options": [
+      {
+        "label": "He banned all plays",
+        "correct": false
+      },
+      {
+        "label": "He let women act for the first time",
+        "correct": true
+      },
+      {
+        "label": "He built the first theatre",
+        "correct": false
+      },
+      {
+        "label": "He moved all theatres to Scotland",
+        "correct": false
+      }
+    ],
+    "explanation": "When Charles II became king in 1660, theatres were reopened after being banned by the Puritans. For the first time, women were allowed to perform as actors.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-040",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "Which emblem was created by Henry VII to show the union of the Houses of Lancaster and York?",
+    "options": [
+      {
+        "label": "The Red Dragon",
+        "correct": false
+      },
+      {
+        "label": "The Tudor Rose",
+        "correct": true
+      },
+      {
+        "label": "The Golden Lion",
+        "correct": false
+      },
+      {
+        "label": "The Thistle",
+        "correct": false
+      }
+    ],
+    "explanation": "King Henry VII created the Tudor Rose by joining the red rose of Lancaster and the white rose of York. This showed that the civil war had ended.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-041",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "Which famous group was set up during the reign of Charles II to promote science and natural knowledge?",
+    "options": [
+      {
+        "label": "The Royal Society",
+        "correct": true
+      },
+      {
+        "label": "The British Museum",
+        "correct": false
+      },
+      {
+        "label": "The Royal Academy",
+        "correct": false
+      },
+      {
+        "label": "The National Trust",
+        "correct": false
+      }
+    ],
+    "explanation": "The Royal Society was formed in 1660 to help scientists share and discuss their ideas. Famous members included Isaac Newton and Robert Boyle.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-042",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "What is the term for the belief that kings are chosen by God and do not have to answer to Parliament?",
+    "options": [
+      {
+        "label": "The Divine Right of Kings",
+        "correct": true
+      },
+      {
+        "label": "The Magna Carta",
+        "correct": false
+      },
+      {
+        "label": "The Bill of Rights",
+        "correct": false
+      },
+      {
+        "label": "The Great Charter",
+        "correct": false
+      }
+    ],
+    "explanation": "King James I and his son Charles I believed in the \"Divine Right of Kings\". This meant they thought only God could judge their actions, which angered Parliament.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-043",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "For how many years did King Charles I rule without calling Parliament at all?",
+    "options": [
+      {
+        "label": "5 years",
+        "correct": false
+      },
+      {
+        "label": "11 years",
+        "correct": true
+      },
+      {
+        "label": "15 years",
+        "correct": false
+      },
+      {
+        "label": "20 years",
+        "correct": false
+      }
+    ],
+    "explanation": "King Charles I ruled without Parliament for 11 years. This period is often called the \"Eleven Years' Tyranny\" and helped lead to the Civil War.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-044",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "What name was given to the supporters of King James II who tried to rebel after he was removed from the throne?",
+    "options": [
+      {
+        "label": "Jacobites",
+        "correct": true
+      },
+      {
+        "label": "Roundheads",
+        "correct": false
+      },
+      {
+        "label": "Suffragettes",
+        "correct": false
+      },
+      {
+        "label": "Chartists",
+        "correct": false
+      }
+    ],
+    "explanation": "Supporters of James II were called Jacobites. They tried to return him or his heirs to the throne, leading to battles in Scotland and Ireland.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-045",
+    "section_id": "CH3-TUD",
+    "type": "multi",
+    "stem": "Which TWO writers were famous playwrights during the Elizabethan era alongside William Shakespeare?",
+    "options": [
+      {
+        "label": "Christopher Marlowe",
+        "correct": true
+      },
+      {
+        "label": "Ben Jonson",
+        "correct": true
+      },
+      {
+        "label": "Geoffrey Chaucer",
+        "correct": false
+      },
+      {
+        "label": "John Milton",
+        "correct": false
+      }
+    ],
+    "explanation": "Christopher Marlowe and Ben Jonson were both famous writers and playwrights during the reign of Queen Elizabeth I, alongside William Shakespeare.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-046",
+    "section_id": "CH3-TUD",
+    "type": "multi",
+    "stem": "Which TWO monarchs ruled England, Scotland and Ireland together after the Glorious Revolution?",
+    "options": [
+      {
+        "label": "William III",
+        "correct": true
+      },
+      {
+        "label": "Mary II",
+        "correct": true
+      },
+      {
+        "label": "James II",
+        "correct": false
+      },
+      {
+        "label": "Anne",
+        "correct": false
+      }
+    ],
+    "explanation": "William III (William of Orange) and his wife Mary II ruled jointly. They were invited by Parliament to take the throne after James II fled to France.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-047",
+    "section_id": "CH3-TUD",
+    "type": "truefalse",
+    "stem": "Queen Elizabeth I succeeded in keeping England as a Protestant country during her long reign.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Elizabeth I made the Church of England Protestant again after the reign of her Catholic sister, Mary I. She did this while trying to avoid religious conflict.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-048",
+    "section_id": "CH3-TUD",
+    "type": "truefalse",
+    "stem": "After the execution of King Charles I, England became a republic called the Commonwealth for eleven years.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "From 1649 to 1660, England had no monarch. It was a republic called the Commonwealth, governed mainly by Parliament and later by Oliver Cromwell.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-049",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "Which Stuart-era author wrote the highly popular religious book \"The Pilgrim's Progress\"?",
+    "options": [
+      {
+        "label": "John Bunyan",
+        "correct": true
+      },
+      {
+        "label": "John Milton",
+        "correct": false
+      },
+      {
+        "label": "Daniel Defoe",
+        "correct": false
+      },
+      {
+        "label": "Jonathan Swift",
+        "correct": false
+      }
+    ],
+    "explanation": "John Bunyan wrote \"The Pilgrim's Progress\" in 1678. It became one of the most famous and widely read books of the Stuart period.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-050",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "Who wrote a famous diary describing the Great Plague and the Great Fire of London?",
+    "options": [
+      {
+        "label": "Samuel Pepys",
+        "correct": true
+      },
+      {
+        "label": "Christopher Wren",
+        "correct": false
+      },
+      {
+        "label": "William Shakespeare",
+        "correct": false
+      },
+      {
+        "label": "John Milton",
+        "correct": false
+      }
+    ],
+    "explanation": "Samuel Pepys was a Member of Parliament who kept a detailed diary from 1660 to 1669. His diary is a famous account of the 1665 plague and the 1666 fire.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-051",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "In 1541, Henry VIII was the first English king to take which title?",
+    "options": [
+      {
+        "label": "King of Ireland",
+        "correct": true
+      },
+      {
+        "label": "King of Scotland",
+        "correct": false
+      },
+      {
+        "label": "King of Wales",
+        "correct": false
+      },
+      {
+        "label": "King of France",
+        "correct": false
+      }
+    ],
+    "explanation": "In 1541, Henry VIII took the title \"King of Ireland\". Previously, English monarchs had been known as the \"Lord of Ireland\".",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-052",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "What was the main reason Henry VIII married his fourth wife, Anne of Cleves?",
+    "options": [
+      {
+        "label": "For political reasons",
+        "correct": true
+      },
+      {
+        "label": "Because he loved her",
+        "correct": false
+      },
+      {
+        "label": "To unite with Scotland",
+        "correct": false
+      },
+      {
+        "label": "She was his cousin",
+        "correct": false
+      }
+    ],
+    "explanation": "Henry VIII married Anne of Cleves to build a political link with German Protestants. He had the marriage cancelled soon after because he did not like her appearance.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-053",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "William of Orange was the ruler of which country before he became King of England?",
+    "options": [
+      {
+        "label": "The Netherlands",
+        "correct": true
+      },
+      {
+        "label": "France",
+        "correct": false
+      },
+      {
+        "label": "Spain",
+        "correct": false
+      },
+      {
+        "label": "Denmark",
+        "correct": false
+      }
+    ],
+    "explanation": "William of Orange was the ruler of the Netherlands. He was married to Mary, the daughter of King James II, and was invited to take the throne in 1688.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-054",
+    "section_id": "CH3-TUD",
+    "type": "multi",
+    "stem": "Which TWO of these things did Scotland keep after joining with England in 1707?",
+    "options": [
+      {
+        "label": "Its own legal system",
+        "correct": true
+      },
+      {
+        "label": "Its own Presbyterian Church",
+        "correct": true
+      },
+      {
+        "label": "Its own Parliament",
+        "correct": false
+      },
+      {
+        "label": "Its own monarch",
+        "correct": false
+      }
+    ],
+    "explanation": "While Scotland and England shared a monarch and parliament, Scotland kept its own legal and education systems. It also kept its own Presbyterian Church.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-055",
+    "section_id": "CH3-TUD",
+    "type": "truefalse",
+    "stem": "Queen Elizabeth I's religious settlement followed a \"middle way\" to balance different Christian groups.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Elizabeth I wanted to avoid religious conflict. Her settlement kept the Church of England Protestant, but it kept some Catholic-style traditions and ceremonies.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 2,
+    "ai_checked": true
   }
 ]

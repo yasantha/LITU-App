@@ -24,7 +24,8 @@
     ],
     "explanation": "You must be 18 or over to vote in elections to the UK Parliament. In some elections in Scotland and Wales, people can vote at 16.",
     "handbook_ref": "Chapter 5 · The development of British democracy",
-    "difficulty": 1
+    "difficulty": 1,
+    "ai_checked": true
   },
   {
     "id": "Q-CH5-DEM-002",
@@ -51,7 +52,8 @@
     ],
     "explanation": "The voting age was lowered from 21 to 18 for men and women in 1969.",
     "handbook_ref": "Chapter 5 · The development of British democracy",
-    "difficulty": 3
+    "difficulty": 3,
+    "ai_checked": true
   },
   {
     "id": "Q-CH5-DEM-003",
@@ -70,6 +72,559 @@
     ],
     "explanation": "The Chartists were a group who campaigned for political reform, including votes for every man and secret ballots.",
     "handbook_ref": "Chapter 5 · The development of British democracy",
-    "difficulty": 3
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-DEM-004",
+    "section_id": "CH5-DEM",
+    "type": "single",
+    "stem": "Which document signed in 1215 limited the power of the King and protected the rights of the people?",
+    "options": [
+      {
+        "label": "Magna Carta",
+        "correct": true
+      },
+      {
+        "label": "The Bill of Rights",
+        "correct": false
+      },
+      {
+        "label": "The Domesday Book",
+        "correct": false
+      },
+      {
+        "label": "The Act of Union",
+        "correct": false
+      }
+    ],
+    "explanation": "Magna Carta was signed in 1215. It was the first document to limit the King's power and state that the monarch must obey the law.",
+    "handbook_ref": "Chapter 5 · The development of British democracy",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-DEM-005",
+    "section_id": "CH5-DEM",
+    "type": "single",
+    "stem": "The UK is a \"constitutional monarchy\". What does this mean?",
+    "options": [
+      {
+        "label": "The King makes all the laws",
+        "correct": false
+      },
+      {
+        "label": "The King has limited power by law",
+        "correct": true
+      },
+      {
+        "label": "The King is elected by the public",
+        "correct": false
+      },
+      {
+        "label": "The King is also the Prime Minister",
+        "correct": false
+      }
+    ],
+    "explanation": "In a constitutional monarchy, the King or Queen is the Head of State but has limited power. The government and Parliament make the laws.",
+    "handbook_ref": "Chapter 5 · The development of British democracy",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-DEM-006",
+    "section_id": "CH5-DEM",
+    "type": "single",
+    "stem": "Which law, passed in 1689, confirmed that the King or Queen could not make laws without Parliament's agreement?",
+    "options": [
+      {
+        "label": "The Great Charter",
+        "correct": false
+      },
+      {
+        "label": "The Reform Act",
+        "correct": false
+      },
+      {
+        "label": "The Bill of Rights",
+        "correct": true
+      },
+      {
+        "label": "The Habeas Corpus Act",
+        "correct": false
+      }
+    ],
+    "explanation": "The Bill of Rights 1689 confirmed Parliament's power. It meant the King could not raise taxes or make laws without the consent of Parliament.",
+    "handbook_ref": "Chapter 5 · The development of British democracy",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-DEM-007",
+    "section_id": "CH5-DEM",
+    "type": "single",
+    "stem": "What was a major change made by the Reform Act of 1832?",
+    "options": [
+      {
+        "label": "It gave women the vote",
+        "correct": false
+      },
+      {
+        "label": "It reduced the number of small voting areas",
+        "correct": true
+      },
+      {
+        "label": "It made the voting age 18",
+        "correct": false
+      },
+      {
+        "label": "It gave all men over 18 the vote",
+        "correct": false
+      }
+    ],
+    "explanation": "The 1832 Reform Act increased the number of people who could vote. It also removed 'pocket boroughs', which were areas with very few voters.",
+    "handbook_ref": "Chapter 5 · The development of British democracy",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-DEM-008",
+    "section_id": "CH5-DEM",
+    "type": "single",
+    "stem": "In which year did women in the UK get the same voting rights as men?",
+    "options": [
+      {
+        "label": "1918",
+        "correct": false
+      },
+      {
+        "label": "1928",
+        "correct": true
+      },
+      {
+        "label": "1945",
+        "correct": false
+      },
+      {
+        "label": "1969",
+        "correct": false
+      }
+    ],
+    "explanation": "In 1918, some women got the vote, but they had to wait until 1928 for equal voting rights. Since 1928, all men and women over 21 could vote.",
+    "handbook_ref": "Chapter 5 · The development of British democracy",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-DEM-009",
+    "section_id": "CH5-DEM",
+    "type": "single",
+    "stem": "Who was the leader of the Suffragette movement in the early 20th century?",
+    "options": [
+      {
+        "label": "Florence Nightingale",
+        "correct": false
+      },
+      {
+        "label": "Emmeline Pankhurst",
+        "correct": true
+      },
+      {
+        "label": "Margaret Thatcher",
+        "correct": false
+      },
+      {
+        "label": "Mary Peters",
+        "correct": false
+      }
+    ],
+    "explanation": "Emmeline Pankhurst led the Suffragettes. They were a group of women who campaigned strongly for women's right to vote in the early 1900s.",
+    "handbook_ref": "Chapter 5 · The development of British democracy",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-DEM-010",
+    "section_id": "CH5-DEM",
+    "type": "single",
+    "stem": "Who is responsible for keeping order during political debates in the House of Commons?",
+    "options": [
+      {
+        "label": "The Prime Minister",
+        "correct": false
+      },
+      {
+        "label": "The Speaker",
+        "correct": true
+      },
+      {
+        "label": "The Monarch",
+        "correct": false
+      },
+      {
+        "label": "The Lord Chancellor",
+        "correct": false
+      }
+    ],
+    "explanation": "The Speaker is an MP chosen to be neutral. They stay independent of their party to ensure that all points of view are heard in debates.",
+    "handbook_ref": "Chapter 5 · The development of British democracy",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-DEM-011",
+    "section_id": "CH5-DEM",
+    "type": "single",
+    "stem": "What is a proposed new law called before it is passed by Parliament?",
+    "options": [
+      {
+        "label": "An Act",
+        "correct": false
+      },
+      {
+        "label": "A Bill",
+        "correct": true
+      },
+      {
+        "label": "A Petition",
+        "correct": false
+      },
+      {
+        "label": "A Decree",
+        "correct": false
+      }
+    ],
+    "explanation": "A proposed new law is called a Bill. It must be debated and passed by both the House of Commons and the House of Lords to become an Act.",
+    "handbook_ref": "Chapter 5 · The development of British democracy",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-DEM-012",
+    "section_id": "CH5-DEM",
+    "type": "single",
+    "stem": "Usually, what is the maximum amount of time between general elections in the UK?",
+    "options": [
+      {
+        "label": "Every 3 years",
+        "correct": false
+      },
+      {
+        "label": "Every 4 years",
+        "correct": false
+      },
+      {
+        "label": "Every 5 years",
+        "correct": true
+      },
+      {
+        "label": "Every 10 years",
+        "correct": false
+      }
+    ],
+    "explanation": "General elections for the House of Commons are usually held every five years. The Prime Minister can sometimes choose to hold one earlier.",
+    "handbook_ref": "Chapter 5 · The development of British democracy",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-DEM-013",
+    "section_id": "CH5-DEM",
+    "type": "single",
+    "stem": "What name is given to the group of senior ministers who help the Prime Minister lead the country?",
+    "options": [
+      {
+        "label": "The Civil Service",
+        "correct": false
+      },
+      {
+        "label": "The Cabinet",
+        "correct": true
+      },
+      {
+        "label": "The Assembly",
+        "correct": false
+      },
+      {
+        "label": "The Opposition",
+        "correct": false
+      }
+    ],
+    "explanation": "The Cabinet consists of about 20 senior ministers. Each minister is usually the head of a government department, such as the Home Office.",
+    "handbook_ref": "Chapter 5 · The development of British democracy",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-DEM-014",
+    "section_id": "CH5-DEM",
+    "type": "single",
+    "stem": "What is the main job of a Member of Parliament (MP) in the UK?",
+    "options": [
+      {
+        "label": "To run the local council",
+        "correct": false
+      },
+      {
+        "label": "To represent people in their local area",
+        "correct": true
+      },
+      {
+        "label": "To manage the local police force",
+        "correct": false
+      },
+      {
+        "label": "To judge cases in a court",
+        "correct": false
+      }
+    ],
+    "explanation": "MPs represent every person in their local area, even those who did not vote for them. They handle problems and represent their area in Parliament.",
+    "handbook_ref": "Chapter 5 · The development of British democracy",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-DEM-015",
+    "section_id": "CH5-DEM",
+    "type": "multi",
+    "stem": "Which TWO parts of the UK have their own devolved parliaments or assemblies?",
+    "options": [
+      {
+        "label": "Scotland",
+        "correct": true
+      },
+      {
+        "label": "Wales",
+        "correct": true
+      },
+      {
+        "label": "England",
+        "correct": false
+      },
+      {
+        "label": "London",
+        "correct": false
+      }
+    ],
+    "explanation": "Scotland, Wales, and Northern Ireland have devolved governments. These governments make decisions on local things like education and health.",
+    "handbook_ref": "Chapter 5 · The development of British democracy",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-DEM-016",
+    "section_id": "CH5-DEM",
+    "type": "multi",
+    "stem": "Which TWO of these are the names of the two houses that make up the UK Parliament?",
+    "options": [
+      {
+        "label": "The House of Commons",
+        "correct": true
+      },
+      {
+        "label": "The House of Lords",
+        "correct": true
+      },
+      {
+        "label": "The House of Senators",
+        "correct": false
+      },
+      {
+        "label": "The House of Representatives",
+        "correct": false
+      }
+    ],
+    "explanation": "The UK Parliament has two parts: the House of Commons and the House of Lords. The Commons is elected, and the Lords is mostly appointed.",
+    "handbook_ref": "Chapter 5 · The development of British democracy",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-DEM-019",
+    "section_id": "CH5-DEM",
+    "type": "single",
+    "stem": "The Habeas Corpus Act was passed in 1679. What does this law protect?",
+    "options": [
+      {
+        "label": "The right of the monarch to create new taxes",
+        "correct": false
+      },
+      {
+        "label": "The right of a prisoner to be brought before a court",
+        "correct": true
+      },
+      {
+        "label": "The right of all men over 21 to vote",
+        "correct": false
+      },
+      {
+        "label": "The right of the government to close Parliament",
+        "correct": false
+      }
+    ],
+    "explanation": "This law ensures that no one can be held in prison unlawfully. Every prisoner has the right to go to court to see if their detention is legal.",
+    "handbook_ref": "Chapter 5 · The development of British democracy",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-DEM-020",
+    "section_id": "CH5-DEM",
+    "type": "single",
+    "stem": "What is the name of the voting system used for UK general elections?",
+    "options": [
+      {
+        "label": "Proportional Representation",
+        "correct": false
+      },
+      {
+        "label": "First Past the Post",
+        "correct": true
+      },
+      {
+        "label": "Single Transferable Vote",
+        "correct": false
+      },
+      {
+        "label": "The List System",
+        "correct": false
+      }
+    ],
+    "explanation": "The UK uses the 'First Past the Post' system. The candidate who gets the most votes in their local area (constituency) wins the seat in Parliament.",
+    "handbook_ref": "Chapter 5 · The development of British democracy",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-DEM-021",
+    "section_id": "CH5-DEM",
+    "type": "single",
+    "stem": "What happens if an MP dies or resigns before the next general election?",
+    "options": [
+      {
+        "label": "The seat remains empty until the next general election",
+        "correct": false
+      },
+      {
+        "label": "The Prime Minister chooses a new representative",
+        "correct": false
+      },
+      {
+        "label": "The local council votes for a replacement",
+        "correct": false
+      },
+      {
+        "label": "A by-election is held in that area",
+        "correct": true
+      }
+    ],
+    "explanation": "A by-election is held to find a new representative for that specific area. This ensures the people living there still have a voice in Parliament.",
+    "handbook_ref": "Chapter 5 · The development of British democracy",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-DEM-022",
+    "section_id": "CH5-DEM",
+    "type": "single",
+    "stem": "Which group is formed by the second-largest party in the House of Commons?",
+    "options": [
+      {
+        "label": "The Cabinet",
+        "correct": false
+      },
+      {
+        "label": "The Civil Service",
+        "correct": false
+      },
+      {
+        "label": "The Shadow Cabinet",
+        "correct": true
+      },
+      {
+        "label": "The Privy Council",
+        "correct": false
+      }
+    ],
+    "explanation": "The second-largest party is called the official Opposition. Their leader forms a 'Shadow Cabinet' to monitor and challenge government ministers.",
+    "handbook_ref": "Chapter 5 · The development of British democracy",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-DEM-023",
+    "section_id": "CH5-DEM",
+    "type": "multi",
+    "stem": "Which TWO of these are true about civil servants in the UK?",
+    "options": [
+      {
+        "label": "They are politically neutral",
+        "correct": true
+      },
+      {
+        "label": "They are elected by the public",
+        "correct": false
+      },
+      {
+        "label": "They keep their jobs when the government changes",
+        "correct": true
+      },
+      {
+        "label": "They are members of the House of Lords",
+        "correct": false
+      }
+    ],
+    "explanation": "Civil servants must be neutral and not take sides in politics. They work for the government and keep their jobs even when a new party is elected.",
+    "handbook_ref": "Chapter 5 · The development of British democracy",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-DEM-024",
+    "section_id": "CH5-DEM",
+    "type": "truefalse",
+    "stem": "Most major government departments are led by a senior politician known as a Secretary of State.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "A Secretary of State is a senior minister in the Cabinet. They are responsible for a specific area of work, such as health, education or defence.",
+    "handbook_ref": "Chapter 5 · The development of British democracy",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-DEM-025",
+    "section_id": "CH5-DEM",
+    "type": "single",
+    "stem": "What is the name of the daily record that lists everything said in Parliament?",
+    "options": [
+      {
+        "label": "The Magna Carta",
+        "correct": false
+      },
+      {
+        "label": "Hansard",
+        "correct": true
+      },
+      {
+        "label": "The Bill of Rights",
+        "correct": false
+      },
+      {
+        "label": "The Daily Gazette",
+        "correct": false
+      }
+    ],
+    "explanation": "Hansard is the official report of all debates in the House of Commons and the House of Lords. It can be read online or in libraries.",
+    "handbook_ref": "Chapter 5 · The development of British democracy",
+    "difficulty": 3,
+    "ai_checked": true
   }
 ]

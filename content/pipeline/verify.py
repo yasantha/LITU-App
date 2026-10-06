@@ -23,7 +23,7 @@ from gemini_util import generate_json
 # A different model from the drafting one, so the check is independent.
 DEFAULT_MODEL = "gemini-3.7-flash"
 BATCH = 15
-VERIFY_FALLBACKS = ("gemini-3.5-flash", "gemini-3.1-flash-lite", "gemini-flash-lite-latest")
+VERIFY_FALLBACKS = ("gemini-3.5-flash", "gemini-3.6-flash", "gemini-3-flash-preview", "gemini-flash-latest", "gemini-3.1-flash-lite", "gemini-flash-lite-latest")
 
 
 class Verdict(BaseModel):

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "Q-CH4-TOD-002",
+    "section_id": "CH4-TOD",
+    "type": "truefalse",
+    "stem": "Scotland and Northern Ireland have their own banknotes, which can be used anywhere in the UK.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Banks in Scotland and Northern Ireland print their own banknotes. They are valid everywhere in the UK, although some shops may not accept them.",
+    "handbook_ref": "Chapter 4 · The UK today",
+    "difficulty": 2,
+    "rejected_reason": "The explanation claims the notes are valid everywhere in the UK, but legally they are not legal tender even in their home countries; shops are not obliged to accept them."
+  }
+]

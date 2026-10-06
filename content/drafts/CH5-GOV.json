@@ -24,7 +24,8 @@
     ],
     "explanation": "The Prime Minister lives and works at 10 Downing Street. The Prime Minister also has a country house called Chequers.",
     "handbook_ref": "Chapter 5 · The government",
-    "difficulty": 1
+    "difficulty": 1,
+    "ai_checked": true
   },
   {
     "id": "Q-CH5-GOV-002",
@@ -51,7 +52,8 @@
     ],
     "explanation": "The Chancellor of the Exchequer is responsible for the economy. The Home Secretary deals with crime, policing and immigration.",
     "handbook_ref": "Chapter 5 · The government",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH5-GOV-003",
@@ -78,7 +80,8 @@
     ],
     "explanation": "The second-largest party is the opposition. Its leader is the Leader of the Opposition, who leads a shadow cabinet.",
     "handbook_ref": "Chapter 5 · The government",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH5-GOV-004",
@@ -97,7 +100,8 @@
     ],
     "explanation": "Civil servants carry out government policy. They do not take sides and keep working for the new government after an election.",
     "handbook_ref": "Chapter 5 · The government",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH5-GOV-005",
@@ -124,7 +128,8 @@
     ],
     "explanation": "Hansard is the official report of what is said in Parliament. Anyone can read it, and debates are also broadcast.",
     "handbook_ref": "Chapter 5 · The government",
-    "difficulty": 3
+    "difficulty": 3,
+    "ai_checked": true
   },
   {
     "id": "Q-CH5-GOV-006",
@@ -151,7 +156,8 @@
     ],
     "explanation": "The Northern Ireland Assembly meets at Stormont in Belfast. It has powers over matters such as health and education.",
     "handbook_ref": "Chapter 5 · The government",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH5-GOV-007",
@@ -178,6 +184,695 @@
     ],
     "explanation": "The Scottish Parliament meets at Holyrood in Edinburgh. It can make laws for Scotland on many matters.",
     "handbook_ref": "Chapter 5 · The government",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-GOV-008",
+    "section_id": "CH5-GOV",
+    "type": "single",
+    "stem": "In the United Kingdom, who is the ceremonial head of state?",
+    "options": [
+      {
+        "label": "The Prime Minister",
+        "correct": false
+      },
+      {
+        "label": "The Monarch",
+        "correct": true
+      },
+      {
+        "label": "The Speaker",
+        "correct": false
+      },
+      {
+        "label": "The Lord Chancellor",
+        "correct": false
+      }
+    ],
+    "explanation": "The Monarch is the head of state but does not rule the country. The government is led by the Prime Minister.",
+    "handbook_ref": "Chapter 5 · The government",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-GOV-009",
+    "section_id": "CH5-GOV",
+    "type": "single",
+    "stem": "General elections for the UK Parliament must be held at least every how many years?",
+    "options": [
+      {
+        "label": "3 years",
+        "correct": false
+      },
+      {
+        "label": "4 years",
+        "correct": false
+      },
+      {
+        "label": "5 years",
+        "correct": true
+      },
+      {
+        "label": "10 years",
+        "correct": false
+      }
+    ],
+    "explanation": "General elections for the House of Commons must happen at least every five years. The Prime Minister decides the exact date.",
+    "handbook_ref": "Chapter 5 · The government",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-GOV-010",
+    "section_id": "CH5-GOV",
+    "type": "truefalse",
+    "stem": "To vote in a UK General Election, a person must be at least 18 years old on the day of the election.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "You must be 18 to vote in a General Election. In some parts of the UK, 16-year-olds can vote in local or devolved elections.",
+    "handbook_ref": "Chapter 5 · The government",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-GOV-011",
+    "section_id": "CH5-GOV",
+    "type": "single",
+    "stem": "What is the name of the list that contains the names of everyone who is allowed to vote?",
+    "options": [
+      {
+        "label": "The Census",
+        "correct": false
+      },
+      {
+        "label": "The Electoral Register",
+        "correct": true
+      },
+      {
+        "label": "The National Record",
+        "correct": false
+      },
+      {
+        "label": "The Social Security List",
+        "correct": false
+      }
+    ],
+    "explanation": "The Electoral Register is a list of names of everyone who has signed up to vote. It is updated every year.",
+    "handbook_ref": "Chapter 5 · The government",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-GOV-012",
+    "section_id": "CH5-GOV",
+    "type": "multi",
+    "stem": "Which TWO services are usually provided by local councils?",
+    "options": [
+      {
+        "label": "Fire services",
+        "correct": true
+      },
+      {
+        "label": "National defence",
+        "correct": false
+      },
+      {
+        "label": "Public libraries",
+        "correct": true
+      },
+      {
+        "label": "Foreign policy",
+        "correct": false
+      }
+    ],
+    "explanation": "Local councils provide many everyday services. These include education, social services, and the disposal of rubbish.",
+    "handbook_ref": "Chapter 5 · The government",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-GOV-013",
+    "section_id": "CH5-GOV",
+    "type": "single",
+    "stem": "What is the name given to the group of senior politicians who lead government departments?",
+    "options": [
+      {
+        "label": "The Privy Council",
+        "correct": false
+      },
+      {
+        "label": "The Civil Service",
+        "correct": false
+      },
+      {
+        "label": "The Cabinet",
+        "correct": true
+      },
+      {
+        "label": "The House of Lords",
+        "correct": false
+      }
+    ],
+    "explanation": "The Cabinet is a group of about 20 senior ministers. They make the most important decisions about how the country is run.",
+    "handbook_ref": "Chapter 5 · The government",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-GOV-015",
+    "section_id": "CH5-GOV",
+    "type": "single",
+    "stem": "The UK is one of five permanent members of which international group?",
+    "options": [
+      {
+        "label": "The European Union",
+        "correct": false
+      },
+      {
+        "label": "The UN Security Council",
+        "correct": true
+      },
+      {
+        "label": "NATO",
+        "correct": false
+      },
+      {
+        "label": "The G7",
+        "correct": false
+      }
+    ],
+    "explanation": "The UK is one of five permanent members of the UN Security Council. This group works to keep peace and security in the world.",
+    "handbook_ref": "Chapter 5 · The government",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-GOV-016",
+    "section_id": "CH5-GOV",
+    "type": "truefalse",
+    "stem": "In the UK, every person who is eligible to vote must register to do so individually.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Each person must register themselves to vote. In the past, the head of a household could register everyone living in their home.",
+    "handbook_ref": "Chapter 5 · The government",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-GOV-017",
+    "section_id": "CH5-GOV",
+    "type": "multi",
+    "stem": "Which TWO groups of people are eligible to vote in a UK General Election?",
+    "options": [
+      {
+        "label": "British citizens",
+        "correct": true
+      },
+      {
+        "label": "Any foreign national living in the UK",
+        "correct": false
+      },
+      {
+        "label": "Permanent residents from any country",
+        "correct": false
+      },
+      {
+        "label": "Irish citizens living in the UK",
+        "correct": true
+      }
+    ],
+    "explanation": "To vote in a General Election, you must be a British citizen or a qualifying citizen of Ireland or the Commonwealth.",
+    "handbook_ref": "Chapter 5 · The government",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-GOV-018",
+    "section_id": "CH5-GOV",
+    "type": "single",
+    "stem": "What is the group of senior opposition MPs who monitor the work of government ministers called?",
+    "options": [
+      {
+        "label": "The Backbenchers",
+        "correct": false
+      },
+      {
+        "label": "The Shadow Cabinet",
+        "correct": true
+      },
+      {
+        "label": "The Selection Committee",
+        "correct": false
+      },
+      {
+        "label": "The Speaker's Office",
+        "correct": false
+      }
+    ],
+    "explanation": "The Shadow Cabinet is a group of senior politicians from the main opposition party. They lead the debate against the government.",
+    "handbook_ref": "Chapter 5 · The government",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-GOV-020",
+    "section_id": "CH5-GOV",
+    "type": "single",
+    "stem": "What is the name of the devolved government building in Wales?",
+    "options": [
+      {
+        "label": "The Senedd",
+        "correct": true
+      },
+      {
+        "label": "Holyrood",
+        "correct": false
+      },
+      {
+        "label": "Stormont",
+        "correct": false
+      },
+      {
+        "label": "Westminster",
+        "correct": false
+      }
+    ],
+    "explanation": "The Senedd is the name for the Welsh Parliament. It is located in Cardiff and makes laws for Wales on many local issues.",
+    "handbook_ref": "Chapter 5 · The government",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-GOV-021",
+    "section_id": "CH5-GOV",
+    "type": "single",
+    "stem": "NATO is an international organisation. What is its main purpose?",
+    "options": [
+      {
+        "label": "To promote world trade",
+        "correct": false
+      },
+      {
+        "label": "To protect its members by military means",
+        "correct": true
+      },
+      {
+        "label": "To manage environmental laws",
+        "correct": false
+      },
+      {
+        "label": "To provide medical aid",
+        "correct": false
+      }
+    ],
+    "explanation": "NATO is a group of countries that agree to protect each other if they are attacked. It was formed after the Second World War.",
+    "handbook_ref": "Chapter 5 · The government",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-GOV-022",
+    "section_id": "CH5-GOV",
+    "type": "truefalse",
+    "stem": "When people from political parties visit houses to ask for votes before an election, it is called canvassing.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Canvassing is when party members talk to people on the streets or at their homes. They do this to explain their party's ideas.",
+    "handbook_ref": "Chapter 5 · The government",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-GOV-023",
+    "section_id": "CH5-GOV",
+    "type": "single",
+    "stem": "Who chairs debates in the House of Commons and keeps order?",
+    "options": [
+      {
+        "label": "The Speaker",
+        "correct": true
+      },
+      {
+        "label": "The Prime Minister",
+        "correct": false
+      },
+      {
+        "label": "The Lord Chancellor",
+        "correct": false
+      },
+      {
+        "label": "The Chief Whip",
+        "correct": false
+      }
+    ],
+    "explanation": "The Speaker is an MP chosen by other MPs to chair debates in the House of Commons. The Speaker must remain politically neutral and does not vote.",
+    "handbook_ref": "Chapter 5 · The government",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-GOV-024",
+    "section_id": "CH5-GOV",
+    "type": "single",
+    "stem": "Which statement about the British constitution is correct?",
+    "options": [
+      {
+        "label": "It is not written down in a single document",
+        "correct": true
+      },
+      {
+        "label": "It was written in a single document in 1945",
+        "correct": false
+      },
+      {
+        "label": "It can only be changed by a national referendum",
+        "correct": false
+      },
+      {
+        "label": "It cannot be amended by Parliament",
+        "correct": false
+      }
+    ],
+    "explanation": "The UK constitution is uncodified, meaning it is not set out in a single document. Instead, it is formed of statutes, court judgments, and traditions.",
+    "handbook_ref": "Chapter 5 · The government",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-GOV-026",
+    "section_id": "CH5-GOV",
+    "type": "truefalse",
+    "stem": "In a UK General Election, the voting system used is called first-past-the-post.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Under the first-past-the-post system, the candidate who receives the most votes in each constituency is elected as the Member of Parliament.",
+    "handbook_ref": "Chapter 5 · The government",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-GOV-027",
+    "section_id": "CH5-GOV",
+    "type": "single",
+    "stem": "Which government minister is responsible for policing and national security?",
+    "options": [
+      {
+        "label": "The Home Secretary",
+        "correct": true
+      },
+      {
+        "label": "The Foreign Secretary",
+        "correct": false
+      },
+      {
+        "label": "The Defence Secretary",
+        "correct": false
+      },
+      {
+        "label": "The Justice Secretary",
+        "correct": false
+      }
+    ],
+    "explanation": "The Home Secretary leads the Home Office and is responsible for crime prevention, policing, and national security in the UK.",
+    "handbook_ref": "Chapter 5 · The government",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-GOV-028",
+    "section_id": "CH5-GOV",
+    "type": "multi",
+    "stem": "Which TWO ways can people cast their vote in a UK general election?",
+    "options": [
+      {
+        "label": "In person at a polling station",
+        "correct": true
+      },
+      {
+        "label": "By post",
+        "correct": true
+      },
+      {
+        "label": "By sending a text message",
+        "correct": false
+      },
+      {
+        "label": "By voting on an official website",
+        "correct": false
+      }
+    ],
+    "explanation": "Voters can cast their ballot in person at a polling station, by post, or by proxy by appointing someone to vote on their behalf.",
+    "handbook_ref": "Chapter 5 · The government",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-GOV-030",
+    "section_id": "CH5-GOV",
+    "type": "single",
+    "stem": "Which version of the electoral register can be bought by anyone and used for marketing?",
+    "options": [
+      {
+        "label": "The open register",
+        "correct": true
+      },
+      {
+        "label": "The full register",
+        "correct": false
+      },
+      {
+        "label": "The civic register",
+        "correct": false
+      },
+      {
+        "label": "The national register",
+        "correct": false
+      }
+    ],
+    "explanation": "The open register can be purchased by businesses and individuals for marketing. Voters can ask to have their names excluded from it.",
+    "handbook_ref": "Chapter 5 · The government",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-GOV-031",
+    "section_id": "CH5-GOV",
+    "type": "single",
+    "stem": "Which government minister is responsible for UK relations with foreign countries?",
+    "options": [
+      {
+        "label": "The Foreign Secretary",
+        "correct": true
+      },
+      {
+        "label": "The Home Secretary",
+        "correct": false
+      },
+      {
+        "label": "The International Trade Secretary",
+        "correct": false
+      },
+      {
+        "label": "The Defence Secretary",
+        "correct": false
+      }
+    ],
+    "explanation": "The Foreign Secretary is responsible for managing the UK's relations with other countries and leading the diplomatic service.",
+    "handbook_ref": "Chapter 5 · The government",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-GOV-032",
+    "section_id": "CH5-GOV",
+    "type": "multi",
+    "stem": "Which TWO types of members sit in the House of Lords?",
+    "options": [
+      {
+        "label": "Life peers",
+        "correct": true
+      },
+      {
+        "label": "Hereditary peers",
+        "correct": true
+      },
+      {
+        "label": "Civil servants",
+        "correct": false
+      },
+      {
+        "label": "Local councillors",
+        "correct": false
+      }
+    ],
+    "explanation": "The House of Lords is made up of life peers, hereditary peers, and senior Church of England bishops. Members are not elected.",
+    "handbook_ref": "Chapter 5 · The government",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-GOV-033",
+    "section_id": "CH5-GOV",
+    "type": "truefalse",
+    "stem": "The 1998 Good Friday Agreement led to the creation of the Northern Ireland Assembly.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "The Northern Ireland Assembly was created following the Good Friday Agreement in 1998 to provide power-sharing between communities.",
+    "handbook_ref": "Chapter 5 · The government",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-GOV-034",
+    "section_id": "CH5-GOV",
+    "type": "single",
+    "stem": "Which area of policy has been devolved to the Welsh government?",
+    "options": [
+      {
+        "label": "Education and health",
+        "correct": true
+      },
+      {
+        "label": "Defence and armed forces",
+        "correct": false
+      },
+      {
+        "label": "Immigration control",
+        "correct": false
+      },
+      {
+        "label": "Foreign affairs",
+        "correct": false
+      }
+    ],
+    "explanation": "The Welsh government has powers over areas such as education, health, and transport, while defence and foreign policy remain with the UK government.",
+    "handbook_ref": "Chapter 5 · The government",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-GOV-035",
+    "section_id": "CH5-GOV",
+    "type": "single",
+    "stem": "Who does the monarch appoint as Prime Minister after a General Election?",
+    "options": [
+      {
+        "label": "The leader of the party that wins the most seats",
+        "correct": true
+      },
+      {
+        "label": "The longest-serving Member of Parliament",
+        "correct": false
+      },
+      {
+        "label": "The candidate who received the most public votes",
+        "correct": false
+      },
+      {
+        "label": "A senior politician chosen by the House of Lords",
+        "correct": false
+      }
+    ],
+    "explanation": "The monarch invites the leader of the political party that commands a majority in the House of Commons to form a government as Prime Minister.",
+    "handbook_ref": "Chapter 5 · The government",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-GOV-036",
+    "section_id": "CH5-GOV",
+    "type": "single",
+    "stem": "At which stage of a bill is it examined in detail by a committee of MPs?",
+    "options": [
+      {
+        "label": "The committee stage",
+        "correct": true
+      },
+      {
+        "label": "The first reading",
+        "correct": false
+      },
+      {
+        "label": "The second reading",
+        "correct": false
+      },
+      {
+        "label": "The Royal Assent",
+        "correct": false
+      }
+    ],
+    "explanation": "During the committee stage, a bill is examined line by line by a committee of MPs, and changes called amendments can be suggested.",
+    "handbook_ref": "Chapter 5 · The government",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-GOV-037",
+    "section_id": "CH5-GOV",
+    "type": "single",
+    "stem": "What are the MPs who make sure members of their party attend votes called?",
+    "options": [
+      {
+        "label": "Whips",
+        "correct": true
+      },
+      {
+        "label": "Ushers",
+        "correct": false
+      },
+      {
+        "label": "Clerks",
+        "correct": false
+      },
+      {
+        "label": "Serjeants",
+        "correct": false
+      }
+    ],
+    "explanation": "Whips are MPs or peers chosen by their party to organise voting and make sure that party members turn up and vote with their leadership.",
+    "handbook_ref": "Chapter 5 · The government",
+    "difficulty": 3,
+    "ai_checked": true
   }
 ]

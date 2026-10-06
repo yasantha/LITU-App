@@ -24,7 +24,8 @@
     ],
     "explanation": "The test has 24 multiple-choice questions and you have 45 minutes to answer them.",
     "handbook_ref": "Chapter 1 · Taking the Life in the UK test",
-    "difficulty": 1
+    "difficulty": 1,
+    "ai_checked": true
   },
   {
     "id": "Q-CH1-TST-002",
@@ -43,6 +44,7 @@
     ],
     "explanation": "The pass mark is 75%, which means at least 18 of the 24 questions must be right.",
     "handbook_ref": "Chapter 1 · Taking the Life in the UK test",
-    "difficulty": 1
+    "difficulty": 1,
+    "ai_checked": true
   }
 ]

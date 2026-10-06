@@ -1,0 +1,44 @@
+[
+  {
+    "id": "Q-CH5-DEM-017",
+    "section_id": "CH5-DEM",
+    "type": "truefalse",
+    "stem": "Members of the House of Lords are elected by the public in a general election.",
+    "options": [
+      {
+        "label": "True",
+        "correct": false
+      },
+      {
+        "label": "False",
+        "correct": true
+      }
+    ],
+    "explanation": "Most members of the House of Lords are appointed by the monarch. They are not elected by the public, unlike Members of Parliament.",
+    "handbook_ref": "Chapter 5 · The development of British democracy",
+    "difficulty": 1,
+    "ai_checked": true,
+    "rejected_reason": "Duplicate of Q-CH5-CON-022"
+  },
+  {
+    "id": "Q-CH5-DEM-018",
+    "section_id": "CH5-DEM",
+    "type": "truefalse",
+    "stem": "In 1918, women over the age of 30 were given the right to vote.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "The 1918 Act gave women over 30 the right to vote if they met certain property criteria. At the same time, all men over 21 were also given the vote.",
+    "handbook_ref": "Chapter 5 · The development of British democracy",
+    "difficulty": 2,
+    "ai_checked": true,
+    "rejected_reason": "Duplicate of Q-CH3-C20-014"
+  }
+]

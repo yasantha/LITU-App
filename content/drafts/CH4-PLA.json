@@ -24,7 +24,8 @@
     ],
     "explanation": "Big Ben is the nickname of the great bell in the clock tower at the Houses of Parliament. The tower was named Elizabeth Tower in 2012.",
     "handbook_ref": "Chapter 4 · Places of interest",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH4-PLA-002",
@@ -51,7 +52,8 @@
     ],
     "explanation": "The Eden Project in Cornwall has large domes holding plants from around the world. It is also an educational charity.",
     "handbook_ref": "Chapter 4 · Places of interest",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH4-PLA-003",
@@ -78,7 +80,8 @@
     ],
     "explanation": "The Giant's Causeway is on the north-east coast of Northern Ireland. It is made of thousands of six-sided rock columns.",
     "handbook_ref": "Chapter 4 · Places of interest",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH4-PLA-004",
@@ -105,7 +108,8 @@
     ],
     "explanation": "The Lake District is England's largest national park. Windermere is England's largest lake.",
     "handbook_ref": "Chapter 4 · Places of interest",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH4-PLA-005",
@@ -132,7 +136,8 @@
     ],
     "explanation": "Snowdon, also called Yr Wyddfa, is the highest mountain in Wales. Ben Nevis in Scotland is the highest in the UK.",
     "handbook_ref": "Chapter 4 · Places of interest",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH4-PLA-006",
@@ -159,7 +164,8 @@
     ],
     "explanation": "Loch Lomond is in Scotland. It is part of the Loch Lomond and the Trossachs National Park.",
     "handbook_ref": "Chapter 4 · Places of interest",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH4-PLA-007",
@@ -178,6 +184,7 @@
     ],
     "explanation": "The London Eye opened to mark the year 2000. From the top, visitors can see across much of London.",
     "handbook_ref": "Chapter 4 · Places of interest",
-    "difficulty": 1
+    "difficulty": 1,
+    "ai_checked": true
   }
 ]

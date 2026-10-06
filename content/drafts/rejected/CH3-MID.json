@@ -1,0 +1,22 @@
+[
+  {
+    "id": "Q-CH3-MID-031",
+    "section_id": "CH3-MID",
+    "type": "truefalse",
+    "stem": "King Richard I, known as the Lionheart, spent most of his time fighting in the Crusades abroad.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Richard I was one of the most famous kings of the Middle Ages. He is known for fighting in the Crusades, and he spent very little time in England.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2,
+    "rejected_reason": "The handbook states that Richard I spent most of his reign fighting abroad (in the Crusades or in France), not spent most of his time fighting in the Crusades."
+  }
+]

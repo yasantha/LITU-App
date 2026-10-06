@@ -14,6 +14,7 @@ Claude needs ANTHROPIC_API_KEY. The model is open decision 3 in the spec; overri
 from __future__ import annotations
 
 import argparse
+import json
 import sys
 from typing import Literal
 
@@ -47,7 +48,7 @@ class DraftBatch(BaseModel):
 def draft_with_gemini(model: str, system: str, user: str) -> DraftBatch:
     from gemini_util import generate_json
 
-    return generate_json(model, system, user, DraftBatch, fallbacks=("gemini-3.6-flash", "gemini-3.5-flash", "gemini-3-flash-preview"))
+    return generate_json(model, system, user, DraftBatch, fallbacks=("gemini-3.6-flash", "gemini-3.7-flash", "gemini-3.5-flash", "gemini-3-flash-preview", "gemini-flash-latest"))
 
 
 def draft_with_claude(model: str, system: str, user: str) -> DraftBatch:
@@ -81,6 +82,7 @@ def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--section", required=True, help="section ID, e.g. CH3-TUD")
     ap.add_argument("--count", type=int, default=40)
+    ap.add_argument("--focus", help="JSON list of facts the new questions must test (from coverage.py)")
     ap.add_argument("--provider", choices=sorted(DEFAULT_MODELS), default="gemini")
     ap.add_argument("--model", help="defaults to gemini-3.8-flash or claude-opus-5-5")
     args = ap.parse_args()
@@ -92,6 +94,9 @@ def main() -> int:
 
     all_drafts = load_drafts()
     existing = [d for d in all_drafts if d["section_id"] == args.section]
+    # Facts often belong to two sections, so show the whole chapter to avoid cross-section repeats.
+    chapter_prefix = args.section.split("-")[0] + "-"
+    nearby = [d for d in all_drafts if d["section_id"].startswith(chapter_prefix) and d["section_id"] != args.section]
     review = load_review()
     feedback = [
         f"- {r['stem']} -> {r['Reviewer note']}"
@@ -103,9 +108,13 @@ def main() -> int:
     user = "\n".join([
         f"Handbook section: {handbook_ref(section)}",
         f"Write {args.count} new questions for this section, mixing about 70% single, 15% multi and 15% truefalse.",
+        *(["", "Each new question must test one of these facts, which no question covers yet:",
+           *(f"- {f}" for f in json.loads(args.focus))] if args.focus else []),
         "",
         "Existing questions (do not repeat these facts):",
         *(f"- {d['stem']}" for d in existing),
+        *(["", "Questions in other sections of this chapter (do not repeat these facts either):",
+           *(f"- {d['stem']}" for d in nearby)] if nearby else []),
         *(["", "The reviewer rejected these questions. Learn from the notes:", *feedback] if feedback else []),
     ])
 

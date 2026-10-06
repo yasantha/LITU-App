@@ -24,7 +24,8 @@
     ],
     "explanation": "Boxing Day is the day after Christmas Day, 26 December. It is a public holiday.",
     "handbook_ref": "Chapter 4 · Customs and traditions",
-    "difficulty": 1
+    "difficulty": 1,
+    "ai_checked": true
   },
   {
     "id": "Q-CH4-CUS-002",
@@ -51,7 +52,8 @@
     ],
     "explanation": "In Scotland, 31 December is called Hogmanay. For some Scottish people it is a bigger celebration than Christmas.",
     "handbook_ref": "Chapter 4 · Customs and traditions",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH4-CUS-003",
@@ -78,7 +80,8 @@
     ],
     "explanation": "In 1605 a group of Catholics, including Guy Fawkes, tried to blow up the Houses of Parliament. People mark this with fireworks and bonfires.",
     "handbook_ref": "Chapter 4 · Customs and traditions",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH4-CUS-004",
@@ -105,7 +108,8 @@
     ],
     "explanation": "Remembrance Day is 11 November. People wear red poppies to remember those who died fighting for the UK and its allies.",
     "handbook_ref": "Chapter 4 · Customs and traditions",
-    "difficulty": 1
+    "difficulty": 1,
+    "ai_checked": true
   },
   {
     "id": "Q-CH4-CUS-005",
@@ -132,7 +136,8 @@
     ],
     "explanation": "On Valentine's Day, 14 February, people send cards or gifts to someone they love.",
     "handbook_ref": "Chapter 4 · Customs and traditions",
-    "difficulty": 1
+    "difficulty": 1,
+    "ai_checked": true
   },
   {
     "id": "Q-CH4-CUS-006",
@@ -151,7 +156,8 @@
     ],
     "explanation": "April Fool's Day is on 1 April. People play jokes on each other, but only until midday.",
     "handbook_ref": "Chapter 4 · Customs and traditions",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH4-CUS-007",
@@ -178,7 +184,8 @@
     ],
     "explanation": "Christmas celebrates the birth of Jesus and Easter remembers his death and resurrection. Diwali is a Hindu and Sikh festival and Hanukkah is Jewish.",
     "handbook_ref": "Chapter 4 · Customs and traditions",
-    "difficulty": 1
+    "difficulty": 1,
+    "ai_checked": true
   },
   {
     "id": "Q-CH4-CUS-008",
@@ -205,6 +212,7 @@
     ],
     "explanation": "Halloween is on 31 October. Children often dress up and go 'trick or treating'.",
     "handbook_ref": "Chapter 4 · Customs and traditions",
-    "difficulty": 1
+    "difficulty": 1,
+    "ai_checked": true
   }
 ]

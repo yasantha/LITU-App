@@ -1,0 +1,30 @@
+[
+  {
+    "id": "Q-CH3-GLO-058",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "In 1870, a major new law was passed in England and Wales to make sure all children could do what?",
+    "options": [
+      {
+        "label": "Receive a basic education",
+        "correct": true
+      },
+      {
+        "label": "Work in factories safely",
+        "correct": false
+      },
+      {
+        "label": "Leave home at age twelve",
+        "correct": false
+      },
+      {
+        "label": "Vote in local elections",
+        "correct": false
+      }
+    ],
+    "explanation": "The Education Act of 1870 established a system of free, compulsory elementary education for all children in England and Wales.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 2,
+    "rejected_reason": "The explanation contains a historical error. The Education Act of 1870 did not make elementary education free or compulsory; compulsory attendance was introduced in 1880, and fees were abolished in 1891."
+  }
+]

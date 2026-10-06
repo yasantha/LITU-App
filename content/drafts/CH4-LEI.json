@@ -24,7 +24,8 @@
     ],
     "explanation": "Haggis is a traditional Scottish dish made from sheep's stomach stuffed with offal, oats and spices. It is often eaten on Burns Night.",
     "handbook_ref": "Chapter 4 · Leisure",
-    "difficulty": 1
+    "difficulty": 1,
+    "ai_checked": true
   },
   {
     "id": "Q-CH4-LEI-002",
@@ -51,7 +52,8 @@
     ],
     "explanation": "Roast beef, often served with Yorkshire pudding made from batter, is a traditional English meal.",
     "handbook_ref": "Chapter 4 · Leisure",
-    "difficulty": 1
+    "difficulty": 1,
+    "ai_checked": true
   },
   {
     "id": "Q-CH4-LEI-003",
@@ -70,7 +72,8 @@
     ],
     "explanation": "A TV licence is needed to watch or record live TV on any device, including a computer or phone. The money helps pay for the BBC.",
     "handbook_ref": "Chapter 4 · Leisure",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH4-LEI-004",
@@ -97,6 +100,7 @@
     ],
     "explanation": "National parks are areas of protected countryside. They are open to everyone for walking, camping and other activities.",
     "handbook_ref": "Chapter 4 · Leisure",
-    "difficulty": 1
+    "difficulty": 1,
+    "ai_checked": true
   }
 ]

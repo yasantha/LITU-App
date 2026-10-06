@@ -16,7 +16,8 @@
     ],
     "explanation": "The UK constitution is not written in one document, so it is often called 'unwritten'. It comes from laws, conventions and court decisions.",
     "handbook_ref": "Chapter 5 · The British constitution",
-    "difficulty": 1
+    "difficulty": 1,
+    "ai_checked": true
   },
   {
     "id": "Q-CH5-CON-002",
@@ -43,7 +44,8 @@
     ],
     "explanation": "In a constitutional monarchy the king or queen does not rule the country. The elected government makes decisions.",
     "handbook_ref": "Chapter 5 · The British constitution",
-    "difficulty": 1
+    "difficulty": 1,
+    "ai_checked": true
   },
   {
     "id": "Q-CH5-CON-003",
@@ -70,7 +72,8 @@
     ],
     "explanation": "The monarch is the head of state. The Prime Minister is the head of the government.",
     "handbook_ref": "Chapter 5 · The British constitution",
-    "difficulty": 1
+    "difficulty": 1,
+    "ai_checked": true
   },
   {
     "id": "Q-CH5-CON-004",
@@ -97,7 +100,8 @@
     ],
     "explanation": "The Speaker is an MP chosen by other MPs. The Speaker chairs debates, keeps order and does not take sides.",
     "handbook_ref": "Chapter 5 · The British constitution",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
   },
   {
     "id": "Q-CH5-CON-005",
@@ -124,34 +128,8 @@
     ],
     "explanation": "The House of Commons is made up of MPs elected by voters in their constituencies. It is the more important of the two Houses.",
     "handbook_ref": "Chapter 5 · The British constitution",
-    "difficulty": 1
-  },
-  {
-    "id": "Q-CH5-CON-006",
-    "section_id": "CH5-CON",
-    "type": "multi",
-    "stem": "Which TWO kinds of member sit in the House of Lords?",
-    "options": [
-      {
-        "label": "Life peers",
-        "correct": true
-      },
-      {
-        "label": "Senior bishops of the Church of England",
-        "correct": true
-      },
-      {
-        "label": "Elected MPs",
-        "correct": false
-      },
-      {
-        "label": "Local councillors",
-        "correct": false
-      }
-    ],
-    "explanation": "Members of the House of Lords are not elected. They include life peers, some hereditary peers and senior bishops of the Church of England.",
-    "handbook_ref": "Chapter 5 · The British constitution",
-    "difficulty": 2
+    "difficulty": 1,
+    "ai_checked": true
   },
   {
     "id": "Q-CH5-CON-007",
@@ -178,6 +156,779 @@
     ],
     "explanation": "A general election must be held at least every five years. MPs are elected in every constituency.",
     "handbook_ref": "Chapter 5 · The British constitution",
-    "difficulty": 2
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-CON-008",
+    "section_id": "CH5-CON",
+    "type": "single",
+    "stem": "When a new law is being discussed in Parliament, what is it called before it is passed?",
+    "options": [
+      {
+        "label": "A Bill",
+        "correct": true
+      },
+      {
+        "label": "A Decree",
+        "correct": false
+      },
+      {
+        "label": "A Petition",
+        "correct": false
+      },
+      {
+        "label": "A Charter",
+        "correct": false
+      }
+    ],
+    "explanation": "A Bill is a proposed law. After it is passed by Parliament and given Royal Assent, it becomes an Act of Parliament.",
+    "handbook_ref": "Chapter 5 · The British constitution",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-CON-009",
+    "section_id": "CH5-CON",
+    "type": "single",
+    "stem": "What is the group of senior ministers who help the Prime Minister make important decisions?",
+    "options": [
+      {
+        "label": "The Cabinet",
+        "correct": true
+      },
+      {
+        "label": "The Assembly",
+        "correct": false
+      },
+      {
+        "label": "The Council",
+        "correct": false
+      },
+      {
+        "label": "The Senate",
+        "correct": false
+      }
+    ],
+    "explanation": "The Cabinet consists of about 20 senior ministers. They lead government departments and discuss important policies.",
+    "handbook_ref": "Chapter 5 · The British constitution",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-CON-010",
+    "section_id": "CH5-CON",
+    "type": "multi",
+    "stem": "Which TWO are the main chambers of the UK Parliament?",
+    "options": [
+      {
+        "label": "House of Commons",
+        "correct": true
+      },
+      {
+        "label": "House of Lords",
+        "correct": true
+      },
+      {
+        "label": "House of Representatives",
+        "correct": false
+      },
+      {
+        "label": "House of Assembly",
+        "correct": false
+      }
+    ],
+    "explanation": "The UK Parliament is made up of the House of Commons, the House of Lords, and the Monarch. Both houses must usually agree on a law.",
+    "handbook_ref": "Chapter 5 · The British constitution",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-CON-011",
+    "section_id": "CH5-CON",
+    "type": "truefalse",
+    "stem": "Judges in the UK are independent of the government and should not be influenced by politicians.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Judges are not politicians and cannot be dismissed by the government because of their decisions. This keeps the legal system fair.",
+    "handbook_ref": "Chapter 5 · The British constitution",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-CON-012",
+    "section_id": "CH5-CON",
+    "type": "single",
+    "stem": "Who is the leader of the political party with the second-largest number of seats in the House of Commons?",
+    "options": [
+      {
+        "label": "The Leader of the Opposition",
+        "correct": true
+      },
+      {
+        "label": "The Deputy Prime Minister",
+        "correct": false
+      },
+      {
+        "label": "The Lord Speaker",
+        "correct": false
+      },
+      {
+        "label": "The Home Secretary",
+        "correct": false
+      }
+    ],
+    "explanation": "The Leader of the Opposition leads the second-largest party. Their role is to challenge and question the government's work.",
+    "handbook_ref": "Chapter 5 · The British constitution",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-CON-013",
+    "section_id": "CH5-CON",
+    "type": "single",
+    "stem": "What is the main responsibility of the \"executive\" branch of the UK government?",
+    "options": [
+      {
+        "label": "Carrying out the laws",
+        "correct": true
+      },
+      {
+        "label": "Making the laws",
+        "correct": false
+      },
+      {
+        "label": "Interpreting the laws",
+        "correct": false
+      },
+      {
+        "label": "Running the court system",
+        "correct": false
+      }
+    ],
+    "explanation": "The executive is the branch of government that carries out policies. This includes the Prime Minister and their Cabinet.",
+    "handbook_ref": "Chapter 5 · The British constitution",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-CON-014",
+    "section_id": "CH5-CON",
+    "type": "single",
+    "stem": "Who appoints the Prime Minister?",
+    "options": [
+      {
+        "label": "The Monarch",
+        "correct": true
+      },
+      {
+        "label": "The House of Commons",
+        "correct": false
+      },
+      {
+        "label": "The voters",
+        "correct": false
+      },
+      {
+        "label": "The House of Lords",
+        "correct": false
+      }
+    ],
+    "explanation": "After a general election, the Monarch asks the leader of the party with the most members in the House of Commons to form a government.",
+    "handbook_ref": "Chapter 5 · The British constitution",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-CON-015",
+    "section_id": "CH5-CON",
+    "type": "multi",
+    "stem": "Which TWO of the following sit in the House of Lords?",
+    "options": [
+      {
+        "label": "Hereditary peers",
+        "correct": true
+      },
+      {
+        "label": "Life peers",
+        "correct": true
+      },
+      {
+        "label": "Members of Parliament (MPs)",
+        "correct": false
+      },
+      {
+        "label": "Local councillors",
+        "correct": false
+      }
+    ],
+    "explanation": "Life peers are chosen for their experience and stay for life. Hereditary peers are members who inherited their title from their family.",
+    "handbook_ref": "Chapter 5 · The British constitution",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-CON-016",
+    "section_id": "CH5-CON",
+    "type": "truefalse",
+    "stem": "The Prime Minister is the person who leads the government.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "The Prime Minister is the head of the government. The Monarch is the head of state but does not have political power.",
+    "handbook_ref": "Chapter 5 · The British constitution",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-CON-017",
+    "section_id": "CH5-CON",
+    "type": "single",
+    "stem": "What are the senior members of the main opposition party called when they mirror the roles of government ministers?",
+    "options": [
+      {
+        "label": "The Shadow Cabinet",
+        "correct": true
+      },
+      {
+        "label": "The High Court",
+        "correct": false
+      },
+      {
+        "label": "The Civil Service",
+        "correct": false
+      },
+      {
+        "label": "The Privy Council",
+        "correct": false
+      }
+    ],
+    "explanation": "Members of the Shadow Cabinet look at the work of government ministers. They propose different ideas and policies for their party.",
+    "handbook_ref": "Chapter 5 · The British constitution",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-CON-018",
+    "section_id": "CH5-CON",
+    "type": "single",
+    "stem": "What must happen before a bill can become an Act of Parliament?",
+    "options": [
+      {
+        "label": "It must get Royal Assent",
+        "correct": true
+      },
+      {
+        "label": "It must be signed by the public",
+        "correct": false
+      },
+      {
+        "label": "It must be approved by the UN",
+        "correct": false
+      },
+      {
+        "label": "It must be reviewed by judges",
+        "correct": false
+      }
+    ],
+    "explanation": "Royal Assent is when the Monarch formally agrees to a bill. This is now a formality and the Monarch does not refuse to sign.",
+    "handbook_ref": "Chapter 5 · The British constitution",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-CON-019",
+    "section_id": "CH5-CON",
+    "type": "single",
+    "stem": "Who works for the government but remains neutral and does not change when a new party is elected?",
+    "options": [
+      {
+        "label": "Civil servants",
+        "correct": true
+      },
+      {
+        "label": "Cabinet ministers",
+        "correct": false
+      },
+      {
+        "label": "Members of Parliament",
+        "correct": false
+      },
+      {
+        "label": "Local councillors",
+        "correct": false
+      }
+    ],
+    "explanation": "Civil servants are permanent staff who help the government. They must be politically neutral and give honest advice to ministers.",
+    "handbook_ref": "Chapter 5 · The British constitution",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-CON-020",
+    "section_id": "CH5-CON",
+    "type": "single",
+    "stem": "What does \"Parliamentary Sovereignty\" mean?",
+    "options": [
+      {
+        "label": "Parliament has the power to make any law",
+        "correct": true
+      },
+      {
+        "label": "The Monarch makes the laws",
+        "correct": false
+      },
+      {
+        "label": "The Prime Minister is above the law",
+        "correct": false
+      },
+      {
+        "label": "Only judges can change laws",
+        "correct": false
+      }
+    ],
+    "explanation": "Parliamentary Sovereignty means Parliament is the highest legal authority. It can pass or change any law it chooses.",
+    "handbook_ref": "Chapter 5 · The British constitution",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-CON-021",
+    "section_id": "CH5-CON",
+    "type": "single",
+    "stem": "Where do the most senior members of the Church of England sit in the UK Parliament?",
+    "options": [
+      {
+        "label": "The House of Lords",
+        "correct": true
+      },
+      {
+        "label": "The House of Commons",
+        "correct": false
+      },
+      {
+        "label": "The Supreme Court",
+        "correct": false
+      },
+      {
+        "label": "The Cabinet",
+        "correct": false
+      }
+    ],
+    "explanation": "Some senior bishops and archbishops of the Church of England sit in the House of Lords. They are known as the Lords Spiritual.",
+    "handbook_ref": "Chapter 5 · The British constitution",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-CON-022",
+    "section_id": "CH5-CON",
+    "type": "truefalse",
+    "stem": "Members of the House of Lords are elected by the public in a general election.",
+    "options": [
+      {
+        "label": "True",
+        "correct": false
+      },
+      {
+        "label": "False",
+        "correct": true
+      }
+    ],
+    "explanation": "Members of the House of Lords are appointed or inherited, not elected. Only members of the House of Commons are elected by the public.",
+    "handbook_ref": "Chapter 5 · The British constitution",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-CON-023",
+    "section_id": "CH5-CON",
+    "type": "single",
+    "stem": "Which of these sources forms part of the unwritten UK constitution?",
+    "options": [
+      {
+        "label": "Acts of Parliament",
+        "correct": true
+      },
+      {
+        "label": "A single written constitution document",
+        "correct": false
+      },
+      {
+        "label": "Rules set by local councils",
+        "correct": false
+      },
+      {
+        "label": "Treaties signed by foreign mayors",
+        "correct": false
+      }
+    ],
+    "explanation": "The UK constitution comes from several sources, including Acts of Parliament, common law, and unwritten conventions. It is not written in a single document.",
+    "handbook_ref": "Chapter 5 · The British constitution",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-CON-024",
+    "section_id": "CH5-CON",
+    "type": "single",
+    "stem": "What happens during the annual State Opening of Parliament?",
+    "options": [
+      {
+        "label": "The monarch reads a speech written by the government",
+        "correct": true
+      },
+      {
+        "label": "Members of Parliament elect a new Prime Minister",
+        "correct": false
+      },
+      {
+        "label": "Judges explain new legal decisions to the public",
+        "correct": false
+      },
+      {
+        "label": "Citizens vote on proposed laws for the coming year",
+        "correct": false
+      }
+    ],
+    "explanation": "At the State Opening of Parliament, the monarch reads the King's or Queen's Speech. This speech outlines the government's plans and proposed laws for the upcoming session.",
+    "handbook_ref": "Chapter 5 · The British constitution",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-CON-025",
+    "section_id": "CH5-CON",
+    "type": "single",
+    "stem": "Where is the Scottish Parliament located?",
+    "options": [
+      {
+        "label": "Edinburgh",
+        "correct": true
+      },
+      {
+        "label": "Glasgow",
+        "correct": false
+      },
+      {
+        "label": "Aberdeen",
+        "correct": false
+      },
+      {
+        "label": "Dundee",
+        "correct": false
+      }
+    ],
+    "explanation": "The Scottish Parliament is located in Holyrood, Edinburgh. It was established in 1999 to make laws on devolved matters for Scotland.",
+    "handbook_ref": "Chapter 5 · The British constitution",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-CON-026",
+    "section_id": "CH5-CON",
+    "type": "multi",
+    "stem": "Which TWO of the following are devolved matters managed by devolved administrations?",
+    "options": [
+      {
+        "label": "Education",
+        "correct": true
+      },
+      {
+        "label": "Health services",
+        "correct": true
+      },
+      {
+        "label": "National defence",
+        "correct": false
+      },
+      {
+        "label": "Foreign relations",
+        "correct": false
+      }
+    ],
+    "explanation": "Education and health services are devolved matters managed separately in Scotland, Wales, and Northern Ireland. Defence and foreign affairs remain the responsibility of the UK government.",
+    "handbook_ref": "Chapter 5 · The British constitution",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-CON-027",
+    "section_id": "CH5-CON",
+    "type": "single",
+    "stem": "What is the Welsh name for the Welsh Parliament?",
+    "options": [
+      {
+        "label": "Senedd",
+        "correct": true
+      },
+      {
+        "label": "Stormont",
+        "correct": false
+      },
+      {
+        "label": "Holyrood",
+        "correct": false
+      },
+      {
+        "label": "Whitehall",
+        "correct": false
+      }
+    ],
+    "explanation": "The Welsh Parliament is known as the Senedd. It meets in Cardiff Bay and passes laws for Wales on devolved matters.",
+    "handbook_ref": "Chapter 5 · The British constitution",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-CON-028",
+    "section_id": "CH5-CON",
+    "type": "single",
+    "stem": "In which city does the Northern Ireland Assembly meet?",
+    "options": [
+      {
+        "label": "Belfast",
+        "correct": true
+      },
+      {
+        "label": "Londonderry",
+        "correct": false
+      },
+      {
+        "label": "Armagh",
+        "correct": false
+      },
+      {
+        "label": "Newry",
+        "correct": false
+      }
+    ],
+    "explanation": "The Northern Ireland Assembly meets at Stormont in Belfast. It makes decisions on devolved local issues in Northern Ireland.",
+    "handbook_ref": "Chapter 5 · The British constitution",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-CON-029",
+    "section_id": "CH5-CON",
+    "type": "truefalse",
+    "stem": "Foreign policy and national defence are reserved to the UK Parliament in London.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Reserved matters like foreign policy, defence, and main taxes affect the whole UK and are decided only by the UK Parliament in London.",
+    "handbook_ref": "Chapter 5 · The British constitution",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-CON-031",
+    "section_id": "CH5-CON",
+    "type": "truefalse",
+    "stem": "Members of the House of Lords are permitted to vote in UK general elections.",
+    "options": [
+      {
+        "label": "True",
+        "correct": false
+      },
+      {
+        "label": "False",
+        "correct": true
+      }
+    ],
+    "explanation": "Members of the House of Lords are not allowed to vote in UK general elections. Members of the armed forces and citizens aged 18 or over can vote if registered.",
+    "handbook_ref": "Chapter 5 · The British constitution",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-CON-032",
+    "section_id": "CH5-CON",
+    "type": "single",
+    "stem": "What must a person be registered on to vote in a UK official election?",
+    "options": [
+      {
+        "label": "The electoral register",
+        "correct": true
+      },
+      {
+        "label": "The national tax database",
+        "correct": false
+      },
+      {
+        "label": "The census index",
+        "correct": false
+      },
+      {
+        "label": "The civil service roll",
+        "correct": false
+      }
+    ],
+    "explanation": "To vote in any election in the UK, your name must be on the electoral register. You can register online or by post.",
+    "handbook_ref": "Chapter 5 · The British constitution",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-CON-033",
+    "section_id": "CH5-CON",
+    "type": "single",
+    "stem": "What is it called when an elector appoints someone else to cast their vote?",
+    "options": [
+      {
+        "label": "Voting by proxy",
+        "correct": true
+      },
+      {
+        "label": "Voting by shadow",
+        "correct": false
+      },
+      {
+        "label": "Voting by cabinet",
+        "correct": false
+      },
+      {
+        "label": "Voting by motion",
+        "correct": false
+      }
+    ],
+    "explanation": "If you cannot vote in person, you can apply for a proxy vote, which allows a named person to vote for you. You can also apply for a postal vote.",
+    "handbook_ref": "Chapter 5 · The British constitution",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-CON-034",
+    "section_id": "CH5-CON",
+    "type": "single",
+    "stem": "Which of these local services is the responsibility of local government councils?",
+    "options": [
+      {
+        "label": "Collecting household rubbish",
+        "correct": true
+      },
+      {
+        "label": "Controlling national defence",
+        "correct": false
+      },
+      {
+        "label": "Issuing British passports",
+        "correct": false
+      },
+      {
+        "label": "Setting national income tax rates",
+        "correct": false
+      }
+    ],
+    "explanation": "Local government councils look after local services such as collecting household waste, maintaining local roads, and managing local parks.",
+    "handbook_ref": "Chapter 5 · The British constitution",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-CON-035",
+    "section_id": "CH5-CON",
+    "type": "multi",
+    "stem": "Which TWO of the following are examples of pressure groups that try to influence policy?",
+    "options": [
+      {
+        "label": "Trade unions",
+        "correct": true
+      },
+      {
+        "label": "Environmental charities",
+        "correct": true
+      },
+      {
+        "label": "County courts",
+        "correct": false
+      },
+      {
+        "label": "Government departments",
+        "correct": false
+      }
+    ],
+    "explanation": "Pressure groups are organisations that try to influence government policy and decisions. Examples include trade unions, business groups, and environmental charities.",
+    "handbook_ref": "Chapter 5 · The British constitution",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-CON-037",
+    "section_id": "CH5-CON",
+    "type": "single",
+    "stem": "Which law incorporated the European Convention on Human Rights into UK law?",
+    "options": [
+      {
+        "label": "The Human Rights Act 1998",
+        "correct": true
+      },
+      {
+        "label": "The Equality Act 2010",
+        "correct": false
+      },
+      {
+        "label": "The Bill of Rights 1689",
+        "correct": false
+      },
+      {
+        "label": "The Magna Carta 1215",
+        "correct": false
+      }
+    ],
+    "explanation": "The Human Rights Act 1998 incorporated the European Convention on Human Rights into UK law. It allows people to defend their rights in UK courts.",
+    "handbook_ref": "Chapter 5 · The British constitution",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH5-CON-038",
+    "section_id": "CH5-CON",
+    "type": "single",
+    "stem": "What is the name of the voting system used in UK general elections to the House of Commons?",
+    "options": [
+      {
+        "label": "First-past-the-post",
+        "correct": true
+      },
+      {
+        "label": "Proportional representation",
+        "correct": false
+      },
+      {
+        "label": "Single transferable vote",
+        "correct": false
+      },
+      {
+        "label": "Alternative vote",
+        "correct": false
+      }
+    ],
+    "explanation": "In this system, the candidate with the most votes in their local area (constituency) is elected as the MP. They do not need to get more than 50% of the votes to win.",
+    "handbook_ref": "Chapter 5 · The British constitution",
+    "difficulty": 2,
+    "ai_checked": true
   }
 ]
