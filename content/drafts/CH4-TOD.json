@@ -610,5 +610,165 @@
     "handbook_ref": "Chapter 4 · The UK today",
     "difficulty": 1,
     "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-TOD-028",
+    "section_id": "CH4-TOD",
+    "type": "single",
+    "stem": "Which of the following is traditionally recognised as a national flower or plant of Wales?",
+    "options": [
+      {
+        "label": "The daffodil",
+        "correct": true
+      },
+      {
+        "label": "The thistle",
+        "correct": false
+      },
+      {
+        "label": "The shamrock",
+        "correct": false
+      },
+      {
+        "label": "The rose",
+        "correct": false
+      }
+    ],
+    "explanation": "The daffodil and the leek are both traditional national symbols of Wales. They are often worn on St David's Day, 1 March.",
+    "handbook_ref": "Chapter 4 · The UK today",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-TOD-030",
+    "section_id": "CH4-TOD",
+    "type": "single",
+    "stem": "What is the oldest golf tournament in the world?",
+    "options": [
+      {
+        "label": "The Open Championship",
+        "correct": true
+      },
+      {
+        "label": "The Masters Tournament",
+        "correct": false
+      },
+      {
+        "label": "The US Open",
+        "correct": false
+      },
+      {
+        "label": "The PGA Championship",
+        "correct": false
+      }
+    ],
+    "explanation": "The Open Championship is the oldest golf tournament in the world. It is also the only Major championship played outside the United States.",
+    "handbook_ref": "Chapter 4 · The UK today",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-TOD-031",
+    "section_id": "CH4-TOD",
+    "type": "single",
+    "stem": "Which surface is traditionally used for matches at the Wimbledon tennis tournament?",
+    "options": [
+      {
+        "label": "Grass",
+        "correct": true
+      },
+      {
+        "label": "Clay",
+        "correct": false
+      },
+      {
+        "label": "Hard court",
+        "correct": false
+      },
+      {
+        "label": "Carpet",
+        "correct": false
+      }
+    ],
+    "explanation": "Wimbledon is the oldest tennis tournament in the world and is uniquely played on grass courts. It takes place in London every summer.",
+    "handbook_ref": "Chapter 4 · The UK today",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-TOD-032",
+    "section_id": "CH4-TOD",
+    "type": "single",
+    "stem": "In which sport did Sir Steve Redgrave win gold medals at five consecutive Olympic Games?",
+    "options": [
+      {
+        "label": "Rowing",
+        "correct": true
+      },
+      {
+        "label": "Cycling",
+        "correct": false
+      },
+      {
+        "label": "Swimming",
+        "correct": false
+      },
+      {
+        "label": "Athletics",
+        "correct": false
+      }
+    ],
+    "explanation": "Sir Steve Redgrave is one of Britain's most famous Olympians, having won rowing gold medals at five consecutive Games from 1984 to 2000.",
+    "handbook_ref": "Chapter 4 · The UK today",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-TOD-033",
+    "section_id": "CH4-TOD",
+    "type": "truefalse",
+    "stem": "The Edinburgh Festival Fringe, held every August, is one of the largest arts festivals in the world.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "The Edinburgh Festival Fringe takes place every August in Scotland's capital city. It is one of the largest arts festivals in the world.",
+    "handbook_ref": "Chapter 4 · The UK today",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-TOD-034",
+    "section_id": "CH4-TOD",
+    "type": "single",
+    "stem": "Established in 1984, what type of work does the Turner Prize celebrate?",
+    "options": [
+      {
+        "label": "Contemporary art",
+        "correct": true
+      },
+      {
+        "label": "Classical music",
+        "correct": false
+      },
+      {
+        "label": "Romantic poetry",
+        "correct": false
+      },
+      {
+        "label": "British architecture",
+        "correct": false
+      }
+    ],
+    "explanation": "The Turner Prize was established in 1984 to celebrate contemporary art. Named after JMW Turner, it is a famous annual art award in the UK.",
+    "handbook_ref": "Chapter 4 · The UK today",
+    "difficulty": 2,
+    "ai_checked": true
   }
 ]

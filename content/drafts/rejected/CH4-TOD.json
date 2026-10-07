@@ -103,5 +103,33 @@
     "difficulty": 1,
     "ai_checked": true,
     "rejected_reason": "Duplicate of Q-CH2-UK-006"
+  },
+  {
+    "id": "Q-CH4-TOD-029",
+    "section_id": "CH4-TOD",
+    "type": "multi",
+    "stem": "Which TWO crosses are included in the official design of the Union Flag?",
+    "options": [
+      {
+        "label": "St George's cross",
+        "correct": true
+      },
+      {
+        "label": "St Andrew's cross",
+        "correct": true
+      },
+      {
+        "label": "St David's cross",
+        "correct": false
+      },
+      {
+        "label": "St Jude's cross",
+        "correct": false
+      }
+    ],
+    "explanation": "The Union Flag is made up of three crosses: St George's cross for England, St Andrew's cross for Scotland, and St Patrick's cross for Ireland.",
+    "handbook_ref": "Chapter 4 · The UK today",
+    "difficulty": 2,
+    "rejected_reason": "The question asks for TWO crosses but the explanation identifies THREE crosses in the flag; the options provided are incomplete and misleading for a multi-select question."
   }
 ]

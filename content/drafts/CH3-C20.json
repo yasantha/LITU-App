@@ -1334,5 +1334,165 @@
     "handbook_ref": "Chapter 3 · The 20th century",
     "difficulty": 1,
     "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-052",
+    "section_id": "CH3-C20",
+    "type": "single",
+    "stem": "Which battle in Egypt in 1942 was a major British victory and a key turning point in the Second World War?",
+    "options": [
+      {
+        "label": "The Battle of El Alamein",
+        "correct": true
+      },
+      {
+        "label": "The Battle of Britain",
+        "correct": false
+      },
+      {
+        "label": "The Battle of the Somme",
+        "correct": false
+      },
+      {
+        "label": "The Battle of Dunkirk",
+        "correct": false
+      }
+    ],
+    "explanation": "The Battle of El Alamein in Egypt in 1942 was a major British victory. It is widely considered a key turning point in the Second World War.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-053",
+    "section_id": "CH3-C20",
+    "type": "truefalse",
+    "stem": "True or False: Queen Elizabeth II succeeded to the throne in 1952, and her coronation ceremony took place the following year in 1953.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Queen Elizabeth II became monarch in 1952 after the death of her father, King George VI. Her coronation took place in 1953 at Westminster Abbey.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-054",
+    "section_id": "CH3-C20",
+    "type": "single",
+    "stem": "In which year was conscription (compulsory military service) first introduced in Great Britain?",
+    "options": [
+      {
+        "label": "1916",
+        "correct": true
+      },
+      {
+        "label": "1914",
+        "correct": false
+      },
+      {
+        "label": "1939",
+        "correct": false
+      },
+      {
+        "label": "1945",
+        "correct": false
+      }
+    ],
+    "explanation": "Conscription was introduced in Great Britain for the first time in 1916 during the First World War. This made military service compulsory for men of certain ages.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-055",
+    "section_id": "CH3-C20",
+    "type": "single",
+    "stem": "In 1994, which major transport link opened to connect the UK and France by rail?",
+    "options": [
+      {
+        "label": "The Channel Tunnel",
+        "correct": true
+      },
+      {
+        "label": "The Golden Gate Bridge",
+        "correct": false
+      },
+      {
+        "label": "The Severn Bridge",
+        "correct": false
+      },
+      {
+        "label": "The Dartford Crossing",
+        "correct": false
+      }
+    ],
+    "explanation": "The Channel Tunnel, often called the 'Chunnel', opened in 1994. It connects the UK and France by rail, allowing trains to travel underwater.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-056",
+    "section_id": "CH3-C20",
+    "type": "multi",
+    "stem": "Which TWO devolved bodies were established in 1999 following public referendums?",
+    "options": [
+      {
+        "label": "The Scottish Parliament",
+        "correct": true
+      },
+      {
+        "label": "The National Assembly for Wales",
+        "correct": true
+      },
+      {
+        "label": "The Northern Ireland Assembly",
+        "correct": false
+      },
+      {
+        "label": "The London Assembly",
+        "correct": false
+      }
+    ],
+    "explanation": "In 1997, Scotland and Wales voted in referendums for devolution. This led to the creation of the Scottish Parliament and the National Assembly for Wales in 1999.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-C20-057",
+    "section_id": "CH3-C20",
+    "type": "single",
+    "stem": "What was the name of the famous 1960 speech by Prime Minister Harold Macmillan about decolonisation in Africa?",
+    "options": [
+      {
+        "label": "The 'Wind of Change' speech",
+        "correct": true
+      },
+      {
+        "label": "The 'Iron Curtain' speech",
+        "correct": false
+      },
+      {
+        "label": "The 'Rivers of Blood' speech",
+        "correct": false
+      },
+      {
+        "label": "The 'Never Surrender' speech",
+        "correct": false
+      }
+    ],
+    "explanation": "Prime Minister Harold Macmillan delivered his famous 'Wind of Change' speech in 1960. It addressed the growth of national consciousness and decolonisation in Africa.",
+    "handbook_ref": "Chapter 3 · The 20th century",
+    "difficulty": 2,
+    "ai_checked": true
   }
 ]

@@ -686,5 +686,109 @@
     "handbook_ref": "Chapter 4 · Religion",
     "difficulty": 2,
     "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-REL-027",
+    "section_id": "CH4-REL",
+    "type": "single",
+    "stem": "Who is the spiritual leader of the Church of England?",
+    "options": [
+      {
+        "label": "The Archbishop of Canterbury",
+        "correct": true
+      },
+      {
+        "label": "The Archbishop of York",
+        "correct": false
+      },
+      {
+        "label": "The Moderator",
+        "correct": false
+      },
+      {
+        "label": "The Pope",
+        "correct": false
+      }
+    ],
+    "explanation": "The Archbishop of Canterbury is the spiritual leader of the Church of England. While the Monarch is the Head of the Church, they do not lead it spiritually.",
+    "handbook_ref": "Chapter 4 · Religion",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-REL-028",
+    "section_id": "CH4-REL",
+    "type": "single",
+    "stem": "When is the national day of Scotland, St Andrew's Day, celebrated?",
+    "options": [
+      {
+        "label": "30 November",
+        "correct": true
+      },
+      {
+        "label": "30 October",
+        "correct": false
+      },
+      {
+        "label": "1 November",
+        "correct": false
+      },
+      {
+        "label": "17 March",
+        "correct": false
+      }
+    ],
+    "explanation": "St Andrew's Day is on 30 November and is the national day of Scotland. It is a bank holiday in Scotland, though many people still go to work.",
+    "handbook_ref": "Chapter 4 · Religion",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-REL-029",
+    "section_id": "CH4-REL",
+    "type": "truefalse",
+    "stem": "St Patrick is the patron saint of Northern Ireland.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "St Patrick is the patron saint of Northern Ireland. His feast day is celebrated by both Christian and non-religious people across the world.",
+    "handbook_ref": "Chapter 4 · Religion",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH4-REL-030",
+    "section_id": "CH4-REL",
+    "type": "multi",
+    "stem": "Which TWO of these are facts about St Patrick's Day?",
+    "options": [
+      {
+        "label": "It is celebrated on 17 March",
+        "correct": true
+      },
+      {
+        "label": "It is a bank holiday in Northern Ireland",
+        "correct": true
+      },
+      {
+        "label": "It is celebrated on 23 April",
+        "correct": false
+      },
+      {
+        "label": "It is a bank holiday in all parts of the UK",
+        "correct": false
+      }
+    ],
+    "explanation": "St Patrick's Day is on 17 March. It is a public holiday in Northern Ireland to honour their patron saint, but it is not a bank holiday in England or Wales.",
+    "handbook_ref": "Chapter 4 · Religion",
+    "difficulty": 2,
+    "ai_checked": true
   }
 ]

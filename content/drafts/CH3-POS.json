@@ -1342,5 +1342,109 @@
     "handbook_ref": "Chapter 3 · Britain since 1945",
     "difficulty": 1,
     "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-POS-052",
+    "section_id": "CH3-POS",
+    "type": "single",
+    "stem": "The National Health Service (NHS) was established to provide free healthcare for everyone. In which year did this happen?",
+    "options": [
+      {
+        "label": "1945",
+        "correct": false
+      },
+      {
+        "label": "1948",
+        "correct": true
+      },
+      {
+        "label": "1951",
+        "correct": false
+      },
+      {
+        "label": "1960",
+        "correct": false
+      }
+    ],
+    "explanation": "The NHS was set up in 1948 to provide medical care that is free at the point of use. It was a major part of the new welfare state created after the war.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-POS-053",
+    "section_id": "CH3-POS",
+    "type": "single",
+    "stem": "In which year did Winston Churchill and the Conservative Party return to power after the post-war Labour government?",
+    "options": [
+      {
+        "label": "1945",
+        "correct": false
+      },
+      {
+        "label": "1947",
+        "correct": false
+      },
+      {
+        "label": "1951",
+        "correct": true
+      },
+      {
+        "label": "1955",
+        "correct": false
+      }
+    ],
+    "explanation": "Winston Churchill became Prime Minister again in 1951. This happened after the Labour government, which had been in power since 1945, lost the election.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-POS-054",
+    "section_id": "CH3-POS",
+    "type": "multi",
+    "stem": "Which TWO of these statements about the Korean War (1950 to 1953) are correct?",
+    "options": [
+      {
+        "label": "British forces took part in the fighting",
+        "correct": true
+      },
+      {
+        "label": "The war lasted from 1950 to 1953",
+        "correct": true
+      },
+      {
+        "label": "Britain fought the war alone without allies",
+        "correct": false
+      },
+      {
+        "label": "The conflict started during the 1960s",
+        "correct": false
+      }
+    ],
+    "explanation": "British troops fought in the Korean War as part of a United Nations force. The conflict ended in 1953 when the fighting stopped.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-POS-055",
+    "section_id": "CH3-POS",
+    "type": "truefalse",
+    "stem": "During the 1960s, 20 British colonies were granted independence.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "The 1960s saw a very fast period of decolonisation. During this decade, 20 former British colonies in places like Africa and the Caribbean became independent.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 3,
+    "ai_checked": true
   }
 ]

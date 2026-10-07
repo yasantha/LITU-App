@@ -26,5 +26,33 @@
     "handbook_ref": "Chapter 3 · Britain since 1945",
     "difficulty": 1,
     "rejected_reason": "The National Health Service (NHS) is not a government department, but a publicly funded healthcare system. The question's wording is factually incorrect."
+  },
+  {
+    "id": "Q-CH3-POS-056",
+    "section_id": "CH3-POS",
+    "type": "single",
+    "stem": "In which year was capital punishment (the death penalty) abolished in the UK?",
+    "options": [
+      {
+        "label": "1945",
+        "correct": false
+      },
+      {
+        "label": "1953",
+        "correct": false
+      },
+      {
+        "label": "1965",
+        "correct": true
+      },
+      {
+        "label": "1970",
+        "correct": false
+      }
+    ],
+    "explanation": "Capital punishment was ended in 1965. This meant that criminals could no longer be executed for their crimes in the UK.",
+    "handbook_ref": "Chapter 3 · Britain since 1945",
+    "difficulty": 2,
+    "rejected_reason": "The death penalty was abolished for murder in Great Britain in 1965, but it remained in place for certain other offences until 1973 in Northern Ireland and until 1998 for all offences; the question is misleadingly simplistic."
   }
 ]
