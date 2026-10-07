@@ -5,3 +5,6 @@
     kotlinx.serialization.KSerializer serializer(...);
 }
 -keep class com.myday.litu.**$$serializer { *; }
+
+# play review-ktx references an annotation that ships with newer play-services-basement.
+-dontwarn com.google.android.gms.common.annotation.NoNullnessRewrite
