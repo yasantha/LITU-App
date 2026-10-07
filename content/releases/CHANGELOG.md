@@ -15,3 +15,9 @@
 - 747 active questions, 23 section notes, review status: unreviewed
 - Added 224, changed 0, retired 3
 - Retired: Q-CH4-TOD-002, Q-CH5-CON-006, Q-CH5-LAW-036
+
+## Content v4 (2026-10-07)
+
+- 778 active questions, 23 section notes, review status: unreviewed
+- Added 31, changed 0, retired 3
+- Retired: Q-CH4-TOD-002, Q-CH5-CON-006, Q-CH5-LAW-036

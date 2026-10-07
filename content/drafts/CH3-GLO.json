@@ -1530,5 +1530,53 @@
     "handbook_ref": "Chapter 3 · A global power",
     "difficulty": 3,
     "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-058",
+    "section_id": "CH3-GLO",
+    "type": "single",
+    "stem": "In 1863, the world's first underground railway opened. In which city was the Metropolitan Railway built?",
+    "options": [
+      {
+        "label": "London",
+        "correct": true
+      },
+      {
+        "label": "Manchester",
+        "correct": false
+      },
+      {
+        "label": "Birmingham",
+        "correct": false
+      },
+      {
+        "label": "Glasgow",
+        "correct": false
+      }
+    ],
+    "explanation": "The world's first underground railway opened in London in 1863. It was called the Metropolitan Railway and is now part of the famous London Underground network.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-GLO-059",
+    "section_id": "CH3-GLO",
+    "type": "truefalse",
+    "stem": "During the Victorian era, millions of people moved away from Britain to live in countries such as Canada and Australia.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "In the 19th century, millions of people left Britain to start new lives abroad. Most of these people went to live in Canada, Australia, and New Zealand.",
+    "handbook_ref": "Chapter 3 · A global power",
+    "difficulty": 2,
+    "ai_checked": true
   }
 ]

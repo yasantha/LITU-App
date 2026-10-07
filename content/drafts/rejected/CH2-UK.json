@@ -1,0 +1,31 @@
+[
+  {
+    "id": "Q-CH2-UK-033",
+    "section_id": "CH2-UK",
+    "type": "single",
+    "stem": "On what date is St Patrick's Day celebrated?",
+    "options": [
+      {
+        "label": "1 March",
+        "correct": false
+      },
+      {
+        "label": "17 March",
+        "correct": true
+      },
+      {
+        "label": "23 April",
+        "correct": false
+      },
+      {
+        "label": "30 November",
+        "correct": false
+      }
+    ],
+    "explanation": "St Patrick is the patron saint of Northern Ireland. His feast day is 17 March and is a public holiday in Northern Ireland.",
+    "handbook_ref": "Chapter 2 · What is the UK?",
+    "difficulty": 2,
+    "ai_checked": true,
+    "rejected_reason": "Duplicates Q-CH4-CUS-010"
+  }
+]

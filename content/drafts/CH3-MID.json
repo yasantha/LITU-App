@@ -1294,5 +1294,269 @@
     "handbook_ref": "Chapter 3 · The Middle Ages",
     "difficulty": 3,
     "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-050",
+    "section_id": "CH3-MID",
+    "type": "single",
+    "stem": "On which special day in 1066 was William the Conqueror crowned King of England?",
+    "options": [
+      {
+        "label": "Easter Sunday",
+        "correct": false
+      },
+      {
+        "label": "Christmas Day",
+        "correct": true
+      },
+      {
+        "label": "Midsummer's Day",
+        "correct": false
+      },
+      {
+        "label": "New Year's Eve",
+        "correct": false
+      }
+    ],
+    "explanation": "William was crowned at Westminster Abbey on 25 December 1066. This followed his victory at the Battle of Hastings earlier that year.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-051",
+    "section_id": "CH3-MID",
+    "type": "single",
+    "stem": "In which year did the deadly plague known as the Black Death first arrive in Britain?",
+    "options": [
+      {
+        "label": "1215",
+        "correct": false
+      },
+      {
+        "label": "1348",
+        "correct": true
+      },
+      {
+        "label": "1485",
+        "correct": false
+      },
+      {
+        "label": "1066",
+        "correct": false
+      }
+    ],
+    "explanation": "The Black Death reached Britain in 1348. It killed a large part of the population and changed the way society worked in the Middle Ages.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-052",
+    "section_id": "CH3-MID",
+    "type": "single",
+    "stem": "Who led the 1381 Peasants' Revolt to protest against a new poll tax and laws for workers?",
+    "options": [
+      {
+        "label": "Wat Tyler",
+        "correct": true
+      },
+      {
+        "label": "Robert the Bruce",
+        "correct": false
+      },
+      {
+        "label": "Simon de Montfort",
+        "correct": false
+      },
+      {
+        "label": "William Wallace",
+        "correct": false
+      }
+    ],
+    "explanation": "Wat Tyler was the leader of the Peasants' Revolt in 1381. The revolt was caused by a new poll tax and unfair laws for workers.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-053",
+    "section_id": "CH3-MID",
+    "type": "single",
+    "stem": "In 1215, where was King John forced by his nobles to sign the Magna Carta?",
+    "options": [
+      {
+        "label": "Runnymede",
+        "correct": true
+      },
+      {
+        "label": "Salisbury",
+        "correct": false
+      },
+      {
+        "label": "Westminster",
+        "correct": false
+      },
+      {
+        "label": "The Tower of London",
+        "correct": false
+      }
+    ],
+    "explanation": "King John met his nobles at Runnymede in 1215 to sign the Magna Carta. This document said that even the King must follow the law.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-054",
+    "section_id": "CH3-MID",
+    "type": "single",
+    "stem": "In which year was the first parliament in England called?",
+    "options": [
+      {
+        "label": "1066",
+        "correct": false
+      },
+      {
+        "label": "1215",
+        "correct": false
+      },
+      {
+        "label": "1265",
+        "correct": true
+      },
+      {
+        "label": "1348",
+        "correct": false
+      }
+    ],
+    "explanation": "The first parliament in England was called in 1265. This was an important step in the history of the UK government.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-056",
+    "section_id": "CH3-MID",
+    "type": "single",
+    "stem": "Salisbury Cathedral is a famous example of which architectural style from the Middle Ages?",
+    "options": [
+      {
+        "label": "Roman",
+        "correct": false
+      },
+      {
+        "label": "Tudor",
+        "correct": false
+      },
+      {
+        "label": "Gothic",
+        "correct": true
+      },
+      {
+        "label": "Modern",
+        "correct": false
+      }
+    ],
+    "explanation": "Salisbury Cathedral is one of the most famous Gothic buildings in Britain. This style of architecture was common in the Middle Ages.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-057",
+    "section_id": "CH3-MID",
+    "type": "truefalse",
+    "stem": "In the Middle Ages, grammar schools were set up in many towns to teach boys the Latin language.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Many towns opened grammar schools for boys during this period. Latin was the main language used for church and official business.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-058",
+    "section_id": "CH3-MID",
+    "type": "single",
+    "stem": "Which king from the House of York was killed at the Battle of Bosworth Field?",
+    "options": [
+      {
+        "label": "Edward IV",
+        "correct": false
+      },
+      {
+        "label": "Henry VI",
+        "correct": false
+      },
+      {
+        "label": "Richard III",
+        "correct": true
+      },
+      {
+        "label": "Henry VII",
+        "correct": false
+      }
+    ],
+    "explanation": "Richard III was the last king of the House of York. He was killed at the Battle of Bosworth Field in 1485 while fighting Henry Tudor.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-059",
+    "section_id": "CH3-MID",
+    "type": "truefalse",
+    "stem": "King Henry VII married Elizabeth of York to unite the two families that had fought in the Wars of the Roses.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Henry VII was from the House of Lancaster. He married Elizabeth of York to join the two families together and end the Wars of the Roses.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-MID-060",
+    "section_id": "CH3-MID",
+    "type": "multi",
+    "stem": "Which TWO colours are found in the Tudor rose symbol?",
+    "options": [
+      {
+        "label": "Red",
+        "correct": true
+      },
+      {
+        "label": "Blue",
+        "correct": false
+      },
+      {
+        "label": "White",
+        "correct": true
+      },
+      {
+        "label": "Yellow",
+        "correct": false
+      }
+    ],
+    "explanation": "The Tudor rose was created by combining the symbols of York and Lancaster. It is a red rose with a white rose in the middle.",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 1,
+    "ai_checked": true
   }
 ]

@@ -18,5 +18,33 @@
     "handbook_ref": "Chapter 3 · The Middle Ages",
     "difficulty": 2,
     "rejected_reason": "The handbook states that Richard I spent most of his reign fighting abroad (in the Crusades or in France), not spent most of his time fighting in the Crusades."
+  },
+  {
+    "id": "Q-CH3-MID-055",
+    "section_id": "CH3-MID",
+    "type": "multi",
+    "stem": "Which TWO of these groups were part of the 'three estates' in the early Scottish parliament?",
+    "options": [
+      {
+        "label": "The Clergy",
+        "correct": true
+      },
+      {
+        "label": "The Peasants",
+        "correct": false
+      },
+      {
+        "label": "Commissioners",
+        "correct": true
+      },
+      {
+        "label": "The Merchants",
+        "correct": false
+      }
+    ],
+    "explanation": "The Scottish parliament had three groups called 'estates'. These were the nobles, the clergy, and the commissioners (representing the towns).",
+    "handbook_ref": "Chapter 3 · The Middle Ages",
+    "difficulty": 2,
+    "rejected_reason": "The handbook states the three estates were the lords, the clergy, and the commissioners. This question includes 'the peasants' as an option, which is incorrect."
   }
 ]

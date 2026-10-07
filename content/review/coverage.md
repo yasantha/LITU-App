@@ -1,0 +1,767 @@
+# Handbook coverage
+
+AI estimate of the facts each 3rd edition section covers, and whether a question tests them.
+Check against the handbook itself before launch.
+**Overall: 580/691 facts covered (83%).**
+
+
+## Chapter 1 · The values and principles of the UK — 12/12 covered
+
+- [x] The fundamental principles of British life are democracy, the rule of law, individual liberty, tolerance of those with different faiths and beliefs, and participation in community life.
+- [x] Responsibilities of UK residents include respecting and obeying the law.
+- [x] Responsibilities of UK residents include respecting the rights of others to their own opinions.
+- [x] Responsibilities of UK residents include treating others with fairness.
+- [x] Responsibilities of UK residents include looking after oneself and one's family.
+- [x] Responsibilities of UK residents include looking after the local area and the environment.
+- [x] UK rights and freedoms include freedom of belief and religion.
+- [x] UK rights and freedoms include freedom of speech.
+- [x] UK rights and freedoms include freedom from unfair discrimination.
+- [x] UK rights and freedoms include the right to a fair trial.
+- [x] UK rights and freedoms include the right to participate in the election of the government.
+- [x] To become a British citizen, an individual must pledge to respect the UK's rights, freedoms, and laws, and uphold its democratic values.
+
+## Chapter 1 · Becoming a permanent resident — 7/11 covered
+
+- [x] To settle permanently or become a British citizen, most applicants must pass the Life in the UK test.
+- [x] Applicants must demonstrate they can speak and understand English.
+- [x] The official website for booking the Life in the UK test is www.gov.uk/life-in-the-uk-test.
+- [x] To prove your identity at the test centre, you must bring an approved photo ID (such as a passport or biometric residence permit).
+- [x] People under the age of 18 or aged 65 and over are usually exempt from taking the test.
+- [x] People with a permanent physical or mental disability may be exempt from taking the test.
+- [x] The test is based on the official handbook 'Life in the United Kingdom: A Guide for New Residents'.
+- [ ] The test contains 24 multiple-choice questions.
+- [ ] The time limit to complete the Life in the UK test is 45 minutes.
+- [ ] The passing score for the Life in the UK test is 75% (at least 18 correct answers out of 24).
+- [ ] Candidates must bring a printed proof of postcode address to the test centre.
+
+## Chapter 1 · Taking the Life in the UK test — 2/8 covered
+
+- [x] The Life in the UK test consists of 24 questions.
+- [x] The passing score for the Life in the UK test is 75% (18 out of 24 correct answers).
+- [ ] Candidates have 45 minutes to complete the Life in the UK test.
+- [ ] The test is based on the handbook 'Life in the United Kingdom: A Guide for New Residents'.
+- [ ] To take the test, candidates must book it online in advance.
+- [ ] Candidates must bring the exact same photographic ID used to book the test to the test centre.
+- [ ] Candidates must bring a printed proof of address that is dated within 3 months of the test date.
+- [ ] A photograph of the candidate is taken at the test centre before the test begins.
+
+## Chapter 2 · What is the UK? — 18/25 covered
+
+- [x] The official name of the country is the United Kingdom of Great Britain and Northern Ireland.
+- [x] Great Britain refers only to England, Scotland, and Wales.
+- [x] The Republic of Ireland is an independent country and is not part of the UK.
+- [x] The Channel Islands and the Isle of Man are Crown dependencies and are not part of the UK.
+- [x] British Overseas Territories, such as Gibraltar and the Falkland Islands, are linked to the UK but are not part of it.
+- [x] London is the capital city of both England and the entire United Kingdom.
+- [x] Edinburgh is the capital city of Scotland.
+- [x] Cardiff is the capital city of Wales.
+- [x] Belfast is the capital city of Northern Ireland.
+- [x] Scotland, Wales and Northern Ireland have devolved administrations with their own parliaments or assemblies.
+- [x] The Union Jack is the common name for the national flag of the United Kingdom.
+- [x] The Union Flag is made up of the crosses of England, Scotland, and Ireland.
+- [x] The Welsh dragon does not appear on the Union Flag because Wales was already united with England when the first Union Flag was created.
+- [x] St David is the patron saint of Wales, and his feast day is 1 March.
+- [x] St Patrick's Day is an official public holiday in Northern Ireland.
+- [x] The rose is the national flower of England.
+- [x] The daffodil and the leek are traditional symbols of Wales.
+- [x] Gaelic is a native language spoken in parts of Scotland.
+- [ ] St George is the patron saint of England, and his feast day is 23 April.
+- [ ] St Andrew is the patron saint of Scotland, and his feast day is 30 November.
+- [ ] St Patrick is the patron saint of Northern Ireland, and his feast day is 17 March.
+- [ ] The thistle is the national flower of Scotland.
+- [ ] The shamrock is the national flower of Northern Ireland.
+- [ ] Welsh is the native language of Wales and is spoken by some of its population.
+- [ ] Irish Gaelic is spoken by some people in Northern Ireland.
+
+## Chapter 3 · Early Britain — 47/50 covered
+
+- [x] Britain became an island separate from the continent of Europe about 10,000 years ago.
+- [x] The earliest people in Britain during the Stone Age got their food by hunting and gathering.
+- [x] The first farmers arrived in Britain about 6,000 years ago.
+- [x] Skara Brae on Orkney is the best-preserved Stone Age village in northern Europe.
+- [x] Stonehenge, a prehistoric monument used for seasonal ceremonies, is located in Wiltshire.
+- [x] The Bronze Age began in Britain about 4,000 years ago.
+- [x] Bronze is made by mixing copper with tin.
+- [x] People in the Bronze Age lived in round houses.
+- [x] Bronze Age people buried their dead in circular earth mounds called round barrows.
+- [x] Maiden Castle, a massive Iron Age hill fort, is located in Dorset.
+- [x] Most people in the Iron Age worked as farmers, craft workers, or warriors.
+- [x] The language spoken in Britain during the Iron Age belonged to the Celtic language family.
+- [x] Celtic languages are still spoken today in parts of Wales, Scotland, and Ireland.
+- [x] The first coins minted in Britain appeared during the Iron Age.
+- [x] Julius Caesar led the first, unsuccessful Roman invasions of Britain in 55 and 54 BC.
+- [x] Emperor Claudius led the successful Roman invasion of Britain in 43 AD.
+- [x] Boudicca, queen of the Iceni, led a major rebellion against the Romans.
+- [x] Emperor Hadrian built Hadrian's Wall to keep out the Picts (ancient tribes from Scotland).
+- [x] The Picts were northern Scottish tribes named by the Romans after their practice of painting or tattooing their bodies.
+- [x] The Romans never successfully conquered the far north of Scotland.
+- [x] The Roman occupation of Britain lasted for about 400 years.
+- [x] The Roman army left Britain in 410 AD to defend Rome.
+- [x] Roman-founded cities include London (Londinium), Colchester, and Chester.
+- [x] Saint Alban was the first recorded Christian martyr in Britain.
+- [x] After the Romans left, Germanic tribes including the Angles and Saxons invaded and settled in Britain.
+- [x] The Anglo-Saxon language became the basis for modern English.
+- [x] The Anglo-Saxon ship burial site at Sutton Hoo in Suffolk contained royal treasure.
+- [x] Saint Patrick converted Ireland to Christianity and became its patron saint.
+- [x] Saint Columba founded an influential monastery on the island of Iona off the Scottish coast.
+- [x] Saint Augustine arrived in Britain in 597 AD and became the first Archbishop of Canterbury.
+- [x] The Vikings, who raided Britain, came from Denmark, Norway, and Sweden.
+- [x] The first Viking raid on Britain occurred at Lindisfarne (Holy Island) in 793 AD.
+- [x] King Alfred the Great of Wessex defeated the Vikings and united Anglo-Saxon kingdoms.
+- [x] The Danelaw was the region of northern and eastern England subject to Viking law.
+- [x] King Cnut (Canute) was a Danish king who ruled England from 1016 to 1035.
+- [x] King Kenneth MacAlpin united the Picts and Gaels to form the kingdom of Scotland in the 9th century.
+- [x] King Offa of Mercia built a great earthen wall along the border with Wales.
+- [x] At the Battle of Hastings in 1066, William of Normandy defeated the Anglo-Saxon king, Harold.
+- [x] King Harold was killed at the Battle of Hastings.
+- [x] The Norman Conquest of 1066 was the last successful foreign invasion of England.
+- [x] William the Conqueror was crowned King of England at Westminster Abbey on Christmas Day 1066.
+- [x] The Bayeux Tapestry is a 70-meter-long linen embroidery detailing the Norman Conquest.
+- [x] The Domesday Book, commissioned by William the Conqueror in 1085, surveyed lands and resources in England.
+- [x] The Domesday Book was written in Latin.
+- [x] Under the feudal system, the King gave land to lords in exchange for military service.
+- [x] After the Norman Conquest, Norman French became the language of the ruling class.
+- [x] The Romans built public baths, temples, and theaters in their towns.
+- [ ] The first farmers in Britain originally came from southern Europe.
+- [ ] The Iron Age in Britain began around 3,000 years ago (800 BC).
+- [ ] In the Iron Age, people made beautiful objects out of metal, including gold and silver.
+
+## Chapter 3 · The Middle Ages — 36/47 covered
+
+- [x] William of Normandy defeated King Harold at the Battle of Hastings in 1066.
+- [x] The Bayeux Tapestry is a long piece of embroidery that tells the story of the Norman Conquest.
+- [x] William the Conqueror ordered a survey of England called the Domesday Book in 1085.
+- [x] The Domesday Book was created to find out who lived in England, what land they owned, and how much tax they owed.
+- [x] Normans introduced the feudal system, where land was given to lords in exchange for military service.
+- [x] After the Norman Conquest, the ruling classes spoke Norman French and Latin was used for official writing.
+- [x] By the end of the Middle Ages, the Norman and Anglo-Saxon peoples had merged to form one English nation.
+- [x] King Edward I of England introduced the Statute of Rhuddlan in 1284 to bring Wales under English rule.
+- [x] King Edward I built massive castles in Wales, such as Conwy and Caernarfon, to maintain his power.
+- [x] Owain Glyndŵr led a major Welsh rebellion against English rule in the early 1400s.
+- [x] William Wallace led a Scottish rebellion against King Edward I in the late 13th century.
+- [x] Robert the Bruce defeated the English army at the Battle of Bannockburn in 1314.
+- [x] In 1320, Scottish lords wrote the Declaration of Arbroath to the Pope asserting Scotland's independence.
+- [x] In 1169, Dermot of Leinster, an Irish king, invited Norman lords to Ireland to help him fight his enemies.
+- [x] King Henry II of England declared himself Lord of Ireland and controlled an area around Dublin called the Pale.
+- [x] The Crusades were holy wars fought by European Christians to gain control of the Holy Land.
+- [x] The Hundred Years War was a long conflict fought between England and France.
+- [x] King Henry V of England won the Battle of Agincourt in 1415.
+- [x] The Black Death killed about one-third of the population of Great Britain.
+- [x] The labor shortage caused by the Black Death led to higher wages and the Peasants' Revolt of 1381.
+- [x] The Magna Carta established the principle that even the King is subject to the law.
+- [x] In the Middle Ages, the King's Council developed into Parliament.
+- [x] The House of Lords was made up of the nobility and high-ranking clergy.
+- [x] The House of Commons was made up of knights (representing counties) and wealthy citizens (representing towns).
+- [x] The word 'parliament' comes from the French word 'parler', meaning 'to speak'.
+- [x] Judges in the Middle Ages developed common law, based on previous decisions.
+- [x] By 1400, English had become the preferred language of the court, parliament, and literature.
+- [x] Geoffrey Chaucer wrote The Canterbury Tales, a famous collection of stories in English.
+- [x] William Caxton was the first person in England to print books using a printing press.
+- [x] Gothic style architecture was popular for cathedrals in the Middle Ages.
+- [x] During the Middle Ages, England's first universities, Oxford and Cambridge, were founded.
+- [x] Wool was the primary export of England during the Middle Ages.
+- [x] St George became the patron saint of England during the Middle Ages.
+- [x] The Wars of the Roses was a civil war fought between the House of Lancaster (red rose) and the House of York (white rose).
+- [x] The Wars of the Roses ended in 1485 with the Battle of Bosworth Field.
+- [x] Henry Tudor became King Henry VII, the first monarch of the House of Tudor, ending the Middle Ages.
+- [ ] William the Conqueror was crowned King of England on Christmas Day 1066.
+- [ ] The Black Death, a deadly plague, arrived in Britain in 1348.
+- [ ] Wat Tyler led the Peasants' Revolt in 1381 against a new poll tax and laws for workers.
+- [ ] King John was forced by his nobles to sign the Magna Carta at Runnymede in 1215.
+- [ ] The first parliament was called in 1265.
+- [ ] In Scotland, the parliament met as three estates: nobles, clergy, and commissioners.
+- [ ] Salisbury Cathedral is a famous example of Gothic architecture.
+- [ ] Grammar schools were established in many English towns to teach boys Latin.
+- [ ] King Richard III of the House of York was killed at the Battle of Bosworth Field.
+- [ ] Henry VII married Elizabeth of York to unite the Houses of Lancaster and York.
+- [ ] The Tudor rose is a red rose with a white rose inside, symbolizing the union of York and Lancaster.
+
+## Chapter 3 · The Tudors and Stuarts — 46/51 covered
+
+- [x] The Battle of Bosworth Field in 1485 ended the Wars of the Roses.
+- [x] Henry VII created the Tudor Rose emblem, uniting the red rose of Lancaster and the white rose of York.
+- [x] Henry VIII broke away from the Roman Catholic Church to divorce Catherine of Aragon.
+- [x] Catherine of Aragon was Henry VIII's first wife and a Spanish princess.
+- [x] Two of Henry VIII's six wives, Anne Boleyn and Catherine Howard, were executed.
+- [x] Jane Seymour, Henry VIII's third wife, gave birth to his only son and successor, Edward VI.
+- [x] During Henry VIII's reign, the Act for the Government of Wales formally united England and Wales.
+- [x] Henry VIII became the first English king to take the title King of Ireland in 1541.
+- [x] The Book of Common Prayer was written for use in the Church of England during the reign of King Edward VI.
+- [x] Queen Mary I was a devout Catholic who persecuted Protestants, earning the nickname Bloody Mary.
+- [x] Queen Elizabeth I established a Protestant church through a middle way religious settlement.
+- [x] English forces defeated the Spanish Armada in 1588 during Elizabeth I's reign.
+- [x] Sir Francis Drake was one of the first commanders to circumnavigate the globe.
+- [x] Sir Walter Raleigh attempted to establish the first English colonies in North America under Elizabeth I.
+- [x] Mary, Queen of Scots, was executed in 1587 on suspicion of plotting against Elizabeth I.
+- [x] William Shakespeare was born in Stratford-upon-Avon.
+- [x] Christopher Marlowe and Ben Jonson were famous playwrights of the Elizabethan era.
+- [x] King James VI of Scotland became King James I of England in 1603, uniting the crowns.
+- [x] A new English translation of the Bible, the King James Version, was published in 1611.
+- [x] The Divine Right of Kings was the belief that monarchs were chosen by God and not answerable to Parliament.
+- [x] Guy Fawkes and a group of Catholic plotters tried to blow up Parliament with gunpowder on 5 November 1605.
+- [x] The Pilgrims sailed to North America on the Mayflower in 1620.
+- [x] King Charles I ruled England without Parliament for 11 years (known as the Personal Rule).
+- [x] The English Civil War broke out in 1642 between the Cavaliers (Royalists) and Roundheads (Parliamentarians).
+- [x] Parliamentarian forces won major Civil War victories at the battles of Marston Moor and Naseby.
+- [x] King Charles I was executed in 1649.
+- [x] After Charles I's execution, England became a republic called the Commonwealth.
+- [x] Oliver Cromwell was given the title Lord Protector and ruled the Commonwealth republic.
+- [x] The monarchy was restored in 1660, and Charles II was invited back to rule.
+- [x] King Charles II reopened theatres, allowing women to act on stage for the first time.
+- [x] The Royal Society was formed in 1660 to promote scientific and natural knowledge.
+- [x] Sir Isaac Newton was a famous Stuart-era scientist who discovered gravity.
+- [x] The Great Plague killed thousands of people in London in 1665.
+- [x] The Great Fire of London destroyed much of the city in 1666.
+- [x] Samuel Pepys wrote a famous diary describing the Great Plague and the Great Fire of London.
+- [x] Sir Christopher Wren designed the new St Paul's Cathedral after the Great Fire.
+- [x] The Habeas Corpus Act of 1679 guaranteed that no one could be held in prison unlawfully.
+- [x] John Milton wrote the famous 17th-century epic poem Paradise Lost.
+- [x] John Bunyan wrote the highly popular religious book 'The Pilgrim's Progress'.
+- [x] The Glorious Revolution of 1688 saw King James II replaced by William of Orange and Mary II.
+- [x] William of Orange was the ruler of the Netherlands before he became King of England.
+- [x] The Bill of Rights of 1689 established that the monarch could not rule without Parliament.
+- [x] King William III defeated Catholic forces at the Battle of the Boyne in Ireland in 1690.
+- [x] Jacobites was the name given to supporters of the deposed King James II who attempted rebellions.
+- [x] The Act of Union of 1707 joined England and Scotland into the Kingdom of Great Britain.
+- [x] After the Act of Union, Scotland retained its own Presbyterian Church, legal system, and education system.
+- [ ] Henry VII was the first monarch of the House of Tudor.
+- [ ] The first permanent British colony in North America, Jamestown, was established in Virginia in 1607.
+- [ ] King Charles I's attempts to introduce a new prayer book in Scotland caused serious riots in 1637.
+- [ ] Oliver Cromwell led a controversial and brutal military campaign in Ireland, including massacres at Drogheda and Wexford.
+- [ ] King James II, a Roman Catholic, succeeded his brother Charles II to the throne in 1685.
+
+## Chapter 3 · A global power — 43/45 covered
+
+- [x] The Act of Union in 1707 officially united England and Scotland into the Kingdom of Great Britain.
+- [x] Robert Walpole is widely regarded as the first British Prime Minister.
+- [x] Bonnie Prince Charlie's Jacobite army was defeated at the Battle of Culloden in 1746.
+- [x] Flora Macdonald helped Bonnie Prince Charlie escape Scotland after his defeat.
+- [x] Robert Burns is the famous Scottish poet who wrote 'Auld Lang Syne'.
+- [x] Adam Smith was an influential Scottish Enlightenment thinker who wrote about economics.
+- [x] Richard Arkwright developed new spinning machinery during the Industrial Revolution.
+- [x] James Watt's work on steam power helped drive the Industrial Revolution.
+- [x] Canals and railways were major transport systems developed during the Industrial Revolution.
+- [x] The Quakers organized the first formal petition to Parliament to end the slave trade.
+- [x] William Wilberforce led the parliamentary campaign against the slave trade.
+- [x] It became illegal to trade slaves in British ships or ports in 1807.
+- [x] The Emancipation Act of 1833 abolished slavery in all British colonies.
+- [x] Olaudah Equiano was a former slave who became a famous writer and campaigned against slavery.
+- [x] The American colonies declared their independence from Great Britain in 1776.
+- [x] The Act of Union 1800 united Ireland with Great Britain to form the United Kingdom.
+- [x] Admiral Nelson defeated the French and Spanish fleets at the Battle of Trafalgar in 1805.
+- [x] Admiral Nelson died on board his flagship, HMS Victory, during the Battle of Trafalgar.
+- [x] The Duke of Wellington defeated Napoleon at the Battle of Waterloo in 1815.
+- [x] Queen Victoria reigned for nearly 64 years, during which the British Empire grew to its greatest size.
+- [x] Britain, France, and Turkey fought against Russia in the Crimean War.
+- [x] Florence Nightingale is famous for her pioneering nursing work during the Crimean War.
+- [x] Mary Seacole was a Jamaican nurse who cared for soldiers during the Crimean War.
+- [x] The Victoria Cross medal was introduced during the Crimean War to reward extreme bravery.
+- [x] Alfred, Lord Tennyson wrote 'The Charge of the Light Brigade' about the Crimean War.
+- [x] Isambard Kingdom Brunel was a visionary engineer who built the Great Western Railway.
+- [x] Prince Albert helped organize the Great Exhibition of 1851 at the Crystal Palace.
+- [x] Lord Shaftesbury worked to improve the lives and working conditions of children.
+- [x] Elizabeth Fry worked to improve conditions for people in British prisons.
+- [x] The Reform Act of 1832 increased the number of people who could vote and abolished pocket boroughs.
+- [x] The Chartists campaigned for reforms like the secret ballot and universal male suffrage.
+- [x] The Corn Laws were repealed in 1846 to allow cheap imported grain to feed the population.
+- [x] Millicent Fawcett led the peaceful National Union of Women's Suffrage Societies.
+- [x] Emmeline Pankhurst led the militant Suffragettes (WSPU) who used tactics like hunger strikes.
+- [x] In 1928, women were granted the right to vote at age 21, matching the voting age for men.
+- [x] The Boer War (1899–1902) was fought in South Africa against settlers of Dutch origin.
+- [x] Captain James Cook led an expedition to map the coast of Australia in the 1760s.
+- [x] Mary Kingsley was a Victorian explorer famous for her travels in West Africa.
+- [x] Lancelot 'Capability' Brown was a famous 18th-century landscape designer.
+- [x] Samuel Johnson published 'A Dictionary of the English Language' in 1755.
+- [x] King William III defeated the deposed King James II at the Battle of the Boyne in 1690.
+- [x] The Act of Settlement 1701 ensured that only Protestants could inherit the British throne.
+- [x] The Indian Mutiny of 1857 led to the British government taking direct control of India from the East India Company.
+- [ ] The world's first underground railway, the Metropolitan Railway, opened in London in 1863.
+- [ ] During the Victorian era, millions of people migrated from Britain to countries like Canada, Australia, and New Zealand.
+
+## Chapter 3 · The 20th century — 12/18 covered
+
+- [x] The Battle of the Somme in 1916 resulted in about 60,000 British casualties on the first day.
+- [x] Winston Churchill became Prime Minister in 1940 and led Britain during the Second World War.
+- [x] The National Health Service (NHS) was established in 1948.
+- [x] Emmeline Pankhurst was the leader of the suffragettes who fought for women's right to vote.
+- [x] In 1918, women over the age of 30 were granted the right to vote.
+- [x] The Second World War began in 1939 when Hitler's army invaded Poland.
+- [x] In 1921, the Anglo-Irish Treaty led to the partition of Ireland.
+- [x] Margaret Thatcher became the first female Prime Minister of the UK in 1979.
+- [x] The United Kingdom joined the European Economic Community (EEC) in 1973.
+- [x] In 1998, the Good Friday Agreement established a path to peace in Northern Ireland.
+- [x] The Easter Rising of 1916 was an armed rebellion against British rule in Dublin.
+- [x] Alexander Fleming discovered penicillin in 1928.
+- [ ] The Battle of El Alamein in Egypt in 1942 was a major British victory and a turning point in WWII.
+- [ ] Queen Elizabeth II succeeded to the throne in 1952 and her coronation was in 1953.
+- [ ] Conscription was introduced in Great Britain for the first time during the First World War in 1916.
+- [ ] The Channel Tunnel (Chunnel) opened in 1994, linking the UK and France by rail.
+- [ ] The Scottish Parliament and National Assembly for Wales were established in 1999 following referendums.
+- [ ] In 1960, Prime Minister Harold Macmillan made his famous 'Wind of Change' speech about decolonisation.
+
+## Chapter 3 · Britain since 1945 — 44/50 covered
+
+- [x] The Labour government of Clement Attlee won the 1945 general election and introduced the welfare state.
+- [x] The 1942 Beveridge Report proposed a welfare state to fight poverty and unemployment.
+- [x] India, Pakistan and Ceylon (Sri Lanka) became independent in 1947-1948.
+- [x] The UK was a founding member of NATO in 1949.
+- [x] The Festival of Britain was held in 1951 to mark the country's recovery from war.
+- [x] Queen Elizabeth II came to the throne in 1952.
+- [x] The Coronation of Queen Elizabeth II was held in Westminster Abbey in 1953.
+- [x] The Suez Crisis in 1956 followed a British and French attempt to seize control of the Suez Canal.
+- [x] Harold Macmillan gave the 'wind of change' speech in 1960 regarding African independence.
+- [x] Homosexuality was decriminalised in 1967.
+- [x] Abortion was legalised in 1967.
+- [x] The 'Swinging Sixties' was a period of social change featuring bands like The Beatles and The Rolling Stones.
+- [x] Francis Crick and James Watson discovered the structure of DNA in 1953.
+- [x] Sir Christopher Cockerell invented the hovercraft in the 1950s.
+- [x] The supersonic aircraft Concorde was developed by Britain and France.
+- [x] James Goodfellow and John Shepherd-Barron developed the cash machine (ATM).
+- [x] Sir Peter Mansfield co-developed the MRI scanner.
+- [x] The first IVF ('test-tube') baby was born in 1978.
+- [x] Sir Tim Berners-Lee invented the World Wide Web in 1990.
+- [x] Dolly the sheep was the first cloned mammal, created in Scotland in 1996.
+- [x] The UK joined the European Economic Community (EEC) in 1973.
+- [x] In 1975, a referendum was held where voters chose to stay in the EEC.
+- [x] Decimal currency (100 pence to the pound) was introduced in 1971.
+- [x] The Equal Pay Act 1970 made it illegal to pay women less than men for the same work.
+- [x] The 'Winter of Discontent' (1978-79) was a period of major strikes in the public sector.
+- [x] Margaret Thatcher was the first woman Prime Minister of the UK (1979-1990).
+- [x] The UK went to war with Argentina over the Falkland Islands in 1982.
+- [x] The 1984-85 Miners' Strike was a major industrial dispute over the closure of coal pits.
+- [x] Privatisation under Thatcher involved selling state-owned businesses like gas and electricity.
+- [x] The Gulf War (1991) involved British forces helping to liberate Kuwait.
+- [x] John Major succeeded Margaret Thatcher as Prime Minister in 1990.
+- [x] Tony Blair became Prime Minister in 1997 after branding his party 'New Labour'.
+- [x] The 1998 Good Friday Agreement helped end the 'Troubles' in Northern Ireland.
+- [x] Devolution in 1999 created the Scottish Parliament and the Welsh Assembly.
+- [x] British troops were sent to Northern Ireland in 1969 to keep the peace.
+- [x] Gordon Brown became Prime Minister in 2007.
+- [x] A Conservative and Liberal Democrat coalition government was formed in 2010.
+- [x] London hosted the Olympic Games for the third time in 2012.
+- [x] Queen Elizabeth II celebrated her Diamond Jubilee in 2012.
+- [x] Same-sex marriage was legalised in England and Wales in 2013.
+- [x] The UK is one of five permanent members of the UN Security Council.
+- [x] The Open University was established in 1969 to provide higher education for all.
+- [x] Jodrell Bank in Cheshire was home to the world's largest radio telescope in 1957.
+- [x] The Empire Windrush brought people from the West Indies to Britain in 1948.
+- [ ] The National Health Service (NHS) was established in 1948.
+- [ ] Winston Churchill and the Conservatives returned to power in 1951.
+- [ ] British forces fought in the Korean War from 1950 to 1953.
+- [ ] During the 1960s, 20 British colonies were granted independence.
+- [ ] Capital punishment was abolished in 1965.
+- [ ] David Cameron became Prime Minister in 2010.
+
+## Chapter 4 · The UK today — 21/29 covered
+
+- [x] The currency of the UK is the pound sterling (£).
+- [x] The majority of UK residents who state a religion in the census identify as Christian.
+- [x] Welsh is an official language spoken by many people in Wales.
+- [x] Gaelic and Scots are spoken by some people in Scotland.
+- [x] Cornish is an ancient Celtic language spoken by a small number of people in Cornwall.
+- [x] The national flower of England is the red rose (Tudor rose).
+- [x] The national flower of Scotland is the thistle.
+- [x] The national flower of Northern Ireland is the shamrock.
+- [x] The Welsh dragon is not represented on the Union Flag because Wales was already united with England when the first Union Flag was created in 1606.
+- [x] Women make up about half of the workforce in the UK today.
+- [x] The British Broadcasting Corporation (BBC) is funded chiefly by a television licence fee paid by households.
+- [x] BBC Radio 4 is a station that focuses on news, drama, and talk shows rather than music.
+- [x] Broadsheet newspapers are generally more serious with detailed news, whereas tabloids are smaller and focus on celebrity news.
+- [x] The minimum age to buy alcohol or enter a betting shop or casino in the UK is 18.
+- [x] A person aged 16 or 17 can drink beer, wine, or cider with a meal in a pub if bought by an adult.
+- [x] In a public place, a dog must wear a collar showing its owner's name and address.
+- [x] The minimum age to legally drive a car or motorcycle on public roads in the UK is 17.
+- [x] The Beatles were a world-famous pop group from Liverpool who rose to fame in the 1960s.
+- [x] Admission to major national museums and art galleries in the UK is usually free.
+- [x] In a traditional British pub, customers order and pay for food and drinks at the bar, not at the table.
+- [x] There are 15 National Parks in the UK, which are protected areas of countryside.
+- [ ] The national flower of Wales is the daffodil or the leek.
+- [ ] The Union Flag consists of three crosses: St George's (England), St Andrew's (Scotland), and St Patrick's (Ireland).
+- [ ] The Open Championship is the oldest golf tournament in the world and the only Major held outside the United States.
+- [ ] Wimbledon is the oldest tennis tournament in the world, played on grass courts.
+- [ ] Sir Steve Redgrave won gold medals in rowing at five consecutive Olympic Games.
+- [ ] The Edinburgh Festival Fringe is one of the largest arts festivals in the world, held every August.
+- [ ] The Turner Prize is a highly publicised award for contemporary art established in 1984.
+- [ ] To drive a car on public roads, the vehicle must be registered, taxed, have a valid MOT certificate if over three years old, and be insured.
+
+## Chapter 4 · Religion — 23/27 covered
+
+- [x] The UK is a secular society, meaning religious laws do not govern the country.
+- [x] People in the UK are free to choose, change, or have no religion.
+- [x] The Church of England is the established state church in England.
+- [x] The Church of England is also known as the Anglican Church.
+- [x] The British monarch is the head of the Church of England and holds the title 'Defender of the Faith'.
+- [x] The monarch has the right to appoint the Archbishop of Canterbury.
+- [x] 26 senior bishops of the Church of England sit in the House of Lords.
+- [x] The national church of Scotland is the Church of Scotland, which is a Presbyterian church.
+- [x] The Church of Scotland is governed by a General Assembly and a Moderator.
+- [x] The Moderator of the General Assembly of the Church of Scotland serves for one year.
+- [x] The monarch is a member of the Church of Scotland but not its head.
+- [x] The Church in Wales and the Church of Ireland are not established state churches.
+- [x] Protestant churches that are not established are known as 'Free Churches'.
+- [x] John Wesley founded the Methodist Church in the 18th century.
+- [x] The Methodist Church grew quickly by preaching in the streets to working people.
+- [x] William Booth started the Salvation Army in the 19th century to help the poor.
+- [x] The Quakers are officially known as the 'Religious Society of Friends'.
+- [x] The spiritual head of the Roman Catholic Church is the Pope.
+- [x] In the UK census, Islam is the largest religious group after Christianity.
+- [x] Other major religions with many followers in the UK include Hinduism, Sikhism, Judaism and Buddhism.
+- [x] St George is the patron saint of England, and St George's Day is on 23 April.
+- [x] St Andrew is the patron saint of Scotland.
+- [x] St David is the patron saint of Wales, and St David's Day is on 1 March.
+- [ ] The Archbishop of Canterbury is the spiritual leader of the Church of England.
+- [ ] St Andrew's Day is celebrated on 30 November.
+- [ ] St Patrick is the patron saint of Northern Ireland.
+- [ ] St Patrick's Day is celebrated on 17 March.
+
+## Chapter 4 · Customs and traditions — 28/32 covered
+
+- [x] Boxing Day is celebrated on 26 December, the day after Christmas.
+- [x] Traditional Christmas meals in the UK include roast turkey, Christmas pudding, and mince pies.
+- [x] Prince Albert, husband of Queen Victoria, popularized the tradition of Christmas trees in the UK.
+- [x] The Monarch makes a traditional broadcast to the nation on Christmas Day.
+- [x] The name Boxing Day comes from the historical tradition of giving money or gifts in boxes to servants and tradespeople.
+- [x] New Year's Eve on 31 December is called Hogmanay in Scotland.
+- [x] First footing is the Scottish tradition of being the first person to cross a neighbour's threshold after midnight on New Year's Day.
+- [x] Valentine's Day is celebrated on 14 February by sending cards or gifts to someone loved.
+- [x] On April Fools' Day (1 April), people traditionally play harmless jokes on each other until midday.
+- [x] Mothering Sunday (Mother's Day) is celebrated three weeks before Easter Sunday.
+- [x] Father's Day is celebrated on the third Sunday in June.
+- [x] Good Friday commemorates the death of Jesus Christ.
+- [x] Easter is traditionally marked with chocolate eggs and hot cross buns.
+- [x] Ash Wednesday marks the start of Lent, the 40-day period before Easter.
+- [x] Halloween is celebrated on 31 October and has ancient pagan origins.
+- [x] Bonfire Night on 5 November commemorates the discovery of the Gunpowder Plot in 1605.
+- [x] Remembrance Day is on 11 November and commemorates those who died serving in the armed forces.
+- [x] Red poppies are worn in early November as a symbol of remembrance.
+- [x] St Patrick's Day is the national day of Northern Ireland and is celebrated on 17 March.
+- [x] St Andrew's Day is the national day of Scotland and is celebrated on 30 November.
+- [x] Eid ul Fitr marks the end of Ramadan, the Islamic month of fasting.
+- [x] Diwali is the Festival of Lights celebrated by Hindus and Sikhs.
+- [x] Hanukkah is an eight-day Jewish festival of lights.
+- [x] Yom Kippur is the holiest day of the year in Judaism, observed with a 25-hour fast.
+- [x] Vaisakhi is celebrated on 14 April by Sikhs to mark the founding of the Khalsa.
+- [x] Wesak is a Buddhist festival celebrating the birth, enlightenment, and death of the Buddha.
+- [x] Pantomime is a traditional British Christmas theatre show based on fairy tales.
+- [x] Northern Ireland and Scotland have more bank holidays than England and Wales.
+- [ ] Christmas Day is celebrated on 25 December to mark the birth of Jesus Christ.
+- [ ] Easter Sunday commemorates the resurrection of Jesus Christ.
+- [ ] St David's Day is the national day of Wales and is celebrated on 1 March.
+- [ ] St George's Day is the national day of England and is celebrated on 23 April.
+
+## Chapter 4 · Sport — 33/39 covered
+
+- [x] Football is the UK's most popular sport.
+- [x] Wembley Stadium in London is the national stadium for England.
+- [x] Hampden Park in Glasgow is the national stadium for Scotland.
+- [x] Millennium Stadium in Cardiff is the national stadium for Wales.
+- [x] England won the FIFA World Cup when it was hosted in England in 1966.
+- [x] There are two main types of rugby: Rugby Union (15 players per team) and Rugby League (13 players per team).
+- [x] The Six Nations rugby union championship is played annually between England, Ireland, Scotland, Wales, France, and Italy.
+- [x] Lawn tennis was first played in the UK in the late 19th century.
+- [x] The Wimbledon Championships is the oldest tennis tournament in the world.
+- [x] Cricket Test matches can last for up to five days.
+- [x] The Ashes is a cricket test series played between England and Australia.
+- [x] St Andrews in Scotland is known as the home of golf.
+- [x] The Open Championship is the only Major golf tournament played outside the United States.
+- [x] The Ryder Cup is a golf tournament played between teams from Europe and the United States.
+- [x] The Grand National horse race is held at Aintree near Liverpool.
+- [x] The Epsom Derby is a famous flat horse race held in Surrey since 1780.
+- [x] Royal Ascot is a famous five-day horse racing event attended by members of the Royal Family.
+- [x] Sir Jackie Stewart won three Formula 1 world championships.
+- [x] The British Grand Prix is a famous Formula 1 motor race held every year at Silverstone.
+- [x] The annual Boat Race on the River Thames is contested between Oxford and Cambridge Universities.
+- [x] Sir Steve Redgrave won rowing gold medals at five Olympic Games in a row.
+- [x] Dame Ellen MacArthur is a famous yachtswoman who sailed solo around the world.
+- [x] Sir Chris Hoy won six Olympic gold medals in cycling.
+- [x] Bradley Wiggins was the first British cyclist to win the Tour de France in 2012.
+- [x] Sir Roger Bannister was the first man to run a mile in under four minutes in 1954.
+- [x] Dame Kelly Holmes won two gold medals at the 2004 Athens Olympics in athletics.
+- [x] Baroness Tanni Grey-Thompson won 11 Paralympic gold medals in wheelchair racing.
+- [x] Jessica Ennis won the heptathlon gold medal at the London 2012 Olympic Games.
+- [x] Great Britain and Northern Ireland compete together in the Olympic Games under the name Great Britain or Team GB.
+- [x] By 2012, London had hosted the Olympic Games three times (1908, 1948, and 2012).
+- [x] The Paralympic Games began from the work of Dr Ludwig Guttmann at Stoke Mandeville Hospital in Buckinghamshire.
+- [x] The UK has won more Olympic gold medals in sailing than in any other sport.
+- [x] The Commonwealth Games are held every four years and include events for athletes with disabilities.
+- [ ] Rugby League teams have 13 players on each side.
+- [ ] Wimbledon is the only Grand Slam tournament played on grass.
+- [ ] Golf can trace its origins back to 15th-century Scotland.
+- [ ] Mo Farah won gold medals in the 5,000 and 10,000 metres at the London 2012 Olympic Games.
+- [ ] Andy Murray won the men's singles title at Wimbledon in 2013, becoming the first British man to do so in 77 years.
+- [ ] Ellie Simmonds is a Paralympic swimmer who won four gold medals across the 2008 and 2012 Games.
+
+## Chapter 4 · Arts and culture — 25/29 covered
+
+- [x] Geoffrey Chaucer wrote 'The Canterbury Tales' in the 14th century.
+- [x] William Shakespeare wrote plays such as 'Romeo and Juliet' and 'A Midsummer Night's Dream'.
+- [x] John Milton wrote the epic poem 'Paradise Lost' in 1667.
+- [x] Jane Austen wrote 'Pride and Prejudice' and 'Sense and Sensibility'.
+- [x] Charles Dickens wrote novels such as 'Oliver Twist' and 'Great Expectations'.
+- [x] The Brontë sisters wrote famous novels, including 'Jane Eyre' by Charlotte and 'Wuthering Heights' by Emily.
+- [x] Sir Arthur Conan Doyle created the detective Sherlock Holmes.
+- [x] Robert Louis Stevenson wrote 'Treasure Island' and 'Kidnapped'.
+- [x] George Orwell wrote the 20th-century novels 'Animal Farm' and 'Nineteen Eighty-Four'.
+- [x] Henry Purcell was a 17th-century British composer who wrote 'Dido and Aeneas'.
+- [x] George Frideric Handel wrote the 'Messiah' in the 18th century.
+- [x] Sir Edward Elgar composed the 'Pomp and Circumstance' Marches.
+- [x] Benjamin Britten wrote 'The Young Person's Guide to the Orchestra'.
+- [x] The Proms is an eight-week summer season of classical music held mainly at the Royal Albert Hall.
+- [x] The Mercury Prize is awarded annually for the best music album from the UK and Ireland.
+- [x] Thomas Gainsborough was an 18th-century artist famous for his portraits in country landscapes.
+- [x] John Constable painted 'The Hay Wain'.
+- [x] The Turner Prize is a prestigious award given annually to a contemporary British artist.
+- [x] Sir Christopher Wren designed St Paul's Cathedral after the Great Fire of London.
+- [x] Sir Edwin Lutyens designed the Cenotaph war memorial in Whitehall, London.
+- [x] Lord Foster designed the building known as 'The Gherkin' in London.
+- [x] Dame Mary Quant was a fashion designer who popularised the miniskirt in the 1960s.
+- [x] Alfred Hitchcock was a British director famous for suspense films like 'The 39 Steps' and 'Psycho'.
+- [x] Sir David Lean directed epic films including 'Lawrence of Arabia' and 'Doctor Zhivago'.
+- [x] The Eisteddfod is an annual Welsh festival of music, poetry, and performance.
+- [ ] Thomas Hardy was a famous author who wrote 'Far from the Madding Crowd'.
+- [ ] The Laurence Olivier Awards are awarded annually for excellence in professional theatre in London.
+- [ ] Sir Richard Rogers designed the Millennium Dome and the Pompidou Centre.
+- [ ] The Edinburgh Festival Fringe is one of the world's largest arts festivals, held every August.
+
+## Chapter 4 · Leisure — 21/30 covered
+
+- [x] Haggis is a traditional Scottish dish made from sheep's inner organs.
+- [x] Roast beef is a traditional English dish often served with Yorkshire pudding.
+- [x] Laverbread is a traditional Welsh food made from seaweed.
+- [x] Chicken Tikka Masala is a popular British-style curry that was created in the UK.
+- [x] Cheddar cheese is named after the village in Somerset where it was first made.
+- [x] Afternoon tea is a traditional light meal of tea, sandwiches, and cakes served in the late afternoon.
+- [x] Large shops in England and Wales can only open for up to six hours on Sundays.
+- [x] Many town-centre shops stay open late on Thursday evenings.
+- [x] A TV licence is required to watch or record live TV programmes on any device.
+- [x] Gardening is one of the most popular hobbies in the UK, with many renting allotments.
+- [x] National Parks are protected areas of countryside where people can walk and enjoy nature.
+- [x] The National Trust is a charity that works to preserve historic buildings and natural beauty.
+- [x] Multiplexes are large cinemas that feature multiple screens showing different films.
+- [x] The West End is an area of London world-famous for its theatres and musical shows.
+- [x] Edinburgh hosts the largest arts festival in the world every summer.
+- [x] The National Gallery is a famous art museum located in Trafalgar Square, London.
+- [x] David Hockney is an influential British pop artist of the 20th century.
+- [x] Damien Hirst is a contemporary artist famous for preserving animals in chemicals.
+- [x] The Scout Association and Girlguiding are the largest youth organisations in the UK.
+- [x] Volunteering involves giving up your time for free to help your community.
+- [x] BBC Radio 1 is a popular radio station aimed at a younger audience, playing pop music.
+- [ ] The legal age to buy alcohol in the UK is 18 years old.
+- [ ] Sir Steve Redgrave is a famous British rower who won gold medals at five consecutive Olympic Games.
+- [ ] Sir Roger Bannister was the first person in the world to run a mile in under four minutes.
+- [ ] The Ashes is a famous cricket competition played between England and Australia.
+- [ ] The Paralympic Games originated at Stoke Mandeville Hospital in Buckinghamshire in 1948.
+- [ ] The Turner Prize is a highly prestigious modern art award presented annually in the UK.
+- [ ] The Proms is an annual eight-week summer season of daily orchestral classical music concerts.
+- [ ] Andrew Lloyd Webber is a highly successful British composer of musicals like "The Phantom of the Opera".
+- [ ] There are eight bank holidays a year in England and Wales, nine in Scotland, and ten in Northern Ireland.
+
+## Chapter 4 · Places of interest — 27/33 covered
+
+- [x] Big Ben is the nickname for the great bell of the clock at the Houses of Parliament in London.
+- [x] The Eden Project is located in Cornwall, England.
+- [x] The Giant's Causeway is a geological formation of basalt columns on the northeast coast of Northern Ireland.
+- [x] The Lake District is England's largest national park.
+- [x] Windermere is the largest natural lake in England, located in the Lake District.
+- [x] Snowdon (Yr Wyddfa) is the highest mountain in Wales.
+- [x] Loch Lomond is the largest expanse of fresh water in mainland Britain.
+- [x] The London Eye is a large observation wheel situated on the south bank of the River Thames.
+- [x] Stonehenge is a prehistoric monument located in Wiltshire, England.
+- [x] The Tower of London was started by William the Conqueror and now keeps the Crown Jewels.
+- [x] Hadrian's Wall was built in the north of England on the orders of Roman Emperor Hadrian.
+- [x] The Peak District was the first national park to be established in the UK.
+- [x] Edinburgh Castle is a historic fortress dominating the skyline of Scotland's capital city.
+- [x] Stormont is the popular name for the Parliament Buildings in Belfast, Northern Ireland.
+- [x] Conwy Castle was built in north Wales by Edward I and is a World Heritage Site.
+- [x] Westminster Abbey has been the coronation site for British monarchs since 1066.
+- [x] Windsor Castle is the oldest and largest occupied castle in the world.
+- [x] Derry/Londonderry is famous for having complete, unbroken historic stone walls around its old city.
+- [x] The Cairngorms National Park in Scotland is the largest national park in the UK.
+- [x] Blenheim Palace in Oxfordshire was the birthplace of Sir Winston Churchill.
+- [x] Pembrokeshire Coast National Park is the only national park in the UK focused mainly on a coastal landscape.
+- [x] The Roman Baths in Bath, Somerset, were built around Britain's only natural hot springs.
+- [x] Loch Ness is famous for the legendary monster that is said to live in its deep water.
+- [x] Shakespeare's Globe is a modern reconstruction of the original Elizabethan theatre on the south bank of the River Thames.
+- [x] The Forth Bridge is a red cantilever railway bridge over the Firth of Forth in Scotland.
+- [x] Cardiff Castle is located in the center of the Welsh capital and features walls that date back to Roman times.
+- [x] The Mourne Mountains are located in the south-east of Northern Ireland.
+- [ ] The National Trust and National Trust for Scotland are charities founded to preserve historic buildings and natural beauty.
+- [ ] The National Trust was founded in 1895 by three volunteers.
+- [ ] The Tower of London is guarded by Yeoman Warders, commonly known as Beefeaters.
+- [ ] The Welsh name for Snowdon is Yr Wyddfa.
+- [ ] Blenheim Palace was built to reward John Churchill, Duke of Marlborough, for his victory in 1704.
+- [ ] The Millennium Dome in Greenwich is a large exhibition space now known as The O2.
+
+## Chapter 5 · The development of British democracy — 8/9 covered
+
+- [x] Magna Carta was signed in 1215 to limit the power of the monarch and establish that the King was subject to the law.
+- [x] The Habeas Corpus Act, passed in 1679, guaranteed that no person could be held in prison unlawfully without a court hearing.
+- [x] The Bill of Rights of 1689 established Parliamentary supremacy and restricted the powers of the monarch.
+- [x] The Reform Act of 1832 abolished rotten boroughs, gave representation to new industrial towns, and increased the number of people eligible to vote.
+- [x] During the 1830s and 1840s, the Chartists campaigned for universal male suffrage and other democratic reforms.
+- [x] Emmeline Pankhurst founded the Women's Social and Political Union (WSPU), whose members became known as the Suffragettes.
+- [x] In 1928, women were granted the right to vote on the same terms as men, lowering the voting age for women to 21.
+- [x] In 1969, the minimum voting age for everyone in the UK was reduced from 21 to 18.
+- [ ] In 1918, the right to vote was given to women over the age of 30 who met property qualifications, and to all men over 21.
+
+## Chapter 5 · The British constitution — 28/34 covered
+
+- [x] The UK constitution is not contained in a single written document.
+- [x] The UK is a constitutional monarchy.
+- [x] The Monarch is the Head of State.
+- [x] The Speaker of the House of Commons is a neutral MP who maintains order.
+- [x] A general election must be held at least every five years.
+- [x] The House of Lords includes Life Peers, Hereditary Peers, and Lords Spiritual.
+- [x] The 26 most senior bishops of the Church of England are known as Lords Spiritual.
+- [x] A proposed new law is known as a Bill until it is passed.
+- [x] A Bill becomes an Act of Parliament after receiving Royal Assent from the Monarch.
+- [x] The Prime Minister is the head of the government and is appointed by the Monarch.
+- [x] The Cabinet is a group of senior ministers who help the Prime Minister make important decisions.
+- [x] The leader of the second-largest party in the House of Commons is the Leader of the Opposition.
+- [x] The Shadow Cabinet consists of senior members of the opposition mirroring government roles.
+- [x] The Civil Service is politically neutral and does not change with the government.
+- [x] Parliamentary sovereignty means Parliament is the supreme legal authority in the UK.
+- [x] Judges are independent and should not be influenced by politicians.
+- [x] The Scottish Parliament is located in Edinburgh.
+- [x] The Welsh Parliament is known as the Senedd.
+- [x] The Northern Ireland Assembly meets at Stormont in Belfast.
+- [x] Foreign policy and national defense are reserved to the UK Parliament.
+- [x] Devolved matters include health, education, and transport.
+- [x] To vote, a person must have their name on the electoral register.
+- [x] UK general elections use the first-past-the-post voting system.
+- [x] A proxy vote is when a person appoints someone else to cast their vote.
+- [x] Members of the House of Lords are not permitted to vote in general elections.
+- [x] The Human Rights Act 1998 incorporated the European Convention on Human Rights into UK law.
+- [x] Pressure groups are organizations that try to influence government policy.
+- [x] Local government councils provide services like recycling, street lighting, and libraries.
+- [ ] The Monarch is the head of the Church of England.
+- [ ] The Monarch has the right to be consulted, to warn, and to encourage.
+- [ ] The House of Commons has 650 Members of Parliament (MPs).
+- [ ] The minimum age for voting in a UK general election is 18.
+- [ ] By-elections are held when an MP dies or resigns between general elections.
+- [ ] The Prime Minister's official residence is at 10 Downing Street.
+
+## Chapter 5 · The government — 31/34 covered
+
+- [x] The UK monarch is the ceremonial head of state.
+- [x] The UK constitution is unwritten and uncodified.
+- [x] The Prime Minister lives officially at 10 Downing Street in London.
+- [x] The Chancellor of the Exchequer is responsible for the economy.
+- [x] The Home Secretary is responsible for policing, immigration, and national security.
+- [x] The Foreign Secretary is responsible for UK relations with foreign countries.
+- [x] The Cabinet is a group of senior ministers appointed by the Prime Minister to lead government departments.
+- [x] The second-largest political party in the House of Commons forms the Official Opposition.
+- [x] The Shadow Cabinet is a group of senior opposition politicians who monitor government ministers.
+- [x] Civil servants must remain politically neutral and serve the government of the day.
+- [x] The Speaker chairs debates in the House of Commons and maintains order.
+- [x] Whips are MPs responsible for ensuring party members attend parliamentary votes.
+- [x] Hansard is the official record of everything said in Parliament.
+- [x] At the Committee stage, a bill is examined in detail by a committee of MPs.
+- [x] General elections for the UK Parliament must take place at least every five years.
+- [x] The voting system used in UK General Elections is first-past-the-post.
+- [x] Voters in a UK General Election must be at least 18 years old on polling day.
+- [x] UK citizens, Commonwealth citizens, and Irish citizens residing in the UK are eligible to vote in General Elections.
+- [x] Every eligible person in the UK must register individually to vote.
+- [x] The open register can be bought by anyone and used for marketing purposes.
+- [x] Canvassing involves political party members visiting householders to request their votes before an election.
+- [x] Voters can cast their votes in person, by post, or by proxy.
+- [x] Local councils provide services like education, social care, housing, and rubbish collection.
+- [x] The Scottish Parliament is located at Holyrood in Edinburgh.
+- [x] The Welsh government building is located in Cardiff Bay.
+- [x] The Northern Ireland Assembly meets at Stormont in Belfast.
+- [x] The 1998 Good Friday Agreement led to the creation of the Northern Ireland Assembly.
+- [x]  devolved administrations in Scotland, Wales, and Northern Ireland handle matters such as health and education.
+- [x] The UK is one of five permanent members of the UN Security Council.
+- [x] NATO is an international military alliance whose main purpose is mutual defense.
+- [x] The monarch appoints the leader of the party with the majority in the House of Commons as Prime Minister.
+- [ ] The Commonwealth is a voluntary association of independent countries, mostly former British colonies.
+- [ ] Pressure groups are organisations that seek to influence government policy on specific issues without standing for election.
+- [ ] Members of the House of Lords are not paid a salary, but they can claim a daily attendance allowance.
+
+## Chapter 5 · The UK and international institutions — 18/20 covered
+
+- [x] The Commonwealth is a voluntary association of independent countries, mostly former parts of the British Empire.
+- [x] The Monarch is the ceremonial head of the Commonwealth.
+- [x] Commonwealth member countries agree to share values such as democracy, good governance, and the rule of law.
+- [x] The Commonwealth Games are an international multi-sport event held every four years.
+- [x] The Commonwealth Secretariat is headed by a Secretary-General.
+- [x] The Council of Europe drafted the European Convention on Human Rights.
+- [x] The Council of Europe has no power to make binding laws on member countries.
+- [x] The European Court of Human Rights is located in Strasbourg, France.
+- [x] The United Nations (UN) was established after the Second World War to prevent future conflict and keep world peace.
+- [x] In the UN General Assembly, each member country has one vote.
+- [x] The UN Security Council consists of 15 members in total.
+- [x] The UK is one of five permanent members of the UN Security Council.
+- [x] The UN has specialized agencies such as UNICEF and UNESCO.
+- [x] The International Court of Justice is based in The Hague, Netherlands.
+- [x] NATO is a military alliance created to maintain peace and security for its members.
+- [x] An armed attack against one NATO member is treated as an attack against all member countries.
+- [x] The G7 is a group of seven major industrialised nations that meets regularly to discuss economic and global security issues.
+- [x] The OECD promotes economic growth and social well-being globally.
+- [ ] The Council of Europe was set up in 1949 and is separate from the European Union.
+- [ ] There are 193 member states in the United Nations General Assembly.
+
+## Chapter 5 · Respecting the law — 34/38 covered
+
+- [x] The police service in the UK is independent of government control.
+- [x] Police and Crime Commissioners (PCCs) are elected in England and Wales to make police forces more efficient and accountable.
+- [x] Police Community Support Officers (PCSOs) support the police by patrolling streets and tackling minor crime.
+- [x] If arrested, you have the right to free legal advice, to tell someone of your whereabouts, and to see a doctor if you are ill.
+- [x] A police officer must tell you their name, police station, and the reason for the search before searching you.
+- [x] Complaints against the police in Scotland are investigated by the Police Investigations and Review Commissioner (PIRC).
+- [x] Complaints against the police in Northern Ireland are investigated by the Police Ombudsman.
+- [x] The non-emergency telephone number for contacting the police is 101.
+- [x] Crimestoppers is an independent charity that allows people to report crimes anonymously.
+- [x] Suspicious behaviour linked to terrorism should be reported to the Anti-Terrorist Hotline.
+- [x] Judges in the UK are independent of the government and cannot be directed by ministers.
+- [x] Minor criminal cases in England, Wales, and Northern Ireland are heard in a Magistrates' Court.
+- [x] In England and Wales, a Magistrates' Court case is usually decided by three magistrates or a District Judge.
+- [x] The Youth Court in England, Wales, and Northern Ireland hears criminal cases against people aged 10 to 17.
+- [x] Serious criminal cases in England, Wales, and Northern Ireland are tried in the Crown Court.
+- [x] A jury in a criminal trial in England, Wales, and Northern Ireland consists of 12 people.
+- [x] Minor criminal cases in Scotland are heard in the Justice of the Peace Court.
+- [x] The High Court of Justiciary deals with the most serious criminal cases in Scotland.
+- [x] A criminal jury in Scotland consists of 15 people.
+- [x] A Scottish jury can deliver a verdict of 'not proven' in addition to 'guilty' or 'not guilty'.
+- [x] Jury service is a mandatory public duty for those summoned unless they have a valid reason to be excused.
+- [x] Civil law disputes cover matters such as faulty goods, debt, personal injury, and family disputes.
+- [x] The County Court deals with most civil law cases in England and Wales.
+- [x] The maximum limit for a small claim is £10,000 in England and Wales.
+- [x] The Sheriff Court deals with most civil law cases in Scotland.
+- [x] Legal aid is a government scheme that can help pay for legal costs for those on a low income.
+- [x] The Citizens Advice Bureau provides free, confidential, and independent advice on legal and financial issues.
+- [x] Female Genital Mutilation (FGM) is illegal in the UK, and it is a crime to take a girl abroad for FGM.
+- [x] It is a criminal offence to force someone to marry against their will.
+- [x] It is illegal to sell alcohol to anyone under 18, or to buy alcohol for someone under 18.
+- [x] Cars must have an MOT test to prove they are roadworthy once they are 3 years old.
+- [x] A TV licence is required to watch or record live TV programmes on any device or to download/watch BBC iPlayer.
+- [x] Taxes in the UK include Income Tax, National Insurance, VAT, and Council Tax.
+- [x] The two main types of lawyers in the UK are solicitors and barristers (called advocates in Scotland).
+- [ ] Complaints against the police in England and Wales can be made to the Independent Office for Police Conduct (IOPC).
+- [ ] The maximum limit for a small claim in Scotland and Northern Ireland is £3,000.
+- [ ] Young people aged 16 or 17 can drink beer, wine, or cider with a meal if they are with an adult and it is bought by an adult.
+- [ ] It is illegal to sell tobacco products to anyone under the age of 18.
+
+## Chapter 5 · Your role in the community — 16/20 covered
+
+- [x] To drive a car or motorcycle on UK roads, the driver must be at least 17 years old.
+- [x] Every vehicle on UK roads must be registered with the DVLA.
+- [x] Car insurance is a legal requirement, and third-party insurance is the minimum level required.
+- [x] The age of criminal responsibility in England, Wales and Northern Ireland is 10.
+- [x] Jury service is selected at random from the electoral register.
+- [x] Failure to attend jury service without a good reason can result in a fine of up to £1,000.
+- [x] Income Tax is paid through a system called PAYE for most employees.
+- [x] Self-employed people must pay their income tax through Self-Assessment.
+- [x] National Insurance Contributions are paid by employees and employers to fund benefits, pensions, and the NHS.
+- [x] Council tax is a local tax used to fund local services like policing, fire services, and rubbish collection.
+- [x] The RSPCA is the Royal Society for the Prevention of Cruelty to Animals, the oldest animal charity in the UK.
+- [x] It is illegal to collect money for a charity in a public place without an official licence.
+- [x] School governors or school board members are volunteers who help run and make strategic decisions for a school.
+- [x] PTA stands for Parent Teacher Association, which helps support schools through fundraising and social events.
+- [x] In Scotland, the Procurator Fiscal is responsible for prosecuting crimes and investigating sudden deaths.
+- [x] The National Trust and the National Trust for Scotland are charities that preserve historic buildings and nature.
+- [ ] Cars over three years old must have an MOT test every year.
+- [ ] The age of criminal responsibility in Scotland is 12.
+- [ ] The age range for being summoned for jury service is 18 to 70 years old.
+- [ ] To donate blood in the UK, you must generally be between the ages of 17 and 65 and in good health.
+

@@ -46,5 +46,81 @@
     "handbook_ref": "Chapter 1 · Taking the Life in the UK test",
     "difficulty": 1,
     "ai_checked": true
+  },
+  {
+    "id": "Q-CH1-TST-003",
+    "section_id": "CH1-TST",
+    "type": "single",
+    "stem": "What is the title of the official handbook that candidates should study for the test?",
+    "options": [
+      {
+        "label": "Life in the United Kingdom: A Guide for New Residents",
+        "correct": true
+      },
+      {
+        "label": "Living in Great Britain: A Guide for New Citizens",
+        "correct": false
+      },
+      {
+        "label": "The Official Life in the UK Study Guide",
+        "correct": false
+      },
+      {
+        "label": "British History and Government Handbook",
+        "correct": false
+      }
+    ],
+    "explanation": "The test is based on the book 'Life in the United Kingdom: A Guide for New Residents'. It covers topics like history, government, and law.",
+    "handbook_ref": "Chapter 1 · Taking the Life in the UK test",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH1-TST-004",
+    "section_id": "CH1-TST",
+    "type": "single",
+    "stem": "How must you book the Life in the UK test?",
+    "options": [
+      {
+        "label": "Online and in advance",
+        "correct": true
+      },
+      {
+        "label": "In person at a test centre",
+        "correct": false
+      },
+      {
+        "label": "By calling a local council",
+        "correct": false
+      },
+      {
+        "label": "By post using a paper form",
+        "correct": false
+      }
+    ],
+    "explanation": "You must book the test on the official website before you go to the test centre. You cannot book a test in person or on the day.",
+    "handbook_ref": "Chapter 1 · Taking the Life in the UK test",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH1-TST-005",
+    "section_id": "CH1-TST",
+    "type": "truefalse",
+    "stem": "Candidates have 45 minutes to complete the Life in the UK test.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "The test has 24 questions and you have 45 minutes to answer them. This is usually plenty of time for most people to finish.",
+    "handbook_ref": "Chapter 1 · Taking the Life in the UK test",
+    "difficulty": 2,
+    "ai_checked": true
   }
 ]

@@ -1,0 +1,158 @@
+{
+  "CH1-VAL": [],
+  "CH1-RES": [
+    "The test contains 24 multiple-choice questions.",
+    "The time limit to complete the Life in the UK test is 45 minutes.",
+    "The passing score for the Life in the UK test is 75% (at least 18 correct answers out of 24).",
+    "Candidates must bring a printed proof of postcode address to the test centre."
+  ],
+  "CH1-TST": [
+    "Candidates have 45 minutes to complete the Life in the UK test.",
+    "The test is based on the handbook 'Life in the United Kingdom: A Guide for New Residents'.",
+    "To take the test, candidates must book it online in advance.",
+    "Candidates must bring the exact same photographic ID used to book the test to the test centre.",
+    "Candidates must bring a printed proof of address that is dated within 3 months of the test date.",
+    "A photograph of the candidate is taken at the test centre before the test begins."
+  ],
+  "CH2-UK": [
+    "St George is the patron saint of England, and his feast day is 23 April.",
+    "St Andrew is the patron saint of Scotland, and his feast day is 30 November.",
+    "St Patrick is the patron saint of Northern Ireland, and his feast day is 17 March.",
+    "The thistle is the national flower of Scotland.",
+    "The shamrock is the national flower of Northern Ireland.",
+    "Welsh is the native language of Wales and is spoken by some of its population.",
+    "Irish Gaelic is spoken by some people in Northern Ireland."
+  ],
+  "CH3-EAR": [
+    "The first farmers in Britain originally came from southern Europe.",
+    "The Iron Age in Britain began around 3,000 years ago (800 BC).",
+    "In the Iron Age, people made beautiful objects out of metal, including gold and silver."
+  ],
+  "CH3-MID": [
+    "William the Conqueror was crowned King of England on Christmas Day 1066.",
+    "The Black Death, a deadly plague, arrived in Britain in 1348.",
+    "Wat Tyler led the Peasants' Revolt in 1381 against a new poll tax and laws for workers.",
+    "King John was forced by his nobles to sign the Magna Carta at Runnymede in 1215.",
+    "The first parliament was called in 1265.",
+    "In Scotland, the parliament met as three estates: nobles, clergy, and commissioners.",
+    "Salisbury Cathedral is a famous example of Gothic architecture.",
+    "Grammar schools were established in many English towns to teach boys Latin.",
+    "King Richard III of the House of York was killed at the Battle of Bosworth Field.",
+    "Henry VII married Elizabeth of York to unite the Houses of Lancaster and York.",
+    "The Tudor rose is a red rose with a white rose inside, symbolizing the union of York and Lancaster."
+  ],
+  "CH3-TUD": [
+    "Henry VII was the first monarch of the House of Tudor.",
+    "The first permanent British colony in North America, Jamestown, was established in Virginia in 1607.",
+    "King Charles I's attempts to introduce a new prayer book in Scotland caused serious riots in 1637.",
+    "Oliver Cromwell led a controversial and brutal military campaign in Ireland, including massacres at Drogheda and Wexford.",
+    "King James II, a Roman Catholic, succeeded his brother Charles II to the throne in 1685."
+  ],
+  "CH3-GLO": [
+    "The world's first underground railway, the Metropolitan Railway, opened in London in 1863.",
+    "During the Victorian era, millions of people migrated from Britain to countries like Canada, Australia, and New Zealand."
+  ],
+  "CH3-C20": [
+    "The Battle of El Alamein in Egypt in 1942 was a major British victory and a turning point in WWII.",
+    "Queen Elizabeth II succeeded to the throne in 1952 and her coronation was in 1953.",
+    "Conscription was introduced in Great Britain for the first time during the First World War in 1916.",
+    "The Channel Tunnel (Chunnel) opened in 1994, linking the UK and France by rail.",
+    "The Scottish Parliament and National Assembly for Wales were established in 1999 following referendums.",
+    "In 1960, Prime Minister Harold Macmillan made his famous 'Wind of Change' speech about decolonisation."
+  ],
+  "CH3-POS": [
+    "The National Health Service (NHS) was established in 1948.",
+    "Winston Churchill and the Conservatives returned to power in 1951.",
+    "British forces fought in the Korean War from 1950 to 1953.",
+    "During the 1960s, 20 British colonies were granted independence.",
+    "Capital punishment was abolished in 1965.",
+    "David Cameron became Prime Minister in 2010."
+  ],
+  "CH4-TOD": [
+    "The national flower of Wales is the daffodil or the leek.",
+    "The Union Flag consists of three crosses: St George's (England), St Andrew's (Scotland), and St Patrick's (Ireland).",
+    "The Open Championship is the oldest golf tournament in the world and the only Major held outside the United States.",
+    "Wimbledon is the oldest tennis tournament in the world, played on grass courts.",
+    "Sir Steve Redgrave won gold medals in rowing at five consecutive Olympic Games.",
+    "The Edinburgh Festival Fringe is one of the largest arts festivals in the world, held every August.",
+    "The Turner Prize is a highly publicised award for contemporary art established in 1984.",
+    "To drive a car on public roads, the vehicle must be registered, taxed, have a valid MOT certificate if over three years old, and be insured."
+  ],
+  "CH4-REL": [
+    "The Archbishop of Canterbury is the spiritual leader of the Church of England.",
+    "St Andrew's Day is celebrated on 30 November.",
+    "St Patrick is the patron saint of Northern Ireland.",
+    "St Patrick's Day is celebrated on 17 March."
+  ],
+  "CH4-CUS": [
+    "Christmas Day is celebrated on 25 December to mark the birth of Jesus Christ.",
+    "Easter Sunday commemorates the resurrection of Jesus Christ.",
+    "St David's Day is the national day of Wales and is celebrated on 1 March.",
+    "St George's Day is the national day of England and is celebrated on 23 April."
+  ],
+  "CH4-SPO": [
+    "Rugby League teams have 13 players on each side.",
+    "Wimbledon is the only Grand Slam tournament played on grass.",
+    "Golf can trace its origins back to 15th-century Scotland.",
+    "Mo Farah won gold medals in the 5,000 and 10,000 metres at the London 2012 Olympic Games.",
+    "Andy Murray won the men's singles title at Wimbledon in 2013, becoming the first British man to do so in 77 years.",
+    "Ellie Simmonds is a Paralympic swimmer who won four gold medals across the 2008 and 2012 Games."
+  ],
+  "CH4-ART": [
+    "Thomas Hardy was a famous author who wrote 'Far from the Madding Crowd'.",
+    "The Laurence Olivier Awards are awarded annually for excellence in professional theatre in London.",
+    "Sir Richard Rogers designed the Millennium Dome and the Pompidou Centre.",
+    "The Edinburgh Festival Fringe is one of the world's largest arts festivals, held every August."
+  ],
+  "CH4-LEI": [
+    "The legal age to buy alcohol in the UK is 18 years old.",
+    "Sir Steve Redgrave is a famous British rower who won gold medals at five consecutive Olympic Games.",
+    "Sir Roger Bannister was the first person in the world to run a mile in under four minutes.",
+    "The Ashes is a famous cricket competition played between England and Australia.",
+    "The Paralympic Games originated at Stoke Mandeville Hospital in Buckinghamshire in 1948.",
+    "The Turner Prize is a highly prestigious modern art award presented annually in the UK.",
+    "The Proms is an annual eight-week summer season of daily orchestral classical music concerts.",
+    "Andrew Lloyd Webber is a highly successful British composer of musicals like \"The Phantom of the Opera\".",
+    "There are eight bank holidays a year in England and Wales, nine in Scotland, and ten in Northern Ireland."
+  ],
+  "CH4-PLA": [
+    "The National Trust and National Trust for Scotland are charities founded to preserve historic buildings and natural beauty.",
+    "The National Trust was founded in 1895 by three volunteers.",
+    "The Tower of London is guarded by Yeoman Warders, commonly known as Beefeaters.",
+    "The Welsh name for Snowdon is Yr Wyddfa.",
+    "Blenheim Palace was built to reward John Churchill, Duke of Marlborough, for his victory in 1704.",
+    "The Millennium Dome in Greenwich is a large exhibition space now known as The O2."
+  ],
+  "CH5-DEM": [
+    "In 1918, the right to vote was given to women over the age of 30 who met property qualifications, and to all men over 21."
+  ],
+  "CH5-CON": [
+    "The Monarch is the head of the Church of England.",
+    "The Monarch has the right to be consulted, to warn, and to encourage.",
+    "The House of Commons has 650 Members of Parliament (MPs).",
+    "The minimum age for voting in a UK general election is 18.",
+    "By-elections are held when an MP dies or resigns between general elections.",
+    "The Prime Minister's official residence is at 10 Downing Street."
+  ],
+  "CH5-GOV": [
+    "The Commonwealth is a voluntary association of independent countries, mostly former British colonies.",
+    "Pressure groups are organisations that seek to influence government policy on specific issues without standing for election.",
+    "Members of the House of Lords are not paid a salary, but they can claim a daily attendance allowance."
+  ],
+  "CH5-INT": [
+    "The Council of Europe was set up in 1949 and is separate from the European Union.",
+    "There are 193 member states in the United Nations General Assembly."
+  ],
+  "CH5-LAW": [
+    "Complaints against the police in England and Wales can be made to the Independent Office for Police Conduct (IOPC).",
+    "The maximum limit for a small claim in Scotland and Northern Ireland is £3,000.",
+    "Young people aged 16 or 17 can drink beer, wine, or cider with a meal if they are with an adult and it is bought by an adult.",
+    "It is illegal to sell tobacco products to anyone under the age of 18."
+  ],
+  "CH5-ROL": [
+    "Cars over three years old must have an MOT test every year.",
+    "The age of criminal responsibility in Scotland is 12.",
+    "The age range for being summoned for jury service is 18 to 70 years old.",
+    "To donate blood in the UK, you must generally be between the ages of 17 and 65 and in good health."
+  ]
+}

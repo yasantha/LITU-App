@@ -1,0 +1,30 @@
+[
+  {
+    "id": "Q-CH1-RES-007",
+    "section_id": "CH1-RES",
+    "type": "single",
+    "stem": "How much time do you have to complete the Life in the UK test?",
+    "options": [
+      {
+        "label": "30 minutes",
+        "correct": false
+      },
+      {
+        "label": "45 minutes",
+        "correct": true
+      },
+      {
+        "label": "60 minutes",
+        "correct": false
+      },
+      {
+        "label": "90 minutes",
+        "correct": false
+      }
+    ],
+    "explanation": "You have 45 minutes to finish the test. During this time, you must answer all the questions on a computer.",
+    "handbook_ref": "Chapter 1 · Becoming a permanent resident",
+    "difficulty": 2,
+    "rejected_reason": "The test duration is 45 minutes, but the 3rd edition handbook specifies that the test consists of 24 questions, not 45 minutes as the only time constraint, and practice centers have updated guidelines. However, strictly speaking, 45 minutes is outdated as the test currently allows up to 45 minutes, but the handbook itself does not define the time limit in the 3rd edition text provided for the current exam version."
+  }
+]

@@ -1406,5 +1406,81 @@
     "handbook_ref": "Chapter 3 · Early Britain",
     "difficulty": 1,
     "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-EAR-053",
+    "section_id": "CH3-EAR",
+    "type": "single",
+    "stem": "Where did the first farmers who arrived in Britain originally come from?",
+    "options": [
+      {
+        "label": "Southern Europe",
+        "correct": true
+      },
+      {
+        "label": "Northern Africa",
+        "correct": false
+      },
+      {
+        "label": "Scandinavia",
+        "correct": false
+      },
+      {
+        "label": "Central Asia",
+        "correct": false
+      }
+    ],
+    "explanation": "The first farmers originally came from southern Europe. They arrived about 6,000 years ago and brought the first farm animals and seeds to the island.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-EAR-054",
+    "section_id": "CH3-EAR",
+    "type": "single",
+    "stem": "Approximately how many years ago did the Iron Age begin in Britain?",
+    "options": [
+      {
+        "label": "1,000 years ago",
+        "correct": false
+      },
+      {
+        "label": "2,000 years ago",
+        "correct": false
+      },
+      {
+        "label": "3,000 years ago",
+        "correct": true
+      },
+      {
+        "label": "5,000 years ago",
+        "correct": false
+      }
+    ],
+    "explanation": "The Iron Age started around 3,000 years ago (800 BC). During this period, people learned how to make weapons and tools out of iron instead of bronze.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-EAR-055",
+    "section_id": "CH3-EAR",
+    "type": "truefalse",
+    "stem": "During the Iron Age, people were able to make beautiful objects and jewellery out of gold and silver.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Iron Age people were very skilled at metalwork. As well as making iron tools, they used precious metals like gold and silver to create artistic items.",
+    "handbook_ref": "Chapter 3 · Early Britain",
+    "difficulty": 2,
+    "ai_checked": true
   }
 ]

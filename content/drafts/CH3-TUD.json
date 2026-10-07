@@ -1482,5 +1482,137 @@
     "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
     "difficulty": 2,
     "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-056",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "Who was the first king to rule from the House of Tudor?",
+    "options": [
+      {
+        "label": "Henry VII",
+        "correct": true
+      },
+      {
+        "label": "Henry VIII",
+        "correct": false
+      },
+      {
+        "label": "Richard III",
+        "correct": false
+      },
+      {
+        "label": "Edward VI",
+        "correct": false
+      }
+    ],
+    "explanation": "Henry VII was the first Tudor king. He came to the throne in 1485 after the Wars of the Roses and was followed by his son, Henry VIII.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-057",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "What was the name of the first permanent British colony in North America, founded in 1607?",
+    "options": [
+      {
+        "label": "Jamestown",
+        "correct": true
+      },
+      {
+        "label": "Plymouth",
+        "correct": false
+      },
+      {
+        "label": "Roanoke",
+        "correct": false
+      },
+      {
+        "label": "New York",
+        "correct": false
+      }
+    ],
+    "explanation": "Jamestown was established in Virginia in 1607. It was the first lasting British settlement in North America.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-058",
+    "section_id": "CH3-TUD",
+    "type": "truefalse",
+    "stem": "Serious riots broke out in Scotland in 1637 because King Charles I tried to introduce a new prayer book.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "Many people in Scotland strongly disagreed with the new religious rules. This conflict was a major cause of the trouble between the King and Parliament.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-059",
+    "section_id": "CH3-TUD",
+    "type": "multi",
+    "stem": "Which TWO Irish towns were the locations of famous massacres during Oliver Cromwell's military campaign?",
+    "options": [
+      {
+        "label": "Drogheda",
+        "correct": true
+      },
+      {
+        "label": "Wexford",
+        "correct": true
+      },
+      {
+        "label": "Dublin",
+        "correct": false
+      },
+      {
+        "label": "Belfast",
+        "correct": false
+      }
+    ],
+    "explanation": "Cromwell led a brutal campaign in Ireland. The massacres at Drogheda and Wexford are still remembered as controversial events in British and Irish history.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH3-TUD-060",
+    "section_id": "CH3-TUD",
+    "type": "single",
+    "stem": "Who became king in 1685 after the death of King Charles II?",
+    "options": [
+      {
+        "label": "James II",
+        "correct": true
+      },
+      {
+        "label": "William III",
+        "correct": false
+      },
+      {
+        "label": "George I",
+        "correct": false
+      },
+      {
+        "label": "Edward VII",
+        "correct": false
+      }
+    ],
+    "explanation": "James II was the brother of Charles II. He was a Roman Catholic, which led to many disagreements with Parliament during his short reign.",
+    "handbook_ref": "Chapter 3 · The Tudors and Stuarts",
+    "difficulty": 2,
+    "ai_checked": true
   }
 ]

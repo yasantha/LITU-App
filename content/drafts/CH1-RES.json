@@ -150,5 +150,53 @@
     "handbook_ref": "Chapter 1 · Becoming a permanent resident",
     "difficulty": 2,
     "ai_checked": true
+  },
+  {
+    "id": "Q-CH1-RES-008",
+    "section_id": "CH1-RES",
+    "type": "truefalse",
+    "stem": "The Life in the UK test consists of 24 multiple-choice questions.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "The test has 24 multiple-choice questions. You must choose the correct answers from the options shown on the screen.",
+    "handbook_ref": "Chapter 1 · Becoming a permanent resident",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH1-RES-009",
+    "section_id": "CH1-RES",
+    "type": "single",
+    "stem": "What is the minimum number of correct answers you need to pass the Life in the UK test?",
+    "options": [
+      {
+        "label": "12 correct answers",
+        "correct": false
+      },
+      {
+        "label": "15 correct answers",
+        "correct": false
+      },
+      {
+        "label": "18 correct answers",
+        "correct": true
+      },
+      {
+        "label": "20 correct answers",
+        "correct": false
+      }
+    ],
+    "explanation": "The passing score for the test is 75%. This means you must answer at least 18 out of 24 questions correctly.",
+    "handbook_ref": "Chapter 1 · Becoming a permanent resident",
+    "difficulty": 2,
+    "ai_checked": true
   }
 ]

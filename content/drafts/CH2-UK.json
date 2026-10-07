@@ -790,5 +790,165 @@
     "handbook_ref": "Chapter 2 · What is the UK?",
     "difficulty": 2,
     "ai_checked": true
+  },
+  {
+    "id": "Q-CH2-UK-031",
+    "section_id": "CH2-UK",
+    "type": "single",
+    "stem": "On what date is St George's Day celebrated?",
+    "options": [
+      {
+        "label": "1 March",
+        "correct": false
+      },
+      {
+        "label": "17 March",
+        "correct": false
+      },
+      {
+        "label": "23 April",
+        "correct": true
+      },
+      {
+        "label": "30 November",
+        "correct": false
+      }
+    ],
+    "explanation": "St George's Day is on 23 April. He is the patron saint of England.",
+    "handbook_ref": "Chapter 2 · What is the UK?",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH2-UK-032",
+    "section_id": "CH2-UK",
+    "type": "single",
+    "stem": "On what date is St Andrew's Day celebrated?",
+    "options": [
+      {
+        "label": "1 March",
+        "correct": false
+      },
+      {
+        "label": "17 March",
+        "correct": false
+      },
+      {
+        "label": "23 April",
+        "correct": false
+      },
+      {
+        "label": "30 November",
+        "correct": true
+      }
+    ],
+    "explanation": "St Andrew's Day is celebrated on 30 November. He is the patron saint of Scotland and the day is a public holiday there.",
+    "handbook_ref": "Chapter 2 · What is the UK?",
+    "difficulty": 3,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH2-UK-034",
+    "section_id": "CH2-UK",
+    "type": "single",
+    "stem": "Which plant is the national flower of Scotland?",
+    "options": [
+      {
+        "label": "The rose",
+        "correct": false
+      },
+      {
+        "label": "The thistle",
+        "correct": true
+      },
+      {
+        "label": "The daffodil",
+        "correct": false
+      },
+      {
+        "label": "The shamrock",
+        "correct": false
+      }
+    ],
+    "explanation": "The thistle is the national flower of Scotland. Different parts of the UK use different plants as their national symbols.",
+    "handbook_ref": "Chapter 2 · What is the UK?",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH2-UK-035",
+    "section_id": "CH2-UK",
+    "type": "truefalse",
+    "stem": "The shamrock is the national flower of Northern Ireland.",
+    "options": [
+      {
+        "label": "True",
+        "correct": true
+      },
+      {
+        "label": "False",
+        "correct": false
+      }
+    ],
+    "explanation": "The shamrock is the traditional flower of Northern Ireland. It is a plant with three leaves and is linked to St Patrick.",
+    "handbook_ref": "Chapter 2 · What is the UK?",
+    "difficulty": 2,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH2-UK-036",
+    "section_id": "CH2-UK",
+    "type": "single",
+    "stem": "Which language is native to Wales and is spoken by some people there today?",
+    "options": [
+      {
+        "label": "Welsh",
+        "correct": true
+      },
+      {
+        "label": "Irish Gaelic",
+        "correct": false
+      },
+      {
+        "label": "Scots",
+        "correct": false
+      },
+      {
+        "label": "Cornish",
+        "correct": false
+      }
+    ],
+    "explanation": "Welsh is the native language of Wales. It is one of several languages native to the UK that are still spoken today.",
+    "handbook_ref": "Chapter 2 · What is the UK?",
+    "difficulty": 1,
+    "ai_checked": true
+  },
+  {
+    "id": "Q-CH2-UK-037",
+    "section_id": "CH2-UK",
+    "type": "multi",
+    "stem": "Which TWO languages are spoken by some people in Northern Ireland?",
+    "options": [
+      {
+        "label": "English",
+        "correct": true
+      },
+      {
+        "label": "Irish Gaelic",
+        "correct": true
+      },
+      {
+        "label": "Welsh",
+        "correct": false
+      },
+      {
+        "label": "Cornish",
+        "correct": false
+      }
+    ],
+    "explanation": "Both English and Irish Gaelic are spoken in Northern Ireland. These languages are an important part of the region's culture.",
+    "handbook_ref": "Chapter 2 · What is the UK?",
+    "difficulty": 2,
+    "ai_checked": true
   }
 ]
