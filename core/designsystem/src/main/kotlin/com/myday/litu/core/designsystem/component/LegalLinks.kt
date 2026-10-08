@@ -10,5 +10,5 @@ object LegalLinks {
     const val SUPPORT = "mailto:yasantha.hettiarachchi@gmail.com"
     const val ACCOUNT_DELETION = "https://yasantha.github.io/uk-test-prep/delete-account.html"
     const val OFFICIAL_HANDBOOK = "https://www.gov.uk/life-in-the-uk-test/prepare-for-your-test"
-    const val DISCLAIMER = "Unofficial practice app. Not affiliated with the Home Office."
+    const val DISCLAIMER = "Independent study app. Not affiliated with the Home Office."
 }
