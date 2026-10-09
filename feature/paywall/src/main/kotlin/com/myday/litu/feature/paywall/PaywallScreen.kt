@@ -102,8 +102,8 @@ class PaywallViewModel @Inject constructor(
         mutableState.update {
             it.copy(
                 plans = when (val r = entitlements.loadPlans()) {
-                    // Annual preselected (highlighted as best value).
-                    is PlansResult.Ready -> PlansUi.Ready(r.plans, (r.plans.firstOrNull { p -> p.period == PlanPeriod.ANNUAL } ?: r.plans.first()).id)
+                    // The longest plan is preselected (highlighted as best value).
+                    is PlansResult.Ready -> PlansUi.Ready(r.plans, r.plans.maxBy { p -> p.period.months }.id)
                     is PlansResult.Unavailable -> PlansUi.Unavailable(r.reason)
                 },
             )
@@ -189,17 +189,24 @@ internal fun PaywallScreen(onClose: () -> Unit, onSubscribed: () -> Unit, viewMo
             is PlansUi.Unavailable -> EmptyState(Illustration.BUS_STOP, "Plans are not available", p.message, actionLabel = "Retry", onAction = viewModel::load)
             is PlansUi.Ready -> {
                 if (p.plans.any { it.isTestStore }) InfoBanner("Test store: no real payment is taken in this debug build.", icon = Icons.Rounded.Info)
-                p.plans.sortedBy { it.period != PlanPeriod.ANNUAL }.forEach { plan ->
+                val best = p.plans.maxOf { it.period.months }
+                p.plans.sortedByDescending { it.period.months }.forEach { plan ->
                     PlanCard(
-                        title = when (plan.period) { PlanPeriod.ANNUAL -> "Annual"; PlanPeriod.MONTHLY -> "Monthly"; else -> "Plan" },
+                        title = when (plan.period) {
+                            PlanPeriod.ANNUAL -> "Annual"
+                            PlanPeriod.THREE_MONTHS -> "3 months"
+                            PlanPeriod.MONTHLY -> "Monthly"
+                            PlanPeriod.OTHER -> "Plan"
+                        },
                         priceLine = when (plan.period) {
                             PlanPeriod.ANNUAL -> "${plan.price} / year" + (plan.pricePerMonth?.let { " · $it / month" } ?: "")
+                            PlanPeriod.THREE_MONTHS -> "${plan.price} / 3 months" + (plan.pricePerMonth?.let { " · $it / month" } ?: "")
                             PlanPeriod.MONTHLY -> "${plan.price} / month"
-                            else -> plan.price
+                            PlanPeriod.OTHER -> plan.price
                         },
                         selected = plan.id == p.selectedId,
                         onClick = { viewModel.select(plan.id) },
-                        badge = if (plan.period == PlanPeriod.ANNUAL) "Best value" else null,
+                        badge = if (p.plans.size > 1 && plan.period.months == best && best > 1) "Best value" else null,
                     )
                 }
             }
@@ -218,7 +225,12 @@ private fun Benefit(icon: ImageVector, text: String, container: Color, tint: Col
 }
 
 private fun smallPrint(plan: Plan): String {
-    val period = when (plan.period) { PlanPeriod.ANNUAL -> "per year"; PlanPeriod.MONTHLY -> "per month"; else -> "" }
+    val period = when (plan.period) {
+        PlanPeriod.ANNUAL -> "per year"
+        PlanPeriod.THREE_MONTHS -> "every 3 months"
+        PlanPeriod.MONTHLY -> "per month"
+        PlanPeriod.OTHER -> ""
+    }
     val trial = plan.trialDays?.let { "Free for $it days, then " } ?: ""
     return "$trial${plan.price} $period. Renews automatically. Cancel anytime in Google Play.".replace("  ", " ")
 }

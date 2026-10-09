@@ -5,11 +5,15 @@ plugins {
 
 android {
     buildFeatures { buildConfig = true }
-    defaultConfig {
-        // RevenueCat public SDK key (Google). Set LITU_REVENUECAT_KEY in gradle.properties or the
-        // environment; without it debug builds use a local test store and release shows billing unavailable.
-        val key = providers.gradleProperty("LITU_REVENUECAT_KEY").orElse(providers.environmentVariable("LITU_REVENUECAT_KEY")).getOrElse("")
-        buildConfigField("String", "REVENUECAT_API_KEY", "\"$key\"")
+    buildTypes {
+        // RevenueCat public SDK key (Google Play, "goog_…"). Set LITU_REVENUECAT_KEY in gradle.properties
+        // or the environment. Only release builds use it: debug builds always get the local test store,
+        // and release without a key shows billing unavailable.
+        debug { buildConfigField("String", "REVENUECAT_API_KEY", "\"\"") }
+        release {
+            val key = providers.gradleProperty("LITU_REVENUECAT_KEY").orElse(providers.environmentVariable("LITU_REVENUECAT_KEY")).getOrElse("")
+            buildConfigField("String", "REVENUECAT_API_KEY", "\"$key\"")
+        }
     }
 }
 

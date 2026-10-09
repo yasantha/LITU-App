@@ -31,7 +31,7 @@ android {
     defaultConfig {
         // Final package name; it cannot change once the app is published on Google Play.
         applicationId = "com.myday.litu"
-        versionCode = 2
+        versionCode = 3
         versionName = "1.0.0"
         // AdMob app ID from the AdMob console (LITU_ADMOB_APP_ID). Defaults to Google's sample app ID,
         // which the SDK needs to start; ads stay off in release until real ad unit IDs are set.

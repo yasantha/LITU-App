@@ -25,8 +25,8 @@ internal class LocalEntitlementRepository(
         delay(400) // Shows the skeleton state like a real store call.
         return PlansResult.Ready(
             listOf(
-                Plan("annual", "litu_pro_annual", PlanPeriod.ANNUAL, "£34.99", "£2.92", 7, isTestStore = true),
-                Plan("monthly", "litu_pro_monthly", PlanPeriod.MONTHLY, "£7.99", null, 7, isTestStore = true),
+                Plan("three_month", "litu_pro:three-months", PlanPeriod.THREE_MONTHS, "£12.99", "£4.33", 3, isTestStore = true),
+                Plan("monthly", "litu_pro:monthly", PlanPeriod.MONTHLY, "£5.99", null, 3, isTestStore = true),
             ),
         )
     }

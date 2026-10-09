@@ -63,11 +63,16 @@ internal class RevenueCatEntitlementRepository(
                 productId = product.id,
                 period = when (pkg.packageType) {
                     PackageType.MONTHLY -> PlanPeriod.MONTHLY
+                    PackageType.THREE_MONTH -> PlanPeriod.THREE_MONTHS
                     PackageType.ANNUAL -> PlanPeriod.ANNUAL
                     else -> PlanPeriod.OTHER
                 },
                 price = product.price.formatted,
-                pricePerMonth = if (pkg.packageType == PackageType.ANNUAL) product.pricePerMonth(Locale.getDefault())?.formatted else null,
+                pricePerMonth = if (pkg.packageType == PackageType.ANNUAL || pkg.packageType == PackageType.THREE_MONTH) {
+                    product.pricePerMonth(Locale.getDefault())?.formatted
+                } else {
+                    null
+                },
                 trialDays = product.trialDays(),
             )
         }

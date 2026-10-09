@@ -6,7 +6,7 @@ import kotlinx.coroutines.flow.StateFlow
 /** Entitlement name in RevenueCat; granted by any product in spec section 4. */
 const val ENTITLEMENT_PRO = "pro"
 
-enum class PlanPeriod { MONTHLY, ANNUAL, OTHER }
+enum class PlanPeriod(val months: Int) { MONTHLY(1), THREE_MONTHS(3), ANNUAL(12), OTHER(0) }
 
 /** A plan as shown on the paywall. Prices always come from Google Play, never hard-coded. */
 data class Plan(
