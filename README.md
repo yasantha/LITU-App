@@ -126,8 +126,9 @@ against the handbook is still needed before release. The draft, build and audio 
 - AdMob: create the app and two ad units, set the IDs above, add `app-ads.txt` on the developer
   website, declare ads and advertising ID in the Play Data safety form, and cover AdMob in the
   privacy policy.
-- Legal pages live on yasantha.github.io (privacy policy and account deletion under
-  `/uk-test-prep/`, shared terms at `/terms.html`); keep them in step with what the app collects.
+- The app website is https://lifeintheuktestcoach.co.uk (source: github.com/yasantha/uk-test-prep),
+  with the privacy policy, account deletion and terms pages; keep them in step with what the app
+  collects. Old yasantha.github.io/uk-test-prep/ links redirect there.
 - Create the Firebase projects, RevenueCat app and Play Console listing, then add the
   configuration above.
 - Run the benchmarks and a TalkBack pass on the low-end and mid-range reference phones.
